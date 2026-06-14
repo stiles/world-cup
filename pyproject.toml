@@ -1,0 +1,28 @@
+[build-system]
+requires = ["hatchling>=1.21"]
+build-backend = "hatchling.build"
+
+[project]
+name = "worldcup"
+version = "0.1.0"
+description = "Collect FIFA World Cup data and follow matches play-by-play in the terminal"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "pandas>=2.0",
+  "requests>=2.31",
+]
+license = {text = "MIT"}
+authors = [{name = "Matt Stiles"}]
+keywords = ["world cup", "fifa", "soccer", "football", "cli", "data"]
+
+[project.scripts]
+worldcup-follow = "worldcup.follow:main"
+worldcup-collect = "worldcup.__main__:main"
+
+[project.urls]
+Homepage = "https://github.com/stiles/world-cup"
+Repository = "https://github.com/stiles/world-cup"
+
+[tool.hatch.build.targets.wheel]
+packages = ["worldcup"]

@@ -11,7 +11,9 @@ from . import players, player_stats, results, schedule, team_stats, teams
 ORDER = ["teams", "players", "schedule", "results", "team_stats", "player_stats"]
 
 
-def main(argv: list[str]) -> None:
+def main(argv: list[str] | None = None) -> None:
+    if argv is None:
+        argv = sys.argv[1:]
     targets = argv or ORDER
     unknown = [t for t in targets if t not in ORDER]
     if unknown:
@@ -35,4 +37,4 @@ def main(argv: list[str]) -> None:
 
 
 if __name__ == "__main__":
-    main(sys.argv[1:])
+    main()
