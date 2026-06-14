@@ -1,0 +1,49 @@
+id_team,confederation,team_name,short_name,abbreviation,country_code,foundation_year,flag_url
+43843,CAF,Algeria,Algeria,ALG,ALG,1962,https://api.fifa.com/api/v3/picture/flags-sq-4/ALG
+43922,CONMEBOL,Argentina,Argentina,ARG,ARG,1893,https://api.fifa.com/api/v3/picture/flags-sq-4/ARG
+43976,AFC,Australia,Australia,AUS,AUS,1961,https://api.fifa.com/api/v3/picture/flags-sq-4/AUS
+43934,UEFA,Austria,Austria,AUT,AUT,1904,https://api.fifa.com/api/v3/picture/flags-sq-4/AUT
+43935,UEFA,Belgium,Belgium,BEL,BEL,1895,https://api.fifa.com/api/v3/picture/flags-sq-4/BEL
+44037,UEFA,Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,BIH,1992,https://api.fifa.com/api/v3/picture/flags-sq-4/BIH
+43924,CONMEBOL,Brazil,Brazil,BRA,BRA,1914,https://api.fifa.com/api/v3/picture/flags-sq-4/BRA
+43850,CAF,Cabo Verde,Cabo Verde,CPV,CPV,1982,https://api.fifa.com/api/v3/picture/flags-sq-4/CPV
+43899,CONCACAF,Canada,Canada,CAN,CAN,1912,https://api.fifa.com/api/v3/picture/flags-sq-4/CAN
+43926,CONMEBOL,Colombia,Colombia,COL,COL,1924,https://api.fifa.com/api/v3/picture/flags-sq-4/COL
+20014,CAF,Congo DR,Congo DR,COD,COD,1919,https://api.fifa.com/api/v3/picture/flags-sq-4/COD
+43938,UEFA,Croatia,Croatia,CRO,CRO,1912,https://api.fifa.com/api/v3/picture/flags-sq-4/CRO
+1895293,CONCACAF,Curaçao,Curaçao,CUW,CUW,1921,https://api.fifa.com/api/v3/picture/flags-sq-4/CUW
+43995,UEFA,Czechia,Czechia,CZE,CZE,1901,https://api.fifa.com/api/v3/picture/flags-sq-4/CZE
+43854,CAF,Côte d'Ivoire,Côte d'Ivoire,CIV,CIV,1960,https://api.fifa.com/api/v3/picture/flags-sq-4/CIV
+43927,CONMEBOL,Ecuador,Ecuador,ECU,ECU,1925,https://api.fifa.com/api/v3/picture/flags-sq-4/ECU
+43855,CAF,Egypt,Egypt,EGY,EGY,1921,https://api.fifa.com/api/v3/picture/flags-sq-4/EGY
+43942,UEFA,England,England,ENG,ENG,1863,https://api.fifa.com/api/v3/picture/flags-sq-4/ENG
+43946,UEFA,France,France,FRA,FRA,1919,https://api.fifa.com/api/v3/picture/flags-sq-4/FRA
+43948,UEFA,Germany,Germany,GER,GER,1900,https://api.fifa.com/api/v3/picture/flags-sq-4/GER
+43860,CAF,Ghana,Ghana,GHA,GHA,1957,https://api.fifa.com/api/v3/picture/flags-sq-4/GHA
+43908,CONCACAF,Haiti,Haiti,HAI,HAI,1904,https://api.fifa.com/api/v3/picture/flags-sq-4/HAI
+43817,AFC,IR Iran,IR Iran,IRN,IRN,1920,https://api.fifa.com/api/v3/picture/flags-sq-4/IRN
+43818,AFC,Iraq,Iraq,IRQ,IRQ,1948,https://api.fifa.com/api/v3/picture/flags-sq-4/IRQ
+43819,AFC,Japan,Japan,JPN,JPN,1921,https://api.fifa.com/api/v3/picture/flags-sq-4/JPN
+43820,AFC,Jordan,Jordan,JOR,JOR,1949,https://api.fifa.com/api/v3/picture/flags-sq-4/JOR
+43822,AFC,Korea Republic,Korea Republic,KOR,KOR,1933,https://api.fifa.com/api/v3/picture/flags-sq-4/KOR
+43911,CONCACAF,Mexico,Mexico,MEX,MEX,1927,https://api.fifa.com/api/v3/picture/flags-sq-4/MEX
+43872,CAF,Morocco,Morocco,MAR,MAR,1955,https://api.fifa.com/api/v3/picture/flags-sq-4/MAR
+43960,UEFA,Netherlands,Netherlands,NED,NED,1889,https://api.fifa.com/api/v3/picture/flags-sq-4/NED
+43978,OFC,New Zealand,New Zealand,NZL,NZL,1891,https://api.fifa.com/api/v3/picture/flags-sq-4/NZL
+43961,UEFA,Norway,Norway,NOR,NOR,1902,https://api.fifa.com/api/v3/picture/flags-sq-4/NOR
+43914,CONCACAF,Panama,Panama,PAN,PAN,1937,https://api.fifa.com/api/v3/picture/flags-sq-4/PAN
+43928,CONMEBOL,Paraguay,Paraguay,PAR,PAR,1906,https://api.fifa.com/api/v3/picture/flags-sq-4/PAR
+43963,UEFA,Portugal,Portugal,POR,POR,1914,https://api.fifa.com/api/v3/picture/flags-sq-4/POR
+43834,AFC,Qatar,Qatar,QAT,QAT,1960,https://api.fifa.com/api/v3/picture/flags-sq-4/QAT
+43835,AFC,Saudi Arabia,Saudi Arabia,KSA,KSA,1956,https://api.fifa.com/api/v3/picture/flags-sq-4/KSA
+43967,UEFA,Scotland,Scotland,SCO,SCO,1873,https://api.fifa.com/api/v3/picture/flags-sq-4/SCO
+43879,CAF,Senegal,Senegal,SEN,SEN,1960,https://api.fifa.com/api/v3/picture/flags-sq-4/SEN
+43883,CAF,South Africa,South Africa,RSA,RSA,1991,https://api.fifa.com/api/v3/picture/flags-sq-4/RSA
+43969,UEFA,Spain,Spain,ESP,ESP,1913,https://api.fifa.com/api/v3/picture/flags-sq-4/ESP
+43970,UEFA,Sweden,Sweden,SWE,SWE,1904,https://api.fifa.com/api/v3/picture/flags-sq-4/SWE
+43971,UEFA,Switzerland,Switzerland,SUI,SUI,1895,https://api.fifa.com/api/v3/picture/flags-sq-4/SUI
+43888,CAF,Tunisia,Tunisia,TUN,TUN,1957,https://api.fifa.com/api/v3/picture/flags-sq-4/TUN
+43972,UEFA,Türkiye,Türkiye,TUR,TUR,1923,https://api.fifa.com/api/v3/picture/flags-sq-4/TUR
+43921,CONCACAF,USA,USA,USA,USA,1913,https://api.fifa.com/api/v3/picture/flags-sq-4/USA
+43930,CONMEBOL,Uruguay,Uruguay,URU,URU,1900,https://api.fifa.com/api/v3/picture/flags-sq-4/URU
+44005,AFC,Uzbekistan,Uzbekistan,UZB,UZB,1946,https://api.fifa.com/api/v3/picture/flags-sq-4/UZB
