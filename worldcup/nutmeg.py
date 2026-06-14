@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Follow a World Cup match in your terminal.
+"""nutmeg: follow a World Cup match in your terminal.
 
 - Browse the schedule, pick a team or a match
 - Recap a finished match or stream a live one play-by-play
@@ -7,11 +7,13 @@
 
 Data: FIFA API calendar + per-match timelines endpoint.
 
-    python -m worldcup.follow                 # today's matches, pick one
-    python -m worldcup.follow USA             # USA's live/last/next match
-    python -m worldcup.follow --match 1       # follow match number 1
-    python -m worldcup.follow USA --recap     # full timeline of last USA match
-    python -m worldcup.follow --list          # print the schedule and exit
+    nutmeg                 # today's matches, pick one
+    nutmeg USA             # USA's live/last/next match
+    nutmeg --match 1       # follow match number 1
+    nutmeg USA --recap     # full timeline of last USA match
+    nutmeg --list          # print the schedule and exit
+
+(or run via `python -m worldcup.nutmeg ...` without installing)
 """
 
 from __future__ import annotations
@@ -343,7 +345,8 @@ def run_match(match: dict, args, now: datetime) -> None:
 
 def main() -> None:
     tz_default = local_tz_key()
-    ap = argparse.ArgumentParser(description="Follow a World Cup match in your terminal")
+    ap = argparse.ArgumentParser(prog="nutmeg",
+                                 description="Follow a World Cup match in your terminal")
     ap.add_argument("team", nargs="?", help="Team abbr or name (e.g., USA, Brazil)")
     ap.add_argument("--match", type=int, help="Follow a specific match number")
     ap.add_argument("--id", dest="id_match", help="Follow a specific IdMatch")

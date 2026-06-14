@@ -9,7 +9,7 @@ python -m venv .venv && source .venv/bin/activate
 pip install -e .          # or: pip install -r requirements.txt
 ```
 
-Installing the package (`pip install -e .`) also adds the `worldcup-follow` and
+Installing the package (`pip install -e .`) also adds the `nutmeg` and
 `worldcup-collect` console scripts.
 
 ## Usage
@@ -36,20 +36,21 @@ python -m worldcup.player_stats
 
 Outputs land in `data/processed/` as both CSV and JSON. Raw API payloads (where saved) go to `data/raw/`.
 
-## Follow a match (play-by-play)
+## nutmeg: follow a match (play-by-play)
 
-`worldcup-follow` browses the schedule, picks a match and either recaps a finished
-game or streams a live one in the terminal, with goals, cards and VAR highlighted.
+`nutmeg` browses the schedule, picks a match and either recaps a finished game or
+streams a live one in the terminal, with goals, cards and VAR highlighted.
 
 ```bash
-python -m worldcup.follow                 # today's matches, pick one
-python -m worldcup.follow USA             # USA's live / last / next match
-python -m worldcup.follow --match 1       # follow a specific match number
-python -m worldcup.follow USA --recap     # full timeline of the last USA match
-python -m worldcup.follow --list          # print the schedule and exit
+nutmeg                 # today's matches, pick one
+nutmeg USA             # USA's live / last / next match
+nutmeg --match 1       # follow a specific match number
+nutmeg USA --recap     # full timeline of the last USA match
+nutmeg --list          # print the schedule and exit
 ```
 
-After `pip install -e .` the same tool is available as `worldcup-follow`.
+The `nutmeg` command is available after `pip install -e .`; without installing,
+run it as `python -m worldcup.nutmeg ...`.
 
 Key flags:
 
@@ -108,7 +109,7 @@ worldcup/
   fetch.py         HTTP with retry + calendar fetcher
   storage.py       CSV/JSON writers
   teams.py players.py schedule.py results.py team_stats.py player_stats.py
-  follow.py        play-by-play CLI (python -m worldcup.follow)
+  nutmeg.py        play-by-play CLI (the `nutmeg` command)
   __main__.py      collector orchestrator (python -m worldcup)
 examples/          analysis scripts built on the collected data
 data/processed/    CSV + JSON outputs

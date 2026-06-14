@@ -17,7 +17,7 @@ authors = [{name = "Matt Stiles"}]
 keywords = ["world cup", "fifa", "soccer", "football", "cli", "data"]
 
 [project.scripts]
-worldcup-follow = "worldcup.follow:main"
+nutmeg = "worldcup.nutmeg:main"
 worldcup-collect = "worldcup.__main__:main"
 
 [project.urls]
