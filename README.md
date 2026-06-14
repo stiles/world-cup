@@ -33,6 +33,14 @@ python -m worldcup.player_stats
 
 Outputs land in `data/processed/` as both CSV and JSON. Raw API payloads (where saved) go to `data/raw/`.
 
+## Examples
+
+Analysis scripts that build on the collected data live in `examples/`:
+
+```bash
+python examples/team_profiles.py   # per-team average age, height, weight, squad size
+```
+
 ## Targeting a different tournament
 
 Edit `worldcup/config.py`:
