@@ -79,6 +79,8 @@ def parse_match(m: dict) -> dict:
         "number": m.get("MatchNumber"),
         "stage": _desc(m.get("StageName")),
         "group": _desc(m.get("GroupName")),
+        "home_id": home.get("IdTeam"),
+        "away_id": away.get("IdTeam"),
         "home_abbr": home.get("Abbreviation"),
         "away_abbr": away.get("Abbreviation"),
         "home_name": home.get("ShortClubName") or home.get("Abbreviation"),
@@ -208,7 +210,24 @@ def event_style(label: str, text: str) -> tuple[str, str, bool, bool]:
     return "-", "90", False, False
 
 
-def fmt_event(e: dict, color: bool) -> str:
+def team_tag(e: dict, match: dict, color: bool) -> str:
+    """Colored 3-char team code: home in cyan, away in magenta."""
+    tid = e.get("IdTeam")
+    if tid and tid == match["home_id"]:
+        return colorize(color, f"{(match['home_abbr'] or '???'):>3}", "36", bold=True)
+    if tid and tid == match["away_id"]:
+        return colorize(color, f"{(match['away_abbr'] or '???'):>3}", "35", bold=True)
+    return "   "
+
+
+def is_goal_event(e: dict) -> bool:
+    label = (_desc(e.get("TypeLocalized")) or "").lower()
+    if "attempt" in label or "prevention" in label or "kick" in label:
+        return False
+    return "goal" in label
+
+
+def fmt_event(e: dict, match: dict, color: bool) -> str:
     label = _desc(e.get("TypeLocalized")) or str(e.get("Type"))
     text = _desc(e.get("EventDescription")) or label
     minute = e.get("MatchMinute") or ""
@@ -218,9 +237,34 @@ def fmt_event(e: dict, color: bool) -> str:
     if highlight and hg is not None and ag is not None:
         score = colorize(color, f"  [{hg}-{ag}]", "33", bold=True)
     tag = colorize(color, f"{icon:>4}", fg, bold=bold)
-    minute_col = colorize(color, f"{minute:>4}", "37")
+    minute_col = colorize(color, f"{minute:>5}", "37")
     body = colorize(color, text, fg, bold=bold) if highlight else colorize(color, text, "37")
-    return f"{minute_col} {tag}  {body}{score}"
+    return f"{minute_col} {team_tag(e, match, color)} {tag}  {body}{score}"
+
+
+def fmt_goal_banner(e: dict, match: dict, color: bool) -> str:
+    """A big, bold callout for goals."""
+    minute = e.get("MatchMinute") or ""
+    text = _desc(e.get("EventDescription")) or "Goal!"
+    hg = e.get("HomeGoals")
+    ag = e.get("AwayGoals")
+    side = team_tag(e, match, color)
+    score_line = f"{match['home_name']} {hg} - {ag} {match['away_name']}"
+
+    def g(s: str) -> str:
+        return colorize(color, s, "92", bold=True)
+
+    return "\n".join([
+        "",
+        g("  ━━━━━━━━  G O A L !  ━━━━━━━━"),
+        f"  {colorize(color, minute.strip(), '92', bold=True)}  {side}  {g(text)}",
+        g(f"  {score_line}"),
+        "",
+    ])
+
+
+def render_event(e: dict, match: dict, color: bool) -> str:
+    return fmt_goal_banner(e, match, color) if is_goal_event(e) else fmt_event(e, match, color)
 
 
 # --- timeline ----------------------------------------------------------------
@@ -254,7 +298,7 @@ def recap(match: dict, color: bool, scoring_only: bool) -> None:
     print()
     for e in events:
         if keep_event(e, scoring_only):
-            print(fmt_event(e, color))
+            print(render_event(e, match, color))
     final = f"\n  Full time: {match['home_name']} {match['home_score']}-{match['away_score']} {match['away_name']}"
     print(colorize(color, final, "32", bold=True))
 
@@ -282,12 +326,12 @@ def stream(match: dict, color: bool, scoring_only: bool, interval: float, from_s
                 seen.add(e.get("EventId"))
             tail = [e for e in events if keep_event(e, scoring_only)][-6:]
             for e in tail:
-                print(fmt_event(e, color))
+                print(render_event(e, match, color))
             new = []
         for e in new:
             seen.add(e.get("EventId"))
             if keep_event(e, scoring_only):
-                print(fmt_event(e, color))
+                print(render_event(e, match, color))
                 hg, ag = e.get("HomeGoals"), e.get("AwayGoals")
                 if (hg, ag) != last_score and "goal" in (_desc(e.get("TypeLocalized")) or "").lower():
                     print(scoreboard(match, color, hs=hg, as_=ag, minute=e.get("MatchMinute")))
