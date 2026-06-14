@@ -8,3 +8,4 @@ venv/
 
 # Raw API dumps are reproducible; keep processed outputs tracked if desired
 data/raw/
+/archive/

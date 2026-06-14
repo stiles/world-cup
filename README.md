@@ -1,6 +1,6 @@
 # World Cup data
 
-Collects teams, players, schedule, results and stats for the FIFA World Cup from public FIFA API endpoints. Built for the 2026 tournament (USA/Canada/Mexico), ported from a set of 2022 notebooks now kept in `archive/`.
+Collects teams, players, schedule, results and stats for the FIFA World Cup from public FIFA API endpoints. Built for the 2026 tournament (USA/Canada/Mexico). 
 
 ## Setup
 
@@ -70,6 +70,5 @@ worldcup/
   storage.py       CSV/JSON writers
   teams.py players.py schedule.py results.py team_stats.py player_stats.py
   __main__.py      orchestrator (python -m worldcup)
-archive/           original 2022 notebooks
 data/processed/    CSV + JSON outputs
 ```
