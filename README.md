@@ -1,6 +1,6 @@
 # World Cup data
 
-Collects teams, players, schedule, results and stats for the FIFA World Cup from public FIFA API endpoints. Built for the 2026 tournament (USA/Canada/Mexico). 
+Collects teams, players, schedule, results and stats for the FIFA World Cup from public FIFA API endpoints, with a CLI for play-by-play of live matches in the terminal. 
 
 ## Setup
 
