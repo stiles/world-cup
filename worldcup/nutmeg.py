@@ -319,7 +319,7 @@ def recap(match: dict, color: bool, scoring_only: bool) -> None:
     print(colorize(color, final, "32", bold=True))
 
 
-def stream(match: dict, color: bool, scoring_only: bool, interval: float, from_start: bool) -> None:
+def stream(match: dict, color: bool, scoring_only: bool, interval: float, recent: bool) -> None:
     print(scoreboard(match, color, minute="LIVE"))
     seen: set[str] = set()
     last_score: tuple = ()
@@ -347,8 +347,8 @@ def stream(match: dict, color: bool, scoring_only: bool, interval: float, from_s
         backoff = interval
 
         new = [e for e in events if e.get("EventId") not in seen]
-        if first and not from_start:
-            # On first poll, prime 'seen' but still show the last few for context.
+        if first and recent:
+            # --recent: prime 'seen' and show only the last few for context.
             for e in events:
                 seen.add(e.get("EventId"))
             tail = [e for e in events if keep_event(e, scoring_only)][-6:]
@@ -407,7 +407,7 @@ def run_match(match: dict, args, now: datetime) -> None:
                                   f"({ko.astimezone(ZoneInfo(args.tz)):%a %b %-d, %-I:%M %p %Z}).", "90"))
     else:
         try:
-            stream(match, color, args.scoring_only, args.interval, args.from_start)
+            stream(match, color, args.scoring_only, args.interval, args.recent)
         except KeyboardInterrupt:
             print("\nBye.")
 
@@ -423,7 +423,7 @@ def main() -> None:
     ap.add_argument("--id", dest="id_match", help="Follow a specific IdMatch")
     ap.add_argument("--recap", action="store_true", help="Print the full timeline and exit")
     ap.add_argument("--live", action="store_true", help="Stream even if the match looks finished")
-    ap.add_argument("--from-start", action="store_true", help="When live, print all prior events first")
+    ap.add_argument("--recent", action="store_true", help="When live, show only the last few events instead of the full match so far")
     ap.add_argument("--scoring-only", action="store_true", help="Only goals, cards, VAR and key moments")
     ap.add_argument("--schedule", action="store_true", help="Print the schedule (optionally for a team) and exit")
     ap.add_argument("--interval", type=float, default=8.0, help="Live poll seconds (default 8)")

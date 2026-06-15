@@ -56,7 +56,7 @@ Key flags:
 
 - `--recap` print the full timeline and exit (default for finished matches)
 - `--scoring-only` goals, cards, VAR and key moments only
-- `--from-start` when live, print all prior events before following
+- `--recent` when live, show only the last few events instead of the full match so far
 - `--schedule` print the schedule (optionally filtered by team) and exit
 - `--interval N` live poll seconds (default 8)
 - `--tz ZONE` IANA timezone for kickoff times (default: local)
