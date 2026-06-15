@@ -1,0 +1,25 @@
+id_team,confederation,team_name,short_name,abbreviation,country_code,foundation_year,flag_url
+43922,CONMEBOL,Argentina,Argentina,ARG,ARG,,https://api.fifa.com/api/v3/picture/flags-sq-4/ARG
+43934,UEFA,Austria,Austria,AUT,AUT,,https://api.fifa.com/api/v3/picture/flags-sq-4/AUT
+43935,UEFA,Belgium,Belgium,BEL,BEL,,https://api.fifa.com/api/v3/picture/flags-sq-4/BEL
+43924,CONMEBOL,Brazil,Brazil,BRA,BRA,,https://api.fifa.com/api/v3/picture/flags-sq-4/BRA
+43849,CAF,Cameroon,Cameroon,CMR,CMR,,https://api.fifa.com/api/v3/picture/flags-sq-4/CMR
+43926,CONMEBOL,Colombia,Colombia,COL,COL,,https://api.fifa.com/api/v3/picture/flags-sq-4/COL
+43901,CONCACAF,Costa Rica,Costa Rica,CRC,CRC,,https://api.fifa.com/api/v3/picture/flags-sq-4/CRC
+44025,UEFA,Czechoslovakia,Czechoslovakia,TCH,TCH,,https://api.fifa.com/api/v3/picture/flags-sq-4/TCH
+43855,CAF,Egypt,Egypt,EGY,EGY,,https://api.fifa.com/api/v3/picture/flags-sq-4/EGY
+43942,UEFA,England,England,ENG,ENG,,https://api.fifa.com/api/v3/picture/flags-sq-4/ENG
+44023,UEFA,Germany FR,Germany FR,FRG,FRG,,https://api.fifa.com/api/v3/picture/flags-sq-4/FRG
+43954,UEFA,Italy,Italy,ITA,ITA,,https://api.fifa.com/api/v3/picture/flags-sq-4/ITA
+43822,AFC,Korea Republic,Korea Republic,KOR,KOR,,https://api.fifa.com/api/v3/picture/flags-sq-4/KOR
+43960,UEFA,Netherlands,Netherlands,NED,NED,,https://api.fifa.com/api/v3/picture/flags-sq-4/NED
+43953,UEFA,Republic of Ireland,Republic of Ireland,IRL,IRL,,https://api.fifa.com/api/v3/picture/flags-sq-4/IRL
+43964,UEFA,Romania,Romania,ROU,ROU,,https://api.fifa.com/api/v3/picture/flags-sq-4/ROU
+43967,UEFA,Scotland,Scotland,SCO,SCO,,https://api.fifa.com/api/v3/picture/flags-sq-4/SCO
+44026,UEFA,Soviet Union,Soviet Union,URS,URS,,https://api.fifa.com/api/v3/picture/flags-sq-4/URS
+43969,UEFA,Spain,Spain,ESP,ESP,,https://api.fifa.com/api/v3/picture/flags-sq-4/ESP
+43970,UEFA,Sweden,Sweden,SWE,SWE,,https://api.fifa.com/api/v3/picture/flags-sq-4/SWE
+43840,AFC,United Arab Emirates,United Arab Emirates,UAE,UAE,,https://api.fifa.com/api/v3/picture/flags-sq-4/UAE
+43921,CONCACAF,United States,USA,USA,USA,,https://api.fifa.com/api/v3/picture/flags-sq-4/USA
+43930,CONMEBOL,Uruguay,Uruguay,URU,URU,,https://api.fifa.com/api/v3/picture/flags-sq-4/URU
+43975,UEFA,Yugoslavia,Yugoslavia,YUG,YUG,,https://api.fifa.com/api/v3/picture/flags-sq-4/YUG

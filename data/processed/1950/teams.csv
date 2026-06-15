@@ -1,0 +1,14 @@
+id_team,confederation,team_name,short_name,abbreviation,country_code,foundation_year,flag_url
+43923,CONMEBOL,Bolivia,Bolivia,BOL,BOL,,https://api.fifa.com/api/v3/picture/flags-sq-4/BOL
+43924,CONMEBOL,Brazil,Brazil,BRA,BRA,,https://api.fifa.com/api/v3/picture/flags-sq-4/BRA
+43925,CONMEBOL,Chile,Chile,CHI,CHI,,https://api.fifa.com/api/v3/picture/flags-sq-4/CHI
+43942,UEFA,England,England,ENG,ENG,,https://api.fifa.com/api/v3/picture/flags-sq-4/ENG
+43954,UEFA,Italy,Italy,ITA,ITA,,https://api.fifa.com/api/v3/picture/flags-sq-4/ITA
+43911,CONCACAF,Mexico,Mexico,MEX,MEX,,https://api.fifa.com/api/v3/picture/flags-sq-4/MEX
+43928,CONMEBOL,Paraguay,Paraguay,PAR,PAR,,https://api.fifa.com/api/v3/picture/flags-sq-4/PAR
+43969,UEFA,Spain,Spain,ESP,ESP,,https://api.fifa.com/api/v3/picture/flags-sq-4/ESP
+43970,UEFA,Sweden,Sweden,SWE,SWE,,https://api.fifa.com/api/v3/picture/flags-sq-4/SWE
+43971,UEFA,Switzerland,Switzerland,SUI,SUI,,https://api.fifa.com/api/v3/picture/flags-sq-4/SUI
+43921,CONCACAF,United States,USA,USA,USA,,https://api.fifa.com/api/v3/picture/flags-sq-4/USA
+43930,CONMEBOL,Uruguay,Uruguay,URU,URU,,https://api.fifa.com/api/v3/picture/flags-sq-4/URU
+43975,UEFA,Yugoslavia,Yugoslavia,YUG,YUG,,https://api.fifa.com/api/v3/picture/flags-sq-4/YUG

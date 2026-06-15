@@ -1,0 +1,17 @@
+id_team,confederation,team_name,short_name,abbreviation,country_code,foundation_year,flag_url
+43935,UEFA,Belgium,Belgium,BEL,BEL,,https://api.fifa.com/api/v3/picture/flags-sq-4/BEL
+43924,CONMEBOL,Brazil,Brazil,BRA,BRA,,https://api.fifa.com/api/v3/picture/flags-sq-4/BRA
+43936,UEFA,Bulgaria,Bulgaria,BUL,BUL,,https://api.fifa.com/api/v3/picture/flags-sq-4/BUL
+44025,UEFA,Czechoslovakia,Czechoslovakia,TCH,TCH,,https://api.fifa.com/api/v3/picture/flags-sq-4/TCH
+43904,CONCACAF,El Salvador,El Salvador,SLV,SLV,,https://api.fifa.com/api/v3/picture/flags-sq-4/SLV
+43942,UEFA,England,England,ENG,ENG,,https://api.fifa.com/api/v3/picture/flags-sq-4/ENG
+44023,UEFA,Germany FR,Germany FR,FRG,FRG,,https://api.fifa.com/api/v3/picture/flags-sq-4/FRG
+43984,UEFA,Israel,Israel,ISR,ISR,,https://api.fifa.com/api/v3/picture/flags-sq-4/ISR
+43954,UEFA,Italy,Italy,ITA,ITA,,https://api.fifa.com/api/v3/picture/flags-sq-4/ITA
+43911,CONCACAF,Mexico,Mexico,MEX,MEX,,https://api.fifa.com/api/v3/picture/flags-sq-4/MEX
+43872,CAF,Morocco,Morocco,MAR,MAR,,https://api.fifa.com/api/v3/picture/flags-sq-4/MAR
+43929,CONMEBOL,Peru,Peru,PER,PER,,https://api.fifa.com/api/v3/picture/flags-sq-4/PER
+43964,UEFA,Romania,Romania,ROU,ROU,,https://api.fifa.com/api/v3/picture/flags-sq-4/ROU
+44026,UEFA,Soviet Union,Soviet Union,URS,URS,,https://api.fifa.com/api/v3/picture/flags-sq-4/URS
+43970,UEFA,Sweden,Sweden,SWE,SWE,,https://api.fifa.com/api/v3/picture/flags-sq-4/SWE
+43930,CONMEBOL,Uruguay,Uruguay,URU,URU,,https://api.fifa.com/api/v3/picture/flags-sq-4/URU

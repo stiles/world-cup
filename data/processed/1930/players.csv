@@ -1,0 +1,246 @@
+player_id,name,position,jersey_number,weight,height,country_code,id_team,picture_url,dob,age,position_desc,team_name,team_abbr
+44040,Atilio Demaria,3,,,,ARG,43922,,1909-03-19,117.2,Striker,Argentina,ARG
+44726,Francisco Varallo,3,,,,ARG,43922,,1910-02-05,116.4,Striker,Argentina,ARG
+46826,Angel Bossio,0,,,,ARG,43922,,1905-05-05,121.1,Goalkeeper,Argentina,ARG
+46831,Juan Botasso,0,,,,ARG,43922,,1908-10-23,117.6,Goalkeeper,Argentina,ARG
+47685,Alberto Chividini,1,,,,ARG,43922,,1907-02-23,119.3,Defender,Argentina,ARG
+48403,Jose Della Torre,1,,,,ARG,43922,,1906-03-23,120.2,Defender,Argentina,ARG
+49178,Juan Evaristo,2,,,,ARG,43922,,1902-06-20,124.0,Midfielder,Argentina,ARG
+49179,Mario Evaristo,3,,,,ARG,43922,,1908-12-10,117.5,Striker,Argentina,ARG
+49376,Manuel Ferreira,3,,,,ARG,43922,,1905-10-22,120.6,Striker,Argentina,ARG
+49942,Roberto Cerro,3,,,,ARG,43922,,1907-02-23,119.3,Striker,Argentina,ARG
+54812,Ramon Muttis,1,,,,ARG,43922,,1899-03-12,127.3,Defender,Argentina,ARG
+55634,Rodolfo Orlandini,1,,,,ARG,43922,,1905-01-01,121.4,Defender,Argentina,ARG
+55993,Fernando Paternoster,1,,,,ARG,43922,,1903-05-24,123.1,Defender,Argentina,ARG
+56144,Natalio Perinetti,3,,,,ARG,43922,,1900-12-28,125.5,Striker,Argentina,ARG
+57749,Alejandro Scopelli,3,,,,ARG,43922,,1908-05-12,118.1,Striker,Argentina,ARG
+58320,Carlos Spadaro,3,,,,ARG,43922,,1902-02-05,124.4,Striker,Argentina,ARG
+58521,Pedro Suarez,2,,,,ARG,43922,,1909-12-21,116.5,Midfielder,Argentina,ARG
+60407,Adolfo Zumelzu,1,,,,ARG,43922,,1902-01-05,124.4,Defender,Argentina,ARG
+61693,Guillermo Stabile,3,,,,ARG,43922,,1906-01-17,120.4,Striker,Argentina,ARG
+69370,Edmundo Piaggio,2,,,,ARG,43922,,1910-10-03,115.7,Midfielder,Argentina,ARG
+174777,Luis Monti,2,,,,ITA,43922,,1901-05-15,125.1,Midfielder,Argentina,ARG
+174854,Carlos Peucelle,3,,,,ARG,43922,,1908-09-13,117.7,Striker,Argentina,ARG
+44993,Fernand Adams,3,,,,BEL,43935,,1903-05-03,123.1,Striker,Belgium,BEL
+46045,Arnold Badjou,0,,,,BEL,43935,,1909-06-25,117.0,Goalkeeper,Belgium,BEL
+48290,Jean De Clerq,2,,,,BEL,43935,,1905-05-17,121.1,Midfielder,Belgium,BEL
+48350,Henri De Deken,1,,,,BEL,43935,,1907-08-03,118.9,Defender,Belgium,BEL
+48378,Gerard Delbeke,3,,,,BEL,43935,,1903-09-01,122.8,Striker,Belgium,BEL
+48550,Jan Diddens,2,,,,BEL,43935,,1906-09-14,119.7,Midfielder,Belgium,BEL
+50795,Auguste Hellemans,2,,,,BEL,43935,,1907-09-14,118.7,Midfielder,Belgium,BEL
+51046,Nikolaas Hoydonckx,1,,,,BEL,43935,,1900-12-29,125.5,Defender,Belgium,BEL
+54336,Jacques Moeschal,3,,,,BEL,43935,,1900-09-06,125.8,Striker,Belgium,BEL
+55277,Theodore Nouwens,1,,,,BEL,43935,,1908-02-17,118.3,Defender,Belgium,BEL
+57303,Andre Saeys,3,,,,BEL,43935,,1911-02-20,115.3,Striker,Belgium,BEL
+59575,Louis Versyp,3,,,,BEL,43935,,1908-12-05,117.5,Striker,Belgium,BEL
+59711,Bernard Voorhoof,3,,,,BEL,43935,,1910-05-11,116.1,Striker,Belgium,BEL
+69427,Pierre Braine,2,,,,BEL,43935,,1900-10-26,125.6,Midfielder,Belgium,BEL
+69429,Alexis Chantraine,2,,,,BEL,43935,,1901-03-16,125.2,Midfielder,Belgium,BEL
+182215,Jean De Bie,0,,,,BEL,43935,,1892-05-18,134.1,Goalkeeper,Belgium,BEL
+45355,Mario Alborta,3,,,,BOL,43923,,1910-09-19,115.7,Striker,Bolivia,BOL
+45770,Jorge Argote,2,,,,BOL,43923,,1906-01-01,120.4,Midfielder,Bolivia,BOL
+46508,Jesus Bermudez,0,,,,BOL,43923,,1902-01-01,124.4,Goalkeeper,Bolivia,BOL
+47093,Jose Bustamante,3,,,,BOL,43923,,1907-01-01,119.4,Striker,Bolivia,BOL
+47563,Casiano Chavarria,1,,,,BOL,43923,,1901-08-03,124.9,Defender,Bolivia,BOL
+48795,Segundo Durandal,1,,,,BOL,43923,,1907-03-17,119.2,Defender,Bolivia,BOL
+49356,Rene Fernandez,3,,,,BOL,43923,,1906-01-01,120.4,Striker,Bolivia,BOL
+50043,Gumercindo Gomez,3,,,,BOL,43923,,1907-01-01,119.4,Striker,Bolivia,BOL
+52741,Diogenes Lara,2,,,,BOL,43923,,1903-04-06,123.2,Midfielder,Bolivia,BOL
+54090,Rafael Mendez,3,,,,BOL,43923,,1904-01-01,122.5,Striker,Bolivia,BOL
+55659,Eduardo Reyes Ortiz,3,,,,BOL,43923,,1907-01-01,119.4,Striker,Bolivia,BOL
+57350,Renato Sainz,2,,,,BOL,43923,,1899-12-14,126.5,Midfielder,Bolivia,BOL
+59327,Jorge Balderrama,2,,,,BOL,43923,,1906-12-12,119.5,Midfielder,Bolivia,BOL
+69391,Miguel Brito,2,,,,BOL,43923,,,,Midfielder,Bolivia,BOL
+69392,Jose Noya,3,,,,BOL,43923,,,,Striker,Bolivia,BOL
+69395,Miguel Murillo,0,,,,BOL,43923,,1898-03-24,128.2,Goalkeeper,Bolivia,BOL
+69396,Luis Reyes Penaranda,1,,,,BOL,43923,,1911-06-05,115.0,Defender,Bolivia,BOL
+48009,Oscarino,2,,,,BRA,43924,,1907-01-17,119.4,Midfielder,Brazil,BRA
+49521,Hermogenes,2,,,,BRA,43924,,1908-11-04,117.6,Midfielder,Brazil,BRA
+49890,Italia,1,,,,BRA,43924,,1907-05-22,119.1,Defender,Brazil,BRA
+49982,Fernando Giudicelli,2,,,,BRA,43924,,1906-03-01,120.3,Midfielder,Brazil,BRA
+52919,Carvalho Leite,3,,,,BRA,43924,,1912-06-25,114.0,Striker,Brazil,BRA
+54113,Benedicto,3,,,,BRA,43924,,1910-05-10,116.1,Striker,Brazil,BRA
+54443,Joel,0,,,,BRA,43924,,1904-05-01,122.1,Goalkeeper,Brazil,BRA
+56107,Teophilo,3,,,,BRA,43924,,1900-04-11,126.2,Striker,Brazil,BRA
+56861,Poly,3,,,,BRA,43924,,1909-01-26,117.4,Striker,Brazil,BRA
+59994,Moderato,3,,,,BRA,43924,,1902-07-14,123.9,Striker,Brazil,BRA
+63820,Velloso,0,,,,BRA,43924,,1908-09-25,117.7,Goalkeeper,Brazil,BRA
+63821,Ze Luis,1,,,,BRA,43924,,1904-11-16,121.6,Defender,Brazil,BRA
+63822,Russinho,3,,,,BRA,43924,,1902-12-18,123.5,Striker,Brazil,BRA
+63823,Preguinho,3,,,,BRA,43924,,1905-02-08,121.3,Striker,Brazil,BRA
+63824,Nilo,3,,,,BRA,43924,,1903-04-03,123.2,Striker,Brazil,BRA
+69380,Brilhante,1,,,,BRA,43924,,1904-11-05,121.6,Defender,Brazil,BRA
+69382,Araken,3,,,,BRA,43924,,1905-07-17,120.9,Striker,Brazil,BRA
+69385,Benvenutto,2,,,,BRA,43924,,1903-08-08,122.9,Midfielder,Brazil,BRA
+69386,Doca,3,,,,BRA,43924,,1903-03-07,123.3,Striker,Brazil,BRA
+69387,Pamplona,2,,,,BRA,43924,,1904-03-24,122.2,Midfielder,Brazil,BRA
+69388,Fortes,2,,,,BRA,43924,,1901-09-09,124.8,Midfielder,Brazil,BRA
+69390,Manoelzinho,3,,,,BRA,43924,,1907-08-22,118.8,Striker,Brazil,BRA
+182216,Ivan Mariz,2,,,,BRA,43924,,1910-05-16,116.1,Midfielder,Brazil,BRA
+213736,Fausto,2,,,,BRA,43924,,1905-01-28,121.4,Midfielder,Brazil,BRA
+45071,Juan Aguilera,3,,,,CHI,43925,,1903-10-23,122.6,Striker,Chile,CHI
+45761,Guillermo Arellano,3,,,,CHI,43925,,1908-08-21,117.8,Striker,Chile,CHI
+47536,Ernesto Chaparro,1,,,,CHI,43925,,1901-01-04,125.4,Defender,Chile,CHI
+47995,Roberto Cortes,0,,,,CHI,43925,,1905-02-02,121.4,Goalkeeper,Chile,CHI
+54493,Victor Morales,1,,,,CHI,43925,,1905-05-10,121.1,Defender,Chile,CHI
+55487,Tomas Ojeda,3,,,,CHI,43925,,1910-04-20,116.2,Striker,Chile,CHI
+56356,Ulises Poirier,1,,,,CHI,43925,,1897-02-02,129.4,Defender,Chile,CHI
+57265,Guillermo Saavedra,2,,,,CHI,43925,,1903-11-05,122.6,Midfielder,Chile,CHI
+57675,Carlos Schneberger,3,,,,CHI,43925,,1902-06-21,124.0,Striker,Chile,CHI
+58531,Guillermo Subiabre,3,,,,CHI,43925,,1903-02-25,123.3,Striker,Chile,CHI
+59059,Arturo Torres,2,,,,CHI,43925,,1906-10-20,119.6,Midfielder,Chile,CHI
+59062,Casimiro Torres,2,,,,CHI,43925,,1906-01-01,120.4,Midfielder,Chile,CHI
+59596,Carlos Vidal,3,,,,CHI,43925,,1902-02-24,124.3,Striker,Chile,CHI
+59629,Eberardo Villalobos,3,,,,CHI,43925,,1908-04-01,118.2,Striker,Chile,CHI
+69371,Humberto Elgueta,2,,,,CHI,43925,,1904-09-10,121.8,Midfielder,Chile,CHI
+69373,Guillermo Riveros,1,,,,CHI,43925,,1902-02-10,124.3,Defender,Chile,CHI
+69374,Arturo Coddou,3,,,,CHI,43925,,1905-01-14,121.4,Striker,Chile,CHI
+69375,Horacio Munoz,3,,,,CHI,43925,,1900-08-03,125.9,Striker,Chile,CHI
+170944,Cesar Espinoza,0,,,,CHI,43925,,1900-09-28,125.7,Goalkeeper,Chile,CHI
+29657,Lucien Laurent,3,,,,FRA,43946,,1907-12-10,118.5,Striker,France,FRA
+47273,Marcel Capelle,1,,,,FRA,43946,,1904-12-11,121.5,Defender,France,FRA
+47531,Augustin Chantrel,2,,,,FRA,43946,,1906-11-11,119.6,Midfielder,France,FRA
+48382,Edmond Delfour,3,,,,FRA,43946,,1907-11-01,118.6,Striker,France,FRA
+48405,Celestin Delmer,2,,,,FRA,43946,,1907-02-15,119.3,Midfielder,France,FRA
+52726,Marcel Langiller,3,,,,FRA,43946,,1908-06-02,118.0,Striker,France,FRA
+53011,Ernest Liberati,3,,,,FRA,43946,,1906-03-22,120.2,Striker,France,FRA
+53765,Andre Maschinot,3,,,,FRA,43946,,1903-06-28,123.0,Striker,France,FRA
+53852,Etienne Mattler,1,,,,FRA,43946,,1905-12-25,120.5,Defender,France,FRA
+56299,Marcel Pinel,2,,,,FRA,43946,,1908-07-08,117.9,Midfielder,France,FRA
+58899,Alex Thepot,0,,,,FRA,43946,,1906-07-30,119.9,Goalkeeper,France,FRA
+59523,Emile Veinante,3,,,,FRA,43946,,1907-06-12,119.0,Striker,France,FRA
+59637,Alex Villaplane,2,,,,FRA,43946,,1903-09-12,122.8,Midfielder,France,FRA
+69366,Andre Tassin,0,,,,FRA,43946,,1902-02-23,124.3,Goalkeeper,France,FRA
+69367,Nouma Andoire,1,,,,FRA,43946,,1908-03-19,118.2,Defender,France,FRA
+69368,Jean Laurent,2,,,,FRA,43946,,1906-12-30,119.5,Midfielder,France,FRA
+45536,Efrain Amezcua,2,,,,MEX,43911,,1907-08-03,118.9,Midfielder,Mexico,MEX
+46750,Oscar Bonfiglio,0,,,,MEX,43911,,1905-10-05,120.7,Goalkeeper,Mexico,MEX
+47331,Juan Carreno,3,,,,MEX,43911,,1907-08-14,118.8,Striker,Mexico,MEX
+49834,Roberto Gayon,3,,,,MEX,43911,,1905-01-01,121.4,Striker,Mexico,MEX
+50383,Francisco Garza Gutierrez,1,,,,MEX,43911,,1904-03-14,122.3,Defender,Mexico,MEX
+50387,Rafael Garza,1,,,,MEX,43911,,1896-12-13,129.5,Defender,Mexico,MEX
+53170,Hilario Lopez,3,,,,MEX,43911,,1907-11-18,118.6,Striker,Mexico,MEX
+54039,Dionisio Mejia,3,,,,MEX,43911,,1907-01-06,119.4,Striker,Mexico,MEX
+55525,Felipe Olivares,3,,,,MEX,43911,,1910-02-05,116.4,Striker,Mexico,MEX
+57027,Raimundo Rodriguez,2,,,,MEX,43911,,1905-04-15,121.2,Midfielder,Mexico,MEX
+57129,Felipe Rosas,2,,,,MEX,43911,,1910-02-05,116.4,Midfielder,Mexico,MEX
+57131,Manuel Rosas,1,,,,MEX,43911,,1912-04-17,114.2,Defender,Mexico,MEX
+57207,Jose Ruiz,3,,,,MEX,43911,,1904-01-01,122.5,Striker,Mexico,MEX
+57483,Alfredo Sanchez,2,,,,MEX,43911,,1904-05-28,122.0,Midfielder,Mexico,MEX
+58282,Isidoro Sota,0,,,,MEX,43911,,1902-02-04,124.4,Goalkeeper,Mexico,MEX
+69369,Jesus Castro,3,,,,MEX,43911,,1908-10-16,117.7,Striker,Mexico,MEX
+182417,Luis Perez,3,,,,MEX,43911,,1907-01-01,119.4,Striker,Mexico,MEX
+45077,Francisco Aguirre,2,,,,PAR,43928,,1908-01-01,118.5,Midfielder,Paraguay,PAR
+46450,Santiago Benitez,2,,,,PAR,43928,,1903-01-01,123.4,Midfielder,Paraguay,PAR
+47150,Delfin Benitez Caceres,3,,,,PAR,43928,,1910-10-24,115.6,Striker,Paraguay,PAR
+48426,Modesto Denis,0,,,,PAR,43928,,1901-01-01,125.4,Goalkeeper,Paraguay,PAR
+48525,Eusebio Diaz,2,,,,PAR,43928,,1901-01-01,125.4,Midfielder,Paraguay,PAR
+48669,Diogenes Dominguez,3,,,,PAR,43928,,1902-01-01,124.4,Striker,Paraguay,PAR
+49158,Romildo Etcheverry,2,,,,PAR,43928,,1907-01-01,119.4,Midfielder,Paraguay,PAR
+49489,Salvador Flores,1,,,,PAR,43928,,1906-01-01,120.4,Defender,Paraguay,PAR
+49757,Tranquilino Garcete,2,,,,PAR,43928,,1907-01-01,119.4,Midfielder,Paraguay,PAR
+50080,Aurelio Gonzalez,3,,,,PAR,43928,,1905-09-25,120.7,Striker,Paraguay,PAR
+54282,Jose Leon Miracca,1,,,,PAR,43928,,1903-09-23,122.7,Defender,Paraguay,PAR
+55057,Lino Nessi,3,,,,PAR,43928,,1904-01-01,122.5,Striker,Paraguay,PAR
+55547,Quiterio Olmedo,1,,,,PAR,43928,,1907-12-21,118.5,Defender,Paraguay,PAR
+56077,Luis Vargas Pena,3,,,,PAR,43928,,1905-01-01,121.4,Striker,Paraguay,PAR
+57096,Gerardo Romero,3,,,,PAR,43928,,1906-01-01,120.4,Striker,Paraguay,PAR
+69431,Eustaquio Chamorro,1,,,,PAR,43928,,,,Defender,Paraguay,PAR
+69432,Diego Florentin,2,,,,PAR,43928,,,,Midfielder,Paraguay,PAR
+69433,Bernabe Rivera,3,,,,PAR,43928,,,,Striker,Paraguay,PAR
+69434,Jacinto Villalba,3,,,,PAR,43928,,,,Striker,Paraguay,PAR
+69435,Amadeo Ortega,3,,,,PAR,43928,,,,Striker,Paraguay,PAR
+69436,Cayetano Carreras Sagueir,3,,,,PAR,43928,,,,Striker,Paraguay,PAR
+198016,Pedro Benitez,0,,,,PAR,43928,,1901-01-12,125.4,Goalkeeper,Paraguay,PAR
+45885,Eduardo Astengo,2,,,,PER,43929,,1905-08-15,120.8,Midfielder,Peru,PER
+48309,Mario De Las Casas,1,,,,PER,43929,,1905-08-12,120.8,Defender,Peru,PER
+48421,Alberto Denegri,2,,,,PER,43929,,,,Midfielder,Peru,PER
+49485,Jose Flores,4,,,,PER,43929,,,,,Peru,PER
+49705,Placido Galindo,2,,,,PER,43929,,1902-03-09,124.3,Midfielder,Peru,PER
+49763,Domingo Garcia,2,,,,PER,43929,,1904-01-01,122.5,Midfielder,Peru,PER
+52809,Jose Maria Lavalle,3,,,,PER,43929,,1911-06-05,115.0,Striker,Peru,PER
+53609,Antonio Maquilon,1,,,,PER,43929,,1902-11-29,123.5,Defender,Peru,PER
+55080,Demetrio Neyra,3,,,,PER,43929,,1908-12-15,117.5,Striker,Peru,PER
+55932,Jorge Pardon,0,,,,PER,43929,,1905-03-04,121.3,Goalkeeper,Peru,PER
+58266,Alberto Soria,1,,,,PER,43929,,1900-01-24,126.4,Defender,Peru,PER
+58313,Luis Souza,3,,,,PER,43929,,1908-10-06,117.7,Striker,Peru,PER
+59343,Juan Valdivieso,0,,,,PER,43929,,1910-05-06,116.1,Goalkeeper,Peru,PER
+59634,Alejandro Villanueva,3,,,,PER,43929,,1908-06-04,118.0,Striker,Peru,PER
+69402,Julio Lores,3,,,,PER,43929,,1908-09-15,117.7,Striker,Peru,PER
+69403,Lizardo Nue Rodriguez,3,,,,PER,43929,,1910-08-30,115.8,Striker,Peru,PER
+69404,Julio Quintana,2,,,,PER,43929,,1904-01-01,122.5,Midfielder,Peru,PER
+69405,Arturo Fernandez,1,,,,PER,43929,,1910-02-03,116.4,Defender,Peru,PER
+69406,Pablo Pacheco,3,,,,PER,43929,,1908-05-23,118.1,Striker,Peru,PER
+69407,Carlos Cilloniz,3,,,,PER,43929,,1910-07-01,116.0,Striker,Peru,PER
+182326,Jorge Gongora,3,,,,PER,43929,,1906-10-12,119.7,Striker,Peru,PER
+182327,Jorge Sarmiento,3,,,,PER,43929,,1900-11-02,125.6,Striker,Peru,PER
+47067,Rudolf Buerger,1,,,,ROU,43964,,1908-10-31,117.6,Defender,Romania,ROU
+48467,Adalbert Desu,3,,,,ROU,43964,,1909-03-24,117.2,Striker,Romania,ROU
+49407,Alfred Eisenbeisser,2,,,,ROU,43964,,1908-04-07,118.2,Midfielder,Romania,ROU
+52463,Nicolae Kovacs,3,,,,ROU,43964,,1911-12-29,114.5,Striker,Romania,ROU
+52738,Ion Lapusneanu,0,,,,ROU,43964,,1908-12-08,117.5,Goalkeeper,Romania,ROU
+56587,Ladislau Raffinsky,2,,,,ROU,43964,,1905-04-23,121.1,Midfielder,Romania,ROU
+56972,Corneliu Robe,2,,,,ROU,43964,,1908-05-23,118.1,Midfielder,Romania,ROU
+58384,Constantin Stanciu,3,,,,ROU,43964,,1911-01-01,115.4,Striker,Romania,ROU
+58409,Adalbert Steiner,1,,,,ROU,43964,,1907-01-24,119.4,Defender,Romania,ROU
+59693,Emerich Vogl,1,,,,ROU,43964,,1905-08-12,120.8,Defender,Romania,ROU
+59918,Rudolf Wetzer,3,,,,ROU,43964,,1901-03-17,125.2,Striker,Romania,ROU
+69398,Stefan Barbu,3,,,,ROU,43964,,1908-03-02,118.3,Striker,Romania,ROU
+69399,Iosif Czako,1,,,,ROU,43964,,1906-06-11,120.0,Defender,Romania,ROU
+69400,Ilile Subaseanu,3,,,,ROU,43964,,1906-01-01,120.4,Striker,Romania,ROU
+69401,Samuel Zauber,0,,,,ROU,43964,,1901-01-01,125.4,Goalkeeper,Romania,ROU
+45930,Andrew Auld,3,,,,USA,43921,,1900-01-26,126.4,Striker,United States,USA
+46989,Jim Brown,3,,,,USA,43921,,1908-12-31,117.5,Striker,United States,USA
+48705,Jimmy Douglas,0,,,,USA,43921,,1898-01-12,128.4,Goalkeeper,United States,USA
+49494,Tom Florie,3,,,,USA,43921,,1897-09-06,128.8,Striker,United States,USA
+49709,Jimmy Gallagher,2,,,,USA,43921,,1901-06-07,125.0,Midfielder,United States,USA
+50076,Billy Gonsalves,3,,,,USA,43921,,1908-08-10,117.8,Striker,United States,USA
+53957,Bart Mcghee,3,,,,USA,43921,,1899-04-30,127.1,Striker,United States,USA
+54468,George Moorhouse,1,,,,USA,43921,,1901-05-04,125.1,Defender,United States,USA
+55992,Bert Patenaude,3,,,,USA,43921,,1909-11-04,116.6,Striker,United States,USA
+59115,Ralph Tracy,1,,,,USA,43921,,1904-12-23,121.5,Defender,United States,USA
+60034,Alexander Wood,1,,,,USA,43921,,1907-06-12,119.0,Defender,United States,USA
+69422,Frank Vaughn,0,,,,USA,43921,,1902-02-18,124.3,Goalkeeper,United States,USA
+69423,Mike Bookie,2,,,,USA,43921,,1904-09-12,121.8,Midfielder,United States,USA
+69424,Jim Gentle,3,,,,USA,43921,,1904-07-21,121.9,Striker,United States,USA
+69425,Phil Slone,2,,,,USA,43921,,1907-01-20,119.4,Midfielder,United States,USA
+69426,Arnie Oliver,2,,,,USA,43921,,1907-05-22,119.1,Midfielder,United States,USA
+45617,Jose Andrade,2,,,,URU,43930,,1901-11-22,124.6,Midfielder,Uruguay,URU
+45675,Juan Anselmo,3,,,,URU,43930,,1902-04-30,124.1,Striker,Uruguay,URU
+46133,Enrique Ballestrero,0,,,,URU,43930,,1905-01-18,121.4,Goalkeeper,Uruguay,URU
+47398,Hector Castro,3,,,,URU,43930,,1904-11-29,121.5,Striker,Uruguay,URU
+47419,Pedro Cea,3,,,,URU,43930,,1900-09-01,125.8,Striker,Uruguay,URU
+48687,Pablo Dorado,3,,,,URU,43930,,1908-06-22,118.0,Striker,Uruguay,URU
+49351,Lorenzo Fernandez,2,,,,URU,43930,,1900-05-20,126.1,Midfielder,Uruguay,URU
+49893,Alvaro Gestido,2,,,,URU,43930,,1907-05-17,119.1,Midfielder,Uruguay,URU
+51279,Victoriano Iriarte,3,,,,URU,43930,,1902-11-01,123.6,Striker,Uruguay,URU
+53764,Ernesto Mascheroni,1,,,,URU,43930,,1907-11-21,118.6,Defender,Uruguay,URU
+56200,Pedro Petrone,3,,,,URU,43930,,1905-05-11,121.1,Striker,Uruguay,URU
+57652,Hector Scarone,3,,,,URU,43930,,1898-11-26,127.5,Striker,Uruguay,URU
+58837,Domingo Tejera,1,,,,URU,43930,,1899-07-22,126.9,Defender,Uruguay,URU
+59283,Santos Urdinaran,3,,,,URU,43930,,1900-03-30,126.2,Striker,Uruguay,URU
+69408,Juan Carlos Calvo,3,,,,URU,43930,,1906-06-26,120.0,Striker,Uruguay,URU
+69409,Miguel Cappuccini,0,,,,URU,43930,,1904-01-05,122.4,Goalkeeper,Uruguay,URU
+69410,Conduelo Piriz,2,,,,URU,43930,,1904-10-09,121.7,Midfielder,Uruguay,URU
+69411,Angel Melogno,2,,,,URU,43930,,1905-03-22,121.2,Midfielder,Uruguay,URU
+69412,Emilio Recoba,1,,,,URU,43930,,1904-11-03,121.6,Defender,Uruguay,URU
+69413,Carlos Riolfo,2,,,,URU,43930,,1905-11-05,120.6,Midfielder,Uruguay,URU
+69414,Zoilo Saldombide,3,,,,URU,43930,,1905-03-18,121.2,Striker,Uruguay,URU
+174795,Jose Nasazzi,1,,,,URU,43930,,1901-05-24,125.1,Defender,Uruguay,URU
+45819,Milorad Arsenijevic,2,,,,YUG,43975,,1906-06-06,120.0,Midfielder,Yugoslavia,YUG
+46364,Ivica Bek,3,,,,YUG,43975,,1909-10-29,116.6,Striker,Yugoslavia,YUG
+48622,Momcilo Djokic,2,,,,YUG,43975,,1911-02-27,115.3,Midfielder,Yugoslavia,YUG
+51343,Milutin Ivkovic,1,,,,YUG,43975,,1906-03-03,120.3,Defender,Yugoslavia,YUG
+51407,Milovan Jaksic,0,,,,YUG,43975,,1909-09-21,116.7,Goalkeeper,Yugoslavia,YUG
+53657,Blagoje Marjanovic,3,,,,YUG,43975,,1907-09-09,118.8,Striker,Yugoslavia,YUG
+54213,Dragan Mihajlovic,1,,,,YUG,43975,,1906-12-13,119.5,Defender,Yugoslavia,YUG
+54923,Dragutin Najdanovic,3,,,,YUG,43975,,1908-04-15,118.2,Striker,Yugoslavia,YUG
+57803,Branislav Sekulic,3,,,,YUG,43975,,1906-10-29,119.6,Striker,Yugoslavia,YUG
+58397,Ljubisa Stefanovic,1,,,,YUG,43975,,1910-01-04,116.4,Defender,Yugoslavia,YUG
+59085,Dragan Tosic,1,,,,YUG,43975,,1909-11-08,116.6,Defender,Yugoslavia,YUG
+59734,Djordje Vujadinovic,3,,,,YUG,43975,,1909-12-06,116.5,Striker,Yugoslavia,YUG
+61698,Aleksandar Tirnanic,3,,,,YUG,43975,,1910-07-15,115.9,Striker,Yugoslavia,YUG
+69376,Milan Stojanovic,0,,,,YUG,43975,,1911-12-28,114.5,Goalkeeper,Yugoslavia,YUG
+69377,Teofilo Spasojevic,2,,,,YUG,43975,,1909-01-21,117.4,Midfielder,Yugoslavia,YUG
+69378,Branislav Hrnjicek,3,,,,YUG,43975,,1908-06-05,118.0,Striker,Yugoslavia,YUG
+314360,Vlastimir Petkovic,4,,,,YUG,43975,,,,,Yugoslavia,YUG

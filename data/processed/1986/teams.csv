@@ -1,0 +1,25 @@
+id_team,confederation,team_name,short_name,abbreviation,country_code,foundation_year,flag_url
+43843,CAF,Algeria,Algeria,ALG,ALG,,https://api.fifa.com/api/v3/picture/flags-sq-4/ALG
+43922,CONMEBOL,Argentina,Argentina,ARG,ARG,,https://api.fifa.com/api/v3/picture/flags-sq-4/ARG
+43935,UEFA,Belgium,Belgium,BEL,BEL,,https://api.fifa.com/api/v3/picture/flags-sq-4/BEL
+43924,CONMEBOL,Brazil,Brazil,BRA,BRA,,https://api.fifa.com/api/v3/picture/flags-sq-4/BRA
+43936,UEFA,Bulgaria,Bulgaria,BUL,BUL,,https://api.fifa.com/api/v3/picture/flags-sq-4/BUL
+43899,CONCACAF,Canada,Canada,CAN,CAN,,https://api.fifa.com/api/v3/picture/flags-sq-4/CAN
+43941,UEFA,Denmark,Denmark,DEN,DEN,,https://api.fifa.com/api/v3/picture/flags-sq-4/DEN
+43942,UEFA,England,England,ENG,ENG,,https://api.fifa.com/api/v3/picture/flags-sq-4/ENG
+43946,UEFA,France,France,FRA,FRA,,https://api.fifa.com/api/v3/picture/flags-sq-4/FRA
+44023,UEFA,Germany FR,Germany FR,FRG,FRG,,https://api.fifa.com/api/v3/picture/flags-sq-4/FRG
+43950,UEFA,Hungary,Hungary,HUN,HUN,,https://api.fifa.com/api/v3/picture/flags-sq-4/HUN
+43818,AFC,Iraq,Iraq,IRQ,IRQ,,https://api.fifa.com/api/v3/picture/flags-sq-4/IRQ
+43954,UEFA,Italy,Italy,ITA,ITA,,https://api.fifa.com/api/v3/picture/flags-sq-4/ITA
+43822,AFC,Korea Republic,Korea Republic,KOR,KOR,,https://api.fifa.com/api/v3/picture/flags-sq-4/KOR
+43911,CONCACAF,Mexico,Mexico,MEX,MEX,,https://api.fifa.com/api/v3/picture/flags-sq-4/MEX
+43872,CAF,Morocco,Morocco,MAR,MAR,,https://api.fifa.com/api/v3/picture/flags-sq-4/MAR
+43952,UEFA,Northern Ireland,Northern Ireland,NIR,NIR,,https://api.fifa.com/api/v3/picture/flags-sq-4/NIR
+43928,CONMEBOL,Paraguay,Paraguay,PAR,PAR,,https://api.fifa.com/api/v3/picture/flags-sq-4/PAR
+43962,UEFA,Poland,Poland,POL,POL,,https://api.fifa.com/api/v3/picture/flags-sq-4/POL
+43963,UEFA,Portugal,Portugal,POR,POR,,https://api.fifa.com/api/v3/picture/flags-sq-4/POR
+43967,UEFA,Scotland,Scotland,SCO,SCO,,https://api.fifa.com/api/v3/picture/flags-sq-4/SCO
+44026,UEFA,Soviet Union,Soviet Union,URS,URS,,https://api.fifa.com/api/v3/picture/flags-sq-4/URS
+43969,UEFA,Spain,Spain,ESP,ESP,,https://api.fifa.com/api/v3/picture/flags-sq-4/ESP
+43930,CONMEBOL,Uruguay,Uruguay,URU,URU,,https://api.fifa.com/api/v3/picture/flags-sq-4/URU

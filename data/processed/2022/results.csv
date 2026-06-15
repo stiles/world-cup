@@ -1,0 +1,65 @@
+id_match,match_number,stage,group,date_utc,match_status,result_type,home_team,away_team,home_name,away_name,home_score,away_score,home_penalties,away_penalties,winner,home_tactics,away_tactics,home_possession,away_possession,attendance,stadium,humidity,temperature,wind_speed,weather
+400128082,1,First stage,Group A,2022-11-20,0,1,QAT,ECU,Qatar,Ecuador,0,2,0,0,ECU,5-3-2,4-4-2,47.09,52.91,67372,Al Bayt Stadium,61,24,8,Clear Night
+400235458,3,First stage,Group B,2022-11-21,0,1,ENG,IRN,England,IR Iran,6,2,0,0,ENG,4-3-3,5-3-2,73.95,26.05,45334,Khalifa International Stadium,51,26,6,Sunny
+400235449,2,First stage,Group A,2022-11-21,0,1,SEN,NED,Senegal,Netherlands,0,2,0,0,NED,4-5-1,3-5-2,46.98,53.02,41721,Al Thumama Stadium,65,24,5,Clear Night
+400235455,4,First stage,Group B,2022-11-21,0,1,USA,WAL,United States,Wales,1,1,0,0,,4-3-3,5-3-2,57.77,42.23,43418,Ahmad Bin Ali Stadium,71,23,4,Clear Night
+400235461,8,First stage,Group C,2022-11-22,0,1,ARG,KSA,Argentina,Saudi Arabia,1,2,0,0,KSA,4-4-2,4-3-3,65.83,34.17,88012,Lusail Stadium,47,27,3,Sunny
+400235466,6,First stage,Group D,2022-11-22,0,1,DEN,TUN,Denmark,Tunisia,0,0,0,0,,3-5-2,3-4-3,58.83,41.17,42925,Education City Stadium,54,26,2,Sunny
+400235463,7,First stage,Group C,2022-11-22,0,1,MEX,POL,Mexico,Poland,0,0,0,0,,4-3-3,4-5-1,59.27,40.73,39369,Stadium 974,54,24,2,Clear Night
+400235470,5,First stage,Group D,2022-11-22,0,1,FRA,AUS,France,Australia,4,1,0,0,FRA,4-3-3,4-3-3,60.67,39.33,40875,Al Janoub Stadium,72,22,2,Clear Night
+400235481,12,First stage,Group F,2022-11-23,0,1,MAR,CRO,Morocco,Croatia,0,0,0,0,,4-3-3,4-3-3,37.27,62.73,59407,Al Bayt Stadium,37,27,3,Sunny
+400235476,11,First stage,Group E,2022-11-23,0,1,GER,JPN,Germany,Japan,1,2,0,0,JPN,4-5-1,4-5-1,70.58,29.42,42608,Khalifa International Stadium,42,26,3,Sunny
+400235472,10,First stage,Group E,2022-11-23,0,1,ESP,CRC,Spain,Costa Rica,7,0,0,0,ESP,4-3-3,4-4-2,76.74,23.26,40013,Al Thumama Stadium,50,24,2,Clear Night
+400235477,9,First stage,Group F,2022-11-23,0,1,BEL,CAN,Belgium,Canada,1,0,0,0,BEL,3-5-2,3-4-3,51.8,48.2,40432,Ahmad Bin Ali Stadium,56,22,1,Clear Night
+400235484,16,First stage,Group G,2022-11-24,0,1,BRA,SRB,Brazil,Serbia,2,0,0,0,BRA,4-3-3,3-4-3,57.69,42.31,88103,Lusail Stadium,45,23,1,Cloudy Night
+400235493,15,First stage,Group H,2022-11-24,0,1,POR,GHA,Portugal,Ghana,3,2,0,0,POR,4-3-3,3-5-2,61.8,38.2,42662,Stadium 974,39,25,1,Partly Cloudy Night
+400235488,13,First stage,Group G,2022-11-24,0,1,SUI,CMR,Switzerland,Cameroon,1,0,0,0,SUI,4-3-3,4-3-3,49.22,50.78,39089,Al Janoub Stadium,19,29,2,Partly Cloudy
+400235491,14,First stage,Group H,2022-11-24,0,1,URU,KOR,Uruguay,Korea Republic,0,0,0,0,,4-3-3,4-3-3,56.55,43.45,41663,Education City Stadium,33,27,4,Partly Cloudy
+400235453,17,First stage,Group B,2022-11-25,0,1,WAL,IRN,Wales,IR Iran,0,2,0,0,IRN,3-4-3,4-3-3,59.88,40.12,40875,Ahmad Bin Ali Stadium,37,30,3,Sunny
+400235448,18,First stage,Group A,2022-11-25,0,1,QAT,SEN,Qatar,Senegal,1,3,0,0,SEN,5-3-2,4-4-2,46.17,53.83,41797,Al Thumama Stadium,45,28,4,Sunny
+400235452,19,First stage,Group A,2022-11-25,0,1,NED,ECU,Netherlands,Ecuador,1,1,0,0,,3-5-2,3-4-3,54.65,45.35,44833,Khalifa International Stadium,57,26,3,Clear Night
+400235457,20,First stage,Group B,2022-11-25,0,1,ENG,USA,England,United States,0,0,0,0,,4-3-3,4-3-3,54.31,45.69,68463,Al Bayt Stadium,66,25,2,Clear Night
+400235469,21,First stage,Group D,2022-11-26,0,1,TUN,AUS,Tunisia,Australia,0,1,0,0,AUS,3-4-3,4-4-2,54.4,45.6,41823,Al Janoub Stadium,32,31,2,Partly Cloudy
+400235459,22,First stage,Group C,2022-11-26,0,1,POL,KSA,Poland,Saudi Arabia,2,0,0,0,POL,4-5-1,4-5-1,37.85,62.15,44259,Education City Stadium,47,29,3,Partly Cloudy
+400235467,23,First stage,Group D,2022-11-26,0,1,FRA,DEN,France,Denmark,2,1,0,0,FRA,4-5-1,3-4-3,49.5,50.5,42860,Stadium 974,57,27,2,Clear Night
+400235462,24,First stage,Group C,2022-11-26,0,1,ARG,MEX,Argentina,Mexico,2,0,0,0,ARG,4-4-2,5-3-2,56.42,43.58,88966,Lusail Stadium,71,24,1,Clear Night
+400235474,28,First stage,Group E,2022-11-27,0,1,ESP,GER,Spain,Germany,1,1,0,0,,4-3-3,4-5-1,59.23,40.77,68895,Al Bayt Stadium,69,24,3,Clear Night
+400235471,25,First stage,Group E,2022-11-27,0,1,JPN,CRC,Japan,Costa Rica,0,1,0,0,CRC,4-5-1,3-6-1,55.29,44.71,41479,Ahmad Bin Ali Stadium,29,32,5,Sunny
+400235480,26,First stage,Group F,2022-11-27,0,1,BEL,MAR,Belgium,Morocco,0,2,0,0,MAR,3-4-3,4-3-3,63.17,36.83,43738,Al Thumama Stadium,39,30,5,Sunny
+400235482,27,First stage,Group F,2022-11-27,0,1,CRO,CAN,Croatia,Canada,4,1,0,0,CRO,4-3-3,4-4-2,46.79,53.21,44374,Khalifa International Stadium,49,26,4,Clear Night
+400235485,31,First stage,Group G,2022-11-28,0,1,BRA,SUI,Brazil,Switzerland,1,0,0,0,BRA,4-3-3,4-5-1,54.17,45.83,43649,Stadium 974,61,26,5,Clear Night
+400235492,32,First stage,Group H,2022-11-28,0,1,POR,URU,Portugal,Uruguay,2,0,0,0,POR,4-3-3,5-3-2,59.6,40.4,88668,Lusail Stadium,71,24,5,Partly Cloudy Night
+400235487,29,First stage,Group G,2022-11-28,0,1,CMR,SRB,Cameroon,Serbia,3,3,0,0,,4-3-3,3-4-3,43.93,56.07,39789,Al Janoub Stadium,40,31,7,Sunny
+400235489,30,First stage,Group H,2022-11-28,0,1,KOR,GHA,Korea Republic,Ghana,2,3,0,0,GHA,4-5-1,4-5-1,59.71,40.29,43983,Education City Stadium,47,29,7,Sunny
+400235450,36,First stage,Group A,2022-11-29,0,1,NED,QAT,Netherlands,Qatar,2,0,0,0,NED,3-5-2,5-3-2,59.32,40.68,66784,Al Bayt Stadium,71,26,2,Partly Cloudy Night
+400235451,35,First stage,Group A,2022-11-29,0,1,ECU,SEN,Ecuador,Senegal,1,2,0,0,SEN,4-3-3,4-3-3,57.62,42.38,44569,Khalifa International Stadium,71,25,2,Partly Cloudy Night
+400235454,33,First stage,Group B,2022-11-29,0,1,WAL,ENG,Wales,England,0,3,0,0,ENG,4-5-1,4-3-3,38.07,61.93,44297,Ahmad Bin Ali Stadium,75,24,1,Partly Cloudy Night
+400235456,34,First stage,Group B,2022-11-29,0,1,IRN,USA,IR Iran,United States,0,1,0,0,USA,4-5-1,4-3-3,47.34,52.66,42127,Al Thumama Stadium,75,24,1,Partly Cloudy Night
+400235468,37,First stage,Group D,2022-11-30,0,1,AUS,DEN,Australia,Denmark,1,0,0,0,AUS,4-4-2,4-3-3,34.35,65.65,41232,Al Janoub Stadium,70,26,3,Partly Cloudy
+400235465,38,First stage,Group D,2022-11-30,0,1,TUN,FRA,Tunisia,France,1,0,0,0,TUN,3-4-3,4-3-3,37.09,62.91,43627,Education City Stadium,70,26,3,Partly Cloudy
+400235464,39,First stage,Group C,2022-11-30,0,1,POL,ARG,Poland,Argentina,0,2,0,0,ARG,4-5-1,4-3-3,30.38,69.62,44089,Stadium 974,71,24,1,Partly Cloudy Night
+400235460,40,First stage,Group C,2022-11-30,0,1,KSA,MEX,Saudi Arabia,Mexico,1,2,0,0,MEX,4-4-2,4-5-1,39.59,60.41,84985,Lusail Stadium,71,24,1,Partly Cloudy Night
+400235478,41,First stage,Group F,2022-12-01,0,1,CRO,BEL,Croatia,Belgium,0,0,0,0,,4-3-3,3-4-3,49.72,50.28,43984,Ahmad Bin Ali Stadium,56,27,3,Clear Night
+400235479,42,First stage,Group F,2022-12-01,0,1,CAN,MAR,Canada,Morocco,1,2,0,0,MAR,4-4-2,4-3-3,57.06,42.94,43102,Al Thumama Stadium,59,27,3,Clear Night
+400235475,43,First stage,Group E,2022-12-01,0,1,JPN,ESP,Japan,Spain,2,1,0,0,JPN,3-4-3,4-3-3,20.34,79.66,44851,Khalifa International Stadium,62,24,3,Cloudy Night
+400235473,44,First stage,Group E,2022-12-01,0,1,CRC,GER,Costa Rica,Germany,2,4,0,0,GER,5-4-1,4-3-3,33.41,66.59,67054,Al Bayt Stadium,73,23,3,Clear Night
+400235483,48,First stage,Group G,2022-12-02,0,1,CMR,BRA,Cameroon,Brazil,1,0,0,0,CMR,4-4-2,4-4-2,37.79,62.21,85986,Lusail Stadium,79,24,4,Clear Night
+400235486,47,First stage,Group G,2022-12-02,0,1,SRB,SUI,Serbia,Switzerland,2,3,0,0,SUI,3-5-2,4-5-1,51.48,48.52,41378,Stadium 974,79,24,4,Clear Night
+400235494,45,First stage,Group H,2022-12-02,0,1,GHA,URU,Ghana,Uruguay,0,2,0,0,URU,4-5-1,4-3-3,53.14,46.86,43443,Al Janoub Stadium,64,26,5,Partly Cloudy Night
+400235490,46,First stage,Group H,2022-12-02,0,1,KOR,POR,Korea Republic,Portugal,2,1,0,0,KOR,4-3-3,4-5-1,39.24,60.76,44097,Education City Stadium,64,26,5,Partly Cloudy Night
+400128136,49,Round of 16,,2022-12-03,0,1,NED,USA,Netherlands,United States,3,1,0,0,NED,3-5-2,4-3-3,42.41,57.59,44846,Khalifa International Stadium,59,26,5,Clear Night
+400128131,50,Round of 16,,2022-12-03,0,1,ARG,AUS,Argentina,Australia,2,1,0,0,ARG,4-3-3,4-4-2,60.43,39.57,45032,Ahmad Bin Ali Stadium,72,24,3,Clear Night
+400128135,52,Round of 16,,2022-12-04,0,1,FRA,POL,France,Poland,3,1,0,0,FRA,4-5-1,4-5-1,53.83,46.17,40989,Al Thumama Stadium,63,26,4,Partly Cloudy Night
+400128134,51,Round of 16,,2022-12-04,0,1,ENG,SEN,England,Senegal,3,0,0,0,ENG,4-3-3,4-4-2,58.33,41.67,65985,Al Bayt Stadium,71,24,2,Partly Cloudy Night
+400128132,53,Round of 16,,2022-12-05,0,2,JPN,CRO,Japan,Croatia,1,1,1,3,CRO,3-4-3,4-3-3,41.64,58.36,42523,Al Janoub Stadium,53,25,3,Clear Night
+400128133,54,Round of 16,,2022-12-05,0,1,BRA,KOR,Brazil,Korea Republic,4,1,0,0,BRA,4-3-3,4-4-2,52.76,47.24,43847,Stadium 974,71,25,1,Cloudy Night
+400128130,56,Round of 16,,2022-12-06,0,1,POR,SUI,Portugal,Switzerland,6,1,0,0,POR,4-3-3,3-5-2,46.84,53.16,83720,Lusail Stadium,78,24,4,Partly Cloudy Night
+400128137,55,Round of 16,,2022-12-06,0,2,MAR,ESP,Morocco,Spain,0,0,3,0,MAR,4-3-3,4-3-3,28.4,71.6,44667,Education City Stadium,63,25,4,Partly Cloudy Night
+400128141,58,Quarter-final,,2022-12-09,0,2,CRO,BRA,Croatia,Brazil,1,1,4,2,CRO,4-3-3,4-3-3,51.76,48.24,43893,Education City Stadium,44,23,6,Clear Night
+400128139,57,Quarter-final,,2022-12-09,0,2,NED,ARG,Netherlands,Argentina,2,2,3,4,ARG,3-5-2,3-5-2,53.35,46.65,88235,Lusail Stadium,54,21,6,Clear Night
+400128140,60,Quarter-final,,2022-12-10,0,1,MAR,POR,Morocco,Portugal,1,0,0,0,MAR,4-3-3,4-3-3,31.31,68.69,44198,Al Thumama Stadium,57,21,5,Clear Night
+400128138,59,Quarter-final,,2022-12-10,0,1,ENG,FRA,England,France,1,2,0,0,FRA,4-3-3,4-5-1,57.91,42.09,68895,Al Bayt Stadium,58,19,4,Clear Night
+400128143,61,Semi-final,,2022-12-13,0,1,ARG,CRO,Argentina,Croatia,3,0,0,0,ARG,4-4-2,4-3-3,41.34,58.66,88966,Lusail Stadium,69,21,2,Clear Night
+400128142,62,Semi-final,,2022-12-14,0,1,FRA,MAR,France,Morocco,2,0,0,0,FRA,4-3-3,3-4-3,40.78,59.22,68294,Al Bayt Stadium,76,20,1,Clear Night
+400128144,63,Play-off for third place,,2022-12-17,0,1,CRO,MAR,Croatia,Morocco,2,1,0,0,CRO,4-4-2,4-3-3,48.83,51.17,44137,Khalifa International Stadium,57,23,5,Clear Night
+400128145,64,Final,,2022-12-18,0,2,ARG,FRA,Argentina,France,3,3,4,2,ARG,4-3-3,4-3-3,51.88,48.12,88966,Lusail Stadium,62,22,5,Partly Cloudy Night

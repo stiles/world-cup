@@ -1,0 +1,16 @@
+id_team,confederation,team_name,short_name,abbreviation,country_code,foundation_year,flag_url
+43935,UEFA,Belgium,Belgium,BEL,BEL,,https://api.fifa.com/api/v3/picture/flags-sq-4/BEL
+43924,CONMEBOL,Brazil,Brazil,BRA,BRA,,https://api.fifa.com/api/v3/picture/flags-sq-4/BRA
+43902,CONCACAF,Cuba,Cuba,CUB,CUB,,https://api.fifa.com/api/v3/picture/flags-sq-4/CUB
+44025,UEFA,Czechoslovakia,Czechoslovakia,TCH,TCH,,https://api.fifa.com/api/v3/picture/flags-sq-4/TCH
+44031,AFC,Dutch East Indies,Dutch East Indies,INH,INH,,https://api.fifa.com/api/v3/picture/flags-sq-4/INH
+43946,UEFA,France,France,FRA,FRA,,https://api.fifa.com/api/v3/picture/flags-sq-4/FRA
+43948,UEFA,Germany,Germany,GER,GER,,https://api.fifa.com/api/v3/picture/flags-sq-4/GER
+43950,UEFA,Hungary,Hungary,HUN,HUN,,https://api.fifa.com/api/v3/picture/flags-sq-4/HUN
+43954,UEFA,Italy,Italy,ITA,ITA,,https://api.fifa.com/api/v3/picture/flags-sq-4/ITA
+43960,UEFA,Netherlands,Netherlands,NED,NED,,https://api.fifa.com/api/v3/picture/flags-sq-4/NED
+43961,UEFA,Norway,Norway,NOR,NOR,,https://api.fifa.com/api/v3/picture/flags-sq-4/NOR
+43962,UEFA,Poland,Poland,POL,POL,,https://api.fifa.com/api/v3/picture/flags-sq-4/POL
+43964,UEFA,Romania,Romania,ROU,ROU,,https://api.fifa.com/api/v3/picture/flags-sq-4/ROU
+43970,UEFA,Sweden,Sweden,SWE,SWE,,https://api.fifa.com/api/v3/picture/flags-sq-4/SWE
+43971,UEFA,Switzerland,Switzerland,SUI,SUI,,https://api.fifa.com/api/v3/picture/flags-sq-4/SUI

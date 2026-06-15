@@ -1,0 +1,17 @@
+id_team,confederation,team_name,short_name,abbreviation,country_code,foundation_year,flag_url
+43922,CONMEBOL,Argentina,Argentina,ARG,ARG,,https://api.fifa.com/api/v3/picture/flags-sq-4/ARG
+43934,UEFA,Austria,Austria,AUT,AUT,,https://api.fifa.com/api/v3/picture/flags-sq-4/AUT
+43924,CONMEBOL,Brazil,Brazil,BRA,BRA,,https://api.fifa.com/api/v3/picture/flags-sq-4/BRA
+44025,UEFA,Czechoslovakia,Czechoslovakia,TCH,TCH,,https://api.fifa.com/api/v3/picture/flags-sq-4/TCH
+43942,UEFA,England,England,ENG,ENG,,https://api.fifa.com/api/v3/picture/flags-sq-4/ENG
+43946,UEFA,France,France,FRA,FRA,,https://api.fifa.com/api/v3/picture/flags-sq-4/FRA
+44023,UEFA,Germany FR,Germany FR,FRG,FRG,,https://api.fifa.com/api/v3/picture/flags-sq-4/FRG
+43950,UEFA,Hungary,Hungary,HUN,HUN,,https://api.fifa.com/api/v3/picture/flags-sq-4/HUN
+43911,CONCACAF,Mexico,Mexico,MEX,MEX,,https://api.fifa.com/api/v3/picture/flags-sq-4/MEX
+43952,UEFA,Northern Ireland,Northern Ireland,NIR,NIR,,https://api.fifa.com/api/v3/picture/flags-sq-4/NIR
+43928,CONMEBOL,Paraguay,Paraguay,PAR,PAR,,https://api.fifa.com/api/v3/picture/flags-sq-4/PAR
+43967,UEFA,Scotland,Scotland,SCO,SCO,,https://api.fifa.com/api/v3/picture/flags-sq-4/SCO
+44026,UEFA,Soviet Union,Soviet Union,URS,URS,,https://api.fifa.com/api/v3/picture/flags-sq-4/URS
+43970,UEFA,Sweden,Sweden,SWE,SWE,,https://api.fifa.com/api/v3/picture/flags-sq-4/SWE
+43974,UEFA,Wales,Wales,WAL,WAL,,https://api.fifa.com/api/v3/picture/flags-sq-4/WAL
+43975,UEFA,Yugoslavia,Yugoslavia,YUG,YUG,,https://api.fifa.com/api/v3/picture/flags-sq-4/YUG

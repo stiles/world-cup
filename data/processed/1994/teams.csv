@@ -1,0 +1,25 @@
+id_team,confederation,team_name,short_name,abbreviation,country_code,foundation_year,flag_url
+43922,CONMEBOL,Argentina,Argentina,ARG,ARG,,https://api.fifa.com/api/v3/picture/flags-sq-4/ARG
+43935,UEFA,Belgium,Belgium,BEL,BEL,,https://api.fifa.com/api/v3/picture/flags-sq-4/BEL
+43923,CONMEBOL,Bolivia,Bolivia,BOL,BOL,,https://api.fifa.com/api/v3/picture/flags-sq-4/BOL
+43924,CONMEBOL,Brazil,Brazil,BRA,BRA,,https://api.fifa.com/api/v3/picture/flags-sq-4/BRA
+43936,UEFA,Bulgaria,Bulgaria,BUL,BUL,,https://api.fifa.com/api/v3/picture/flags-sq-4/BUL
+43849,CAF,Cameroon,Cameroon,CMR,CMR,,https://api.fifa.com/api/v3/picture/flags-sq-4/CMR
+43926,CONMEBOL,Colombia,Colombia,COL,COL,,https://api.fifa.com/api/v3/picture/flags-sq-4/COL
+43948,UEFA,Germany,Germany,GER,GER,,https://api.fifa.com/api/v3/picture/flags-sq-4/GER
+43949,UEFA,Greece,Greece,GRE,GRE,,https://api.fifa.com/api/v3/picture/flags-sq-4/GRE
+43954,UEFA,Italy,Italy,ITA,ITA,,https://api.fifa.com/api/v3/picture/flags-sq-4/ITA
+43822,AFC,Korea Republic,Korea Republic,KOR,KOR,,https://api.fifa.com/api/v3/picture/flags-sq-4/KOR
+43911,CONCACAF,Mexico,Mexico,MEX,MEX,,https://api.fifa.com/api/v3/picture/flags-sq-4/MEX
+43872,CAF,Morocco,Morocco,MAR,MAR,,https://api.fifa.com/api/v3/picture/flags-sq-4/MAR
+43960,UEFA,Netherlands,Netherlands,NED,NED,,https://api.fifa.com/api/v3/picture/flags-sq-4/NED
+43876,CAF,Nigeria,Nigeria,NGA,NGA,,https://api.fifa.com/api/v3/picture/flags-sq-4/NGA
+43961,UEFA,Norway,Norway,NOR,NOR,,https://api.fifa.com/api/v3/picture/flags-sq-4/NOR
+43953,UEFA,Republic of Ireland,Republic of Ireland,IRL,IRL,,https://api.fifa.com/api/v3/picture/flags-sq-4/IRL
+43964,UEFA,Romania,Romania,ROU,ROU,,https://api.fifa.com/api/v3/picture/flags-sq-4/ROU
+43965,UEFA,Russia,Russia,RUS,RUS,,https://api.fifa.com/api/v3/picture/flags-sq-4/RUS
+43835,AFC,Saudi Arabia,Saudi Arabia,KSA,KSA,,https://api.fifa.com/api/v3/picture/flags-sq-4/KSA
+43969,UEFA,Spain,Spain,ESP,ESP,,https://api.fifa.com/api/v3/picture/flags-sq-4/ESP
+43970,UEFA,Sweden,Sweden,SWE,SWE,,https://api.fifa.com/api/v3/picture/flags-sq-4/SWE
+43971,UEFA,Switzerland,Switzerland,SUI,SUI,,https://api.fifa.com/api/v3/picture/flags-sq-4/SUI
+43921,CONCACAF,United States,USA,USA,USA,,https://api.fifa.com/api/v3/picture/flags-sq-4/USA

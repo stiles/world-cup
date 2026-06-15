@@ -1,0 +1,33 @@
+id_team,confederation,team_name,short_name,abbreviation,country_code,foundation_year,flag_url
+43922,CONMEBOL,Argentina,Argentina,ARG,ARG,,https://api.fifa.com/api/v3/picture/flags-sq-4/ARG
+43934,UEFA,Austria,Austria,AUT,AUT,,https://api.fifa.com/api/v3/picture/flags-sq-4/AUT
+43935,UEFA,Belgium,Belgium,BEL,BEL,,https://api.fifa.com/api/v3/picture/flags-sq-4/BEL
+43924,CONMEBOL,Brazil,Brazil,BRA,BRA,,https://api.fifa.com/api/v3/picture/flags-sq-4/BRA
+43936,UEFA,Bulgaria,Bulgaria,BUL,BUL,,https://api.fifa.com/api/v3/picture/flags-sq-4/BUL
+43849,CAF,Cameroon,Cameroon,CMR,CMR,,https://api.fifa.com/api/v3/picture/flags-sq-4/CMR
+43925,CONMEBOL,Chile,Chile,CHI,CHI,,https://api.fifa.com/api/v3/picture/flags-sq-4/CHI
+43926,CONMEBOL,Colombia,Colombia,COL,COL,,https://api.fifa.com/api/v3/picture/flags-sq-4/COL
+43938,UEFA,Croatia,Croatia,CRO,CRO,,https://api.fifa.com/api/v3/picture/flags-sq-4/CRO
+43941,UEFA,Denmark,Denmark,DEN,DEN,,https://api.fifa.com/api/v3/picture/flags-sq-4/DEN
+43942,UEFA,England,England,ENG,ENG,,https://api.fifa.com/api/v3/picture/flags-sq-4/ENG
+43946,UEFA,France,France,FRA,FRA,,https://api.fifa.com/api/v3/picture/flags-sq-4/FRA
+43948,UEFA,Germany,Germany,GER,GER,,https://api.fifa.com/api/v3/picture/flags-sq-4/GER
+43817,AFC,Iran,IR Iran,IRN,IRN,,https://api.fifa.com/api/v3/picture/flags-sq-4/IRN
+43954,UEFA,Italy,Italy,ITA,ITA,,https://api.fifa.com/api/v3/picture/flags-sq-4/ITA
+43910,CONCACAF,Jamaica,Jamaica,JAM,JAM,,https://api.fifa.com/api/v3/picture/flags-sq-4/JAM
+43819,AFC,Japan,Japan,JPN,JPN,,https://api.fifa.com/api/v3/picture/flags-sq-4/JPN
+43822,AFC,Korea Republic,Korea Republic,KOR,KOR,,https://api.fifa.com/api/v3/picture/flags-sq-4/KOR
+43911,CONCACAF,Mexico,Mexico,MEX,MEX,,https://api.fifa.com/api/v3/picture/flags-sq-4/MEX
+43872,CAF,Morocco,Morocco,MAR,MAR,,https://api.fifa.com/api/v3/picture/flags-sq-4/MAR
+43960,UEFA,Netherlands,Netherlands,NED,NED,,https://api.fifa.com/api/v3/picture/flags-sq-4/NED
+43876,CAF,Nigeria,Nigeria,NGA,NGA,,https://api.fifa.com/api/v3/picture/flags-sq-4/NGA
+43961,UEFA,Norway,Norway,NOR,NOR,,https://api.fifa.com/api/v3/picture/flags-sq-4/NOR
+43928,CONMEBOL,Paraguay,Paraguay,PAR,PAR,,https://api.fifa.com/api/v3/picture/flags-sq-4/PAR
+43964,UEFA,Romania,Romania,ROU,ROU,,https://api.fifa.com/api/v3/picture/flags-sq-4/ROU
+43835,AFC,Saudi Arabia,Saudi Arabia,KSA,KSA,,https://api.fifa.com/api/v3/picture/flags-sq-4/KSA
+43967,UEFA,Scotland,Scotland,SCO,SCO,,https://api.fifa.com/api/v3/picture/flags-sq-4/SCO
+43883,CAF,South Africa,South Africa,RSA,RSA,,https://api.fifa.com/api/v3/picture/flags-sq-4/RSA
+43969,UEFA,Spain,Spain,ESP,ESP,,https://api.fifa.com/api/v3/picture/flags-sq-4/ESP
+43888,CAF,Tunisia,Tunisia,TUN,TUN,,https://api.fifa.com/api/v3/picture/flags-sq-4/TUN
+43921,CONCACAF,United States,USA,USA,USA,,https://api.fifa.com/api/v3/picture/flags-sq-4/USA
+43975,UEFA,Yugoslavia,Yugoslavia,YUG,YUG,,https://api.fifa.com/api/v3/picture/flags-sq-4/YUG
