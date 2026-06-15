@@ -24,6 +24,8 @@ import time
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
+import requests
+
 from . import config
 from .fetch import get_calendar_matches, get_json
 
@@ -42,6 +44,20 @@ def colorize(enabled: bool, s: str, fg: str = "37", bold: bool = False) -> str:
 
 def warn(msg: str) -> None:
     print(colorize(True, f"! {msg}", "33"), file=sys.stderr)
+
+
+def _reason(exc: Exception) -> str:
+    """Collapse a noisy requests/urllib3 exception into a short, human cause."""
+    if isinstance(exc, requests.exceptions.ConnectTimeout):
+        return "connection timed out"
+    if isinstance(exc, requests.exceptions.ReadTimeout):
+        return "server slow to respond"
+    if isinstance(exc, requests.exceptions.ConnectionError):
+        text = str(exc).lower()
+        if "nodename nor servname" in text or "name or service not known" in text or "getaddrinfo" in text:
+            return "computer asleep or offline"
+        return "network unreachable"
+    return exc.__class__.__name__
 
 
 def local_tz_key(default: str = "America/Los_Angeles") -> str:
@@ -309,14 +325,25 @@ def stream(match: dict, color: bool, scoring_only: bool, interval: float, from_s
     last_score: tuple = ()
     backoff = interval
     first = True
+    offline = False
     while True:
         try:
             events = fetch_timeline(match)
-        except Exception as e:  # noqa: BLE001
-            warn(f"network hiccup: {e}; retrying in {backoff:.0f}s")
+        except requests.exceptions.RequestException as e:
+            if not offline:
+                warn(f"Connection lost ({_reason(e)}). Reconnecting...")
+                offline = True
             time.sleep(backoff)
-            backoff = min(backoff * 2, 30)
+            backoff = min(backoff * 2, 60)
             continue
+        except Exception as e:  # noqa: BLE001
+            warn(f"Unexpected error: {e}. Retrying in {backoff:.0f}s...")
+            time.sleep(backoff)
+            backoff = min(backoff * 2, 60)
+            continue
+        if offline:
+            print(colorize(color, "  Reconnected.", "32", bold=True))
+            offline = False
         backoff = interval
 
         new = [e for e in events if e.get("EventId") not in seen]
