@@ -1,19 +1,25 @@
 """Fetch squad rosters for every team."""
 
 import pandas as pd
+import requests
 
 from . import config, storage, teams
 from .fetch import get_json
 
 
-def fetch_squad(id_team: str) -> list[dict]:
+def fetch_squad(id_team: str, season: str | None = None) -> list[dict]:
+    season = season or config.SEASON_ID
     url = f"{config.API_BASE}/teams/{id_team}/squad"
     params = {
         "idCompetition": config.COMPETITION_ID,
-        "idSeason": config.SEASON_ID,
+        "idSeason": season,
         "language": config.LANGUAGE,
     }
-    return get_json(url, params=params).get("Players", [])
+    try:
+        return get_json(url, params=params).get("Players", [])
+    except requests.exceptions.HTTPError:
+        # Older tournaments often have no squad data; treat as empty.
+        return []
 
 
 def _player_record(player: dict) -> dict:
@@ -53,19 +59,25 @@ def transform(records: list[dict], teams_df: pd.DataFrame) -> pd.DataFrame:
     return df.sort_values(["team_name", "jersey_number"]).reset_index(drop=True)
 
 
-def run(teams_df: pd.DataFrame | None = None) -> pd.DataFrame:
+def run(teams_df: pd.DataFrame | None = None, season: str | None = None,
+        subdir: str | None = None) -> pd.DataFrame:
     print("players:")
+    season = season or config.SEASON_ID
     if teams_df is None:
-        teams_df = teams.run()
+        teams_df = teams.run(season=season, subdir=subdir)
 
     records: list[dict] = []
     for id_team, name in zip(teams_df["id_team"], teams_df["team_name"]):
-        squad = fetch_squad(str(id_team))
+        squad = fetch_squad(str(id_team), season=season)
         records.extend(_player_record(p) for p in squad)
         print(f"  {name}: {len(squad)} players")
 
+    if not records:
+        print("  no squad data available for this season")
+        return pd.DataFrame()
+
     df = transform(records, teams_df)
-    storage.save(df, "players")
+    storage.save(df, "players", subdir=subdir)
     return df
 
 

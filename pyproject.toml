@@ -19,6 +19,7 @@ keywords = ["world cup", "fifa", "soccer", "football", "cli", "data"]
 [project.scripts]
 nutmeg = "worldcup.nutmeg:main"
 worldcup-collect = "worldcup.__main__:main"
+worldcup-backfill = "worldcup.backfill:main"
 
 [project.urls]
 Homepage = "https://github.com/stiles/world-cup"

@@ -65,11 +65,11 @@ def transform(matches: list[dict]) -> pd.DataFrame:
     return df.sort_values("date_utc").reset_index(drop=True)
 
 
-def run() -> pd.DataFrame:
+def run(season: str | None = None, subdir: str | None = None) -> pd.DataFrame:
     print("results:")
-    matches = get_calendar_matches()
+    matches = get_calendar_matches(season)
     df = transform(matches)
-    storage.save(df, "results")
+    storage.save(df, "results", subdir=subdir)
     return df
 
 

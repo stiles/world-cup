@@ -73,6 +73,28 @@ Analysis scripts that build on the collected data live in `examples/`:
 python examples/team_profiles.py   # per-team average age, height, weight, squad size
 ```
 
+## Collect every edition (backfill)
+
+`worldcup-backfill` collects the core datasets (teams, players, schedule, results)
+for all World Cups, 1930-2026, discovered live from the FIFA seasons endpoint.
+
+```bash
+python -m worldcup.backfill              # all editions
+python -m worldcup.backfill --from 1990  # 1990 onward
+python -m worldcup.backfill 2018 2022     # specific years
+python -m worldcup.backfill --refresh     # re-pull editions already on disk
+```
+
+Output:
+
+- Per edition: `data/processed/<year>/{teams,players,schedule,results}.csv` (+ JSON)
+- Combined, with a `year` column: `data/processed/all/{teams,players,schedule,results}.csv`
+- `data/processed/all/coverage.csv` — row counts per dataset per edition
+
+Past tournaments are static, so collected years are skipped unless `--refresh` is
+passed; the run is resumable if a connection drops. Editions without a given
+dataset are skipped gracefully (FIFA actually has squads back to 1930).
+
 ## Targeting a different tournament
 
 Edit `worldcup/config.py`:
@@ -109,6 +131,8 @@ worldcup/
   fetch.py         HTTP with retry + calendar fetcher
   storage.py       CSV/JSON writers
   teams.py players.py schedule.py results.py team_stats.py player_stats.py
+  seasons.py       discover all World Cup editions (year -> idSeason)
+  backfill.py      collect every edition (the `worldcup-backfill` command)
   nutmeg.py        play-by-play CLI (the `nutmeg` command)
   __main__.py      collector orchestrator (python -m worldcup)
 examples/          analysis scripts built on the collected data

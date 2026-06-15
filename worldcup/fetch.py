@@ -29,23 +29,24 @@ def get_json(url: str, params: dict | None = None, timeout: int = 30):
     return response.json()
 
 
-def get_calendar_matches() -> list[dict]:
+def get_calendar_matches(season: str | None = None) -> list[dict]:
     """Return the full list of match records for the season.
 
     A single request with a large count returns all matches (104 in 2026), so
     no pagination is needed. We assert this to fail loudly if FIFA ever caps the
     page size and starts returning a ContinuationToken.
     """
+    season = season or config.SEASON_ID
     url = f"{config.API_BASE}/calendar/matches"
     params = {
         "language": config.LANGUAGE,
         "count": 1000,
-        "idSeason": config.SEASON_ID,
+        "idSeason": season,
     }
     data = get_json(url, params=params)
     results = data.get("Results", [])
     if not results:
-        raise RuntimeError(f"No matches returned for season {config.SEASON_ID}")
+        raise RuntimeError(f"No matches returned for season {season}")
     if data.get("ContinuationToken"):
         raise RuntimeError(
             "Calendar response was paginated (ContinuationToken present). "

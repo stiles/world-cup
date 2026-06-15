@@ -6,8 +6,9 @@ from . import config, storage
 from .fetch import get_json
 
 
-def fetch() -> list[dict]:
-    url = f"{config.API_BASE}/competitions/teams/{config.SEASON_ID}"
+def fetch(season: str | None = None) -> list[dict]:
+    season = season or config.SEASON_ID
+    url = f"{config.API_BASE}/competitions/teams/{season}"
     return get_json(url, params={"language": config.LANGUAGE})["Results"]
 
 
@@ -37,11 +38,11 @@ def transform(results: list[dict]) -> pd.DataFrame:
     return out.sort_values("team_name").reset_index(drop=True)
 
 
-def run() -> pd.DataFrame:
+def run(season: str | None = None, subdir: str | None = None) -> pd.DataFrame:
     print("teams:")
-    results = fetch()
+    results = fetch(season)
     df = transform(results)
-    storage.save(df, "teams", raw=results)
+    storage.save(df, "teams", subdir=subdir, raw=results)
     return df
 
 
