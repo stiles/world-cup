@@ -34,7 +34,21 @@ python -m worldcup.teams
 python -m worldcup.player_stats
 ```
 
-Outputs land in `data/processed/` as both CSV and JSON. Raw API payloads (where saved) go to `data/raw/`.
+Outputs land in `data/processed/` as both CSV and JSON. Raw API payloads (where saved) go to `data/raw/`. See [Data layout](#data-layout) for how the current tournament, per-edition and combined files are organized.
+
+## Data layout
+
+`data/processed/` holds three tiers of data:
+
+| Location | What | Produced by |
+|---|---|---|
+| `data/processed/*.csv` (root) | The **current tournament** (2026). The only tier with stats (`team_stats`, `player_stats`). | `python -m worldcup` |
+| `data/processed/<year>/` | One folder **per edition** (1930-2026) with the core datasets: `teams`, `players`, `schedule`, `results`. No stats. | `worldcup-backfill` |
+| `data/processed/all/` | All editions **combined** into one table per dataset, with a `year` column, plus `coverage.csv`. | `worldcup-backfill` |
+
+The root files and the `2026/` folder overlap for the core datasets, but the root is the live working set (and carries the stats), while `2026/` is just 2026's slice of the historical archive.
+
+Raw API payloads (where saved) go to `data/raw/`.
 
 ## nutmeg: follow a match (play-by-play)
 
@@ -137,4 +151,7 @@ worldcup/
   __main__.py      collector orchestrator (python -m worldcup)
 examples/          analysis scripts built on the collected data
 data/processed/    CSV + JSON outputs
+  *.csv            current tournament (2026), incl. stats — python -m worldcup
+  <year>/          one folder per edition (1930-2026) — worldcup-backfill
+  all/             every edition combined, with a year column + coverage.csv
 ```
