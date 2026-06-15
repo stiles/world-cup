@@ -11,7 +11,7 @@ Data: FIFA API calendar + per-match timelines endpoint.
     nutmeg USA             # USA's live/last/next match
     nutmeg --match 1       # follow match number 1
     nutmeg USA --recap     # full timeline of last USA match
-    nutmeg --list          # print the schedule and exit
+    nutmeg --schedule          # print the schedule and exit
 
 (or run via `python -m worldcup.nutmeg ...` without installing)
 """
@@ -425,7 +425,7 @@ def main() -> None:
     ap.add_argument("--live", action="store_true", help="Stream even if the match looks finished")
     ap.add_argument("--from-start", action="store_true", help="When live, print all prior events first")
     ap.add_argument("--scoring-only", action="store_true", help="Only goals, cards, VAR and key moments")
-    ap.add_argument("--list", action="store_true", help="Print the schedule (optionally for a team) and exit")
+    ap.add_argument("--schedule", action="store_true", help="Print the schedule (optionally for a team) and exit")
     ap.add_argument("--interval", type=float, default=8.0, help="Live poll seconds (default 8)")
     ap.add_argument("--no-color", action="store_true", help="Disable ANSI color")
     ap.add_argument("--tz", default=tz_default, help="IANA timezone (default: local)")
@@ -437,7 +437,7 @@ def main() -> None:
 
     pool = team_matches(matches, args.team) if args.team else matches
 
-    if args.list:
+    if args.schedule:
         rows = sorted(pool, key=lambda m: m["kickoff"] or now)
         header = f"Schedule ({args.team})" if args.team else "Schedule"
         print(colorize(color, header, "37", bold=True))

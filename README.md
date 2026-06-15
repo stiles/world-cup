@@ -46,7 +46,7 @@ nutmeg                 # today's matches, pick one
 nutmeg USA             # USA's live / last / next match
 nutmeg --match 1       # follow a specific match number
 nutmeg USA --recap     # full timeline of the last USA match
-nutmeg --list          # print the schedule and exit
+nutmeg --schedule          # print the schedule and exit
 ```
 
 The `nutmeg` command is available after `pip install -e .`; without installing,
@@ -57,7 +57,7 @@ Key flags:
 - `--recap` print the full timeline and exit (default for finished matches)
 - `--scoring-only` goals, cards, VAR and key moments only
 - `--from-start` when live, print all prior events before following
-- `--list` print the schedule (optionally filtered by team) and exit
+- `--schedule` print the schedule (optionally filtered by team) and exit
 - `--interval N` live poll seconds (default 8)
 - `--tz ZONE` IANA timezone for kickoff times (default: local)
 - `--no-color` disable ANSI color
