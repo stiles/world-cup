@@ -20,7 +20,7 @@ from . import config, players, results, schedule, seasons, teams
 CORE = ["teams", "players", "schedule", "results"]
 
 
-def collect_season(year: int, id_season: str) -> None:
+def collect_season(year: int, id_season: str, start_date: str | None = None) -> None:
     subdir = str(year)
     print(f"\n=== {year} (idSeason={id_season}) ===")
     teams_df = None
@@ -30,7 +30,7 @@ def collect_season(year: int, id_season: str) -> None:
         print(f"  teams failed: {e}")
     if teams_df is not None and not teams_df.empty:
         try:
-            players.run(teams_df=teams_df, season=id_season, subdir=subdir)
+            players.run(teams_df=teams_df, season=id_season, subdir=subdir, as_of=start_date)
         except Exception as e:  # noqa: BLE001
             print(f"  players failed: {e}")
     for mod in (schedule, results):
@@ -102,7 +102,7 @@ def main() -> None:
         if done and not args.refresh:
             print(f"\n=== {r['year']} — already collected, skipping (use --refresh) ===")
             continue
-        collect_season(r["year"], r["id_season"])
+        collect_season(r["year"], r["id_season"], r.get("start_date"))
         time.sleep(args.delay)
 
     if not args.no_combine:

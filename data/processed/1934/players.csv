@@ -1,322 +1,322 @@
 player_id,name,position,jersey_number,weight,height,country_code,id_team,picture_url,dob,age,position_desc,team_name,team_abbr
-46383,Ernesto Belis,1,,,,ARG,43922,,1909-02-01,117.4,Defender,Argentina,ARG
-48333,Alfredo De Vincenzi,3,,,,ARG,43922,,1907-06-09,119.0,Striker,Argentina,ARG
-49606,Hector Freschi,0,,,,ARG,43922,,1911-05-22,115.1,Goalkeeper,Argentina,ARG
-49694,Alberto Galateo,3,,,,ARG,43922,,1913-01-01,113.4,Striker,Argentina,ARG
-51274,Roberto Iraneta,3,,,,ARG,43922,,1915-03-21,111.2,Striker,Argentina,ARG
-53160,Arcadio Lopez,2,,,,ARG,43922,,1910-09-15,115.7,Midfielder,Argentina,ARG
-55028,Jose Nehin,2,,,,ARG,43922,,1905-10-13,120.7,Midfielder,Argentina,ARG
-56047,Juan Pedevilla,1,,,,ARG,43922,,1909-06-06,117.0,Defender,Argentina,ARG
-57181,Francisco Rua,3,,,,ARG,43922,,1911-02-04,115.4,Striker,Argentina,ARG
-59281,Costantino Urbieta Sosa,2,,,,ARG,43922,,1907-08-12,118.8,Midfielder,Argentina,ARG
-59939,Federico Wilde,3,,,,ARG,43922,,1912-12-14,113.5,Striker,Argentina,ARG
-69470,Angel Grippa,0,,,,ARG,43922,,1914-03-02,112.3,Goalkeeper,Argentina,ARG
+46383,Ernesto Belis,1,,,,ARG,43922,,1909-02-01,25.3,Defender,Argentina,ARG
+48333,Alfredo De Vincenzi,3,,,,ARG,43922,,1907-06-09,27.0,Striker,Argentina,ARG
+49606,Hector Freschi,0,,,,ARG,43922,,1911-05-22,23.0,Goalkeeper,Argentina,ARG
+49694,Alberto Galateo,3,,,,ARG,43922,,1913-01-01,21.4,Striker,Argentina,ARG
+51274,Roberto Iraneta,3,,,,ARG,43922,,1915-03-21,19.2,Striker,Argentina,ARG
+53160,Arcadio Lopez,2,,,,ARG,43922,,1910-09-15,23.7,Midfielder,Argentina,ARG
+55028,Jose Nehin,2,,,,ARG,43922,,1905-10-13,28.6,Midfielder,Argentina,ARG
+56047,Juan Pedevilla,1,,,,ARG,43922,,1909-06-06,25.0,Defender,Argentina,ARG
+57181,Francisco Rua,3,,,,ARG,43922,,1911-02-04,23.3,Striker,Argentina,ARG
+59281,Costantino Urbieta Sosa,2,,,,ARG,43922,,1907-08-12,26.8,Midfielder,Argentina,ARG
+59939,Federico Wilde,3,,,,ARG,43922,,1912-12-14,21.4,Striker,Argentina,ARG
+69470,Angel Grippa,0,,,,ARG,43922,,1914-03-02,20.2,Goalkeeper,Argentina,ARG
 69471,Enrique Chimento,1,,,,ARG,43922,,,,Defender,Argentina,ARG
-69472,Ernesto Albarracin,2,,,,ARG,43922,,1907-09-25,118.7,Midfielder,Argentina,ARG
+69472,Ernesto Albarracin,2,,,,ARG,43922,,1907-09-25,26.7,Midfielder,Argentina,ARG
 69473,Luca Izzeta,3,,,,ARG,43922,,,,Striker,Argentina,ARG
 69474,Alfonso Lorenzo,2,,,,ARG,43922,,,,Midfielder,Argentina,ARG
 69475,Vincente Perez,3,,,,ARG,43922,,,,Striker,Argentina,ARG
 70077,Ramon Astudillo,1,,,,ARG,43922,,,,Defender,Argentina,ARG
-44608,Toni Schall,3,,,,AUT,43934,,1907-06-22,119.0,Striker,Austria,AUT
-44631,Karl Sesta,1,,,,AUT,43934,,1906-03-18,120.2,Defender,Austria,AUT
-44642,Matthias Sindelar,3,,,,AUT,43934,,1903-02-10,123.3,Striker,Austria,AUT
-46918,Georg Braun,3,,,,AUT,43934,,1907-02-22,119.3,Striker,Austria,AUT
-47794,Franz Cisar,1,,,,AUT,43934,,1908-11-28,117.5,Defender,Austria,AUT
-50951,Leopold Hofmann,2,,,,AUT,43934,,1905-10-31,120.6,Midfielder,Austria,AUT
-51009,Johann Horvath,3,,,,AUT,43934,,1903-05-20,123.1,Striker,Austria,AUT
-56589,Rudolf Raftl,0,,,,GER,43934,,1911-02-07,115.3,Goalkeeper,Austria,AUT
-58165,Josef Smistik,2,,,,AUT,43934,,1905-11-28,120.5,Midfielder,Austria,AUT
-58494,Josef Stroh,3,,,,GER,43934,,1913-03-05,113.3,Striker,Austria,AUT
-59280,Hans Urbanek,2,,,,AUT,43934,,1910-10-10,115.7,Midfielder,Austria,AUT
-59607,Rudi Viertl,3,,,,AUT,43934,,1902-11-12,123.6,Striker,Austria,AUT
-59758,Franz Wagner,2,,,,GER,43934,,1911-09-23,114.7,Midfielder,Austria,AUT
-59798,Johann Walzhofer,3,,,,AUT,43934,,1906-03-23,120.2,Striker,Austria,AUT
-60365,Karl Zischek,3,,,,AUT,43934,,1910-08-28,115.8,Striker,Austria,AUT
-69519,Friederich Franzl,0,,,,AUT,43934,,1905-03-06,121.3,Goalkeeper,Austria,AUT
-69520,Willi Schmaus,1,,,,AUT,43934,,1911-06-16,115.0,Defender,Austria,AUT
-69521,Anton Janda,1,,,,AUT,43934,,1904-05-01,122.1,Defender,Austria,AUT
-69522,Mathias Kaburek,3,,,,AUT,43934,,1911-02-09,115.3,Striker,Austria,AUT
-69524,Josef Hassmann,3,,,,AUT,43934,,1910-05-21,116.1,Striker,Austria,AUT
-174400,Josef Bican,3,,,,AUT,43934,,1913-09-25,112.7,Striker,Austria,AUT
-174868,Peter Platzer,0,,,,AUT,43934,,1910-05-29,116.0,Goalkeeper,Austria,AUT
-46045,Arnold Badjou,0,,,,BEL,43935,,1909-06-25,117.0,Goalkeeper,Belgium,BEL
-46861,Desire Bourgeois,2,,,,BEL,43935,,1908-12-13,117.5,Midfielder,Belgium,BEL
-46946,Jean Brichaut,3,,,,BEL,43935,,1911-07-29,114.9,Striker,Belgium,BEL
-47272,Jean Capelle,3,,,,BEL,43935,,1913-10-26,112.6,Striker,Belgium,BEL
-47807,Jean Claessens,2,,,,BEL,43935,,1908-06-18,118.0,Midfielder,Belgium,BEL
-48478,Francois De Vries,3,,,,BEL,43935,,1913-08-21,112.8,Striker,Belgium,BEL
-50251,Laurent Grimmonprez,3,,,,BEL,43935,,1902-12-14,123.5,Striker,Belgium,BEL
-50795,Auguste Hellemans,2,,,,BEL,43935,,1907-09-14,118.7,Midfielder,Belgium,BEL
-51567,Costant Joacim,1,,,,BEL,43935,,1908-03-03,118.3,Defender,Belgium,BEL
-52860,Rene Ledent,3,,,,BEL,43935,,1907-11-08,118.6,Striker,Belgium,BEL
-55923,Jules Pappaert,1,,,,BEL,43935,,1905-11-05,120.6,Defender,Belgium,BEL
-56051,Frans Peeraer,2,,,,BEL,43935,,1913-02-15,113.3,Midfielder,Belgium,BEL
-58161,Philibert Smellinckx,1,,,,BEL,43935,,1911-01-17,115.4,Defender,Belgium,BEL
-59389,Andre Van De Weyer,0,,,,BEL,43935,,1909-06-21,117.0,Goalkeeper,Belgium,BEL
-59420,Jos Van Ingelgem,2,,,,BEL,43935,,1912-01-23,114.4,Midfielder,Belgium,BEL
-59575,Louis Versyp,3,,,,BEL,43935,,1908-12-05,117.5,Striker,Belgium,BEL
-59711,Bernard Voorhoof,3,,,,BEL,43935,,1910-05-11,116.1,Striker,Belgium,BEL
-59887,Felix Welkenhuysen,2,,,,BEL,43935,,1908-12-12,117.5,Midfielder,Belgium,BEL
-69454,Albert Heremans,3,,,,BEL,43935,,1906-04-13,120.2,Striker,Belgium,BEL
-69455,Charles Simons,2,,,,BEL,43935,,1906-06-27,120.0,Midfielder,Belgium,BEL
-69457,Georges Putmans,2,,,,BEL,43935,,1914-05-29,112.0,Midfielder,Belgium,BEL
-69458,Robert Lamoot,3,,,,BEL,43935,,1911-03-18,115.2,Striker,Belgium,BEL
-47251,Canalli,2,,,,BRA,43924,,1907-03-12,119.3,Midfielder,Brazil,BRA
-48289,Waldemar De Britto,3,,,,BRA,43924,,1913-05-17,113.1,Striker,Brazil,BRA
-52919,Carvalho Leite,3,,,,BRA,43924,,1912-06-25,114.0,Striker,Brazil,BRA
-53294,Luiz Luz,1,,,,BRA,43924,,1909-11-29,116.5,Defender,Brazil,BRA
-56049,Pedrosa,0,,,,BRA,43924,,1913-07-08,112.9,Goalkeeper,Brazil,BRA
-58980,Tinoco,2,,,,BRA,43924,,1904-12-02,121.5,Midfielder,Brazil,BRA
-63825,Patesko,3,,,,BRA,43924,,1910-11-12,115.6,Striker,Brazil,BRA
-63826,Sylvio Hoffmann,1,,,,BRA,43924,,1905-05-11,121.1,Defender,Brazil,BRA
-63827,Martim,2,,,,BRA,43924,,1911-03-02,115.3,Midfielder,Brazil,BRA
-63828,Armandinho,3,,,,BRA,43924,,1911-03-06,115.3,Striker,Brazil,BRA
-63829,Leonidas,3,,,,BRA,43924,,1913-09-06,112.8,Striker,Brazil,BRA
-63835,Luisinho,3,,,,BRA,43924,,1911-03-29,115.2,Striker,Brazil,BRA
-69554,Attila,3,,,,BRA,43924,,1910-12-16,115.5,Striker,Brazil,BRA
-69555,Octacilio,1,,,,BRA,43924,,1909-11-21,116.6,Defender,Brazil,BRA
-69556,Ariel,2,,,,BRA,43924,,1910-02-22,116.3,Midfielder,Brazil,BRA
-69557,Germano,0,,,,BRA,43924,,1911-03-14,115.3,Goalkeeper,Brazil,BRA
-69558,Waldyr,2,,,,BRA,43924,,1912-03-21,114.2,Midfielder,Brazil,BRA
-44780,Ladislav Zenisek,1,,,,TCH,44025,,1904-03-07,122.3,Defender,Czechoslovakia,TCH
-47071,Jaroslav Burgr,1,,,,TCH,44025,,1906-03-07,120.3,Defender,Czechoslovakia,TCH
-51705,Frantisek Junek,3,,,,TCH,44025,,1907-01-17,119.4,Striker,Czechoslovakia,TCH
-52495,Rudolf Krcil,2,,,,TCH,44025,,1906-03-05,120.3,Midfielder,Czechoslovakia,TCH
-58020,Josef Silny,3,,,,TCH,44025,,1902-01-23,124.4,Striker,Czechoslovakia,TCH
-58193,Jiri Sobotka,3,,,,TCH,44025,,1911-06-06,115.0,Striker,Czechoslovakia,TCH
-58627,Frantisek Svoboda,3,,,,TCH,44025,,1905-07-05,120.9,Striker,Czechoslovakia,TCH
-69493,Cestmir Patzel,0,,,,TCH,44025,,1914-12-02,111.5,Goalkeeper,Czechoslovakia,TCH
-69494,Antonin Vodicka,2,,,,TCH,44025,,1907-03-01,119.3,Midfielder,Czechoslovakia,TCH
-69495,Geza Kalocsay,3,,,,TCH,44025,,1913-05-30,113.0,Striker,Czechoslovakia,TCH
-174424,Jaroslav Boucek,2,,,,TCH,44025,,1912-11-13,113.6,Midfielder,Czechoslovakia,TCH
-174452,Stefan Cambal,2,,,,TCH,44025,,1908-12-17,117.5,Midfielder,Czechoslovakia,TCH
-174482,Josef Ctyroky,1,,,,TCH,44025,,1906-09-30,119.7,Defender,Czechoslovakia,TCH
-174678,Vlastimil Kopecky,2,,,,TCH,44025,,1912-10-14,113.7,Midfielder,Czechoslovakia,TCH
-174679,Josef Kostalek,2,,,,TCH,44025,,1909-08-31,116.8,Midfielder,Czechoslovakia,TCH
-174799,Oldrich Nejedly,3,,,,TCH,44025,,1909-12-26,116.5,Striker,Czechoslovakia,TCH
-174865,Frantisek Planicka,0,,,,TCH,44025,,1904-06-02,122.0,Goalkeeper,Czechoslovakia,TCH
-174884,Antonin Puc,3,,,,TCH,44025,,1907-05-16,119.1,Striker,Czechoslovakia,TCH
-48943,Hassan El Far,2,,,,EGY,43855,,1913-01-01,113.4,Midfielder,Egypt,EGY
-49294,Abdel Rahman Fawzi,3,,,,EGY,43855,,1909-08-11,116.8,Striker,Egypt,EGY
-52788,Mohamed Latif,2,,,,EGY,43855,,1909-10-23,116.6,Midfielder,Egypt,EGY
-56578,Ismail Rafa At,1,,,,EGY,43855,,1908-01-01,118.5,Defender,Egypt,EGY
-56591,Hassan Raghab,2,,,,EGY,43855,,1909-01-01,117.4,Midfielder,Egypt,EGY
-62377,Aziz Fahmy,0,,,,EGY,43855,,1914-01-01,112.4,Goalkeeper,Egypt,EGY
-69536,Mostafa Mansour,3,,,,EGY,43855,,1914-08-02,111.9,Striker,Egypt,EGY
+44608,Toni Schall,3,,,,AUT,43934,,1907-06-22,26.9,Striker,Austria,AUT
+44631,Karl Sesta,1,,,,AUT,43934,,1906-03-18,28.2,Defender,Austria,AUT
+44642,Matthias Sindelar,3,,,,AUT,43934,,1903-02-10,31.3,Striker,Austria,AUT
+46918,Georg Braun,3,,,,AUT,43934,,1907-02-22,27.3,Striker,Austria,AUT
+47794,Franz Cisar,1,,,,AUT,43934,,1908-11-28,25.5,Defender,Austria,AUT
+50951,Leopold Hofmann,2,,,,AUT,43934,,1905-10-31,28.6,Midfielder,Austria,AUT
+51009,Johann Horvath,3,,,,AUT,43934,,1903-05-20,31.0,Striker,Austria,AUT
+56589,Rudolf Raftl,0,,,,GER,43934,,1911-02-07,23.3,Goalkeeper,Austria,AUT
+58165,Josef Smistik,2,,,,AUT,43934,,1905-11-28,28.5,Midfielder,Austria,AUT
+58494,Josef Stroh,3,,,,GER,43934,,1913-03-05,21.2,Striker,Austria,AUT
+59280,Hans Urbanek,2,,,,AUT,43934,,1910-10-10,23.6,Midfielder,Austria,AUT
+59607,Rudi Viertl,3,,,,AUT,43934,,1902-11-12,31.5,Striker,Austria,AUT
+59758,Franz Wagner,2,,,,GER,43934,,1911-09-23,22.7,Midfielder,Austria,AUT
+59798,Johann Walzhofer,3,,,,AUT,43934,,1906-03-23,28.2,Striker,Austria,AUT
+60365,Karl Zischek,3,,,,AUT,43934,,1910-08-28,23.7,Striker,Austria,AUT
+69519,Friederich Franzl,0,,,,AUT,43934,,1905-03-06,29.2,Goalkeeper,Austria,AUT
+69520,Willi Schmaus,1,,,,AUT,43934,,1911-06-16,22.9,Defender,Austria,AUT
+69521,Anton Janda,1,,,,AUT,43934,,1904-05-01,30.1,Defender,Austria,AUT
+69522,Mathias Kaburek,3,,,,AUT,43934,,1911-02-09,23.3,Striker,Austria,AUT
+69524,Josef Hassmann,3,,,,AUT,43934,,1910-05-21,24.0,Striker,Austria,AUT
+174400,Josef Bican,3,,,,AUT,43934,,1913-09-25,20.7,Striker,Austria,AUT
+174868,Peter Platzer,0,,,,AUT,43934,,1910-05-29,24.0,Goalkeeper,Austria,AUT
+46045,Arnold Badjou,0,,,,BEL,43935,,1909-06-25,24.9,Goalkeeper,Belgium,BEL
+46861,Desire Bourgeois,2,,,,BEL,43935,,1908-12-13,25.5,Midfielder,Belgium,BEL
+46946,Jean Brichaut,3,,,,BEL,43935,,1911-07-29,22.8,Striker,Belgium,BEL
+47272,Jean Capelle,3,,,,BEL,43935,,1913-10-26,20.6,Striker,Belgium,BEL
+47807,Jean Claessens,2,,,,BEL,43935,,1908-06-18,25.9,Midfielder,Belgium,BEL
+48478,Francois De Vries,3,,,,BEL,43935,,1913-08-21,20.8,Striker,Belgium,BEL
+50251,Laurent Grimmonprez,3,,,,BEL,43935,,1902-12-14,31.4,Striker,Belgium,BEL
+50795,Auguste Hellemans,2,,,,BEL,43935,,1907-09-14,26.7,Midfielder,Belgium,BEL
+51567,Costant Joacim,1,,,,BEL,43935,,1908-03-03,26.2,Defender,Belgium,BEL
+52860,Rene Ledent,3,,,,BEL,43935,,1907-11-08,26.5,Striker,Belgium,BEL
+55923,Jules Pappaert,1,,,,BEL,43935,,1905-11-05,28.6,Defender,Belgium,BEL
+56051,Frans Peeraer,2,,,,BEL,43935,,1913-02-15,21.3,Midfielder,Belgium,BEL
+58161,Philibert Smellinckx,1,,,,BEL,43935,,1911-01-17,23.4,Defender,Belgium,BEL
+59389,Andre Van De Weyer,0,,,,BEL,43935,,1909-06-21,24.9,Goalkeeper,Belgium,BEL
+59420,Jos Van Ingelgem,2,,,,BEL,43935,,1912-01-23,22.3,Midfielder,Belgium,BEL
+59575,Louis Versyp,3,,,,BEL,43935,,1908-12-05,25.5,Striker,Belgium,BEL
+59711,Bernard Voorhoof,3,,,,BEL,43935,,1910-05-11,24.0,Striker,Belgium,BEL
+59887,Felix Welkenhuysen,2,,,,BEL,43935,,1908-12-12,25.5,Midfielder,Belgium,BEL
+69454,Albert Heremans,3,,,,BEL,43935,,1906-04-13,28.1,Striker,Belgium,BEL
+69455,Charles Simons,2,,,,BEL,43935,,1906-06-27,27.9,Midfielder,Belgium,BEL
+69457,Georges Putmans,2,,,,BEL,43935,,1914-05-29,20.0,Midfielder,Belgium,BEL
+69458,Robert Lamoot,3,,,,BEL,43935,,1911-03-18,23.2,Striker,Belgium,BEL
+47251,Canalli,2,,,,BRA,43924,,1907-03-12,27.2,Midfielder,Brazil,BRA
+48289,Waldemar De Britto,3,,,,BRA,43924,,1913-05-17,21.0,Striker,Brazil,BRA
+52919,Carvalho Leite,3,,,,BRA,43924,,1912-06-25,21.9,Striker,Brazil,BRA
+53294,Luiz Luz,1,,,,BRA,43924,,1909-11-29,24.5,Defender,Brazil,BRA
+56049,Pedrosa,0,,,,BRA,43924,,1913-07-08,20.9,Goalkeeper,Brazil,BRA
+58980,Tinoco,2,,,,BRA,43924,,1904-12-02,29.5,Midfielder,Brazil,BRA
+63825,Patesko,3,,,,BRA,43924,,1910-11-12,23.5,Striker,Brazil,BRA
+63826,Sylvio Hoffmann,1,,,,BRA,43924,,1905-05-11,29.0,Defender,Brazil,BRA
+63827,Martim,2,,,,BRA,43924,,1911-03-02,23.2,Midfielder,Brazil,BRA
+63828,Armandinho,3,,,,BRA,43924,,1911-03-06,23.2,Striker,Brazil,BRA
+63829,Leonidas,3,,,,BRA,43924,,1913-09-06,20.7,Striker,Brazil,BRA
+63835,Luisinho,3,,,,BRA,43924,,1911-03-29,23.2,Striker,Brazil,BRA
+69554,Attila,3,,,,BRA,43924,,1910-12-16,23.4,Striker,Brazil,BRA
+69555,Octacilio,1,,,,BRA,43924,,1909-11-21,24.5,Defender,Brazil,BRA
+69556,Ariel,2,,,,BRA,43924,,1910-02-22,24.3,Midfielder,Brazil,BRA
+69557,Germano,0,,,,BRA,43924,,1911-03-14,23.2,Goalkeeper,Brazil,BRA
+69558,Waldyr,2,,,,BRA,43924,,1912-03-21,22.2,Midfielder,Brazil,BRA
+44780,Ladislav Zenisek,1,,,,TCH,44025,,1904-03-07,30.2,Defender,Czechoslovakia,TCH
+47071,Jaroslav Burgr,1,,,,TCH,44025,,1906-03-07,28.2,Defender,Czechoslovakia,TCH
+51705,Frantisek Junek,3,,,,TCH,44025,,1907-01-17,27.4,Striker,Czechoslovakia,TCH
+52495,Rudolf Krcil,2,,,,TCH,44025,,1906-03-05,28.2,Midfielder,Czechoslovakia,TCH
+58020,Josef Silny,3,,,,TCH,44025,,1902-01-23,32.3,Striker,Czechoslovakia,TCH
+58193,Jiri Sobotka,3,,,,TCH,44025,,1911-06-06,23.0,Striker,Czechoslovakia,TCH
+58627,Frantisek Svoboda,3,,,,TCH,44025,,1905-07-05,28.9,Striker,Czechoslovakia,TCH
+69493,Cestmir Patzel,0,,,,TCH,44025,,1914-12-02,19.5,Goalkeeper,Czechoslovakia,TCH
+69494,Antonin Vodicka,2,,,,TCH,44025,,1907-03-01,27.2,Midfielder,Czechoslovakia,TCH
+69495,Geza Kalocsay,3,,,,TCH,44025,,1913-05-30,21.0,Striker,Czechoslovakia,TCH
+174424,Jaroslav Boucek,2,,,,TCH,44025,,1912-11-13,21.5,Midfielder,Czechoslovakia,TCH
+174452,Stefan Cambal,2,,,,TCH,44025,,1908-12-17,25.4,Midfielder,Czechoslovakia,TCH
+174482,Josef Ctyroky,1,,,,TCH,44025,,1906-09-30,27.7,Defender,Czechoslovakia,TCH
+174678,Vlastimil Kopecky,2,,,,TCH,44025,,1912-10-14,21.6,Midfielder,Czechoslovakia,TCH
+174679,Josef Kostalek,2,,,,TCH,44025,,1909-08-31,24.7,Midfielder,Czechoslovakia,TCH
+174799,Oldrich Nejedly,3,,,,TCH,44025,,1909-12-26,24.4,Striker,Czechoslovakia,TCH
+174865,Frantisek Planicka,0,,,,TCH,44025,,1904-06-02,30.0,Goalkeeper,Czechoslovakia,TCH
+174884,Antonin Puc,3,,,,TCH,44025,,1907-05-16,27.0,Striker,Czechoslovakia,TCH
+48943,Hassan El Far,2,,,,EGY,43855,,1913-01-01,21.4,Midfielder,Egypt,EGY
+49294,Abdel Rahman Fawzi,3,,,,EGY,43855,,1909-08-11,24.8,Striker,Egypt,EGY
+52788,Mohamed Latif,2,,,,EGY,43855,,1909-10-23,24.6,Midfielder,Egypt,EGY
+56578,Ismail Rafa At,1,,,,EGY,43855,,1908-01-01,26.4,Defender,Egypt,EGY
+56591,Hassan Raghab,2,,,,EGY,43855,,1909-01-01,25.4,Midfielder,Egypt,EGY
+62377,Aziz Fahmy,0,,,,EGY,43855,,1914-01-01,20.4,Goalkeeper,Egypt,EGY
+69536,Mostafa Mansour,3,,,,EGY,43855,,1914-08-02,19.8,Striker,Egypt,EGY
 69545,Hafez Kasseb,2,,,,EGY,43855,,,,Midfielder,Egypt,EGY
 69546,Mahmoud Negro,3,,,,EGY,43855,,,,Striker,Egypt,EGY
 181860,Abdel Sharli,1,,,,EGY,43855,,,,Defender,Egypt,EGY
 181862,Mostafa Kamel Taha,2,,,,EGY,43855,,,,Midfielder,Egypt,EGY
-189531,Ibrahim Halim,2,,,,EGY,43855,,1910-02-10,116.3,Midfielder,Egypt,EGY
-198087,Kamel Masoud,0,,,,EGY,43855,,1914-08-02,111.9,Goalkeeper,Egypt,EGY
-292018,Ali Mohammed El Kaf,1,,,,EGY,43855,,1906-06-15,120.0,Defender,Egypt,EGY
-292019,Mahmoud Moukhtar,3,,,,EGY,43855,,1907-12-23,118.5,Striker,Egypt,EGY
-292020,Mohamed Hassan Helmi,2,,,,EGY,43855,,1912-02-13,114.3,Midfielder,Egypt,EGY
+189531,Ibrahim Halim,2,,,,EGY,43855,,1910-02-10,24.3,Midfielder,Egypt,EGY
+198087,Kamel Masoud,0,,,,EGY,43855,,1914-08-02,19.8,Goalkeeper,Egypt,EGY
+292018,Ali Mohammed El Kaf,1,,,,EGY,43855,,1906-06-15,27.9,Defender,Egypt,EGY
+292019,Mahmoud Moukhtar,3,,,,EGY,43855,,1907-12-23,26.4,Striker,Egypt,EGY
+292020,Mohamed Hassan Helmi,2,,,,EGY,43855,,1912-02-13,22.3,Midfielder,Egypt,EGY
 314593,Hany Kamel,4,,,,EGY,43855,,,,,Egypt,EGY
-29657,Lucien Laurent,3,,,,FRA,43946,,1907-12-10,118.5,Striker,France,FRA
-45363,Joseph Alcazar,3,,,,FRA,43946,,1911-06-15,115.0,Striker,France,FRA
-45888,Alfred Aston,3,,,,FRA,43946,,1912-05-16,114.1,Striker,France,FRA
-48382,Edmond Delfour,2,,,,FRA,43946,,1907-11-01,118.6,Midfielder,France,FRA
-48405,Celestin Delmer,2,,,,FRA,43946,,1907-02-15,119.3,Midfielder,France,FRA
-52015,Fritz Keller,3,,,,FRA,43946,,1913-08-21,112.8,Striker,France,FRA
-53028,Noel Lietaer,2,,,,FRA,43946,,1908-11-17,117.6,Midfielder,France,FRA
-53449,Jacques Mairesse,1,,,,FRA,43946,,1904-02-27,122.3,Defender,France,FRA
-53852,Etienne Mattler,1,,,,FRA,43946,,1905-12-25,120.5,Defender,France,FRA
-55121,Jean Nicolas,3,,,,FRA,43946,,1913-06-09,113.0,Striker,France,FRA
-56907,Roger Rio,2,,,,FRA,43946,,1913-02-13,113.3,Midfielder,France,FRA
-58899,Alex Thepot,0,,,,FRA,43946,,1906-07-30,119.9,Goalkeeper,France,FRA
-59523,Emile Veinante,3,,,,FRA,43946,,1907-06-12,119.0,Striker,France,FRA
-59574,Georges Verriest,2,,,,FRA,43946,,1909-07-15,116.9,Midfielder,France,FRA
-69527,Joseph Gonzalez,1,,,,FRA,43946,,1907-02-19,119.3,Defender,France,FRA
-69528,Louis Gabrillargues,2,,,,FRA,43946,,1914-06-16,112.0,Midfielder,France,FRA
-69529,Georges Beaucourt,1,,,,FRA,43946,,1912-04-15,114.2,Defender,France,FRA
-69530,Roger Courtois,3,,,,FRA,43946,,1912-05-30,114.0,Striker,France,FRA
-69531,Robert Defosse,0,,,,FRA,43946,,1909-06-16,117.0,Goalkeeper,France,FRA
-69532,Pierre Korb,3,,,,FRA,43946,,1908-04-20,118.1,Striker,France,FRA
-181856,Rene Llense,0,,,,FRA,43946,,1913-07-14,112.9,Goalkeeper,France,FRA
-198083,Jules Vandooren,1,,,,FRA,43946,,1908-12-30,117.5,Defender,France,FRA
-31521,Rudolf Gramlich,2,,,,GER,43948,,1908-06-06,118.0,Midfielder,Germany,GER
-45357,Ernst Albrecht,2,,,,GER,43948,,1907-11-12,118.6,Midfielder,Germany,GER
-46434,Jakob Bender,3,,,,GER,43948,,1910-03-23,116.2,Striker,Germany,GER
-47022,Fritz Buchloh,0,,,,GER,43948,,1909-11-26,116.5,Goalkeeper,Germany,GER
-47086,Willy Busch,1,,,,GER,43948,,1907-01-04,119.4,Defender,Germany,GER
-47914,Edmund Conen,3,,,,GER,43948,,1914-11-10,111.6,Striker,Germany,GER
-50608,Sigmund Haringer,1,,,,GER,43948,,1908-12-09,117.5,Defender,Germany,GER
-50729,Mathias Heidemann,3,,,,GER,43948,,1912-02-07,114.3,Striker,Germany,GER
-50950,Karl Hohmann,3,,,,GER,43948,,1908-06-18,118.0,Striker,Germany,GER
-51401,Hans Jakob,0,,,,GER,43948,,1908-06-16,118.0,Goalkeeper,Germany,GER
-51436,Paul Janes,1,,,,GER,43948,,1912-03-11,114.3,Defender,Germany,GER
-52297,Stanislaus Kobierski,3,,,,GER,43948,,1910-11-15,115.6,Striker,Germany,GER
-52507,Willibald Kress,0,,,,GER,43948,,1906-11-13,119.6,Goalkeeper,Germany,GER
-52908,Ernest Lehner,3,,,,GER,43948,,1912-11-07,113.6,Striker,Germany,GER
-54749,Reinhold Muenzenberg,1,,,,GER,43948,,1909-01-25,117.4,Defender,Germany,GER
-55223,Rudolf Noack,3,,,,GER,43948,,1913-03-30,113.2,Striker,Germany,GER
-57745,Hans Schwartz,1,,,,GER,43948,,1913-03-01,113.3,Defender,Germany,GER
-58001,Otto Siffling,3,,,,GER,43948,,1912-08-03,113.9,Striker,Germany,GER
-58662,Fritz Szepan,3,,,,GER,43948,,1907-09-02,118.8,Striker,Germany,GER
-60354,Paul Zielinski,2,,,,GER,43948,,1911-11-20,114.6,Midfielder,Germany,GER
-69453,Franz Dienert,3,,,,GER,43948,,1900-01-01,126.4,Striker,Germany,GER
-181804,Josef Streb,2,,,,GER,43948,,1912-04-16,114.2,Midfielder,Germany,GER
-44605,Gyorgy Sarosi,3,,,,HUN,43950,,1912-09-16,113.7,Striker,Hungary,HUN
-45939,Istvan Avar,3,,,,HUN,43950,,1905-05-27,121.0,Striker,Hungary,HUN
-49662,Gyula Futo,1,,,,HUN,43950,,1908-12-29,117.5,Defender,Hungary,HUN
-50422,Jozsef Hada,0,,,,HUN,43950,,1911-03-02,115.3,Goalkeeper,Hungary,HUN
-52028,Tibor Kemeny,3,,,,HUN,43950,,1913-03-05,113.3,Striker,Hungary,HUN
-53662,Imre Markos,3,,,,HUN,43950,,1908-06-09,118.0,Striker,Hungary,HUN
-55849,Istvan Palotas,2,,,,HUN,43950,,1908-03-05,118.3,Midfielder,Hungary,HUN
-58428,Laszlo Sternberg,1,,,,HUN,43950,,1905-05-28,121.0,Defender,Hungary,HUN
-58646,Antal Szabo,0,,,,HUN,43950,,1910-09-04,115.8,Goalkeeper,Hungary,HUN
-58647,Gabor Szabo,3,,,,HUN,43950,,1902-10-14,123.7,Striker,Hungary,HUN
-58649,Antal Szalay,2,,,,HUN,43950,,1912-03-12,114.3,Midfielder,Hungary,HUN
-58678,Gyorgy Szucs,2,,,,HUN,43950,,1912-04-23,114.1,Midfielder,Hungary,HUN
-58734,Istvan Tamassy,3,,,,HUN,43950,,1911-01-01,115.4,Striker,Hungary,HUN
-58843,Pal Teleki,3,,,,HUN,43950,,1906-03-05,120.3,Striker,Hungary,HUN
-59017,Geza Toldi,3,,,,HUN,43950,,1909-02-11,117.3,Striker,Hungary,HUN
-59316,Jozsef Vago,1,,,,HUN,43950,,1906-01-01,120.4,Defender,Hungary,HUN
-59658,Jeno Vincze,3,,,,HUN,43950,,1908-11-20,117.6,Striker,Hungary,HUN
-69533,Janos Dudas,2,,,,HUN,43950,,1911-01-01,115.4,Midfielder,Hungary,HUN
-174404,Sandor Biro,1,,,,HUN,43950,,1911-08-19,114.8,Defender,Hungary,HUN
-174696,Gyula Lazar,2,,,,HUN,43950,,1911-01-24,115.4,Midfielder,Hungary,HUN
-174871,Gyula Polgar,2,,,,HUN,43950,,1912-02-08,114.3,Midfielder,Hungary,HUN
-314179,Rezso Somlai,2,,,,HUN,43950,,1911-01-01,115.4,Midfielder,Hungary,HUN
-44013,Giampiero Combi,0,,,,ITA,43954,,1902-11-20,123.6,Goalkeeper,Italy,ITA
-44040,Atilio Demaria,3,,,,ARG,43954,,1909-03-19,117.2,Striker,Italy,ITA
-44581,Virginio Rosetta,1,,,,ITA,43954,,1902-02-25,124.3,Defender,Italy,ITA
-44610,Angelo Schiavio,3,,,,ITA,43954,,1905-10-15,120.7,Striker,Italy,ITA
-50277,Anfilogino Guarisi,3,,,,ITA,43954,,1905-12-26,120.5,Striker,Italy,ITA
-69443,Giuseppe Cavanna,0,,,,ITA,43954,,1905-11-18,120.6,Goalkeeper,Italy,ITA
-69444,Guido Masetti,0,,,,ITA,43954,,1907-11-22,118.6,Goalkeeper,Italy,ITA
-69445,Mario Varglien,2,,,,ITA,43954,,1905-12-16,120.5,Midfielder,Italy,ITA
-174337,Luigi Allemandi,1,,,,ITA,43954,,1903-11-08,122.6,Defender,Italy,ITA
-174394,Luigi Bertolini,2,,,,ITA,43954,,1904-09-13,121.7,Midfielder,Italy,ITA
-174420,Felice Borel,3,,,,ITA,43954,,1914-04-05,112.2,Striker,Italy,ITA
-174460,Armando Castellazzi,2,,,,ITA,43954,,1904-02-07,122.3,Midfielder,Italy,ITA
-174537,Giovanni Ferrari,2,,,,ITA,43954,,1907-12-06,118.5,Midfielder,Italy,ITA
-174538,Attilio Ferraris,2,,,,ITA,43954,,1904-03-26,122.2,Midfielder,Italy,ITA
-174579,Enrique Guaita,3,,,,ITA,43954,,1910-07-15,115.9,Striker,Italy,ITA
-174761,Giuseppe Meazza,2,,,,ITA,43954,,1910-08-23,115.8,Midfielder,Italy,ITA
-174777,Luis Monti,2,,,,ITA,43954,,1901-05-15,125.1,Midfielder,Italy,ITA
-174778,Eraldo Monzeglio,1,,,,ITA,43954,,1906-06-05,120.0,Defender,Italy,ITA
-174825,Raimundo Orsi,3,,,,ITA,43954,,1901-12-02,124.5,Striker,Italy,ITA
-174864,Mario Pizziolo,2,,,,ITA,43954,,1909-12-07,116.5,Midfielder,Italy,ITA
-181793,Umberto Caligaris,1,,,,ITA,43954,,1901-07-26,124.9,Defender,Italy,ITA
-181794,Pietro Arcari,3,,,,ITA,43954,,1909-12-02,116.5,Striker,Italy,ITA
-44718,Puck Van Heel,2,,,,NED,43960,,1904-01-21,122.4,Midfielder,Netherlands,NED
-45570,Willem Anderiesen,2,,,,NED,43960,,1903-11-27,122.5,Midfielder,Netherlands,NED
-46109,Beb Bakhuys,3,,,,NED,43960,,1909-04-16,117.2,Striker,Netherlands,NED
-55787,Bas Paauwe,2,,,,NED,43960,,1911-10-04,114.7,Midfielder,Netherlands,NED
-56067,Henk Pellikaan,2,,,,NED,43960,,1910-11-10,115.6,Midfielder,Netherlands,NED
-58166,Kick Smit,3,,,,NED,43960,,1911-11-03,114.6,Striker,Netherlands,NED
-59388,Gejus Van Der Meulen,0,,,,NED,43960,,1903-01-23,123.4,Goalkeeper,Netherlands,NED
-59426,Adriaan Van Male,0,,,,NED,43960,,1910-10-07,115.7,Goalkeeper,Netherlands,NED
-59431,Joop Van Nellen,3,,,,NED,43960,,1910-03-15,116.2,Striker,Netherlands,NED
-59435,Sjef Van Run,1,,,,NED,43960,,1904-01-12,122.4,Defender,Netherlands,NED
-59550,Leen Vente,3,,,,NED,43960,,1911-05-14,115.1,Striker,Netherlands,NED
-59854,Mauk Weber,1,,,,NED,43960,,1914-03-01,112.3,Defender,Netherlands,NED
-59892,Frank Wels,3,,,,NED,43960,,1909-02-21,117.3,Striker,Netherlands,NED
-69485,Alex Graafland,3,,,,NED,43960,,1909-04-16,117.2,Striker,Netherlands,NED
-69486,Wim Langendaal,3,,,,NED,43960,,1909-04-13,117.2,Striker,Netherlands,NED
-69488,Jaap Mol,3,,,,NED,43960,,1912-02-03,114.4,Striker,Netherlands,NED
-69489,Kees Mijnders,3,,,,NED,43960,,1912-09-28,113.7,Striker,Netherlands,NED
-69490,Jan Van Diepenbeek,1,,,,NED,43960,,1903-08-05,122.9,Defender,Netherlands,NED
-69491,Leo Halle,0,,,,NED,43960,,1906-01-26,120.4,Goalkeeper,Netherlands,NED
-69492,Toon Oprinsen,2,,,,NED,43960,,1910-11-25,115.6,Midfielder,Netherlands,NED
-181834,Arie Schoemaker,3,,,,NED,43960,,1911-11-08,114.6,Striker,Netherlands,NED
-181835,Manus Vrauwdeunt,3,,,,NED,43960,,1914-04-29,112.1,Striker,Netherlands,NED
-45360,Gheorghe Albu,1,,,,ROU,43964,,1909-11-18,116.6,Defender,Romania,ROU
-46605,Silviu Bindea,3,,,,ROU,43964,,1912-10-24,113.6,Striker,Romania,ROU
-46704,Iuliu Bodola,3,,,,ROU,43964,,1912-02-26,114.3,Striker,Romania,ROU
-48019,Rudolf Kotormany,2,,,,ROU,43964,,1911-01-23,115.4,Midfielder,Romania,ROU
-48362,Vasile Deheleanu,2,,,,ROU,43964,,1910-08-12,115.8,Midfielder,Romania,ROU
-48634,Stefan Dobay,3,,,,ROU,43964,,1909-09-26,116.7,Striker,Romania,ROU
-52463,Nicolae Kovacs,3,,,,ROU,43964,,1911-12-29,114.5,Striker,Romania,ROU
-54503,Josif Moravetz,2,,,,ROU,43964,,1911-01-14,115.4,Midfielder,Romania,ROU
-57838,Gratian Sepi,3,,,,ROU,43964,,1910-12-30,115.5,Striker,Romania,ROU
-59693,Emerich Vogl,2,,,,ROU,43964,,1905-08-12,120.8,Midfielder,Romania,ROU
-60387,William Zombory,0,,,,ROU,43964,,1906-01-11,120.4,Goalkeeper,Romania,ROU
-69500,Lazar Sfera,1,,,,ROU,43964,,1909-04-29,117.1,Defender,Romania,ROU
-69501,Alexandru Cuedan,1,,,,ROU,43964,,1910-09-26,115.7,Defender,Romania,ROU
-69502,Gheorghe Ciolac,3,,,,ROU,43964,,1908-08-10,117.8,Striker,Romania,ROU
-174932,Adalbert Pullock,0,,,,ROU,43964,,1907-04-06,119.2,Goalkeeper,Romania,ROU
-44539,I Quincoces,1,,,,ESP,43969,,1905-07-17,120.9,Defender,Spain,ESP
-44774,Ricardo Zamora,0,,,,ESP,43969,,1901-01-21,125.4,Goalkeeper,Spain,ESP
-46816,Crisanto Bosch,3,,,,ESP,43969,,1907-12-26,118.5,Striker,Spain,ESP
-47226,I Guillermo Campanal,3,,,,ESP,43969,,1912-12-09,113.5,Striker,Spain,ESP
-47457,Chacho,3,,,,ESP,43969,,1911-04-14,115.2,Striker,Spain,ESP
-47781,Cilaurren,2,,,,ESP,43969,,1912-11-05,113.6,Midfielder,Spain,ESP
-47792,Ciriaco,1,,,,ESP,43969,,1904-08-08,121.8,Defender,Spain,ESP
-49303,Fede,3,,,,ESP,43969,,1912-10-14,113.7,Striker,Spain,ESP
-50161,Gorostiza,3,,,,ESP,43969,,1909-02-15,117.3,Striker,Spain,ESP
-51276,Iraragorri,2,,,,ESP,43969,,1912-03-16,114.2,Midfielder,Spain,ESP
-52656,Lafuente,3,,,,ESP,43969,,1907-12-31,118.5,Striker,Spain,ESP
-52723,Isidro Langara,3,,,,ESP,43969,,1912-05-15,114.1,Striker,Spain,ESP
-52859,Simon Lecue,2,,,,ESP,43969,,1912-02-11,114.3,Midfielder,Spain,ESP
-53635,Marculeta,1,,,,ESP,43969,,1907-09-24,118.7,Defender,Spain,ESP
-54667,Jose Muguerza,2,,,,ESP,43969,,1911-09-15,114.7,Midfielder,Spain,ESP
-55236,Juan Nogues,0,,,,ESP,43969,,1909-03-28,117.2,Goalkeeper,Spain,ESP
-56771,Luis Regueiro,3,,,,ESP,43969,,1908-07-01,118.0,Striker,Spain,ESP
-59453,Martin Ventolra,3,,,,ESP,43969,,1906-12-16,119.5,Striker,Spain,ESP
-60238,Zabalo,1,,,,ESP,43969,,1910-06-10,116.0,Defender,Spain,ESP
-69550,Hilario,2,,,,ESP,43969,,1905-12-08,120.5,Midfielder,Spain,ESP
-69551,Sole,3,,,,ESP,43969,,1905-05-07,121.1,Striker,Spain,ESP
-181824,Luis Marin,2,,,,ESP,43969,,1906-09-04,119.8,Midfielder,Spain,ESP
-45384,Nils Axelsson,1,,,,SWE,43970,,1906-01-18,120.4,Defender,Sweden,SWE
-45596,Ernst Andersson,2,,,,SWE,43970,,1909-03-26,117.2,Midfielder,Sweden,SWE
-45602,Otto Andersson,1,,,,SWE,43970,,1910-05-07,116.1,Defender,Sweden,SWE
-47310,Rune Carlsson,2,,,,SWE,43970,,1909-10-01,116.7,Midfielder,Sweden,SWE
-48779,Gosta Dunker,3,,,,SWE,43970,,1905-09-16,120.7,Striker,Sweden,SWE
-50374,Ragnar Gustavsson,3,,,,SWE,43970,,1907-09-28,118.7,Striker,Sweden,SWE
-51569,Sven Jonasson,3,,,,SWE,43970,,1909-07-09,116.9,Striker,Sweden,SWE
-52017,Tore Keller,3,,,,SWE,43970,,1905-01-04,121.4,Striker,Sweden,SWE
-52535,Knut Kroon,3,,,,SWE,43970,,1906-06-19,120.0,Striker,Sweden,SWE
-55566,Gunnar Olsson,3,,,,SWE,43970,,1908-07-19,117.9,Striker,Sweden,SWE
-57136,Nils Rosen,2,,,,SWE,43970,,1902-05-22,124.1,Midfielder,Sweden,SWE
-57242,Anders Rydberg,0,,,,SWE,43970,,1903-03-03,123.3,Goalkeeper,Sweden,SWE
-69462,Eivar Widlund,0,,,,SWE,43970,,1906-01-01,120.4,Goalkeeper,Sweden,SWE
+29657,Lucien Laurent,3,,,,FRA,43946,,1907-12-10,26.5,Striker,France,FRA
+45363,Joseph Alcazar,3,,,,FRA,43946,,1911-06-15,22.9,Striker,France,FRA
+45888,Alfred Aston,3,,,,FRA,43946,,1912-05-16,22.0,Striker,France,FRA
+48382,Edmond Delfour,2,,,,FRA,43946,,1907-11-01,26.6,Midfielder,France,FRA
+48405,Celestin Delmer,2,,,,FRA,43946,,1907-02-15,27.3,Midfielder,France,FRA
+52015,Fritz Keller,3,,,,FRA,43946,,1913-08-21,20.8,Striker,France,FRA
+53028,Noel Lietaer,2,,,,FRA,43946,,1908-11-17,25.5,Midfielder,France,FRA
+53449,Jacques Mairesse,1,,,,FRA,43946,,1904-02-27,30.2,Defender,France,FRA
+53852,Etienne Mattler,1,,,,FRA,43946,,1905-12-25,28.4,Defender,France,FRA
+55121,Jean Nicolas,3,,,,FRA,43946,,1913-06-09,21.0,Striker,France,FRA
+56907,Roger Rio,2,,,,FRA,43946,,1913-02-13,21.3,Midfielder,France,FRA
+58899,Alex Thepot,0,,,,FRA,43946,,1906-07-30,27.8,Goalkeeper,France,FRA
+59523,Emile Veinante,3,,,,FRA,43946,,1907-06-12,27.0,Striker,France,FRA
+59574,Georges Verriest,2,,,,FRA,43946,,1909-07-15,24.9,Midfielder,France,FRA
+69527,Joseph Gonzalez,1,,,,FRA,43946,,1907-02-19,27.3,Defender,France,FRA
+69528,Louis Gabrillargues,2,,,,FRA,43946,,1914-06-16,19.9,Midfielder,France,FRA
+69529,Georges Beaucourt,1,,,,FRA,43946,,1912-04-15,22.1,Defender,France,FRA
+69530,Roger Courtois,3,,,,FRA,43946,,1912-05-30,22.0,Striker,France,FRA
+69531,Robert Defosse,0,,,,FRA,43946,,1909-06-16,24.9,Goalkeeper,France,FRA
+69532,Pierre Korb,3,,,,FRA,43946,,1908-04-20,26.1,Striker,France,FRA
+181856,Rene Llense,0,,,,FRA,43946,,1913-07-14,20.9,Goalkeeper,France,FRA
+198083,Jules Vandooren,1,,,,FRA,43946,,1908-12-30,25.4,Defender,France,FRA
+31521,Rudolf Gramlich,2,,,,GER,43948,,1908-06-06,26.0,Midfielder,Germany,GER
+45357,Ernst Albrecht,2,,,,GER,43948,,1907-11-12,26.5,Midfielder,Germany,GER
+46434,Jakob Bender,3,,,,GER,43948,,1910-03-23,24.2,Striker,Germany,GER
+47022,Fritz Buchloh,0,,,,GER,43948,,1909-11-26,24.5,Goalkeeper,Germany,GER
+47086,Willy Busch,1,,,,GER,43948,,1907-01-04,27.4,Defender,Germany,GER
+47914,Edmund Conen,3,,,,GER,43948,,1914-11-10,19.5,Striker,Germany,GER
+50608,Sigmund Haringer,1,,,,GER,43948,,1908-12-09,25.5,Defender,Germany,GER
+50729,Mathias Heidemann,3,,,,GER,43948,,1912-02-07,22.3,Striker,Germany,GER
+50950,Karl Hohmann,3,,,,GER,43948,,1908-06-18,25.9,Striker,Germany,GER
+51401,Hans Jakob,0,,,,GER,43948,,1908-06-16,25.9,Goalkeeper,Germany,GER
+51436,Paul Janes,1,,,,GER,43948,,1912-03-11,22.2,Defender,Germany,GER
+52297,Stanislaus Kobierski,3,,,,GER,43948,,1910-11-15,23.5,Striker,Germany,GER
+52507,Willibald Kress,0,,,,GER,43948,,1906-11-13,27.5,Goalkeeper,Germany,GER
+52908,Ernest Lehner,3,,,,GER,43948,,1912-11-07,21.5,Striker,Germany,GER
+54749,Reinhold Muenzenberg,1,,,,GER,43948,,1909-01-25,25.3,Defender,Germany,GER
+55223,Rudolf Noack,3,,,,GER,43948,,1913-03-30,21.2,Striker,Germany,GER
+57745,Hans Schwartz,1,,,,GER,43948,,1913-03-01,21.2,Defender,Germany,GER
+58001,Otto Siffling,3,,,,GER,43948,,1912-08-03,21.8,Striker,Germany,GER
+58662,Fritz Szepan,3,,,,GER,43948,,1907-09-02,26.7,Striker,Germany,GER
+60354,Paul Zielinski,2,,,,GER,43948,,1911-11-20,22.5,Midfielder,Germany,GER
+69453,Franz Dienert,3,,,,GER,43948,,1900-01-01,34.4,Striker,Germany,GER
+181804,Josef Streb,2,,,,GER,43948,,1912-04-16,22.1,Midfielder,Germany,GER
+44605,Gyorgy Sarosi,3,,,,HUN,43950,,1912-09-16,21.7,Striker,Hungary,HUN
+45939,Istvan Avar,3,,,,HUN,43950,,1905-05-27,29.0,Striker,Hungary,HUN
+49662,Gyula Futo,1,,,,HUN,43950,,1908-12-29,25.4,Defender,Hungary,HUN
+50422,Jozsef Hada,0,,,,HUN,43950,,1911-03-02,23.2,Goalkeeper,Hungary,HUN
+52028,Tibor Kemeny,3,,,,HUN,43950,,1913-03-05,21.2,Striker,Hungary,HUN
+53662,Imre Markos,3,,,,HUN,43950,,1908-06-09,26.0,Striker,Hungary,HUN
+55849,Istvan Palotas,2,,,,HUN,43950,,1908-03-05,26.2,Midfielder,Hungary,HUN
+58428,Laszlo Sternberg,1,,,,HUN,43950,,1905-05-28,29.0,Defender,Hungary,HUN
+58646,Antal Szabo,0,,,,HUN,43950,,1910-09-04,23.7,Goalkeeper,Hungary,HUN
+58647,Gabor Szabo,3,,,,HUN,43950,,1902-10-14,31.6,Striker,Hungary,HUN
+58649,Antal Szalay,2,,,,HUN,43950,,1912-03-12,22.2,Midfielder,Hungary,HUN
+58678,Gyorgy Szucs,2,,,,HUN,43950,,1912-04-23,22.1,Midfielder,Hungary,HUN
+58734,Istvan Tamassy,3,,,,HUN,43950,,1911-01-01,23.4,Striker,Hungary,HUN
+58843,Pal Teleki,3,,,,HUN,43950,,1906-03-05,28.2,Striker,Hungary,HUN
+59017,Geza Toldi,3,,,,HUN,43950,,1909-02-11,25.3,Striker,Hungary,HUN
+59316,Jozsef Vago,1,,,,HUN,43950,,1906-01-01,28.4,Defender,Hungary,HUN
+59658,Jeno Vincze,3,,,,HUN,43950,,1908-11-20,25.5,Striker,Hungary,HUN
+69533,Janos Dudas,2,,,,HUN,43950,,1911-01-01,23.4,Midfielder,Hungary,HUN
+174404,Sandor Biro,1,,,,HUN,43950,,1911-08-19,22.8,Defender,Hungary,HUN
+174696,Gyula Lazar,2,,,,HUN,43950,,1911-01-24,23.3,Midfielder,Hungary,HUN
+174871,Gyula Polgar,2,,,,HUN,43950,,1912-02-08,22.3,Midfielder,Hungary,HUN
+314179,Rezso Somlai,2,,,,HUN,43950,,1911-01-01,23.4,Midfielder,Hungary,HUN
+44013,Giampiero Combi,0,,,,ITA,43954,,1902-11-20,31.5,Goalkeeper,Italy,ITA
+44040,Atilio Demaria,3,,,,ARG,43954,,1909-03-19,25.2,Striker,Italy,ITA
+44581,Virginio Rosetta,1,,,,ITA,43954,,1902-02-25,32.2,Defender,Italy,ITA
+44610,Angelo Schiavio,3,,,,ITA,43954,,1905-10-15,28.6,Striker,Italy,ITA
+50277,Anfilogino Guarisi,3,,,,ITA,43954,,1905-12-26,28.4,Striker,Italy,ITA
+69443,Giuseppe Cavanna,0,,,,ITA,43954,,1905-11-18,28.5,Goalkeeper,Italy,ITA
+69444,Guido Masetti,0,,,,ITA,43954,,1907-11-22,26.5,Goalkeeper,Italy,ITA
+69445,Mario Varglien,2,,,,ITA,43954,,1905-12-16,28.4,Midfielder,Italy,ITA
+174337,Luigi Allemandi,1,,,,ITA,43954,,1903-11-08,30.5,Defender,Italy,ITA
+174394,Luigi Bertolini,2,,,,ITA,43954,,1904-09-13,29.7,Midfielder,Italy,ITA
+174420,Felice Borel,3,,,,ITA,43954,,1914-04-05,20.1,Striker,Italy,ITA
+174460,Armando Castellazzi,2,,,,ITA,43954,,1904-02-07,30.3,Midfielder,Italy,ITA
+174537,Giovanni Ferrari,2,,,,ITA,43954,,1907-12-06,26.5,Midfielder,Italy,ITA
+174538,Attilio Ferraris,2,,,,ITA,43954,,1904-03-26,30.2,Midfielder,Italy,ITA
+174579,Enrique Guaita,3,,,,ITA,43954,,1910-07-15,23.9,Striker,Italy,ITA
+174761,Giuseppe Meazza,2,,,,ITA,43954,,1910-08-23,23.8,Midfielder,Italy,ITA
+174777,Luis Monti,2,,,,ITA,43954,,1901-05-15,33.0,Midfielder,Italy,ITA
+174778,Eraldo Monzeglio,1,,,,ITA,43954,,1906-06-05,28.0,Defender,Italy,ITA
+174825,Raimundo Orsi,3,,,,ITA,43954,,1901-12-02,32.5,Striker,Italy,ITA
+174864,Mario Pizziolo,2,,,,ITA,43954,,1909-12-07,24.5,Midfielder,Italy,ITA
+181793,Umberto Caligaris,1,,,,ITA,43954,,1901-07-26,32.8,Defender,Italy,ITA
+181794,Pietro Arcari,3,,,,ITA,43954,,1909-12-02,24.5,Striker,Italy,ITA
+44718,Puck Van Heel,2,,,,NED,43960,,1904-01-21,30.3,Midfielder,Netherlands,NED
+45570,Willem Anderiesen,2,,,,NED,43960,,1903-11-27,30.5,Midfielder,Netherlands,NED
+46109,Beb Bakhuys,3,,,,NED,43960,,1909-04-16,25.1,Striker,Netherlands,NED
+55787,Bas Paauwe,2,,,,NED,43960,,1911-10-04,22.6,Midfielder,Netherlands,NED
+56067,Henk Pellikaan,2,,,,NED,43960,,1910-11-10,23.5,Midfielder,Netherlands,NED
+58166,Kick Smit,3,,,,NED,43960,,1911-11-03,22.6,Striker,Netherlands,NED
+59388,Gejus Van Der Meulen,0,,,,NED,43960,,1903-01-23,31.3,Goalkeeper,Netherlands,NED
+59426,Adriaan Van Male,0,,,,NED,43960,,1910-10-07,23.6,Goalkeeper,Netherlands,NED
+59431,Joop Van Nellen,3,,,,NED,43960,,1910-03-15,24.2,Striker,Netherlands,NED
+59435,Sjef Van Run,1,,,,NED,43960,,1904-01-12,30.4,Defender,Netherlands,NED
+59550,Leen Vente,3,,,,NED,43960,,1911-05-14,23.0,Striker,Netherlands,NED
+59854,Mauk Weber,1,,,,NED,43960,,1914-03-01,20.2,Defender,Netherlands,NED
+59892,Frank Wels,3,,,,NED,43960,,1909-02-21,25.3,Striker,Netherlands,NED
+69485,Alex Graafland,3,,,,NED,43960,,1909-04-16,25.1,Striker,Netherlands,NED
+69486,Wim Langendaal,3,,,,NED,43960,,1909-04-13,25.1,Striker,Netherlands,NED
+69488,Jaap Mol,3,,,,NED,43960,,1912-02-03,22.3,Striker,Netherlands,NED
+69489,Kees Mijnders,3,,,,NED,43960,,1912-09-28,21.7,Striker,Netherlands,NED
+69490,Jan Van Diepenbeek,1,,,,NED,43960,,1903-08-05,30.8,Defender,Netherlands,NED
+69491,Leo Halle,0,,,,NED,43960,,1906-01-26,28.3,Goalkeeper,Netherlands,NED
+69492,Toon Oprinsen,2,,,,NED,43960,,1910-11-25,23.5,Midfielder,Netherlands,NED
+181834,Arie Schoemaker,3,,,,NED,43960,,1911-11-08,22.5,Striker,Netherlands,NED
+181835,Manus Vrauwdeunt,3,,,,NED,43960,,1914-04-29,20.1,Striker,Netherlands,NED
+45360,Gheorghe Albu,1,,,,ROU,43964,,1909-11-18,24.5,Defender,Romania,ROU
+46605,Silviu Bindea,3,,,,ROU,43964,,1912-10-24,21.6,Striker,Romania,ROU
+46704,Iuliu Bodola,3,,,,ROU,43964,,1912-02-26,22.2,Striker,Romania,ROU
+48019,Rudolf Kotormany,2,,,,ROU,43964,,1911-01-23,23.3,Midfielder,Romania,ROU
+48362,Vasile Deheleanu,2,,,,ROU,43964,,1910-08-12,23.8,Midfielder,Romania,ROU
+48634,Stefan Dobay,3,,,,ROU,43964,,1909-09-26,24.7,Striker,Romania,ROU
+52463,Nicolae Kovacs,3,,,,ROU,43964,,1911-12-29,22.4,Striker,Romania,ROU
+54503,Josif Moravetz,2,,,,ROU,43964,,1911-01-14,23.4,Midfielder,Romania,ROU
+57838,Gratian Sepi,3,,,,ROU,43964,,1910-12-30,23.4,Striker,Romania,ROU
+59693,Emerich Vogl,2,,,,ROU,43964,,1905-08-12,28.8,Midfielder,Romania,ROU
+60387,William Zombory,0,,,,ROU,43964,,1906-01-11,28.4,Goalkeeper,Romania,ROU
+69500,Lazar Sfera,1,,,,ROU,43964,,1909-04-29,25.1,Defender,Romania,ROU
+69501,Alexandru Cuedan,1,,,,ROU,43964,,1910-09-26,23.7,Defender,Romania,ROU
+69502,Gheorghe Ciolac,3,,,,ROU,43964,,1908-08-10,25.8,Striker,Romania,ROU
+174932,Adalbert Pullock,0,,,,ROU,43964,,1907-04-06,27.1,Goalkeeper,Romania,ROU
+44539,I Quincoces,1,,,,ESP,43969,,1905-07-17,28.9,Defender,Spain,ESP
+44774,Ricardo Zamora,0,,,,ESP,43969,,1901-01-21,33.3,Goalkeeper,Spain,ESP
+46816,Crisanto Bosch,3,,,,ESP,43969,,1907-12-26,26.4,Striker,Spain,ESP
+47226,I Guillermo Campanal,3,,,,ESP,43969,,1912-12-09,21.5,Striker,Spain,ESP
+47457,Chacho,3,,,,ESP,43969,,1911-04-14,23.1,Striker,Spain,ESP
+47781,Cilaurren,2,,,,ESP,43969,,1912-11-05,21.6,Midfielder,Spain,ESP
+47792,Ciriaco,1,,,,ESP,43969,,1904-08-08,29.8,Defender,Spain,ESP
+49303,Fede,3,,,,ESP,43969,,1912-10-14,21.6,Striker,Spain,ESP
+50161,Gorostiza,3,,,,ESP,43969,,1909-02-15,25.3,Striker,Spain,ESP
+51276,Iraragorri,2,,,,ESP,43969,,1912-03-16,22.2,Midfielder,Spain,ESP
+52656,Lafuente,3,,,,ESP,43969,,1907-12-31,26.4,Striker,Spain,ESP
+52723,Isidro Langara,3,,,,ESP,43969,,1912-05-15,22.0,Striker,Spain,ESP
+52859,Simon Lecue,2,,,,ESP,43969,,1912-02-11,22.3,Midfielder,Spain,ESP
+53635,Marculeta,1,,,,ESP,43969,,1907-09-24,26.7,Defender,Spain,ESP
+54667,Jose Muguerza,2,,,,ESP,43969,,1911-09-15,22.7,Midfielder,Spain,ESP
+55236,Juan Nogues,0,,,,ESP,43969,,1909-03-28,25.2,Goalkeeper,Spain,ESP
+56771,Luis Regueiro,3,,,,ESP,43969,,1908-07-01,25.9,Striker,Spain,ESP
+59453,Martin Ventolra,3,,,,ESP,43969,,1906-12-16,27.4,Striker,Spain,ESP
+60238,Zabalo,1,,,,ESP,43969,,1910-06-10,24.0,Defender,Spain,ESP
+69550,Hilario,2,,,,ESP,43969,,1905-12-08,28.5,Midfielder,Spain,ESP
+69551,Sole,3,,,,ESP,43969,,1905-05-07,29.1,Striker,Spain,ESP
+181824,Luis Marin,2,,,,ESP,43969,,1906-09-04,27.7,Midfielder,Spain,ESP
+45384,Nils Axelsson,1,,,,SWE,43970,,1906-01-18,28.4,Defender,Sweden,SWE
+45596,Ernst Andersson,2,,,,SWE,43970,,1909-03-26,25.2,Midfielder,Sweden,SWE
+45602,Otto Andersson,1,,,,SWE,43970,,1910-05-07,24.1,Defender,Sweden,SWE
+47310,Rune Carlsson,2,,,,SWE,43970,,1909-10-01,24.7,Midfielder,Sweden,SWE
+48779,Gosta Dunker,3,,,,SWE,43970,,1905-09-16,28.7,Striker,Sweden,SWE
+50374,Ragnar Gustavsson,3,,,,SWE,43970,,1907-09-28,26.7,Striker,Sweden,SWE
+51569,Sven Jonasson,3,,,,SWE,43970,,1909-07-09,24.9,Striker,Sweden,SWE
+52017,Tore Keller,3,,,,SWE,43970,,1905-01-04,29.4,Striker,Sweden,SWE
+52535,Knut Kroon,3,,,,SWE,43970,,1906-06-19,27.9,Striker,Sweden,SWE
+55566,Gunnar Olsson,3,,,,SWE,43970,,1908-07-19,25.9,Striker,Sweden,SWE
+57136,Nils Rosen,2,,,,SWE,43970,,1902-05-22,32.0,Midfielder,Sweden,SWE
+57242,Anders Rydberg,0,,,,SWE,43970,,1903-03-03,31.2,Goalkeeper,Sweden,SWE
+69462,Eivar Widlund,0,,,,SWE,43970,,1906-01-01,28.4,Goalkeeper,Sweden,SWE
 69465,Arvid Thoern,3,,,,SWE,43970,,,,Striker,Sweden,SWE
-69467,Gunnar Jansson,3,,,,SWE,43970,,1908-03-29,118.2,Striker,Sweden,SWE
-198097,Sven Andersson,1,,,,SWE,43970,,1907-02-14,119.3,Defender,Sweden,SWE
-314601,Erik Granath,1,,,,SWE,43970,,1910-10-12,115.7,Defender,Sweden,SWE
-314602,Karl Johnsson,2,,,,SWE,43970,,1911-02-27,115.3,Midfielder,Sweden,SWE
-28412,Severino Minelli,1,,,,SUI,43971,,1909-09-06,116.8,Defender,Switzerland,SUI
-46824,Giuseppe Bossi,3,,,,SUI,43971,,1911-08-29,114.8,Striker,Switzerland,SUI
-50337,Albert Guinchard,2,,,,SUI,43971,,1914-11-10,111.6,Midfielder,Switzerland,SUI
+69467,Gunnar Jansson,3,,,,SWE,43970,,1908-03-29,26.2,Striker,Sweden,SWE
+198097,Sven Andersson,1,,,,SWE,43970,,1907-02-14,27.3,Defender,Sweden,SWE
+314601,Erik Granath,1,,,,SWE,43970,,1910-10-12,23.6,Defender,Sweden,SWE
+314602,Karl Johnsson,2,,,,SWE,43970,,1911-02-27,23.2,Midfielder,Sweden,SWE
+28412,Severino Minelli,1,,,,SUI,43971,,1909-09-06,24.7,Defender,Switzerland,SUI
+46824,Giuseppe Bossi,3,,,,SUI,43971,,1911-08-29,22.7,Striker,Switzerland,SUI
+50337,Albert Guinchard,2,,,,SUI,43971,,1914-11-10,19.5,Midfielder,Switzerland,SUI
 50924,Erwin Hochstrasser,3,,,,SUI,43971,,,,Striker,Switzerland,SUI
-51070,Willy Huber,0,,,,SUI,43971,,1913-12-17,112.5,Goalkeeper,Switzerland,SUI
-51078,Ernst Hufschmid,2,,,,SUI,43971,,1913-02-04,113.4,Midfielder,Switzerland,SUI
-51368,Fernand Jaccard,2,,,,SUI,43971,,1907-10-08,118.7,Midfielder,Switzerland,SUI
-51383,Alfred Jaeck,3,,,,SUI,43971,,1911-08-02,114.9,Striker,Switzerland,SUI
-51384,Willy Jaeggi,3,,,,SUI,43971,,1906-07-28,119.9,Striker,Switzerland,SUI
-52146,Leopold Kielholz,3,,,,SUI,43971,,1911-06-09,115.0,Striker,Switzerland,SUI
-55978,Raymond Pasello,3,,,,SUI,43971,,1905-01-12,121.4,Striker,Switzerland,SUI
-57765,Frank Sechehaye,0,,,,SUI,43971,,1907-11-03,118.6,Goalkeeper,Switzerland,SUI
-59706,Willy Von Kaenel,3,,,,SUI,43971,,1909-10-30,116.6,Striker,Switzerland,SUI
-59874,Walter Weiler,1,,,,SUI,43971,,1903-12-04,122.5,Defender,Switzerland,SUI
+51070,Willy Huber,0,,,,SUI,43971,,1913-12-17,20.4,Goalkeeper,Switzerland,SUI
+51078,Ernst Hufschmid,2,,,,SUI,43971,,1913-02-04,21.3,Midfielder,Switzerland,SUI
+51368,Fernand Jaccard,2,,,,SUI,43971,,1907-10-08,26.6,Midfielder,Switzerland,SUI
+51383,Alfred Jaeck,3,,,,SUI,43971,,1911-08-02,22.8,Striker,Switzerland,SUI
+51384,Willy Jaeggi,3,,,,SUI,43971,,1906-07-28,27.8,Striker,Switzerland,SUI
+52146,Leopold Kielholz,3,,,,SUI,43971,,1911-06-09,23.0,Striker,Switzerland,SUI
+55978,Raymond Pasello,3,,,,SUI,43971,,1905-01-12,29.4,Striker,Switzerland,SUI
+57765,Frank Sechehaye,0,,,,SUI,43971,,1907-11-03,26.6,Goalkeeper,Switzerland,SUI
+59706,Willy Von Kaenel,3,,,,SUI,43971,,1909-10-30,24.6,Striker,Switzerland,SUI
+59874,Walter Weiler,1,,,,SUI,43971,,1903-12-04,30.5,Defender,Switzerland,SUI
 69476,Edmond Loichot,2,,,,SUI,43971,,,,Midfielder,Switzerland,SUI
-69477,Renato Bizzozero,0,,,,SUI,43971,,1912-09-07,113.8,Goalkeeper,Switzerland,SUI
-69478,Max Weiler,1,,,,SUI,43971,,1900-09-25,125.7,Defender,Switzerland,SUI
-69479,Arnaldo Ortelli,1,,,,SUI,43971,,1910-12-26,115.5,Defender,Switzerland,SUI
+69477,Renato Bizzozero,0,,,,SUI,43971,,1912-09-07,21.7,Goalkeeper,Switzerland,SUI
+69478,Max Weiler,1,,,,SUI,43971,,1900-09-25,33.7,Defender,Switzerland,SUI
+69479,Arnaldo Ortelli,1,,,,SUI,43971,,1910-12-26,23.4,Defender,Switzerland,SUI
 69480,Ernst Frick,2,,,,SUI,43971,,,,Midfielder,Switzerland,SUI
-69481,Albert Buche,3,,,,SUI,43971,,1911-01-01,115.4,Striker,Switzerland,SUI
-69482,Louis Gobet,1,,,,SUI,43971,,1908-10-28,117.6,Defender,Switzerland,SUI
+69481,Albert Buche,3,,,,SUI,43971,,1911-01-01,23.4,Striker,Switzerland,SUI
+69482,Louis Gobet,1,,,,SUI,43971,,1908-10-28,25.6,Defender,Switzerland,SUI
 69483,Otto Buehler,3,,,,SUI,43971,,,,Striker,Switzerland,SUI
-174322,Andre Abegglen,3,,,,SUI,43971,,1909-03-07,117.3,Striker,Switzerland,SUI
-48142,Ed Czerkiewicz,1,,,,USA,43921,,1912-07-08,113.9,Defender,United States,USA
-48544,Walter Dick,3,,,,USA,43921,,1905-09-20,120.7,Striker,United States,USA
-48676,Aldo Donelli,3,,,,USA,43921,,1907-07-22,118.9,Striker,United States,USA
-49494,Tom Florie,3,,,,USA,43921,,1897-09-06,128.8,Striker,United States,USA
-49709,Jimmy Gallagher,2,,,,USA,43921,,1901-06-07,125.0,Midfielder,United States,USA
-50076,Billy Gonsalves,3,,,,USA,43921,,1908-08-10,117.8,Striker,United States,USA
-50912,Julius Hjulian,0,,,,USA,43921,,1903-03-15,123.2,Goalkeeper,United States,USA
-53981,Bill Mclean,3,,,,USA,43921,,1904-01-27,122.4,Striker,United States,USA
-54468,George Moorhouse,1,,,,USA,43921,,1901-05-04,125.1,Defender,United States,USA
-55178,Werner Nilsen,3,,,,USA,43921,,1904-02-24,122.3,Striker,United States,USA
-56281,Peter Pietras,2,,,,USA,43921,,1908-04-21,118.1,Midfielder,United States,USA
-61505,Bill Lehmann,2,,,,USA,43921,,1901-12-20,124.5,Midfielder,United States,USA
-69446,Joe Martinelli,1,,,,USA,43921,,1916-01-01,110.5,Defender,United States,USA
-69447,Bill Fiedler,2,,,,USA,43921,,1910-01-10,116.4,Midfielder,United States,USA
-69448,Al Harker,1,,,,USA,43921,,1910-04-11,116.2,Defender,United States,USA
-69449,Herman Rapp,1,,,,USA,43921,,1907-01-01,119.4,Defender,United States,USA
+174322,Andre Abegglen,3,,,,SUI,43971,,1909-03-07,25.2,Striker,Switzerland,SUI
+48142,Ed Czerkiewicz,1,,,,USA,43921,,1912-07-08,21.9,Defender,United States,USA
+48544,Walter Dick,3,,,,USA,43921,,1905-09-20,28.7,Striker,United States,USA
+48676,Aldo Donelli,3,,,,USA,43921,,1907-07-22,26.8,Striker,United States,USA
+49494,Tom Florie,3,,,,USA,43921,,1897-09-06,36.7,Striker,United States,USA
+49709,Jimmy Gallagher,2,,,,USA,43921,,1901-06-07,33.0,Midfielder,United States,USA
+50076,Billy Gonsalves,3,,,,USA,43921,,1908-08-10,25.8,Striker,United States,USA
+50912,Julius Hjulian,0,,,,USA,43921,,1903-03-15,31.2,Goalkeeper,United States,USA
+53981,Bill Mclean,3,,,,USA,43921,,1904-01-27,30.3,Striker,United States,USA
+54468,George Moorhouse,1,,,,USA,43921,,1901-05-04,33.1,Defender,United States,USA
+55178,Werner Nilsen,3,,,,USA,43921,,1904-02-24,30.3,Striker,United States,USA
+56281,Peter Pietras,2,,,,USA,43921,,1908-04-21,26.1,Midfielder,United States,USA
+61505,Bill Lehmann,2,,,,USA,43921,,1901-12-20,32.4,Midfielder,United States,USA
+69446,Joe Martinelli,1,,,,USA,43921,,1916-01-01,18.4,Defender,United States,USA
+69447,Bill Fiedler,2,,,,USA,43921,,1910-01-10,24.4,Midfielder,United States,USA
+69448,Al Harker,1,,,,USA,43921,,1910-04-11,24.1,Defender,United States,USA
+69449,Herman Rapp,1,,,,USA,43921,,1907-01-01,27.4,Defender,United States,USA
 69450,Tom Lynch,2,,,,USA,43921,,,,Midfielder,United States,USA
-69451,Tom Amrhein,2,,,,USA,43921,,1911-01-01,115.4,Midfielder,United States,USA
-198094,Francis Ryan,3,,,,USA,43921,,1908-01-10,118.4,Striker,United States,USA
+69451,Tom Amrhein,2,,,,USA,43921,,1911-01-01,23.4,Midfielder,United States,USA
+198094,Francis Ryan,3,,,,USA,43921,,1908-01-10,26.4,Striker,United States,USA

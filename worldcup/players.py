@@ -3,7 +3,7 @@
 import pandas as pd
 import requests
 
-from . import config, storage, teams
+from . import config, seasons, storage, teams
 from .fetch import get_json
 
 
@@ -39,13 +39,16 @@ def _player_record(player: dict) -> dict:
     }
 
 
-def transform(records: list[dict], teams_df: pd.DataFrame) -> pd.DataFrame:
+def transform(records: list[dict], teams_df: pd.DataFrame,
+              as_of: str | None = None) -> pd.DataFrame:
     df = pd.DataFrame(records)
 
     df["dob"] = pd.to_datetime(df["birth_date"], errors="coerce").dt.strftime("%Y-%m-%d")
-    today = pd.Timestamp("today").normalize()
+    # Age as of the tournament start (so historical editions aren't computed
+    # against today's date); falls back to today if no reference is given.
+    reference = pd.to_datetime(as_of) if as_of else pd.Timestamp("today").normalize()
     df["age"] = (
-        (today - pd.to_datetime(df["dob"], errors="coerce")).dt.days / 365.25
+        (reference - pd.to_datetime(df["dob"], errors="coerce")).dt.days / 365.25
     ).round(1)
     df = df.drop(columns=["birth_date"])
 
@@ -60,9 +63,11 @@ def transform(records: list[dict], teams_df: pd.DataFrame) -> pd.DataFrame:
 
 
 def run(teams_df: pd.DataFrame | None = None, season: str | None = None,
-        subdir: str | None = None) -> pd.DataFrame:
+        subdir: str | None = None, as_of: str | None = None) -> pd.DataFrame:
     print("players:")
     season = season or config.SEASON_ID
+    if as_of is None:
+        as_of = seasons.season_start(season)
     if teams_df is None:
         teams_df = teams.run(season=season, subdir=subdir)
 
@@ -76,7 +81,7 @@ def run(teams_df: pd.DataFrame | None = None, season: str | None = None,
         print("  no squad data available for this season")
         return pd.DataFrame()
 
-    df = transform(records, teams_df)
+    df = transform(records, teams_df, as_of=as_of)
     storage.save(df, "players", subdir=subdir)
     return df
 

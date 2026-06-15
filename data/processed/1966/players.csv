@@ -1,353 +1,353 @@
 player_id,name,position,jersey_number,weight,height,country_code,id_team,picture_url,dob,age,position_desc,team_name,team_abbr
-57085,Antonio Roma,0,1,,,ARG,43922,,1937-07-12,88.9,Goalkeeper,Argentina,ARG
-51288,Roland Irusta,0,2,,,ARG,43922,,1938-03-27,88.2,Goalkeeper,Argentina,ARG
-69852,Hugo Gatti,0,3,,,ARG,43922,,1944-08-19,81.8,Goalkeeper,Argentina,ARG
-174851,Roberto Perfumo,1,4,,,ARG,43922,,1942-10-03,83.7,Defender,Argentina,ARG
-59455,Jose Varacka,2,5,,,ARG,43922,,1932-05-27,94.0,Midfielder,Argentina,ARG
-47187,Oscar Calics,1,6,,,ARG,43922,,1939-11-18,86.6,Defender,Argentina,ARG
-174737,Silvio Marzolini,1,7,,,ARG,43922,,1940-10-04,85.7,Defender,Argentina,ARG
-49379,Roberto Ferrero,1,8,,,ARG,43922,,1935-04-25,91.1,Defender,Argentina,ARG
-58047,Carmelo Simeone,2,9,,,ARG,43922,,1934-09-22,91.7,Midfielder,Argentina,ARG
-56725,Antonio Rattin,2,10,,,ARG,43922,,1937-05-16,89.1,Midfielder,Argentina,ARG
-178856,Jose Pastoriza,2,11,,,ARG,43922,,1942-05-23,84.1,Midfielder,Argentina,ARG
-45358,Rafael Albrecht,2,12,,,ARG,43922,,1941-08-23,84.8,Midfielder,Argentina,ARG
-69854,Nelson Lopez,1,13,,,ARG,43922,,1941-06-24,85.0,Defender,Argentina,ARG
-69855,Mario Chaldu,3,14,,,ARG,43922,,1942-06-06,84.0,Striker,Argentina,ARG
-58223,Jorge Solari,3,15,,,ARG,43922,,1941-11-11,84.6,Striker,Argentina,ARG
-50122,Alberto Gonzalez,3,16,,,ARG,43922,,1941-08-21,84.8,Striker,Argentina,ARG
-69856,Juan Sarnari,2,17,,,ARG,43922,,1942-01-22,84.4,Midfielder,Argentina,ARG
-57055,Alfredo Rojas,3,18,,,ARG,43922,,1937-02-20,89.3,Striker,Argentina,ARG
-45828,Luis Artime,3,19,,,ARG,43922,,1938-12-02,87.5,Striker,Argentina,ARG
-55600,Ermindo Onega,3,20,,,ARG,43922,,1940-04-30,86.1,Striker,Argentina,ARG
-53762,Oscar Mas,3,21,,,ARG,43922,,1946-10-29,79.6,Striker,Argentina,ARG
-58769,Anibal Tarabini,3,22,,,ARG,43922,,1941-08-04,84.9,Striker,Argentina,ARG
-63860,Gilmar (Gilmar Dos Santos Neves),0,1,,,BRA,43924,,1930-08-22,95.8,Goalkeeper,Brazil,BRA
-44603,Djalma Santos,1,2,,,BRA,43924,,1929-02-27,97.3,Defender,Brazil,BRA
-63883,Fidelis,1,3,,,BRA,43924,,1944-03-13,82.3,Defender,Brazil,BRA
-63862,Bellini,1,4,,,BRA,43924,,1930-06-07,96.0,Defender,Brazil,BRA
-63884,Brito,1,5,,,BRA,43924,,1939-08-09,86.8,Defender,Brazil,BRA
-63877,Altair,1,6,,,BRA,43924,,1938-01-22,88.4,Defender,Brazil,BRA
-63864,Orlando,1,7,,,BRA,43924,,1935-09-20,90.7,Defender,Brazil,BRA
-56009,Paulo Henrique,1,8,,,BRA,43924,,1943-01-05,83.4,Defender,Brazil,BRA
-63885,Rildo,1,9,,,BRA,43924,,1942-01-23,84.4,Defender,Brazil,BRA
-63869,Pelé (Edson Arantes Do Nascimento),3,10,,,BRA,43924,,1940-10-23,85.6,Striker,Brazil,BRA
-63880,Gerson,2,11,,,BRA,43924,,1941-01-11,85.4,Midfielder,Brazil,BRA
-63882,Manga,0,12,,,BRA,43924,,1937-04-26,89.1,Goalkeeper,Brazil,BRA
-189093,Denilson,2,13,,,BRA,43924,,1943-03-28,83.2,Midfielder,Brazil,BRA
-53044,Lima,2,14,,,BRA,43924,,1942-01-18,84.4,Midfielder,Brazil,BRA
-63867,Zito,2,15,,,BRA,43924,,1932-08-08,93.8,Midfielder,Brazil,BRA
-63868,Garrincha,3,16,,,BRA,43924,,1933-10-28,92.6,Striker,Brazil,BRA
-63879,Jairzinho,3,17,,,BRA,43924,,1944-12-25,81.5,Striker,Brazil,BRA
-63878,Alcindo,3,18,,,BRA,43924,,1945-03-31,81.2,Striker,Brazil,BRA
-63886,Silva,3,19,,,BRA,43924,,1940-01-02,86.4,Striker,Brazil,BRA
-63881,Tostao,2,20,,,BRA,43924,,1947-01-25,79.4,Midfielder,Brazil,BRA
-63887,Parana,3,21,,,BRA,43924,,1942-03-21,84.2,Striker,Brazil,BRA
-63893,Edu,3,22,,,BRA,43924,,1949-08-06,76.9,Striker,Brazil,BRA
-54914,Georgi Naidenov,0,1,,,BUL,43936,,1931-12-21,94.5,Goalkeeper,Bulgaria,BUL
-47475,Aleksandar Shalamanov,1,2,,,BUL,43936,,1941-09-04,84.8,Defender,Bulgaria,BUL
-59743,Ivan Vutsov,1,3,,,BUL,43936,,1939-12-14,86.5,Defender,Bulgaria,BUL
-49678,Boris Gaganelov,1,4,,,BUL,43936,,1941-10-07,84.7,Defender,Bulgaria,BUL
-76175,Dimitar Penev,1,5,,,BUL,43936,,1945-07-12,80.9,Defender,Bulgaria,BUL
-60309,Dobromir Jechev,3,6,,,BUL,43936,,1942-11-12,83.6,Striker,Bulgaria,BUL
-48445,Dinko Dermendzhiev,2,7,,,BUL,43936,,1941-06-02,85.0,Midfielder,Bulgaria,BUL
-52425,Stoyan Kitov,2,8,,,BUL,43936,,1938-08-27,87.8,Midfielder,Bulgaria,BUL
-174357,Georgi Asparukhov,3,9,,,BUL,43936,,1943-05-04,83.1,Striker,Bulgaria,BUL
-51509,Petar Zhekov,3,10,,,BUL,43936,,1944-10-10,81.7,Striker,Bulgaria,BUL
-52343,Ivan Kolev,3,11,,,BUL,43936,,1930-11-01,95.6,Striker,Bulgaria,BUL
-54158,Vasil Metodiev,1,12,,,BUL,43936,,1935-01-06,91.4,Defender,Bulgaria,BUL
-60102,Dimitar Yakimov,3,13,,,BUL,43936,,1941-08-12,84.8,Striker,Bulgaria,BUL
-52418,Nikola Kotkov,3,14,,,BUL,43936,,1938-12-09,87.5,Striker,Bulgaria,BUL
-52751,Dimitar Largov,1,15,,,BUL,43936,,1936-09-10,89.8,Defender,Bulgaria,BUL
-52411,Aleksandar Kostov,3,16,,,BUL,43936,,1938-03-05,88.3,Striker,Bulgaria,BUL
-44798,Stefan Abadzhiev,3,17,,,BUL,43936,,1934-07-03,91.9,Striker,Bulgaria,BUL
-181775,Evgeni Yanchovski,2,18,,,BUL,43936,,1939-09-05,86.8,Midfielder,Bulgaria,BUL
-45719,Vidin Apostolov,1,19,,,BUL,43936,,1941-10-17,84.7,Defender,Bulgaria,BUL
-48261,Ivan Davidov,2,20,,,BUL,43936,,1943-10-05,82.7,Midfielder,Bulgaria,BUL
-58050,Simeon Simeonov,0,21,,,BUL,43936,,1946-04-26,80.1,Goalkeeper,Bulgaria,BUL
-48363,Ivan Deyanov,0,22,,,BUL,43936,,1937-12-16,88.5,Goalkeeper,Bulgaria,BUL
-45743,Pedro Araya,3,1,,,CHI,43925,,1942-01-23,84.4,Striker,Chile,CHI
-69879,Hugo Berly,1,2,,,CHI,43925,,1941-12-31,84.5,Defender,Chile,CHI
-47242,Carlos Campos,3,3,,,CHI,43925,,1937-02-14,89.3,Striker,Chile,CHI
-48079,Humberto Cruz,2,4,,,CHI,43925,,1939-12-08,86.5,Midfielder,Chile,CHI
-48684,Humberto Donoso,1,5,,,CHI,43925,,1938-10-09,87.7,Defender,Chile,CHI
-174529,Luis Eyzaguirre,1,6,,,CHI,43925,,1939-06-22,87.0,Defender,Chile,CHI
-49415,Elias Figueroa,1,7,,,CHI,43925,,1946-10-25,79.6,Defender,Chile,CHI
-49557,Alberto Fouilloux,2,8,,,CHI,43925,,1940-11-22,85.6,Midfielder,Chile,CHI
-50015,Adan Godoy,0,9,,,CHI,43925,,1936-11-26,89.5,Goalkeeper,Chile,CHI
-50927,Roberto Hodge,2,10,,,CHI,43925,,1944-07-30,81.9,Midfielder,Chile,CHI
-52719,Honorino Landa,3,11,,,CHI,43925,,1942-06-01,84.0,Striker,Chile,CHI
-53632,Ruben Marcos,2,12,,,CHI,43925,,1942-12-06,83.5,Midfielder,Chile,CHI
-55526,Juan Olivares,0,13,,,CHI,43925,,1941-02-20,85.3,Goalkeeper,Chile,CHI
-56448,Ignacio Prieto,2,14,,,CHI,43925,,1943-09-23,82.7,Midfielder,Chile,CHI
-56653,Jaime Ramirez,3,15,,,CHI,43925,,1931-08-14,94.8,Striker,Chile,CHI
-69880,Orlando Ramirez,3,16,,,CHI,43925,,1943-05-07,83.1,Striker,Chile,CHI
-44596,Leonel Sanchez,2,17,,,CHI,43925,,1936-04-25,90.1,Midfielder,Chile,CHI
-58991,Armando Tobar,3,18,,,CHI,43925,,1938-06-07,88.0,Striker,Chile,CHI
-61449,Francisco Valdes,3,19,,,CHI,43925,,1943-03-19,83.2,Striker,Chile,CHI
-59358,Alberto Valentini,1,20,,,CHI,43925,,1938-11-25,87.6,Defender,Chile,CHI
-59636,Hugo Villanueva,1,21,,,CHI,43925,,1939-04-09,87.2,Defender,Chile,CHI
-60133,Guillermo Yavar,3,22,,,CHI,43925,,1943-03-26,83.2,Striker,Chile,CHI
-174372,Gordon Banks,0,1,,,ENG,43942,,1937-12-30,88.5,Goalkeeper,England,ENG
-44008,George Cohen,1,2,,,ENG,43942,,1939-10-22,86.6,Defender,England,ENG
-44756,Ray Wilson,1,3,,,ENG,43942,,1934-12-17,91.5,Defender,England,ENG
-44665,Nobby Stiles,2,4,,,ENG,43942,,1942-05-18,84.1,Midfielder,England,ENG
-43992,Jack Charlton,1,5,,,ENG,43942,,1935-05-08,91.1,Defender,England,ENG
-174780,Bobby Moore,1,6,,,ENG,43942,,1941-04-12,85.2,Defender,England,ENG
-174369,Alan Ball,2,7,,,ENG,43942,,1945-05-12,81.1,Midfielder,England,ENG
-174575,Jimmy Greaves,3,8,,,ENG,43942,,1940-02-20,86.3,Striker,England,ENG
-43993,Bobby Charlton,3,9,,,ENG,43942,,1937-10-11,88.7,Striker,England,ENG
-174623,Geoff Hurst,3,10,,,ENG,43942,,1941-12-08,84.5,Striker,England,ENG
-174476,John Connelly,3,11,,,ENG,43942,,1938-07-18,87.9,Striker,England,ENG
-58351,Ron Springett,0,12,,,ENG,43942,,1935-07-22,90.9,Goalkeeper,England,ENG
-174413,Peter Bonetti,0,13,,,ENG,43942,,1941-09-27,84.7,Goalkeeper,England,ENG
-45791,Jimmy Armfield,1,14,,,ENG,43942,,1935-09-21,90.7,Defender,England,ENG
-47117,Gerry Byrne,1,15,,,ENG,43942,,1938-08-29,87.8,Defender,England,ENG
-174852,Martin Peters,2,16,,,ENG,43942,,1943-11-08,82.6,Midfielder,England,ENG
-49497,Ron Flowers,2,17,,,ENG,43942,,1934-07-28,91.9,Midfielder,England,ENG
-51110,Norman Hunter,1,18,,,ENG,43942,,1943-10-29,82.6,Defender,England,ENG
-174831,Terry Paine,3,19,,,ENG,43942,,1939-03-23,87.2,Striker,England,ENG
-174450,Ian Callaghan,2,20,,,ENG,43942,,1942-04-10,84.2,Midfielder,England,ENG
-174622,Roger Hunt,3,21,,,ENG,43942,,1938-07-20,87.9,Striker,England,ENG
-69835,George Eastham,3,22,,,ENG,43942,,1936-09-23,89.7,Striker,England,ENG
-45919,Marcel Aubour,0,1,,,FRA,43946,,1940-06-17,86.0,Goalkeeper,France,FRA
-45825,Marcel Artelesa,2,2,,,FRA,43946,,1938-07-02,88.0,Midfielder,France,FRA
-69839,Edmond Baraffe,3,3,,,FRA,43946,,1942-10-19,83.7,Striker,France,FRA
-46759,Joseph Bonnel,2,4,,,FRA,43946,,1939-01-04,87.4,Midfielder,France,FRA
-46823,Bernard Bosquier,1,5,,,FRA,43946,,1942-06-19,84.0,Defender,France,FRA
-47030,Robert Budzynski,1,6,,,FRA,43946,,1940-05-21,86.1,Defender,France,FRA
-47721,Andre Chorda,1,7,,,FRA,43946,,1938-02-20,88.3,Defender,France,FRA
-44014,Nestor Combin,3,8,,,FRA,43946,,1940-12-29,85.5,Striker,France,FRA
-69840,Didier Couecou,3,9,,,FRA,43946,,1944-07-25,81.9,Striker,France,FRA
-48288,Hector De Bourgoing,3,10,,,FRA,43946,,1934-07-23,91.9,Striker,France,FRA
-48320,Gabriel De Michele,1,11,,,FRA,43946,,1941-03-06,85.3,Defender,France,FRA
-48625,Jean Djorkaeff,1,12,,,FRA,43946,,1939-10-27,86.6,Defender,France,FRA
-50070,Philippe Gondet,3,13,,,FRA,43946,,1942-05-17,84.1,Striker,France,FRA
-50708,Gerard Hausser,3,14,,,FRA,43946,,1939-03-18,87.2,Striker,France,FRA
-50783,Yves Herbert,2,15,,,FRA,43946,,1945-08-17,80.8,Midfielder,France,FRA
-174598,Robert Herbin,2,16,,,FRA,43946,,1939-03-30,87.2,Midfielder,France,FRA
-69841,Lucien Muller,2,17,,,FRA,43946,,1934-09-03,91.8,Midfielder,France,FRA
-69842,Jean Claude Piumi,2,18,,,FRA,43946,,1940-05-27,86.0,Midfielder,France,FRA
-69843,Laurent Robuschi,3,19,,,FRA,43946,,1935-10-05,90.7,Striker,France,FRA
-58060,Jacques Simon,3,20,,,FRA,43946,,1941-03-20,85.2,Striker,France,FRA
-47315,Georges Carnus,0,21,,,FRA,43946,,1942-08-13,83.8,Goalkeeper,France,FRA
-69844,Johnny Schuth,0,22,,,FRA,43946,,1941-12-07,84.5,Goalkeeper,France,FRA
-58970,Hans Tilkowski,0,1,,,FRG,44023,,1935-07-12,90.9,Goalkeeper,Germany FR,FRG
-174614,Horst-Dieter Hoettges,1,2,,,GER,44023,,1943-09-10,82.8,Defender,Germany FR,FRG
-44612,Karl-Heinz Schnellinger,1,3,,,FRG,44023,,1939-03-31,87.2,Defender,Germany FR,FRG
-25113,Franz Beckenbauer,2,4,,,GER,44023,,1945-09-11,80.8,Midfielder,Germany FR,FRG
-44616,Willi Schulz,1,5,,,FRG,44023,,1938-10-04,87.7,Defender,Germany FR,FRG
-44749,Wolfgang Weber,1,6,,,GER,44023,,1944-06-26,82.0,Defender,Germany FR,FRG
-47000,Albert Bruells,2,7,,,FRG,44023,,1937-03-26,89.2,Midfielder,Germany FR,FRG
-174590,Helmut Haller,2,8,,,FRG,44023,,1939-07-21,86.9,Midfielder,Germany FR,FRG
-57776,Uwe Seeler,3,9,,170.0,GER,44023,,1936-11-05,89.6,Striker,Germany FR,FRG
-50746,Sigi Held,3,10,,,GER,44023,,1942-08-07,83.9,Striker,Germany FR,FRG
-174521,Lothar Emmerich,3,11,,,GER,44023,,1941-11-29,84.5,Striker,Germany FR,FRG
-174828,Wolfgang Overath,2,12,,,GER,44023,,1943-09-29,82.7,Midfielder,Germany FR,FRG
-69848,Heinz Hornig,3,13,,,GER,44023,,1937-09-28,88.7,Striker,Germany FR,FRG
-53292,Friedel Lutz,1,14,,,FRG,44023,,1939-01-21,87.4,Defender,Germany FR,FRG
-56004,Bernd Patzke,1,15,,,GER,44023,,1943-03-14,83.3,Defender,Germany FR,FRG
-53197,Max Lorenz,2,16,,,GER,44023,,1939-08-19,86.8,Midfielder,Germany FR,FRG
-69849,Wolfgang Paul,1,17,86.0,186.0,GER,44023,,1940-01-25,86.4,Defender,Germany FR,FRG
-57998,Klaus-Dieter Sieloff,1,18,,,GER,44023,,1942-02-27,84.3,Defender,Germany FR,FRG
-52476,Werner Kraemer,3,19,,,GER,44023,,1940-01-23,86.4,Striker,Germany FR,FRG
-174573,Juergen Grabowski,3,20,,,GER,44023,,1944-07-07,81.9,Striker,Germany FR,FRG
-69850,Guenter Bernard,0,21,,,GER,44023,,1939-11-04,86.6,Goalkeeper,Germany FR,FRG
-37989,Sepp Maier,0,22,,,GER,44023,,1944-02-28,82.3,Goalkeeper,Germany FR,FRG
-58661,Antal Szentimihalyi,0,1,,,HUN,43950,,1939-06-13,87.0,Goalkeeper,Hungary,HUN
-51859,Beno Kaposzta,1,2,,,HUN,43950,,1942-06-07,84.0,Defender,Hungary,HUN
-53836,Sandor Matrai,1,3,,,HUN,43950,,1932-11-20,93.6,Defender,Hungary,HUN
-58314,Kalman Sovari,1,4,,,HUN,43950,,1940-12-21,85.5,Defender,Hungary,HUN
-61644,Kalman Meszoly,1,5,,,HUN,43950,,1941-07-16,84.9,Defender,Hungary,HUN
-44643,Ferenc Sipos,2,6,,,HUN,43950,,1932-12-13,93.5,Midfielder,Hungary,HUN
-174388,Ferenc Bene,3,7,,,HUN,43950,,1944-12-17,81.5,Striker,Hungary,HUN
-69863,Zoltan Varga,2,8,,,HUN,43950,,1945-01-01,81.4,Midfielder,Hungary,HUN
-174330,Florian Albert,3,9,,,HUN,43950,,1941-09-15,84.7,Striker,Hungary,HUN
-49270,Janos Farkas,3,10,,,HUN,43950,,1942-03-27,84.2,Striker,Hungary,HUN
-56626,Gyula Rakosi,3,11,,,HUN,43950,,1938-10-09,87.7,Striker,Hungary,HUN
-174534,Mate Fenyvesi,3,12,,,HUN,43950,,1933-09-20,92.7,Striker,Hungary,HUN
-53823,Imre Mathesz,2,13,,,HUN,43950,,1937-03-25,89.2,Midfielder,Hungary,HUN
-54907,Istvan Nagy,2,14,,,HUN,43950,,1939-04-14,87.2,Midfielder,Hungary,HUN
-69864,Dezso Molnar,3,15,,,HUN,43950,,1939-12-02,86.5,Striker,Hungary,HUN
-44689,Lajos Tichy,3,16,,,HUN,43950,,1935-03-21,91.2,Striker,Hungary,HUN
-58665,Gusztav Szepesi,1,17,,,HUN,43950,,1939-07-17,86.9,Defender,Hungary,HUN
-51198,Kalman Ihasz,1,18,,,HUN,43950,,1941-03-06,85.3,Defender,Hungary,HUN
-56492,Lajos Puskas,3,19,,,HUN,43950,,1944-08-03,81.9,Striker,Hungary,HUN
-246249,Antal Nagy,3,20,,,HUN,43950,,1944-06-16,82.0,Striker,Hungary,HUN
-49855,Jozsef Gelei,0,21,,,HUN,43950,,1938-06-29,88.0,Goalkeeper,Hungary,HUN
-49482,Istvan Geczi,0,22,,,HUN,43950,,1944-03-16,82.2,Goalkeeper,Hungary,HUN
-174332,Enrico Albertosi,0,1,,,ITA,43954,,1939-11-02,86.6,Goalkeeper,Italy,ITA
-69876,Roberto Anzolin,0,2,,,ITA,43954,,1938-04-18,88.2,Goalkeeper,Italy,ITA
-174377,Paolo Barison,3,3,,,ITA,43954,,1936-06-23,90.0,Striker,Italy,ITA
-174436,Giacomo Bulgarelli,2,4,,,ITA,43954,,1940-10-24,85.6,Midfielder,Italy,ITA
-174438,Tarcisio Burgnich,1,5,,,ITA,43954,,1939-04-25,87.1,Defender,Italy,ITA
-28754,Giacinto Facchetti,1,6,,,ITA,43954,,1942-07-18,83.9,Defender,Italy,ITA
-49510,Romano Fogli,2,7,,,ITA,43954,,1938-01-21,88.4,Midfielder,Italy,ITA
-50278,Aristide Guarneri,1,8,,,ITA,43954,,1938-03-07,88.3,Defender,Italy,ITA
-51439,Francesco Janich,1,9,,,ITA,43954,,1937-03-27,89.2,Defender,Italy,ITA
-174646,Antonio Juliano,2,10,,,ITA,43954,,1943-01-01,83.4,Midfielder,Italy,ITA
-52721,Spartaco Landini,1,11,,,ITA,43954,,1944-01-31,82.4,Defender,Italy,ITA
-52945,Gianfranco Leoncini,2,12,,,ITA,43954,,1939-09-25,86.7,Midfielder,Italy,ITA
-174714,Giovanni Lodetti,2,13,,,ITA,43954,,1942-08-10,83.8,Midfielder,Italy,ITA
-174745,Sandro Mazzola,2,14,,,ITA,43954,,1942-11-08,83.6,Midfielder,Italy,ITA
-174766,Luigi Meroni,3,15,,,ITA,43954,,1943-02-24,83.3,Striker,Italy,ITA
-55977,Ezio Pascutti,3,16,,,ITA,43954,,1937-06-01,89.0,Striker,Italy,ITA
-56092,Marino Perani,3,17,,,ITA,43954,,1939-10-27,86.6,Striker,Italy,ITA
-69877,Pierluigi Pizzaballa,0,18,,,ITA,43954,,1939-09-14,86.7,Goalkeeper,Italy,ITA
-44571,Gianni Rivera,2,19,,,ITA,43954,,1943-08-18,82.8,Midfielder,Italy,ITA
-69878,Francesco Rizzo,2,20,,,ITA,43954,,1943-05-30,83.0,Midfielder,Italy,ITA
-44580,Roberto Rosato,1,21,,,ITA,43954,,1943-08-18,82.8,Defender,Italy,ITA
-44595,Sandro Salvadore,1,22,,,ITA,43954,,1939-11-29,86.5,Defender,Italy,ITA
-52994,Lee Chang Myung,0,1,,,PRK,43821,,1947-01-02,79.4,Goalkeeper,Korea DPR,PRK
-69868,Pak Li Sup,1,2,,,PRK,43821,,1944-01-06,82.4,Defender,Korea DPR,PRK
-57948,Shin Yung Kyoo,1,3,,,PRK,43821,,1942-03-30,84.2,Defender,Korea DPR,PRK
-47655,Kang Bong Chil,1,4,,,PRK,43821,,1943-11-07,82.6,Defender,Korea DPR,PRK
-69869,Lim Zoong Sun,1,5,,,PRK,43821,,1943-07-16,82.9,Defender,Korea DPR,PRK
-51224,Im Seung Hwi,2,6,,,PRK,43821,,1946-02-03,80.4,Midfielder,Korea DPR,PRK
-174832,Pak Doo Ik,2,7,,,PRK,43821,,1942-03-17,84.2,Midfielder,Korea DPR,PRK
-55826,Pak Seung Zin,3,8,,,PRK,43821,,1941-01-11,85.4,Striker,Korea DPR,PRK
-69871,Lee Keun Hak,0,9,,,PRK,43821,,1940-07-07,85.9,Goalkeeper,Korea DPR,PRK
-51835,Kang Ryong Woon,2,10,,,PRK,43821,,1942-04-25,84.1,Midfielder,Korea DPR,PRK
-50546,Han Bong Zin,2,11,,,PRK,43821,,1945-09-02,80.8,Midfielder,Korea DPR,PRK
-52180,Kim Seung Il,3,12,,,PRK,43821,,1945-09-02,80.8,Striker,Korea DPR,PRK
-55477,Oh Yoon Kyung,2,13,,,PRK,43821,,1941-08-06,84.9,Midfielder,Korea DPR,PRK
-50410,Ha Yung Won,2,14,,,PRK,43821,,1942-04-20,84.2,Midfielder,Korea DPR,PRK
-60119,Yang Seung Kook,3,15,,,PRK,43821,,1944-08-19,81.8,Striker,Korea DPR,PRK
-52997,Li Dong Woon,1,16,,,PRK,43821,,1945-07-04,80.9,Defender,Korea DPR,PRK
-52158,Kim Bong Hwan,3,17,,,PRK,43821,,1939-07-04,86.9,Striker,Korea DPR,PRK
-69872,Ke Seung Woon,3,18,,,PRK,43821,,1943-12-26,82.5,Striker,Korea DPR,PRK
-52215,Kim Yung Kil,3,19,,,PRK,43821,,1944-01-29,82.4,Striker,Korea DPR,PRK
-69873,Ryoo Chang Kil,3,20,,,PRK,43821,,1940-11-05,85.6,Striker,Korea DPR,PRK
-69874,An Se Bok,3,21,,,PRK,43821,,1946-10-29,79.6,Striker,Korea DPR,PRK
-69875,Li Chi An,3,22,,,PRK,43821,,1945-07-07,80.9,Striker,Korea DPR,PRK
-174456,Antonio Carbajal,0,1,,,MEX,43911,,1929-06-07,97.0,Goalkeeper,Mexico,MEX
-47471,Arturo Chairez,1,2,,,MEX,43911,,1937-03-14,89.3,Defender,Mexico,MEX
-174845,Gustavo Pena,1,3,,,MEX,43911,,1941-11-22,84.6,Defender,Mexico,MEX
-48371,Jesus Del Muro,1,4,,,MEX,43911,,1937-11-30,88.5,Defender,Mexico,MEX
-51483,Ignacio Jauregui,1,5,,,MEX,43911,,1938-07-31,87.9,Defender,Mexico,MEX
-48526,Isidoro Diaz,2,6,,,MEX,43911,,1940-03-14,86.3,Midfielder,Mexico,MEX
-57237,Felipe Ruvalcaba,3,7,,,MEX,43911,,1941-02-16,85.3,Striker,Mexico,MEX
-55801,Aaron Padilla,3,8,,,MEX,43911,,1942-07-10,83.9,Striker,Mexico,MEX
-47795,Ernesto Cisneros,2,9,,,MEX,43911,,1940-10-26,85.6,Midfielder,Mexico,MEX
-49563,Javier Fragoso,3,10,,,MEX,43911,,1942-04-19,84.2,Striker,Mexico,MEX
-69845,Francisco Jara,3,11,,,MEX,43911,,1941-02-03,85.4,Striker,Mexico,MEX
-174448,Ignacio Calderon,0,12,,,MEX,43911,,1943-12-13,82.5,Goalkeeper,Mexico,MEX
-50119,Jose Luis Gonzalez,1,13,,,MEX,43911,,1942-09-14,83.7,Defender,Mexico,MEX
-55314,Gabriel Nunez,1,14,,,MEX,43911,,1942-02-06,84.4,Defender,Mexico,MEX
-50827,Guillermo Hernandez,2,15,,,MEX,43911,,1942-06-25,84.0,Midfielder,Mexico,MEX
-181777,Luis Regueiro,2,16,,,MEX,43911,,1943-12-22,82.5,Midfielder,Mexico,MEX
-54128,Magdaleno Mercado,2,17,,,MEX,43911,,1944-04-04,82.2,Midfielder,Mexico,MEX
-69846,Elias Munoz,3,18,,,MEX,43911,,1941-11-03,84.6,Striker,Mexico,MEX
-56796,Salvador Reyes,3,19,,,MEX,43911,,1936-09-20,89.7,Striker,Mexico,MEX
-174134,Enrique Borja,3,20,,,MEX,43911,,1945-12-30,80.5,Striker,Mexico,MEX
-54980,Ramiro Navarro,3,21,,,MEX,43911,,1943-05-25,83.1,Striker,Mexico,MEX
-69847,Javier Vargas,0,22,,,MEX,43911,,1941-11-22,84.6,Goalkeeper,Mexico,MEX
-53159,Americo,0,1,,,POR,43963,,1933-03-06,93.3,Goalkeeper,Portugal,POR
-47354,Carvalho,0,2,,,POR,43963,,1937-04-18,89.2,Goalkeeper,Portugal,POR
-197841,Jose Pereira,0,3,,,POR,43963,,1931-09-15,94.7,Goalkeeper,Portugal,POR
-53239,Vicente,1,4,,,POR,43963,,1935-09-24,90.7,Defender,Portugal,POR
-49412,Germano,1,5,,,POR,43963,,1932-12-23,93.5,Defender,Portugal,POR
-56109,Peres,2,6,,,POR,43963,,1942-01-08,84.4,Midfielder,Portugal,POR
-49411,Ernesto,3,7,,,POR,43963,,1937-07-06,88.9,Striker,Portugal,POR
-69861,Lourenco,3,8,,,POR,43963,,1942-04-08,84.2,Striker,Portugal,POR
-47906,Hilario,1,9,,,POR,43963,,1939-03-19,87.2,Defender,Portugal,POR
-95842,Mario Coluna,2,10,,,POR,43963,,1935-08-06,90.9,Midfielder,Portugal,POR
-58057,Antonio Simoes,3,11,,170.0,POR,43963,,1943-12-14,82.5,Striker,Portugal,POR
-174360,Jose Augusto,3,12,,,POR,43963,,1937-04-13,89.2,Striker,Portugal,POR
-39547,Eusebio (Eusebio Da Silva Ferreira),3,13,,170.0,POR,43963,,1942-01-25,84.4,Striker,Portugal,POR
-48077,Fernando Cruz,1,14,,,POR,43963,,1940-08-12,85.8,Defender,Portugal,POR
-69862,Manuel Duarte,3,15,,,POR,43963,,1943-05-20,83.1,Striker,Portugal,POR
-50182,Jaime Graca,2,16,,,POR,43963,,1942-01-10,84.4,Midfielder,Portugal,POR
-54478,Morais,1,17,,,POR,43963,,1935-03-06,91.3,Defender,Portugal,POR
-61699,Jose Torres,3,18,,,POR,43963,,1938-09-08,87.8,Striker,Portugal,POR
-56307,Ferreira Pinto,2,19,,,POR,43963,,1939-11-07,86.6,Midfielder,Portugal,POR
-46196,Alexandre Baptista,1,20,,,POR,43963,,1941-02-17,85.3,Defender,Portugal,POR
-47306,Jose Carlos,1,21,,,POR,43963,,1941-09-22,84.7,Defender,Portugal,POR
-49391,Festa,1,22,,,POR,43963,,1939-07-21,86.9,Defender,Portugal,POR
-174638,Lev Yashin,0,1,,,URS,44026,,1929-10-22,96.6,Goalkeeper,Soviet Union,URS
-57844,Viktor Serebryanikov,3,2,,,URS,44026,,1940-03-29,86.2,Striker,Soviet Union,URS
-55708,Leonid Ostrovski,1,3,,,URS,44026,,1936-01-17,90.4,Defender,Soviet Union,URS
-56382,Vladimir Ponomaryov,1,4,,,URS,44026,,1940-02-18,86.3,Defender,Soviet Union,URS
-45033,Valentin Afonin,1,5,,,RUS,44026,,1939-12-22,86.5,Defender,Soviet Union,URS
-181436,Albert Shesternyov,1,6,,,URS,44026,,1941-06-20,85.0,Defender,Soviet Union,URS
-174660,Murtaz Khurtsilava,2,7,,,URS,44026,,1943-01-05,83.4,Midfielder,Soviet Union,URS
-57276,Yozhef Sabo,2,8,,,URS,44026,,1940-02-29,86.3,Midfielder,Soviet Union,URS
-49897,Viktor Getmanov,1,9,,,URS,44026,,1940-05-04,86.1,Defender,Soviet Union,URS
-48227,Vasily Danilov,1,10,,,URS,44026,,1941-05-13,85.1,Defender,Soviet Union,URS
-47679,Igor Chislenko,3,11,,,URS,44026,,1939-01-04,87.4,Striker,Soviet Union,URS
-59719,Valeri Voronin,2,12,,,URS,44026,,1939-07-17,86.9,Midfielder,Soviet Union,URS
-52391,Alexey Korneev,1,13,,,URS,44026,,1939-02-06,87.4,Defender,Soviet Union,URS
-57989,Georgi Sichinava,2,14,,,URS,44026,,1944-09-15,81.7,Midfielder,Soviet Union,URS
-52134,Galimzyan Khusainov,3,15,,,URS,44026,,1937-06-27,89.0,Striker,Soviet Union,URS
-54159,Slava Metreveli,3,16,,,URS,44026,,1936-05-30,90.0,Striker,Soviet Union,URS
-56397,Valeriy Porkuyan,3,17,,,URS,44026,,1944-10-04,81.7,Striker,Soviet Union,URS
-174371,Anatoli Banishevski,3,18,,,URS,44026,,1946-02-23,80.3,Striker,Soviet Union,URS
-61638,Eduard Malofeyev,3,19,,,BLR,44026,,1942-06-02,84.0,Striker,Soviet Union,URS
-53659,Eduard Markarov,3,20,,,URS,44026,,1942-06-20,84.0,Striker,Soviet Union,URS
-51974,Anzor Kavazashvili,0,21,,,URS,44026,,1940-07-19,85.9,Goalkeeper,Soviet Union,URS
-36859,Victor Bannikov,0,22,,,UKR,44026,,1938-04-28,88.1,Goalkeeper,Soviet Union,URS
-51280,Jose Iribar,0,1,,,ESP,43969,,1943-03-01,83.3,Goalkeeper,Spain,ESP
-198018,Manuel Sanchis,1,2,,,ESP,43969,,1938-03-26,88.2,Defender,Spain,ESP
-49005,Eladio,1,3,,,ESP,43969,,1940-11-18,85.6,Defender,Spain,ESP
-174497,Luis Del Sol,2,4,,,ESP,43969,,1935-04-06,91.2,Midfielder,Spain,ESP
-44785,Ignacio Zoco,2,5,,,ESP,43969,,1939-07-31,86.9,Midfielder,Spain,ESP
-49988,Jesus Glaria,2,6,,,ESP,43969,,1942-01-02,84.4,Midfielder,Spain,ESP
-185740,Armando Ufarte,3,7,,,ESP,43969,,1941-05-17,85.1,Striker,Spain,ESP
-174346,Amancio,3,8,,,ESP,43969,,1940-10-16,85.7,Striker,Spain,ESP
-53731,Marcelino,3,9,,,ESP,43969,,1940-04-29,86.1,Striker,Spain,ESP
-44673,Luis Suarez,2,10,,,ESP,43969,,1935-05-02,91.1,Midfielder,Spain,ESP
-174556,Francisco Gento,3,11,,,ESP,43969,,1933-10-21,92.6,Striker,Spain,ESP
-46542,Antonio Betancourt,0,12,,,ESP,43969,,1937-03-13,89.3,Goalkeeper,Spain,ESP
-56783,Miguel Reina,0,13,,,ESP,43969,,1946-01-21,80.4,Goalkeeper,Spain,ESP
-56945,Feliciano Rivilla,1,14,,,ESP,43969,,1936-08-21,89.8,Defender,Spain,ESP
-56779,Severino Reija,1,15,,,ESP,43969,,1938-11-25,87.6,Defender,Spain,ESP
-55536,Fernando Olivella,1,16,,,ESP,43969,,1936-06-22,90.0,Defender,Spain,ESP
-49716,Gallego,2,17,,,ESP,43969,,1944-03-04,82.3,Midfielder,Spain,ESP
-63875,Pirri,2,18,,,ESP,43969,,1945-03-11,81.3,Midfielder,Spain,ESP
-49660,Jose Maria Fuste,3,19,,,ESP,43969,,1941-04-15,85.2,Striker,Spain,ESP
-174844,Joaquin Peiro,3,20,,,ESP,43969,,1936-01-29,90.4,Striker,Spain,ESP
-56999,Adelardo,1,21,,,ESP,43969,,1939-09-26,86.7,Defender,Spain,ESP
-52736,Carlos Lapetra,3,22,,,ESP,43969,,1938-11-29,87.5,Striker,Spain,ESP
-49029,Charly Elsener,0,1,,,SUI,43971,,1934-08-13,91.8,Goalkeeper,Switzerland,SUI
-69851,Willy Allemann,1,2,,,SUI,43971,,1942-06-10,84.0,Defender,Switzerland,SUI
-45524,Kurt Ambruster,1,3,,,SUI,43971,,1934-09-16,91.7,Defender,Switzerland,SUI
-46051,Heinz Baeni,2,4,,,SUI,43971,,1936-11-18,89.6,Midfielder,Switzerland,SUI
-46966,Rene Brodmann,1,5,,,SUI,43971,,1933-10-25,92.6,Defender,Switzerland,SUI
-48805,Richard Duerr,2,6,,,SUI,43971,,1938-12-01,87.5,Midfielder,Switzerland,SUI
-49640,Hans-Ruedi Fuhrer,1,7,,,SUI,43971,,1937-12-24,88.5,Defender,Switzerland,SUI
-50169,Vittore Gottardi,3,8,,,SUI,43971,,1941-09-24,84.7,Striker,Switzerland,SUI
-50258,Andre Grobety,1,9,,,SUI,43971,,1933-06-22,93.0,Defender,Switzerland,SUI
-51015,Robert Hosp,3,10,,,SUI,43971,,1939-12-13,86.5,Striker,Switzerland,SUI
-52561,Koebi Kuhn,2,11,,,SUI,43971,,1943-10-12,82.7,Midfielder,Switzerland,SUI
-48886,Leo Eichmann,0,12,,,SUI,43971,,1936-12-24,89.5,Goalkeeper,Switzerland,SUI
-52581,Fritz Kuenzli,3,13,,,SUI,43971,,1946-01-08,80.4,Striker,Switzerland,SUI
-52916,Werner Leimgruber,1,14,,,SUI,43971,,1934-09-02,91.8,Defender,Switzerland,SUI
-174814,Karl Odermatt,2,15,,,SUI,43971,,1942-12-17,83.5,Midfielder,Switzerland,SUI
-56509,Rene-Pierre Quentin,3,16,,,SUI,43971,,1943-08-05,82.9,Striker,Switzerland,SUI
-57684,Jean-Claude Schindelholz,3,17,,,SUI,43971,,1940-10-11,85.7,Striker,Switzerland,SUI
-57710,Heinz Schneiter,1,18,,,SUI,43971,,1935-04-12,91.2,Defender,Switzerland,SUI
-58446,Xavier Stierli,1,19,,,SUI,43971,,1940-10-29,85.6,Defender,Switzerland,SUI
-58694,Ely Tacchella,1,20,,,SUI,43971,,1936-05-25,90.1,Defender,Switzerland,SUI
-59733,Georges Vuilleumier,3,21,,,SUI,43971,,1944-09-21,81.7,Striker,Switzerland,SUI
-56462,Mario Prosperi,0,22,,,SUI,43971,,1945-08-04,80.9,Goalkeeper,Switzerland,SUI
-174744,Ladislao Mazurkiewicz,0,1,,,URU,43930,,1945-02-14,81.3,Goalkeeper,Uruguay,URU
-70075,Horacio Troche,1,2,,,URU,43930,,1935-02-04,91.4,Defender,Uruguay,URU
-53569,Jorge Manicera,1,3,,,URU,43930,,1938-11-04,87.6,Defender,Uruguay,URU
-49538,Pablo Forlan,1,4,,,URU,43930,,1945-07-14,80.9,Defender,Uruguay,URU
-50066,Nestor Goncalves,1,5,,,URU,43930,,1936-04-27,90.1,Defender,Uruguay,URU
-47162,Omar Caetano,2,6,,,URU,43930,,1938-11-08,87.6,Midfielder,Uruguay,URU
-47998,Julio Cortes,2,7,,,URU,43930,,1941-03-29,85.2,Midfielder,Uruguay,URU
-59295,Jose Urruzmendi,3,8,,,URU,43930,,1944-08-25,81.8,Striker,Uruguay,URU
-57281,Jose Sasia,3,9,,,URU,43930,,1933-12-27,92.5,Striker,Uruguay,URU
-44576,Pedro Rocha,3,10,,,URU,43930,,1942-12-03,83.5,Striker,Uruguay,URU
-56117,Domingo Perez,3,11,,,URU,43930,,1936-06-07,90.0,Striker,Uruguay,URU
-198017,Roberto Eduardo Sosa,0,12,,,URU,43930,,1935-06-14,91.0,Goalkeeper,Uruguay,URU
-69837,Nelson Diaz,1,13,,,URU,43930,,1942-01-12,84.4,Defender,Uruguay,URU
-45483,Emilio Alvarez,2,14,,,URU,43930,,1939-02-10,87.3,Midfielder,Uruguay,URU
-59243,Luis Ubina,1,15,,,URU,43930,,1940-06-07,86.0,Defender,Uruguay,URU
-45482,Eliseo Alvarez,2,16,,,URU,43930,,1940-08-09,85.8,Midfielder,Uruguay,URU
-57444,Hector Salva,3,17,,,URU,43930,,1939-11-27,86.5,Striker,Uruguay,URU
-59605,Milton Viera,3,18,,,URU,43930,,1946-05-11,80.1,Striker,Uruguay,URU
-58031,Hector Silva,2,19,,,URU,43930,,1940-02-01,86.4,Midfielder,Uruguay,URU
-181778,Luis Ramos,1,20,,,URU,43930,,1939-10-09,86.7,Defender,Uruguay,URU
-174527,Victor Esparrago,2,21,,,URU,43930,,1944-10-06,81.7,Midfielder,Uruguay,URU
-58712,Walter Taibo,0,22,,,URU,43930,,1931-03-07,95.3,Goalkeeper,Uruguay,URU
+57085,Antonio Roma,0,1,,,ARG,43922,,1937-07-12,29.0,Goalkeeper,Argentina,ARG
+51288,Roland Irusta,0,2,,,ARG,43922,,1938-03-27,28.3,Goalkeeper,Argentina,ARG
+69852,Hugo Gatti,0,3,,,ARG,43922,,1944-08-19,21.9,Goalkeeper,Argentina,ARG
+174851,Roberto Perfumo,1,4,,,ARG,43922,,1942-10-03,23.8,Defender,Argentina,ARG
+59455,Jose Varacka,2,5,,,ARG,43922,,1932-05-27,34.1,Midfielder,Argentina,ARG
+47187,Oscar Calics,1,6,,,ARG,43922,,1939-11-18,26.6,Defender,Argentina,ARG
+174737,Silvio Marzolini,1,7,,,ARG,43922,,1940-10-04,25.8,Defender,Argentina,ARG
+49379,Roberto Ferrero,1,8,,,ARG,43922,,1935-04-25,31.2,Defender,Argentina,ARG
+58047,Carmelo Simeone,2,9,,,ARG,43922,,1934-09-22,31.8,Midfielder,Argentina,ARG
+56725,Antonio Rattin,2,10,,,ARG,43922,,1937-05-16,29.2,Midfielder,Argentina,ARG
+178856,Jose Pastoriza,2,11,,,ARG,43922,,1942-05-23,24.1,Midfielder,Argentina,ARG
+45358,Rafael Albrecht,2,12,,,ARG,43922,,1941-08-23,24.9,Midfielder,Argentina,ARG
+69854,Nelson Lopez,1,13,,,ARG,43922,,1941-06-24,25.0,Defender,Argentina,ARG
+69855,Mario Chaldu,3,14,,,ARG,43922,,1942-06-06,24.1,Striker,Argentina,ARG
+58223,Jorge Solari,3,15,,,ARG,43922,,1941-11-11,24.7,Striker,Argentina,ARG
+50122,Alberto Gonzalez,3,16,,,ARG,43922,,1941-08-21,24.9,Striker,Argentina,ARG
+69856,Juan Sarnari,2,17,,,ARG,43922,,1942-01-22,24.5,Midfielder,Argentina,ARG
+57055,Alfredo Rojas,3,18,,,ARG,43922,,1937-02-20,29.4,Striker,Argentina,ARG
+45828,Luis Artime,3,19,,,ARG,43922,,1938-12-02,27.6,Striker,Argentina,ARG
+55600,Ermindo Onega,3,20,,,ARG,43922,,1940-04-30,26.2,Striker,Argentina,ARG
+53762,Oscar Mas,3,21,,,ARG,43922,,1946-10-29,19.7,Striker,Argentina,ARG
+58769,Anibal Tarabini,3,22,,,ARG,43922,,1941-08-04,24.9,Striker,Argentina,ARG
+63860,Gilmar (Gilmar Dos Santos Neves),0,1,,,BRA,43924,,1930-08-22,35.9,Goalkeeper,Brazil,BRA
+44603,Djalma Santos,1,2,,,BRA,43924,,1929-02-27,37.4,Defender,Brazil,BRA
+63883,Fidelis,1,3,,,BRA,43924,,1944-03-13,22.3,Defender,Brazil,BRA
+63862,Bellini,1,4,,,BRA,43924,,1930-06-07,36.1,Defender,Brazil,BRA
+63884,Brito,1,5,,,BRA,43924,,1939-08-09,26.9,Defender,Brazil,BRA
+63877,Altair,1,6,,,BRA,43924,,1938-01-22,28.5,Defender,Brazil,BRA
+63864,Orlando,1,7,,,BRA,43924,,1935-09-20,30.8,Defender,Brazil,BRA
+56009,Paulo Henrique,1,8,,,BRA,43924,,1943-01-05,23.5,Defender,Brazil,BRA
+63885,Rildo,1,9,,,BRA,43924,,1942-01-23,24.5,Defender,Brazil,BRA
+63869,Pelé (Edson Arantes Do Nascimento),3,10,,,BRA,43924,,1940-10-23,25.7,Striker,Brazil,BRA
+63880,Gerson,2,11,,,BRA,43924,,1941-01-11,25.5,Midfielder,Brazil,BRA
+63882,Manga,0,12,,,BRA,43924,,1937-04-26,29.2,Goalkeeper,Brazil,BRA
+189093,Denilson,2,13,,,BRA,43924,,1943-03-28,23.3,Midfielder,Brazil,BRA
+53044,Lima,2,14,,,BRA,43924,,1942-01-18,24.5,Midfielder,Brazil,BRA
+63867,Zito,2,15,,,BRA,43924,,1932-08-08,33.9,Midfielder,Brazil,BRA
+63868,Garrincha,3,16,,,BRA,43924,,1933-10-28,32.7,Striker,Brazil,BRA
+63879,Jairzinho,3,17,,,BRA,43924,,1944-12-25,21.5,Striker,Brazil,BRA
+63878,Alcindo,3,18,,,BRA,43924,,1945-03-31,21.3,Striker,Brazil,BRA
+63886,Silva,3,19,,,BRA,43924,,1940-01-02,26.5,Striker,Brazil,BRA
+63881,Tostao,2,20,,,BRA,43924,,1947-01-25,19.5,Midfielder,Brazil,BRA
+63887,Parana,3,21,,,BRA,43924,,1942-03-21,24.3,Striker,Brazil,BRA
+63893,Edu,3,22,,,BRA,43924,,1949-08-06,16.9,Striker,Brazil,BRA
+54914,Georgi Naidenov,0,1,,,BUL,43936,,1931-12-21,34.6,Goalkeeper,Bulgaria,BUL
+47475,Aleksandar Shalamanov,1,2,,,BUL,43936,,1941-09-04,24.8,Defender,Bulgaria,BUL
+59743,Ivan Vutsov,1,3,,,BUL,43936,,1939-12-14,26.6,Defender,Bulgaria,BUL
+49678,Boris Gaganelov,1,4,,,BUL,43936,,1941-10-07,24.8,Defender,Bulgaria,BUL
+76175,Dimitar Penev,1,5,,,BUL,43936,,1945-07-12,21.0,Defender,Bulgaria,BUL
+60309,Dobromir Jechev,3,6,,,BUL,43936,,1942-11-12,23.7,Striker,Bulgaria,BUL
+48445,Dinko Dermendzhiev,2,7,,,BUL,43936,,1941-06-02,25.1,Midfielder,Bulgaria,BUL
+52425,Stoyan Kitov,2,8,,,BUL,43936,,1938-08-27,27.9,Midfielder,Bulgaria,BUL
+174357,Georgi Asparukhov,3,9,,,BUL,43936,,1943-05-04,23.2,Striker,Bulgaria,BUL
+51509,Petar Zhekov,3,10,,,BUL,43936,,1944-10-10,21.7,Striker,Bulgaria,BUL
+52343,Ivan Kolev,3,11,,,BUL,43936,,1930-11-01,35.7,Striker,Bulgaria,BUL
+54158,Vasil Metodiev,1,12,,,BUL,43936,,1935-01-06,31.5,Defender,Bulgaria,BUL
+60102,Dimitar Yakimov,3,13,,,BUL,43936,,1941-08-12,24.9,Striker,Bulgaria,BUL
+52418,Nikola Kotkov,3,14,,,BUL,43936,,1938-12-09,27.6,Striker,Bulgaria,BUL
+52751,Dimitar Largov,1,15,,,BUL,43936,,1936-09-10,29.8,Defender,Bulgaria,BUL
+52411,Aleksandar Kostov,3,16,,,BUL,43936,,1938-03-05,28.4,Striker,Bulgaria,BUL
+44798,Stefan Abadzhiev,3,17,,,BUL,43936,,1934-07-03,32.0,Striker,Bulgaria,BUL
+181775,Evgeni Yanchovski,2,18,,,BUL,43936,,1939-09-05,26.8,Midfielder,Bulgaria,BUL
+45719,Vidin Apostolov,1,19,,,BUL,43936,,1941-10-17,24.7,Defender,Bulgaria,BUL
+48261,Ivan Davidov,2,20,,,BUL,43936,,1943-10-05,22.8,Midfielder,Bulgaria,BUL
+58050,Simeon Simeonov,0,21,,,BUL,43936,,1946-04-26,20.2,Goalkeeper,Bulgaria,BUL
+48363,Ivan Deyanov,0,22,,,BUL,43936,,1937-12-16,28.6,Goalkeeper,Bulgaria,BUL
+45743,Pedro Araya,3,1,,,CHI,43925,,1942-01-23,24.5,Striker,Chile,CHI
+69879,Hugo Berly,1,2,,,CHI,43925,,1941-12-31,24.5,Defender,Chile,CHI
+47242,Carlos Campos,3,3,,,CHI,43925,,1937-02-14,29.4,Striker,Chile,CHI
+48079,Humberto Cruz,2,4,,,CHI,43925,,1939-12-08,26.6,Midfielder,Chile,CHI
+48684,Humberto Donoso,1,5,,,CHI,43925,,1938-10-09,27.8,Defender,Chile,CHI
+174529,Luis Eyzaguirre,1,6,,,CHI,43925,,1939-06-22,27.1,Defender,Chile,CHI
+49415,Elias Figueroa,1,7,,,CHI,43925,,1946-10-25,19.7,Defender,Chile,CHI
+49557,Alberto Fouilloux,2,8,,,CHI,43925,,1940-11-22,25.6,Midfielder,Chile,CHI
+50015,Adan Godoy,0,9,,,CHI,43925,,1936-11-26,29.6,Goalkeeper,Chile,CHI
+50927,Roberto Hodge,2,10,,,CHI,43925,,1944-07-30,21.9,Midfielder,Chile,CHI
+52719,Honorino Landa,3,11,,,CHI,43925,,1942-06-01,24.1,Striker,Chile,CHI
+53632,Ruben Marcos,2,12,,,CHI,43925,,1942-12-06,23.6,Midfielder,Chile,CHI
+55526,Juan Olivares,0,13,,,CHI,43925,,1941-02-20,25.4,Goalkeeper,Chile,CHI
+56448,Ignacio Prieto,2,14,,,CHI,43925,,1943-09-23,22.8,Midfielder,Chile,CHI
+56653,Jaime Ramirez,3,15,,,CHI,43925,,1931-08-14,34.9,Striker,Chile,CHI
+69880,Orlando Ramirez,3,16,,,CHI,43925,,1943-05-07,23.2,Striker,Chile,CHI
+44596,Leonel Sanchez,2,17,,,CHI,43925,,1936-04-25,30.2,Midfielder,Chile,CHI
+58991,Armando Tobar,3,18,,,CHI,43925,,1938-06-07,28.1,Striker,Chile,CHI
+61449,Francisco Valdes,3,19,,,CHI,43925,,1943-03-19,23.3,Striker,Chile,CHI
+59358,Alberto Valentini,1,20,,,CHI,43925,,1938-11-25,27.6,Defender,Chile,CHI
+59636,Hugo Villanueva,1,21,,,CHI,43925,,1939-04-09,27.3,Defender,Chile,CHI
+60133,Guillermo Yavar,3,22,,,CHI,43925,,1943-03-26,23.3,Striker,Chile,CHI
+174372,Gordon Banks,0,1,,,ENG,43942,,1937-12-30,28.5,Goalkeeper,England,ENG
+44008,George Cohen,1,2,,,ENG,43942,,1939-10-22,26.7,Defender,England,ENG
+44756,Ray Wilson,1,3,,,ENG,43942,,1934-12-17,31.6,Defender,England,ENG
+44665,Nobby Stiles,2,4,,,ENG,43942,,1942-05-18,24.1,Midfielder,England,ENG
+43992,Jack Charlton,1,5,,,ENG,43942,,1935-05-08,31.2,Defender,England,ENG
+174780,Bobby Moore,1,6,,,ENG,43942,,1941-04-12,25.2,Defender,England,ENG
+174369,Alan Ball,2,7,,,ENG,43942,,1945-05-12,21.2,Midfielder,England,ENG
+174575,Jimmy Greaves,3,8,,,ENG,43942,,1940-02-20,26.4,Striker,England,ENG
+43993,Bobby Charlton,3,9,,,ENG,43942,,1937-10-11,28.7,Striker,England,ENG
+174623,Geoff Hurst,3,10,,,ENG,43942,,1941-12-08,24.6,Striker,England,ENG
+174476,John Connelly,3,11,,,ENG,43942,,1938-07-18,28.0,Striker,England,ENG
+58351,Ron Springett,0,12,,,ENG,43942,,1935-07-22,31.0,Goalkeeper,England,ENG
+174413,Peter Bonetti,0,13,,,ENG,43942,,1941-09-27,24.8,Goalkeeper,England,ENG
+45791,Jimmy Armfield,1,14,,,ENG,43942,,1935-09-21,30.8,Defender,England,ENG
+47117,Gerry Byrne,1,15,,,ENG,43942,,1938-08-29,27.9,Defender,England,ENG
+174852,Martin Peters,2,16,,,ENG,43942,,1943-11-08,22.7,Midfielder,England,ENG
+49497,Ron Flowers,2,17,,,ENG,43942,,1934-07-28,32.0,Midfielder,England,ENG
+51110,Norman Hunter,1,18,,,ENG,43942,,1943-10-29,22.7,Defender,England,ENG
+174831,Terry Paine,3,19,,,ENG,43942,,1939-03-23,27.3,Striker,England,ENG
+174450,Ian Callaghan,2,20,,,ENG,43942,,1942-04-10,24.3,Midfielder,England,ENG
+174622,Roger Hunt,3,21,,,ENG,43942,,1938-07-20,28.0,Striker,England,ENG
+69835,George Eastham,3,22,,,ENG,43942,,1936-09-23,29.8,Striker,England,ENG
+45919,Marcel Aubour,0,1,,,FRA,43946,,1940-06-17,26.1,Goalkeeper,France,FRA
+45825,Marcel Artelesa,2,2,,,FRA,43946,,1938-07-02,28.0,Midfielder,France,FRA
+69839,Edmond Baraffe,3,3,,,FRA,43946,,1942-10-19,23.7,Striker,France,FRA
+46759,Joseph Bonnel,2,4,,,FRA,43946,,1939-01-04,27.5,Midfielder,France,FRA
+46823,Bernard Bosquier,1,5,,,FRA,43946,,1942-06-19,24.1,Defender,France,FRA
+47030,Robert Budzynski,1,6,,,FRA,43946,,1940-05-21,26.1,Defender,France,FRA
+47721,Andre Chorda,1,7,,,FRA,43946,,1938-02-20,28.4,Defender,France,FRA
+44014,Nestor Combin,3,8,,,FRA,43946,,1940-12-29,25.5,Striker,France,FRA
+69840,Didier Couecou,3,9,,,FRA,43946,,1944-07-25,22.0,Striker,France,FRA
+48288,Hector De Bourgoing,3,10,,,FRA,43946,,1934-07-23,32.0,Striker,France,FRA
+48320,Gabriel De Michele,1,11,,,FRA,43946,,1941-03-06,25.3,Defender,France,FRA
+48625,Jean Djorkaeff,1,12,,,FRA,43946,,1939-10-27,26.7,Defender,France,FRA
+50070,Philippe Gondet,3,13,,,FRA,43946,,1942-05-17,24.2,Striker,France,FRA
+50708,Gerard Hausser,3,14,,,FRA,43946,,1939-03-18,27.3,Striker,France,FRA
+50783,Yves Herbert,2,15,,,FRA,43946,,1945-08-17,20.9,Midfielder,France,FRA
+174598,Robert Herbin,2,16,,,FRA,43946,,1939-03-30,27.3,Midfielder,France,FRA
+69841,Lucien Muller,2,17,,,FRA,43946,,1934-09-03,31.9,Midfielder,France,FRA
+69842,Jean Claude Piumi,2,18,,,FRA,43946,,1940-05-27,26.1,Midfielder,France,FRA
+69843,Laurent Robuschi,3,19,,,FRA,43946,,1935-10-05,30.8,Striker,France,FRA
+58060,Jacques Simon,3,20,,,FRA,43946,,1941-03-20,25.3,Striker,France,FRA
+47315,Georges Carnus,0,21,,,FRA,43946,,1942-08-13,23.9,Goalkeeper,France,FRA
+69844,Johnny Schuth,0,22,,,FRA,43946,,1941-12-07,24.6,Goalkeeper,France,FRA
+58970,Hans Tilkowski,0,1,,,FRG,44023,,1935-07-12,31.0,Goalkeeper,Germany FR,FRG
+174614,Horst-Dieter Hoettges,1,2,,,GER,44023,,1943-09-10,22.8,Defender,Germany FR,FRG
+44612,Karl-Heinz Schnellinger,1,3,,,FRG,44023,,1939-03-31,27.3,Defender,Germany FR,FRG
+25113,Franz Beckenbauer,2,4,,,GER,44023,,1945-09-11,20.8,Midfielder,Germany FR,FRG
+44616,Willi Schulz,1,5,,,FRG,44023,,1938-10-04,27.8,Defender,Germany FR,FRG
+44749,Wolfgang Weber,1,6,,,GER,44023,,1944-06-26,22.0,Defender,Germany FR,FRG
+47000,Albert Bruells,2,7,,,FRG,44023,,1937-03-26,29.3,Midfielder,Germany FR,FRG
+174590,Helmut Haller,2,8,,,FRG,44023,,1939-07-21,27.0,Midfielder,Germany FR,FRG
+57776,Uwe Seeler,3,9,,170.0,GER,44023,,1936-11-05,29.7,Striker,Germany FR,FRG
+50746,Sigi Held,3,10,,,GER,44023,,1942-08-07,23.9,Striker,Germany FR,FRG
+174521,Lothar Emmerich,3,11,,,GER,44023,,1941-11-29,24.6,Striker,Germany FR,FRG
+174828,Wolfgang Overath,2,12,,,GER,44023,,1943-09-29,22.8,Midfielder,Germany FR,FRG
+69848,Heinz Hornig,3,13,,,GER,44023,,1937-09-28,28.8,Striker,Germany FR,FRG
+53292,Friedel Lutz,1,14,,,FRG,44023,,1939-01-21,27.5,Defender,Germany FR,FRG
+56004,Bernd Patzke,1,15,,,GER,44023,,1943-03-14,23.3,Defender,Germany FR,FRG
+53197,Max Lorenz,2,16,,,GER,44023,,1939-08-19,26.9,Midfielder,Germany FR,FRG
+69849,Wolfgang Paul,1,17,86.0,186.0,GER,44023,,1940-01-25,26.5,Defender,Germany FR,FRG
+57998,Klaus-Dieter Sieloff,1,18,,,GER,44023,,1942-02-27,24.4,Defender,Germany FR,FRG
+52476,Werner Kraemer,3,19,,,GER,44023,,1940-01-23,26.5,Striker,Germany FR,FRG
+174573,Juergen Grabowski,3,20,,,GER,44023,,1944-07-07,22.0,Striker,Germany FR,FRG
+69850,Guenter Bernard,0,21,,,GER,44023,,1939-11-04,26.7,Goalkeeper,Germany FR,FRG
+37989,Sepp Maier,0,22,,,GER,44023,,1944-02-28,22.4,Goalkeeper,Germany FR,FRG
+58661,Antal Szentimihalyi,0,1,,,HUN,43950,,1939-06-13,27.1,Goalkeeper,Hungary,HUN
+51859,Beno Kaposzta,1,2,,,HUN,43950,,1942-06-07,24.1,Defender,Hungary,HUN
+53836,Sandor Matrai,1,3,,,HUN,43950,,1932-11-20,33.6,Defender,Hungary,HUN
+58314,Kalman Sovari,1,4,,,HUN,43950,,1940-12-21,25.6,Defender,Hungary,HUN
+61644,Kalman Meszoly,1,5,,,HUN,43950,,1941-07-16,25.0,Defender,Hungary,HUN
+44643,Ferenc Sipos,2,6,,,HUN,43950,,1932-12-13,33.6,Midfielder,Hungary,HUN
+174388,Ferenc Bene,3,7,,,HUN,43950,,1944-12-17,21.6,Striker,Hungary,HUN
+69863,Zoltan Varga,2,8,,,HUN,43950,,1945-01-01,21.5,Midfielder,Hungary,HUN
+174330,Florian Albert,3,9,,,HUN,43950,,1941-09-15,24.8,Striker,Hungary,HUN
+49270,Janos Farkas,3,10,,,HUN,43950,,1942-03-27,24.3,Striker,Hungary,HUN
+56626,Gyula Rakosi,3,11,,,HUN,43950,,1938-10-09,27.8,Striker,Hungary,HUN
+174534,Mate Fenyvesi,3,12,,,HUN,43950,,1933-09-20,32.8,Striker,Hungary,HUN
+53823,Imre Mathesz,2,13,,,HUN,43950,,1937-03-25,29.3,Midfielder,Hungary,HUN
+54907,Istvan Nagy,2,14,,,HUN,43950,,1939-04-14,27.2,Midfielder,Hungary,HUN
+69864,Dezso Molnar,3,15,,,HUN,43950,,1939-12-02,26.6,Striker,Hungary,HUN
+44689,Lajos Tichy,3,16,,,HUN,43950,,1935-03-21,31.3,Striker,Hungary,HUN
+58665,Gusztav Szepesi,1,17,,,HUN,43950,,1939-07-17,27.0,Defender,Hungary,HUN
+51198,Kalman Ihasz,1,18,,,HUN,43950,,1941-03-06,25.3,Defender,Hungary,HUN
+56492,Lajos Puskas,3,19,,,HUN,43950,,1944-08-03,21.9,Striker,Hungary,HUN
+246249,Antal Nagy,3,20,,,HUN,43950,,1944-06-16,22.1,Striker,Hungary,HUN
+49855,Jozsef Gelei,0,21,,,HUN,43950,,1938-06-29,28.0,Goalkeeper,Hungary,HUN
+49482,Istvan Geczi,0,22,,,HUN,43950,,1944-03-16,22.3,Goalkeeper,Hungary,HUN
+174332,Enrico Albertosi,0,1,,,ITA,43954,,1939-11-02,26.7,Goalkeeper,Italy,ITA
+69876,Roberto Anzolin,0,2,,,ITA,43954,,1938-04-18,28.2,Goalkeeper,Italy,ITA
+174377,Paolo Barison,3,3,,,ITA,43954,,1936-06-23,30.0,Striker,Italy,ITA
+174436,Giacomo Bulgarelli,2,4,,,ITA,43954,,1940-10-24,25.7,Midfielder,Italy,ITA
+174438,Tarcisio Burgnich,1,5,,,ITA,43954,,1939-04-25,27.2,Defender,Italy,ITA
+28754,Giacinto Facchetti,1,6,,,ITA,43954,,1942-07-18,24.0,Defender,Italy,ITA
+49510,Romano Fogli,2,7,,,ITA,43954,,1938-01-21,28.5,Midfielder,Italy,ITA
+50278,Aristide Guarneri,1,8,,,ITA,43954,,1938-03-07,28.3,Defender,Italy,ITA
+51439,Francesco Janich,1,9,,,ITA,43954,,1937-03-27,29.3,Defender,Italy,ITA
+174646,Antonio Juliano,2,10,,,ITA,43954,,1943-01-01,23.5,Midfielder,Italy,ITA
+52721,Spartaco Landini,1,11,,,ITA,43954,,1944-01-31,22.4,Defender,Italy,ITA
+52945,Gianfranco Leoncini,2,12,,,ITA,43954,,1939-09-25,26.8,Midfielder,Italy,ITA
+174714,Giovanni Lodetti,2,13,,,ITA,43954,,1942-08-10,23.9,Midfielder,Italy,ITA
+174745,Sandro Mazzola,2,14,,,ITA,43954,,1942-11-08,23.7,Midfielder,Italy,ITA
+174766,Luigi Meroni,3,15,,,ITA,43954,,1943-02-24,23.4,Striker,Italy,ITA
+55977,Ezio Pascutti,3,16,,,ITA,43954,,1937-06-01,29.1,Striker,Italy,ITA
+56092,Marino Perani,3,17,,,ITA,43954,,1939-10-27,26.7,Striker,Italy,ITA
+69877,Pierluigi Pizzaballa,0,18,,,ITA,43954,,1939-09-14,26.8,Goalkeeper,Italy,ITA
+44571,Gianni Rivera,2,19,,,ITA,43954,,1943-08-18,22.9,Midfielder,Italy,ITA
+69878,Francesco Rizzo,2,20,,,ITA,43954,,1943-05-30,23.1,Midfielder,Italy,ITA
+44580,Roberto Rosato,1,21,,,ITA,43954,,1943-08-18,22.9,Defender,Italy,ITA
+44595,Sandro Salvadore,1,22,,,ITA,43954,,1939-11-29,26.6,Defender,Italy,ITA
+52994,Lee Chang Myung,0,1,,,PRK,43821,,1947-01-02,19.5,Goalkeeper,Korea DPR,PRK
+69868,Pak Li Sup,1,2,,,PRK,43821,,1944-01-06,22.5,Defender,Korea DPR,PRK
+57948,Shin Yung Kyoo,1,3,,,PRK,43821,,1942-03-30,24.3,Defender,Korea DPR,PRK
+47655,Kang Bong Chil,1,4,,,PRK,43821,,1943-11-07,22.7,Defender,Korea DPR,PRK
+69869,Lim Zoong Sun,1,5,,,PRK,43821,,1943-07-16,23.0,Defender,Korea DPR,PRK
+51224,Im Seung Hwi,2,6,,,PRK,43821,,1946-02-03,20.4,Midfielder,Korea DPR,PRK
+174832,Pak Doo Ik,2,7,,,PRK,43821,,1942-03-17,24.3,Midfielder,Korea DPR,PRK
+55826,Pak Seung Zin,3,8,,,PRK,43821,,1941-01-11,25.5,Striker,Korea DPR,PRK
+69871,Lee Keun Hak,0,9,,,PRK,43821,,1940-07-07,26.0,Goalkeeper,Korea DPR,PRK
+51835,Kang Ryong Woon,2,10,,,PRK,43821,,1942-04-25,24.2,Midfielder,Korea DPR,PRK
+50546,Han Bong Zin,2,11,,,PRK,43821,,1945-09-02,20.9,Midfielder,Korea DPR,PRK
+52180,Kim Seung Il,3,12,,,PRK,43821,,1945-09-02,20.9,Striker,Korea DPR,PRK
+55477,Oh Yoon Kyung,2,13,,,PRK,43821,,1941-08-06,24.9,Midfielder,Korea DPR,PRK
+50410,Ha Yung Won,2,14,,,PRK,43821,,1942-04-20,24.2,Midfielder,Korea DPR,PRK
+60119,Yang Seung Kook,3,15,,,PRK,43821,,1944-08-19,21.9,Striker,Korea DPR,PRK
+52997,Li Dong Woon,1,16,,,PRK,43821,,1945-07-04,21.0,Defender,Korea DPR,PRK
+52158,Kim Bong Hwan,3,17,,,PRK,43821,,1939-07-04,27.0,Striker,Korea DPR,PRK
+69872,Ke Seung Woon,3,18,,,PRK,43821,,1943-12-26,22.5,Striker,Korea DPR,PRK
+52215,Kim Yung Kil,3,19,,,PRK,43821,,1944-01-29,22.4,Striker,Korea DPR,PRK
+69873,Ryoo Chang Kil,3,20,,,PRK,43821,,1940-11-05,25.7,Striker,Korea DPR,PRK
+69874,An Se Bok,3,21,,,PRK,43821,,1946-10-29,19.7,Striker,Korea DPR,PRK
+69875,Li Chi An,3,22,,,PRK,43821,,1945-07-07,21.0,Striker,Korea DPR,PRK
+174456,Antonio Carbajal,0,1,,,MEX,43911,,1929-06-07,37.1,Goalkeeper,Mexico,MEX
+47471,Arturo Chairez,1,2,,,MEX,43911,,1937-03-14,29.3,Defender,Mexico,MEX
+174845,Gustavo Pena,1,3,,,MEX,43911,,1941-11-22,24.6,Defender,Mexico,MEX
+48371,Jesus Del Muro,1,4,,,MEX,43911,,1937-11-30,28.6,Defender,Mexico,MEX
+51483,Ignacio Jauregui,1,5,,,MEX,43911,,1938-07-31,27.9,Defender,Mexico,MEX
+48526,Isidoro Diaz,2,6,,,MEX,43911,,1940-03-14,26.3,Midfielder,Mexico,MEX
+57237,Felipe Ruvalcaba,3,7,,,MEX,43911,,1941-02-16,25.4,Striker,Mexico,MEX
+55801,Aaron Padilla,3,8,,,MEX,43911,,1942-07-10,24.0,Striker,Mexico,MEX
+47795,Ernesto Cisneros,2,9,,,MEX,43911,,1940-10-26,25.7,Midfielder,Mexico,MEX
+49563,Javier Fragoso,3,10,,,MEX,43911,,1942-04-19,24.2,Striker,Mexico,MEX
+69845,Francisco Jara,3,11,,,MEX,43911,,1941-02-03,25.4,Striker,Mexico,MEX
+174448,Ignacio Calderon,0,12,,,MEX,43911,,1943-12-13,22.6,Goalkeeper,Mexico,MEX
+50119,Jose Luis Gonzalez,1,13,,,MEX,43911,,1942-09-14,23.8,Defender,Mexico,MEX
+55314,Gabriel Nunez,1,14,,,MEX,43911,,1942-02-06,24.4,Defender,Mexico,MEX
+50827,Guillermo Hernandez,2,15,,,MEX,43911,,1942-06-25,24.0,Midfielder,Mexico,MEX
+181777,Luis Regueiro,2,16,,,MEX,43911,,1943-12-22,22.6,Midfielder,Mexico,MEX
+54128,Magdaleno Mercado,2,17,,,MEX,43911,,1944-04-04,22.3,Midfielder,Mexico,MEX
+69846,Elias Munoz,3,18,,,MEX,43911,,1941-11-03,24.7,Striker,Mexico,MEX
+56796,Salvador Reyes,3,19,,,MEX,43911,,1936-09-20,29.8,Striker,Mexico,MEX
+174134,Enrique Borja,3,20,,,MEX,43911,,1945-12-30,20.5,Striker,Mexico,MEX
+54980,Ramiro Navarro,3,21,,,MEX,43911,,1943-05-25,23.1,Striker,Mexico,MEX
+69847,Javier Vargas,0,22,,,MEX,43911,,1941-11-22,24.6,Goalkeeper,Mexico,MEX
+53159,Americo,0,1,,,POR,43963,,1933-03-06,33.3,Goalkeeper,Portugal,POR
+47354,Carvalho,0,2,,,POR,43963,,1937-04-18,29.2,Goalkeeper,Portugal,POR
+197841,Jose Pereira,0,3,,,POR,43963,,1931-09-15,34.8,Goalkeeper,Portugal,POR
+53239,Vicente,1,4,,,POR,43963,,1935-09-24,30.8,Defender,Portugal,POR
+49412,Germano,1,5,,,POR,43963,,1932-12-23,33.5,Defender,Portugal,POR
+56109,Peres,2,6,,,POR,43963,,1942-01-08,24.5,Midfielder,Portugal,POR
+49411,Ernesto,3,7,,,POR,43963,,1937-07-06,29.0,Striker,Portugal,POR
+69861,Lourenco,3,8,,,POR,43963,,1942-04-08,24.3,Striker,Portugal,POR
+47906,Hilario,1,9,,,POR,43963,,1939-03-19,27.3,Defender,Portugal,POR
+95842,Mario Coluna,2,10,,,POR,43963,,1935-08-06,30.9,Midfielder,Portugal,POR
+58057,Antonio Simoes,3,11,,170.0,POR,43963,,1943-12-14,22.6,Striker,Portugal,POR
+174360,Jose Augusto,3,12,,,POR,43963,,1937-04-13,29.2,Striker,Portugal,POR
+39547,Eusebio (Eusebio Da Silva Ferreira),3,13,,170.0,POR,43963,,1942-01-25,24.5,Striker,Portugal,POR
+48077,Fernando Cruz,1,14,,,POR,43963,,1940-08-12,25.9,Defender,Portugal,POR
+69862,Manuel Duarte,3,15,,,POR,43963,,1943-05-20,23.1,Striker,Portugal,POR
+50182,Jaime Graca,2,16,,,POR,43963,,1942-01-10,24.5,Midfielder,Portugal,POR
+54478,Morais,1,17,,,POR,43963,,1935-03-06,31.3,Defender,Portugal,POR
+61699,Jose Torres,3,18,,,POR,43963,,1938-09-08,27.8,Striker,Portugal,POR
+56307,Ferreira Pinto,2,19,,,POR,43963,,1939-11-07,26.7,Midfielder,Portugal,POR
+46196,Alexandre Baptista,1,20,,,POR,43963,,1941-02-17,25.4,Defender,Portugal,POR
+47306,Jose Carlos,1,21,,,POR,43963,,1941-09-22,24.8,Defender,Portugal,POR
+49391,Festa,1,22,,,POR,43963,,1939-07-21,27.0,Defender,Portugal,POR
+174638,Lev Yashin,0,1,,,URS,44026,,1929-10-22,36.7,Goalkeeper,Soviet Union,URS
+57844,Viktor Serebryanikov,3,2,,,URS,44026,,1940-03-29,26.3,Striker,Soviet Union,URS
+55708,Leonid Ostrovski,1,3,,,URS,44026,,1936-01-17,30.5,Defender,Soviet Union,URS
+56382,Vladimir Ponomaryov,1,4,,,URS,44026,,1940-02-18,26.4,Defender,Soviet Union,URS
+45033,Valentin Afonin,1,5,,,RUS,44026,,1939-12-22,26.6,Defender,Soviet Union,URS
+181436,Albert Shesternyov,1,6,,,URS,44026,,1941-06-20,25.1,Defender,Soviet Union,URS
+174660,Murtaz Khurtsilava,2,7,,,URS,44026,,1943-01-05,23.5,Midfielder,Soviet Union,URS
+57276,Yozhef Sabo,2,8,,,URS,44026,,1940-02-29,26.4,Midfielder,Soviet Union,URS
+49897,Viktor Getmanov,1,9,,,URS,44026,,1940-05-04,26.2,Defender,Soviet Union,URS
+48227,Vasily Danilov,1,10,,,URS,44026,,1941-05-13,25.2,Defender,Soviet Union,URS
+47679,Igor Chislenko,3,11,,,URS,44026,,1939-01-04,27.5,Striker,Soviet Union,URS
+59719,Valeri Voronin,2,12,,,URS,44026,,1939-07-17,27.0,Midfielder,Soviet Union,URS
+52391,Alexey Korneev,1,13,,,URS,44026,,1939-02-06,27.4,Defender,Soviet Union,URS
+57989,Georgi Sichinava,2,14,,,URS,44026,,1944-09-15,21.8,Midfielder,Soviet Union,URS
+52134,Galimzyan Khusainov,3,15,,,URS,44026,,1937-06-27,29.0,Striker,Soviet Union,URS
+54159,Slava Metreveli,3,16,,,URS,44026,,1936-05-30,30.1,Striker,Soviet Union,URS
+56397,Valeriy Porkuyan,3,17,,,URS,44026,,1944-10-04,21.8,Striker,Soviet Union,URS
+174371,Anatoli Banishevski,3,18,,,URS,44026,,1946-02-23,20.4,Striker,Soviet Union,URS
+61638,Eduard Malofeyev,3,19,,,BLR,44026,,1942-06-02,24.1,Striker,Soviet Union,URS
+53659,Eduard Markarov,3,20,,,URS,44026,,1942-06-20,24.1,Striker,Soviet Union,URS
+51974,Anzor Kavazashvili,0,21,,,URS,44026,,1940-07-19,26.0,Goalkeeper,Soviet Union,URS
+36859,Victor Bannikov,0,22,,,UKR,44026,,1938-04-28,28.2,Goalkeeper,Soviet Union,URS
+51280,Jose Iribar,0,1,,,ESP,43969,,1943-03-01,23.4,Goalkeeper,Spain,ESP
+198018,Manuel Sanchis,1,2,,,ESP,43969,,1938-03-26,28.3,Defender,Spain,ESP
+49005,Eladio,1,3,,,ESP,43969,,1940-11-18,25.6,Defender,Spain,ESP
+174497,Luis Del Sol,2,4,,,ESP,43969,,1935-04-06,31.3,Midfielder,Spain,ESP
+44785,Ignacio Zoco,2,5,,,ESP,43969,,1939-07-31,26.9,Midfielder,Spain,ESP
+49988,Jesus Glaria,2,6,,,ESP,43969,,1942-01-02,24.5,Midfielder,Spain,ESP
+185740,Armando Ufarte,3,7,,,ESP,43969,,1941-05-17,25.1,Striker,Spain,ESP
+174346,Amancio,3,8,,,ESP,43969,,1940-10-16,25.7,Striker,Spain,ESP
+53731,Marcelino,3,9,,,ESP,43969,,1940-04-29,26.2,Striker,Spain,ESP
+44673,Luis Suarez,2,10,,,ESP,43969,,1935-05-02,31.2,Midfielder,Spain,ESP
+174556,Francisco Gento,3,11,,,ESP,43969,,1933-10-21,32.7,Striker,Spain,ESP
+46542,Antonio Betancourt,0,12,,,ESP,43969,,1937-03-13,29.3,Goalkeeper,Spain,ESP
+56783,Miguel Reina,0,13,,,ESP,43969,,1946-01-21,20.5,Goalkeeper,Spain,ESP
+56945,Feliciano Rivilla,1,14,,,ESP,43969,,1936-08-21,29.9,Defender,Spain,ESP
+56779,Severino Reija,1,15,,,ESP,43969,,1938-11-25,27.6,Defender,Spain,ESP
+55536,Fernando Olivella,1,16,,,ESP,43969,,1936-06-22,30.1,Defender,Spain,ESP
+49716,Gallego,2,17,,,ESP,43969,,1944-03-04,22.4,Midfielder,Spain,ESP
+63875,Pirri,2,18,,,ESP,43969,,1945-03-11,21.3,Midfielder,Spain,ESP
+49660,Jose Maria Fuste,3,19,,,ESP,43969,,1941-04-15,25.2,Striker,Spain,ESP
+174844,Joaquin Peiro,3,20,,,ESP,43969,,1936-01-29,30.4,Striker,Spain,ESP
+56999,Adelardo,1,21,,,ESP,43969,,1939-09-26,26.8,Defender,Spain,ESP
+52736,Carlos Lapetra,3,22,,,ESP,43969,,1938-11-29,27.6,Striker,Spain,ESP
+49029,Charly Elsener,0,1,,,SUI,43971,,1934-08-13,31.9,Goalkeeper,Switzerland,SUI
+69851,Willy Allemann,1,2,,,SUI,43971,,1942-06-10,24.1,Defender,Switzerland,SUI
+45524,Kurt Ambruster,1,3,,,SUI,43971,,1934-09-16,31.8,Defender,Switzerland,SUI
+46051,Heinz Baeni,2,4,,,SUI,43971,,1936-11-18,29.6,Midfielder,Switzerland,SUI
+46966,Rene Brodmann,1,5,,,SUI,43971,,1933-10-25,32.7,Defender,Switzerland,SUI
+48805,Richard Duerr,2,6,,,SUI,43971,,1938-12-01,27.6,Midfielder,Switzerland,SUI
+49640,Hans-Ruedi Fuhrer,1,7,,,SUI,43971,,1937-12-24,28.5,Defender,Switzerland,SUI
+50169,Vittore Gottardi,3,8,,,SUI,43971,,1941-09-24,24.8,Striker,Switzerland,SUI
+50258,Andre Grobety,1,9,,,SUI,43971,,1933-06-22,33.1,Defender,Switzerland,SUI
+51015,Robert Hosp,3,10,,,SUI,43971,,1939-12-13,26.6,Striker,Switzerland,SUI
+52561,Koebi Kuhn,2,11,,,SUI,43971,,1943-10-12,22.7,Midfielder,Switzerland,SUI
+48886,Leo Eichmann,0,12,,,SUI,43971,,1936-12-24,29.5,Goalkeeper,Switzerland,SUI
+52581,Fritz Kuenzli,3,13,,,SUI,43971,,1946-01-08,20.5,Striker,Switzerland,SUI
+52916,Werner Leimgruber,1,14,,,SUI,43971,,1934-09-02,31.9,Defender,Switzerland,SUI
+174814,Karl Odermatt,2,15,,,SUI,43971,,1942-12-17,23.6,Midfielder,Switzerland,SUI
+56509,Rene-Pierre Quentin,3,16,,,SUI,43971,,1943-08-05,22.9,Striker,Switzerland,SUI
+57684,Jean-Claude Schindelholz,3,17,,,SUI,43971,,1940-10-11,25.7,Striker,Switzerland,SUI
+57710,Heinz Schneiter,1,18,,,SUI,43971,,1935-04-12,31.2,Defender,Switzerland,SUI
+58446,Xavier Stierli,1,19,,,SUI,43971,,1940-10-29,25.7,Defender,Switzerland,SUI
+58694,Ely Tacchella,1,20,,,SUI,43971,,1936-05-25,30.1,Defender,Switzerland,SUI
+59733,Georges Vuilleumier,3,21,,,SUI,43971,,1944-09-21,21.8,Striker,Switzerland,SUI
+56462,Mario Prosperi,0,22,,,SUI,43971,,1945-08-04,20.9,Goalkeeper,Switzerland,SUI
+174744,Ladislao Mazurkiewicz,0,1,,,URU,43930,,1945-02-14,21.4,Goalkeeper,Uruguay,URU
+70075,Horacio Troche,1,2,,,URU,43930,,1935-02-04,31.4,Defender,Uruguay,URU
+53569,Jorge Manicera,1,3,,,URU,43930,,1938-11-04,27.7,Defender,Uruguay,URU
+49538,Pablo Forlan,1,4,,,URU,43930,,1945-07-14,21.0,Defender,Uruguay,URU
+50066,Nestor Goncalves,1,5,,,URU,43930,,1936-04-27,30.2,Defender,Uruguay,URU
+47162,Omar Caetano,2,6,,,URU,43930,,1938-11-08,27.7,Midfielder,Uruguay,URU
+47998,Julio Cortes,2,7,,,URU,43930,,1941-03-29,25.3,Midfielder,Uruguay,URU
+59295,Jose Urruzmendi,3,8,,,URU,43930,,1944-08-25,21.9,Striker,Uruguay,URU
+57281,Jose Sasia,3,9,,,URU,43930,,1933-12-27,32.5,Striker,Uruguay,URU
+44576,Pedro Rocha,3,10,,,URU,43930,,1942-12-03,23.6,Striker,Uruguay,URU
+56117,Domingo Perez,3,11,,,URU,43930,,1936-06-07,30.1,Striker,Uruguay,URU
+198017,Roberto Eduardo Sosa,0,12,,,URU,43930,,1935-06-14,31.1,Goalkeeper,Uruguay,URU
+69837,Nelson Diaz,1,13,,,URU,43930,,1942-01-12,24.5,Defender,Uruguay,URU
+45483,Emilio Alvarez,2,14,,,URU,43930,,1939-02-10,27.4,Midfielder,Uruguay,URU
+59243,Luis Ubina,1,15,,,URU,43930,,1940-06-07,26.1,Defender,Uruguay,URU
+45482,Eliseo Alvarez,2,16,,,URU,43930,,1940-08-09,25.9,Midfielder,Uruguay,URU
+57444,Hector Salva,3,17,,,URU,43930,,1939-11-27,26.6,Striker,Uruguay,URU
+59605,Milton Viera,3,18,,,URU,43930,,1946-05-11,20.2,Striker,Uruguay,URU
+58031,Hector Silva,2,19,,,URU,43930,,1940-02-01,26.4,Midfielder,Uruguay,URU
+181778,Luis Ramos,1,20,,,URU,43930,,1939-10-09,26.8,Defender,Uruguay,URU
+174527,Victor Esparrago,2,21,,,URU,43930,,1944-10-06,21.8,Midfielder,Uruguay,URU
+58712,Walter Taibo,0,22,,,URU,43930,,1931-03-07,35.3,Goalkeeper,Uruguay,URU

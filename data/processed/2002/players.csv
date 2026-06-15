@@ -1,737 +1,737 @@
 player_id,name,position,jersey_number,weight,height,country_code,id_team,picture_url,dob,age,position_desc,team_name,team_abbr
-153943,German Burgos,0,1,90.0,188.0,ARG,43922,,1969-04-16,57.2,Goalkeeper,Argentina,ARG
-153933,Roberto Ayala,1,2,75.0,177.0,ARG,43922,,1973-04-14,53.2,Defender,Argentina,ARG
-153977,Juan Sorin,2,3,65.0,173.0,ARG,43922,,1976-05-05,50.1,Midfielder,Argentina,ARG
-3075,Mauricio Pochettino,1,4,80.0,182.0,ARG,43922,,1972-03-02,54.3,Defender,Argentina,ARG
-153931,Matias Almeyda,2,5,72.0,174.0,ARG,43922,,1973-12-21,52.5,Midfielder,Argentina,ARG
-3076,Walter Samuel,1,6,83.0,183.0,ARG,43922,,1978-03-23,48.2,Defender,Argentina,ARG
-170102,Claudio Lopez,3,7,77.0,176.0,ARG,43922,,1974-07-17,51.9,Striker,Argentina,ARG
-153980,Javier Zanetti,2,8,75.0,178.0,ITA,43922,,1973-08-10,52.8,Midfielder,Argentina,ARG
-75952,Gabriel Batistuta,3,9,73.0,185.0,ARG,43922,,1969-02-01,57.4,Striker,Argentina,ARG
-78384,Ariel Ortega,2,10,64.0,170.0,ARG,43922,,1974-03-04,52.3,Midfielder,Argentina,ARG
-153978,Juan Veron,2,11,81.0,183.0,ARG,43922,,1975-03-09,51.3,Midfielder,Argentina,ARG
-153951,Pablo Cavallero,0,12,78.0,188.0,ARG,43922,,1974-04-13,52.2,Goalkeeper,Argentina,ARG
-185988,Diego Placente,1,13,72.0,176.0,ARG,43922,,1977-04-24,49.1,Defender,Argentina,ARG
-76115,Diego Simeone,2,14,70.0,178.0,ARG,43922,,1970-04-28,56.1,Midfielder,Argentina,ARG
-179114,Claudio Husain,2,15,75.0,177.0,ARG,43922,,1974-11-20,51.6,Midfielder,Argentina,ARG
-178142,Pablo Aimar,2,16,62.0,170.0,ARG,43922,,1979-11-03,46.6,Midfielder,Argentina,ARG
-170151,Gustavo Lopez,3,17,73.0,174.0,ARG,43922,,1973-04-13,53.2,Striker,Argentina,ARG
-170129,Cristian Gonzalez,3,18,71.0,175.0,ARG,43922,,1974-08-04,51.9,Striker,Argentina,ARG
-162680,Hernan Crespo,3,19,78.0,184.0,ARG,43922,,1975-07-05,50.9,Striker,Argentina,ARG
-153959,Marcelo Gallardo,2,20,70.0,169.0,ARG,43922,,1976-01-18,50.4,Midfielder,Argentina,ARG
-174454,Claudio Caniggia,3,21,68.0,172.0,ARG,43922,,1967-01-09,59.4,Striker,Argentina,ARG
-78407,Jose Chamot,1,22,78.0,185.0,ARG,43922,,1969-05-17,57.1,Defender,Argentina,ARG
-153940,Roberto Bonano,0,23,83.0,186.0,ARG,43922,,1970-01-24,56.4,Goalkeeper,Argentina,ARG
-177687,Geert De Vlieger,0,1,83.0,186.0,BEL,43935,,1971-10-16,54.7,Goalkeeper,Belgium,BEL
-154172,Eric Deflandre,1,2,83.0,179.0,BEL,43935,,1973-08-02,52.9,Defender,Belgium,BEL
-90592,Glen De Boeck,1,3,78.0,190.0,BEL,43935,,1971-08-22,54.8,Defender,Belgium,BEL
-95624,Eric Van Meir,1,4,89.0,186.0,BEL,43935,,1968-02-28,58.3,Defender,Belgium,BEL
-154196,Nico Van Kerckhoven,1,5,82.0,190.0,BEL,43935,,1970-12-14,55.5,Defender,Belgium,BEL
-182202,Timmy Simons,2,6,78.0,186.0,BEL,43935,,1976-12-11,49.5,Midfielder,Belgium,BEL
-44755,Marc Wilmots,3,7,93.0,184.0,BEL,43935,,1969-02-22,57.3,Striker,Belgium,BEL
-177684,Bart Goor,2,8,77.0,183.0,BEL,43935,,1973-04-09,53.2,Midfielder,Belgium,BEL
-184587,Wesley Sonck,3,9,77.0,174.0,BEL,43935,,1978-08-09,47.8,Striker,Belgium,BEL
-76144,Johan Walem,2,10,70.0,169.0,BEL,43935,,1972-02-01,54.4,Midfielder,Belgium,BEL
-154199,Gert Verheyen,2,11,84.0,189.0,BEL,43935,,1970-09-20,55.7,Midfielder,Belgium,BEL
-184585,Peter Van Der Heyden,1,12,81.0,183.0,BEL,43935,,1976-07-16,49.9,Defender,Belgium,BEL
-165090,Franky Vandendriessche,0,13,77.0,185.0,BEL,43935,,1971-04-07,55.2,Goalkeeper,Belgium,BEL
-182201,Sven Vermant,2,14,81.0,183.0,BEL,43935,,1973-04-04,53.2,Midfielder,Belgium,BEL
-177692,Jacky Peeters,1,15,85.0,184.0,BEL,43935,,1969-12-13,56.5,Defender,Belgium,BEL
-375523,Daniel Van Buyten,1,16,98.0,196.0,BEL,43935,,1978-02-07,48.3,Defender,Belgium,BEL
-182199,Gaetan Englebert,2,17,66.0,178.0,BEL,43935,,1976-06-11,50.0,Midfielder,Belgium,BEL
-177682,Yves Vanderhaeghe,2,18,86.0,180.0,BEL,43935,,1970-01-30,56.4,Midfielder,Belgium,BEL
-189431,Bernd Thijs,2,19,85.0,186.0,BEL,43935,,1978-06-28,48.0,Midfielder,Belgium,BEL
-177685,Branko Strupar,3,20,92.0,190.0,BEL,43935,,1970-02-09,56.3,Striker,Belgium,BEL
-46713,Danny Boffin,2,21,62.0,173.0,BEL,43935,,1965-07-10,60.9,Midfielder,Belgium,BEL
-154182,Mbo Mpenza,3,22,78.0,175.0,BEL,43935,,1976-12-04,49.5,Striker,Belgium,BEL
-168393,Frederic Herpoel,0,23,78.0,183.0,BEL,43935,,1974-08-16,51.8,Goalkeeper,Belgium,BEL
-183588,Marcos,0,1,86.0,193.0,BRA,43924,,1973-08-04,52.9,Goalkeeper,Brazil,BRA
-76824,Cafu,1,2,75.0,176.0,BRA,43924,,1970-06-07,56.0,Defender,Brazil,BRA
-178520,Lucio,1,3,84.0,188.0,BRA,43924,,1978-05-08,48.1,Defender,Brazil,BRA
-178105,Roque Junior,1,4,73.0,186.0,BRA,43924,,1976-08-31,49.8,Defender,Brazil,BRA
-178116,Edmilson,1,5,75.0,186.0,BRA,43924,,1976-07-10,49.9,Defender,Brazil,BRA
-170688,Roberto Carlos,1,6,70.0,168.0,BRA,43924,,1973-04-10,53.2,Defender,Brazil,BRA
-3251,Ricardinho,2,7,73.0,176.0,BRA,43924,,1976-05-23,50.1,Midfielder,Brazil,BRA
-187267,Gilberto Silva,2,8,82.0,185.0,BRA,43924,,1976-10-07,49.7,Midfielder,Brazil,BRA
-92699,Ronaldo,3,9,90.0,183.0,BRA,43924,,1976-09-22,49.7,Striker,Brazil,BRA
-170691,Rivaldo,2,10,75.0,186.0,BRA,43924,,1972-04-19,54.2,Midfielder,Brazil,BRA
-3243,Ronaldinho,2,11,80.0,182.0,BRA,43924,,1980-03-21,46.2,Midfielder,Brazil,BRA
-48549,Dida,0,12,85.0,195.0,ITA,43924,,1973-10-07,52.7,Goalkeeper,Brazil,BRA
-178786,Belletti,1,13,74.0,179.0,BRA,43924,,1976-06-20,50.0,Defender,Brazil,BRA
-188391,Anderson Polga,1,14,86.0,183.0,BRA,43924,,1979-02-09,47.3,Defender,Brazil,BRA
-188394,Kleberson,2,15,66.0,175.0,BRA,43924,,1979-06-19,47.0,Midfielder,Brazil,BRA
-178112,Junior,1,16,70.0,173.0,BRA,43924,,1973-06-20,53.0,Defender,Brazil,BRA
-63876,Denilson,3,17,72.0,177.0,BRA,43924,,1977-08-24,48.8,Striker,Brazil,BRA
-3240,Vampeta,2,18,78.0,182.0,BRA,43924,,1974-03-13,52.3,Midfielder,Brazil,BRA
-179305,Juninho Paulista,2,19,58.0,165.0,BRA,43924,,1973-02-22,53.3,Midfielder,Brazil,BRA
-3246,Edilson,3,20,60.0,168.0,BRA,43924,,1970-09-17,55.7,Striker,Brazil,BRA
-176597,Luizao,3,21,77.0,176.0,BRA,43924,,1975-11-14,50.6,Striker,Brazil,BRA
-178788,Rogerio Ceni,0,22,88.0,188.0,BRA,43924,,1973-01-22,53.4,Goalkeeper,Brazil,BRA
-184312,Kaka,3,23,82.0,186.0,ITA,43924,,1982-04-22,44.1,Striker,Brazil,BRA
-93224,Alioum Boukar,0,1,76.0,180.0,CMR,43849,,1972-01-03,54.4,Goalkeeper,Cameroon,CMR
-178258,Bill Tchato,1,2,76.0,176.0,CMR,43849,,1975-05-14,51.1,Defender,Cameroon,CMR
-154649,Pierre Wome,1,3,78.0,178.0,CMR,43849,,1979-03-26,47.2,Defender,Cameroon,CMR
-170657,Rigobert Song,1,4,77.0,185.0,CMR,43849,,1976-07-01,50.0,Defender,Cameroon,CMR
-130674,Raymond Kalla,1,5,88.0,192.0,CMR,43849,,1975-04-22,51.1,Defender,Cameroon,CMR
-171398,Pierre Njanka,1,6,83.0,181.0,CMR,43849,,1975-03-15,51.2,Defender,Cameroon,CMR
-170656,Joseph Ndo,3,7,80.0,179.0,CMR,43849,,1976-04-28,50.1,Striker,Cameroon,CMR
-176652,Geremi,1,8,78.0,177.0,ENG,43849,,1978-12-20,47.5,Defender,Cameroon,CMR
-170667,Samuel Etoo,3,9,75.0,181.0,CMR,43849,,1981-03-10,45.3,Striker,Cameroon,CMR
-154626,Patrick Mboma,3,10,85.0,185.0,CMR,43849,,1970-11-15,55.6,Striker,Cameroon,CMR
-3367,Pius Ndiefi,3,11,74.0,174.0,CMR,43849,,1975-07-05,50.9,Striker,Cameroon,CMR
-171400,Lauren,2,12,71.0,180.0,CMR,43849,,1977-01-19,49.4,Midfielder,Cameroon,CMR
-159462,Lucien Mettomo,1,13,80.0,183.0,CMR,43849,,1977-04-19,49.2,Defender,Cameroon,CMR
-162811,Joel Epalle,2,14,78.0,169.0,CMR,43849,,1978-02-20,48.3,Midfielder,Cameroon,CMR
-176982,Nicolas Alnoudji,2,15,86.0,185.0,CMR,43849,,1979-12-09,46.5,Midfielder,Cameroon,CMR
-154644,Jacques Songoo,0,16,80.0,182.0,CMR,43849,,1964-03-17,62.2,Goalkeeper,Cameroon,CMR
-111332,Marc-Vivien Foe,2,17,84.0,194.0,CMR,43849,,1975-05-01,51.1,Midfielder,Cameroon,CMR
-159566,Patrick Suffo,3,18,83.0,176.0,CMR,43849,,1978-01-17,48.4,Striker,Cameroon,CMR
-188241,Eric Djemba,3,19,75.0,174.0,CMR,43849,,1981-05-04,45.1,Striker,Cameroon,CMR
-170668,Salomon Olembe,1,20,66.0,171.0,CMR,43849,,1980-12-08,45.5,Defender,Cameroon,CMR
-170664,Joseph-Desire Job,3,21,62.0,180.0,CMR,43849,,1977-12-01,48.5,Striker,Cameroon,CMR
-178598,Carlos Kameni,0,22,79.0,185.0,CMR,43849,,1984-02-18,42.3,Goalkeeper,Cameroon,CMR
-178257,Daniel Kome,2,23,69.0,172.0,CMR,43849,,1980-05-19,46.1,Midfielder,Cameroon,CMR
-181025,An Qi,0,1,82.0,192.0,CHN,43812,,1981-06-21,45.0,Goalkeeper,China PR,CHN
-154590,Zhang Enhua,1,2,80.0,183.0,CHN,43812,,1973-04-28,53.1,Defender,China PR,CHN
-185628,Yang Pu,1,3,73.0,179.0,CHN,43812,,1978-03-30,48.2,Defender,China PR,CHN
-159603,Wu Chengying,1,4,77.0,183.0,CHN,43812,,1975-04-21,51.1,Defender,China PR,CHN
-154568,Fan Zhiyi,1,5,70.0,183.0,CHN,43812,,1970-01-22,56.4,Defender,China PR,CHN
-183443,Shao Jiayi,2,6,78.0,186.0,CHN,43812,,1980-04-10,46.2,Midfielder,China PR,CHN
-154586,Sun Jihai,1,7,79.0,182.0,CHN,43812,,1977-09-30,48.7,Defender,China PR,CHN
-154578,Li Tie,2,8,70.0,183.0,CHN,43812,,1977-05-18,49.1,Midfielder,China PR,CHN
-154580,Ma Mingyu,2,9,74.0,176.0,CHN,43812,,1972-08-10,53.8,Midfielder,China PR,CHN
-93975,Hao Haidong,3,10,70.0,175.0,CHN,43812,,1970-08-25,55.8,Striker,China PR,CHN
-159606,Yu Genwei,2,11,72.0,180.0,CHN,43812,,1976-08-19,49.8,Midfielder,China PR,CHN
-154584,Su Maozhen,3,12,80.0,186.0,CHN,43812,,1972-07-30,53.9,Striker,China PR,CHN
-189373,Gao Yao,2,13,78.0,185.0,CHN,43812,,1977-07-13,48.9,Midfielder,China PR,CHN
-183592,Li Weifeng,1,14,75.0,182.0,CHN,43812,,1978-01-26,48.4,Defender,China PR,CHN
-189374,Zhao Junzhe,2,15,72.0,180.0,CHN,43812,,1979-04-18,47.2,Midfielder,China PR,CHN
-181040,Qu Bo,3,16,80.0,184.0,CHN,43812,,1981-07-15,44.9,Striker,China PR,CHN
-181027,Du Wei,1,17,80.0,187.0,CHN,43812,,1982-02-09,44.3,Defender,China PR,CHN
-183444,Li Xiaopeng,2,18,76.0,182.0,CHN,43812,,1976-11-05,49.6,Midfielder,China PR,CHN
-184069,Qi Hong,2,19,72.0,178.0,CHN,43812,,1976-06-03,50.0,Midfielder,China PR,CHN
-183442,Yang Chen,3,20,82.0,186.0,CHN,43812,,1974-01-17,52.4,Striker,China PR,CHN
-183441,Xu Yunlong,1,21,81.0,181.0,CHN,43812,,1979-02-17,47.3,Defender,China PR,CHN
-154574,Jiang Jin,0,22,87.0,198.0,CHN,43812,,1968-10-17,57.7,Goalkeeper,China PR,CHN
-154582,Ou Chuliang,0,23,72.0,180.0,CHN,43812,,1968-08-26,57.8,Goalkeeper,China PR,CHN
-169703,Erick Lonnis,0,1,76.0,182.0,CRC,43901,,1965-09-09,60.8,Goalkeeper,Costa Rica,CRC
-154762,Jervis Drummond,1,2,66.0,172.0,CRC,43901,,1976-09-08,49.8,Defender,Costa Rica,CRC
-170171,Luis Marin,1,3,76.0,180.0,CRC,43901,,1974-08-10,51.8,Defender,Costa Rica,CRC
-154801,Mauricio Wright,1,4,78.0,191.0,CRC,43901,,1970-12-20,55.5,Defender,Costa Rica,CRC
-181314,Gilberto Martinez,1,5,76.0,174.0,CRC,43901,,1979-10-01,46.7,Defender,Costa Rica,CRC
-170315,Wilmer Lopez,2,6,68.0,173.0,CRC,43901,,1971-08-03,54.9,Midfielder,Costa Rica,CRC
-162260,Rolando Fonseca,3,7,76.0,178.0,CRC,43901,,1974-08-06,51.9,Striker,Costa Rica,CRC
-154793,Mauricio Solis,2,8,78.0,177.0,CRC,43901,,1972-12-13,53.5,Midfielder,Costa Rica,CRC
-154799,Paulo Wanchope,3,9,83.0,182.0,CRC,43901,,1976-07-31,49.9,Striker,Costa Rica,CRC
-178004,Walter Centeno,2,10,69.0,174.0,CRC,43901,,1974-10-06,51.7,Midfielder,Costa Rica,CRC
-170167,Ronald Gomez,3,11,80.0,183.0,CRC,43901,,1975-01-24,51.4,Striker,Costa Rica,CRC
-182590,Winston Parks,3,12,77.0,182.0,CRC,43901,,1981-10-12,44.7,Striker,Costa Rica,CRC
-184243,Daniel Vallejos,2,13,72.0,175.0,CRC,43901,,1981-05-27,45.0,Midfielder,Costa Rica,CRC
-189308,Juan Jose Rodriguez,1,14,76.0,178.0,CRC,43901,,1967-06-23,59.0,Defender,Costa Rica,CRC
-154798,Harold Wallace,1,15,72.0,175.0,CRC,43901,,1975-09-07,50.8,Defender,Costa Rica,CRC
-179659,Steven Bryce,3,16,71.0,170.0,CRC,43901,,1977-08-16,48.8,Striker,Costa Rica,CRC
-174762,Hernan Medford,3,17,77.0,177.0,CRC,43901,,1968-05-23,58.1,Striker,Costa Rica,CRC
-178002,Alvaro Mesen,0,18,80.0,180.0,CRC,43901,,1972-12-24,53.5,Goalkeeper,Costa Rica,CRC
-162669,Rodrigo Cordero,2,19,76.0,173.0,CRC,43901,,1973-12-04,52.5,Midfielder,Costa Rica,CRC
-179658,William Sun Sing,3,20,75.0,184.0,CRC,43901,,1977-05-12,49.1,Striker,Costa Rica,CRC
-178003,Pablo Chinchilla,1,21,80.0,186.0,CRC,43901,,1978-12-21,47.5,Defender,Costa Rica,CRC
-181315,Carlos Castro,1,22,64.0,172.0,CRC,43901,,1979-09-10,46.8,Defender,Costa Rica,CRC
-183560,Lester Morgan,0,23,77.0,182.0,CRC,43901,,1976-05-02,50.1,Goalkeeper,Costa Rica,CRC
-179048,Stipe Pletikosa,0,1,88.0,193.0,CRO,43938,,1979-01-08,47.4,Goalkeeper,Croatia,CRO
-170754,Anthony Seric,1,2,75.0,181.0,CRO,43938,,1979-01-15,47.4,Defender,Croatia,CRO
-188511,Josip Simunic,1,3,89.0,195.0,CRO,43938,,1978-02-18,48.3,Defender,Croatia,CRO
-170753,Stjepan Tomas,1,4,82.0,186.0,CRO,43938,,1976-03-06,50.3,Defender,Croatia,CRO
-164496,Milan Rapaic,2,5,83.0,183.0,CRO,43938,,1973-08-16,52.8,Midfielder,Croatia,CRO
-170829,Boris Zivkovic,1,6,80.0,182.0,CRO,43938,,1975-11-15,50.6,Defender,Croatia,CRO
-179050,Davor Vugrinec,2,7,76.0,179.0,CRO,43938,,1975-03-24,51.2,Midfielder,Croatia,CRO
-174882,Robert Prosinecki,2,8,76.0,182.0,CRO,43938,,1969-01-12,57.4,Midfielder,Croatia,CRO
-155711,Davor Suker,3,9,77.0,183.0,CRO,43938,,1968-01-01,58.5,Striker,Croatia,CRO
-155696,Niko Kovac,2,10,75.0,178.0,CRO,43938,,1971-10-15,54.7,Midfielder,Croatia,CRO
-155689,Alen Boksic,3,11,81.0,187.0,CRO,43938,,1970-01-21,56.4,Striker,Croatia,CRO
-184419,Tomislav Butina,0,12,88.0,191.0,CRO,43938,,1974-03-30,52.2,Goalkeeper,Croatia,CRO
-159172,Mario Stanic,2,13,82.0,187.0,CRO,43938,,1972-04-10,54.2,Midfielder,Croatia,CRO
-155708,Zvonimir Soldo,2,14,85.0,189.0,CRO,43938,,1967-11-02,58.6,Midfielder,Croatia,CRO
-159540,Daniel Saric,1,15,70.0,178.0,CRO,43938,,1972-08-04,53.9,Defender,Croatia,CRO
-179058,Jurica Vranjes,2,16,70.0,184.0,CRO,43938,,1980-01-31,46.4,Midfielder,Croatia,CRO
-174637,Robert Jarni,1,17,77.0,180.0,CRO,43938,,1968-10-26,57.6,Defender,Croatia,CRO
-187258,Ivica Olic,3,18,81.0,183.0,CRO,43938,,1979-09-14,46.7,Striker,Croatia,CRO
-155713,Goran Vlaovic,3,19,75.0,178.0,CRO,43938,,1972-08-07,53.9,Striker,Croatia,CRO
-155707,Dario Simic,1,20,76.0,180.0,CRO,43938,,1975-11-12,50.6,Defender,Croatia,CRO
-179049,Robert Kovac,1,21,78.0,182.0,CRO,43938,,1974-04-06,52.2,Defender,Croatia,CRO
-179051,Bosko Balaban,3,22,78.0,180.0,CRO,43938,,1978-10-15,47.7,Striker,Croatia,CRO
-170752,Vladimir Vasilj,0,23,84.0,188.0,CRO,43938,,1975-07-06,50.9,Goalkeeper,Croatia,CRO
-177825,Thomas Sørensen,0,1,78.0,185.0,DEN,43941,,1976-06-12,50.0,Goalkeeper,Denmark,DEN
-95174,Stig Tofting,2,2,73.0,173.0,DEN,43941,,1969-08-14,56.8,Midfielder,Denmark,DEN
-171140,Rene Henriksen,1,3,73.0,183.0,DEN,43941,,1969-08-27,56.8,Defender,Denmark,DEN
-177716,Martin Laursen,1,4,83.0,190.0,DEN,43941,,1977-07-26,48.9,Defender,Denmark,DEN
-50739,Jan Heintze,1,5,63.0,170.0,DEN,43941,,1963-08-17,62.8,Defender,Denmark,DEN
-154928,Thomas Helveg,1,6,81.0,179.0,DEN,43941,,1971-06-24,55.0,Defender,Denmark,DEN
-177718,Thomas Gravesen,2,7,74.0,178.0,DEN,43941,,1976-03-11,50.3,Midfielder,Denmark,DEN
-169682,Jesper Gronkjaer,3,8,82.0,187.0,DEN,43941,,1977-08-12,48.8,Striker,Denmark,DEN
-154949,Jon Dahl Tomasson,3,9,74.0,182.0,DEN,43941,,1976-08-29,49.8,Striker,Denmark,DEN
-168837,Martin Jorgensen,3,10,76.0,180.0,DEN,43941,,1975-10-06,50.7,Striker,Denmark,DEN
-171139,Ebbe Sand,3,11,78.0,183.0,DEN,43941,,1972-07-19,53.9,Striker,Denmark,DEN
-168270,Niclas Jensen,1,12,78.0,180.0,DEN,43941,,1974-08-17,51.8,Defender,Denmark,DEN
-179611,Steven Lustu,1,13,81.0,185.0,DEN,43941,,1971-04-13,55.2,Defender,Denmark,DEN
-179031,Claus Jensen,2,14,79.0,183.0,DEN,43941,,1977-04-29,49.1,Midfielder,Denmark,DEN
-179036,Jan Michaelsen,2,15,77.0,182.0,DEN,43941,,1970-11-28,55.5,Midfielder,Denmark,DEN
-96043,Peter Kjaer,0,16,88.0,187.0,DEN,43941,,1965-11-05,60.6,Goalkeeper,Denmark,DEN
-186373,Christian Poulsen,2,17,76.0,182.0,DEN,43941,,1980-02-28,46.3,Midfielder,Denmark,DEN
-186368,Peter Lovenkrands,3,18,68.0,181.0,DEN,43941,,1980-01-29,46.4,Striker,Denmark,DEN
-179027,Dennis Rommedahl,3,19,68.0,178.0,DEN,43941,,1978-07-22,47.9,Striker,Denmark,DEN
-186343,Kasper Bogelund,1,20,74.0,180.0,DEN,43941,,1980-10-08,45.7,Defender,Denmark,DEN
-185893,Peter Madsen,3,21,76.0,183.0,DEN,43941,,1978-04-26,48.1,Striker,Denmark,DEN
-179030,Jesper Christiansen,0,22,86.0,192.0,DEN,43941,,1978-04-24,48.1,Goalkeeper,Denmark,DEN
-167495,Brian Steen Nielsen,2,23,80.0,180.0,DEN,43941,,1968-12-28,57.5,Midfielder,Denmark,DEN
-155002,Jose Cevallos,0,1,83.0,182.0,ECU,43927,,1971-04-17,55.2,Goalkeeper,Ecuador,ECU
-3512,Augusto Poroso,1,2,79.0,181.0,ECU,43927,,1974-04-13,52.2,Defender,Ecuador,ECU
-169238,Ivan Hurtado,1,3,77.0,180.0,ECU,43927,,1974-08-16,51.8,Defender,Ecuador,ECU
-155010,Ulises De La Cruz,1,4,74.0,178.0,ECU,43927,,1974-02-08,52.3,Defender,Ecuador,ECU
-155030,Alfonso Obregon,2,5,82.0,180.0,ECU,43927,,1972-05-12,54.1,Midfielder,Ecuador,ECU
-179593,Raul Guerron,1,6,85.0,184.0,ECU,43927,,1976-10-12,49.7,Defender,Ecuador,ECU
-186021,Nicolas Asencio,2,7,76.0,170.0,ECU,43927,,1975-04-26,51.1,Midfielder,Ecuador,ECU
-186020,Luis Gomez,1,8,65.0,172.0,ECU,43927,,1972-04-20,54.1,Defender,Ecuador,ECU
-3508,Ivan Kaviedes,3,9,71.0,182.0,ECU,43927,,1977-10-24,48.6,Striker,Ecuador,ECU
-45074,Alex Aguinaga,2,10,70.0,172.0,ECU,43927,,1968-07-09,57.9,Midfielder,Ecuador,ECU
-155011,Agustin Delgado,3,11,87.0,189.0,ECU,43927,,1974-12-23,51.5,Striker,Ecuador,ECU
-155021,Giovanni Ibarra,0,12,77.0,179.0,ECU,43927,,1969-09-08,56.8,Goalkeeper,Ecuador,ECU
-161899,Angel Fernandez,3,13,68.0,172.0,ECU,43927,,1971-08-02,54.9,Striker,Ecuador,ECU
-162751,Juan Carlos Burbano,2,14,71.0,174.0,ECU,43927,,1969-02-15,57.3,Midfielder,Ecuador,ECU
-3497,Marlon Ayovi,1,15,76.0,174.0,ECU,43927,,1971-09-27,54.7,Defender,Ecuador,ECU
-94983,Clever Chala,2,16,77.0,180.0,ECU,43927,,1971-06-29,55.0,Midfielder,Ecuador,ECU
-178146,Giovanny Espinoza,1,17,85.0,184.0,ECU,43927,,1977-04-12,49.2,Defender,Ecuador,ECU
-187434,Tenorio,3,18,78.0,182.0,ECU,43927,,1979-05-14,47.1,Striker,Ecuador,ECU
-178842,Edison Mendez,2,19,68.0,175.0,ECU,43927,,1979-03-16,47.2,Midfielder,Ecuador,ECU
-177220,Edwin Tenorio,2,20,64.0,172.0,ECU,43927,,1976-06-16,50.0,Midfielder,Ecuador,ECU
-155035,Wellington Sanchez,2,21,73.0,182.0,ECU,43927,,1974-06-19,52.0,Midfielder,Ecuador,ECU
-184549,Daniel Viteri,0,22,87.0,185.0,ECU,43927,,1981-12-12,44.5,Goalkeeper,Ecuador,ECU
-184447,Walter Ayovi,1,23,72.0,173.0,ECU,43927,,1979-08-11,46.8,Defender,Ecuador,ECU
-44621,David Seaman,0,1,93.0,191.0,ENG,43942,,1963-09-19,62.7,Goalkeeper,England,ENG
-185383,Danny Mills,1,2,74.0,180.0,ENG,43942,,1977-05-18,49.1,Defender,England,ENG
-182786,Ashley Cole,1,3,67.0,178.0,ENG,43942,,1980-12-20,45.5,Defender,England,ENG
-187214,Trevor Sinclair,2,4,74.0,177.0,ENG,43942,,1973-03-02,53.3,Midfielder,England,ENG
-170721,Rio Ferdinand,1,5,77.0,188.0,ENG,43942,,1978-11-07,47.6,Defender,England,ENG
-161455,Sol Campbell,1,6,91.0,188.0,ENG,43942,,1974-09-18,51.7,Defender,England,ENG
-161454,David Beckham,2,7,74.0,182.0,ENG,43942,,1975-05-02,51.1,Midfielder,England,ENG
-155117,Paul Scholes,2,8,70.0,170.0,ENG,43942,,1974-11-16,51.6,Midfielder,England,ENG
-161456,Robbie Fowler,3,9,73.0,176.0,ENG,43942,,1975-04-09,51.2,Striker,England,ENG
-170722,Michael Owen,3,10,67.0,172.0,ENG,43942,,1979-12-14,46.5,Striker,England,ENG
-177656,Emile Heskey,3,11,84.0,188.0,ENG,43942,,1978-01-11,48.4,Striker,England,ENG
-179663,Wes Brown,1,12,77.0,185.0,ENG,43942,,1979-10-13,46.7,Defender,England,ENG
-166992,Nigel Martyn,0,13,91.0,187.0,ENG,43942,,1966-08-11,59.8,Goalkeeper,England,ENG
-186443,Wayne Bridge,1,14,68.0,177.0,ENG,43942,,1980-08-05,45.9,Defender,England,ENG
-95997,Martin Keown,1,15,78.0,186.0,ENG,43942,,1966-07-24,59.9,Defender,England,ENG
-155121,Gareth Southgate,1,16,,,ENG,43942,,1970-09-03,55.8,Defender,England,ENG
-95558,Teddy Sheringham,3,17,78.0,183.0,ENG,43942,,1966-04-02,60.2,Striker,England,ENG
-182050,Owen Hargreaves,2,18,73.0,180.0,ENG,43942,,1981-01-20,45.4,Midfielder,England,ENG
-179662,Joe Cole,2,19,70.0,175.0,ENG,43942,,1981-11-08,44.6,Midfielder,England,ENG
-186454,Darius Vassell,3,20,76.0,170.0,ENG,43942,,1980-06-13,46.0,Striker,England,ENG
-159306,Nicky Butt,2,21,69.0,179.0,ENG,43942,,1975-01-21,51.4,Midfielder,England,ENG
-62210,David James,0,22,91.0,196.0,ENG,43942,,1970-08-01,55.9,Goalkeeper,England,ENG
-179547,Kieron Dyer,2,23,60.0,170.0,ENG,43942,,1978-12-29,47.5,Midfielder,England,ENG
-177708,Ulrich Rame,0,1,85.0,187.0,FRA,43946,,1972-09-19,53.7,Goalkeeper,France,FRA
-170703,Vincent Candela,1,2,76.0,180.0,FRA,43946,,1973-10-24,52.6,Defender,France,FRA
-166722,Bixente Lizarazu,1,3,72.0,169.0,FRA,43946,,1969-12-09,56.5,Defender,France,FRA
-170707,Patrick Vieira,2,4,83.0,193.0,FRA,43946,,1976-06-23,50.0,Midfielder,France,FRA
-181319,Philippe Christanval,1,5,73.0,185.0,FRA,43946,,1978-08-31,47.8,Defender,France,FRA
-95664,Youri Djorkaeff,2,6,72.0,179.0,FRA,43946,,1968-03-09,58.3,Midfielder,France,FRA
-181293,Claude Makelele,2,7,70.0,174.0,FRA,43946,,1973-02-18,53.3,Midfielder,France,FRA
-95650,Marcel Desailly,1,8,87.0,184.0,FRA,43946,,1968-09-07,57.8,Defender,France,FRA
-180749,Djibril Cisse,3,9,78.0,182.0,FRA,43946,,1981-08-12,44.8,Striker,France,FRA
-163331,Zinedine Zidane,2,10,78.0,185.0,FRA,43946,,1972-06-23,54.0,Midfielder,France,FRA
-177719,Sylvain Wiltord,3,11,72.0,173.0,FRA,43946,,1974-05-10,52.1,Striker,France,FRA
-170711,Thierry Henry,3,12,83.0,188.0,FRA,43946,,1977-08-17,48.8,Striker,France,FRA
-181333,Mikael Silvestre,1,13,86.0,183.0,FRA,43946,,1977-08-09,48.8,Defender,France,FRA
-170704,Alain Boghossian,2,14,81.0,185.0,FRA,43946,,1970-10-27,55.6,Midfielder,France,FRA
-163666,Lilian Thuram,1,15,78.0,185.0,FRA,43946,,1972-01-01,54.5,Defender,France,FRA
-96075,Fabien Barthez,0,16,76.0,182.0,FRA,43946,,1971-06-28,55.0,Goalkeeper,France,FRA
-95448,Emmanuel Petit,2,17,79.0,185.0,FRA,43946,,1970-09-22,55.7,Midfielder,France,FRA
-170702,Frank Leboeuf,1,18,72.0,183.0,FRA,43946,,1968-01-22,58.4,Defender,France,FRA
-181292,Willy Sagnol,1,19,78.0,180.0,FRA,43946,,1977-03-18,49.2,Defender,France,FRA
-170709,David Trezeguet,3,20,75.0,187.0,FRA,43946,,1977-10-15,48.7,Striker,France,FRA
-160559,Christophe Dugarry,3,21,78.0,188.0,FRA,43946,,1972-03-24,54.2,Striker,France,FRA
-177720,Johan Micoud,2,22,82.0,188.0,FRA,43946,,1973-07-24,52.9,Midfielder,France,FRA
-182640,Gregory Coupet,0,23,80.0,181.0,FRA,43946,,1972-12-31,53.5,Goalkeeper,France,FRA
-78091,Oliver Kahn,0,1,88.0,188.0,GER,43948,,1969-06-15,57.0,Goalkeeper,Germany,GER
-155354,Thomas Linke,1,2,79.0,183.0,GER,43948,,1969-12-26,56.5,Defender,Germany,GER
-177663,Marko Rehmer,1,3,85.0,187.0,GER,43948,,1972-04-29,54.1,Defender,Germany,GER
-179551,Frank Baumann,1,4,79.0,187.0,GER,43948,,1975-10-29,50.6,Defender,Germany,GER
-165009,Carsten Ramelow,2,5,80.0,185.0,GER,43948,,1974-03-20,52.2,Midfielder,Germany,GER
-155370,Christian Ziege,1,6,82.0,186.0,GER,43948,,1972-02-01,54.4,Defender,Germany,GER
-179558,Oliver Neuville,3,7,64.0,171.0,GER,43948,,1973-05-01,53.1,Striker,Germany,GER
-159386,Didi Hamann,2,8,83.0,191.0,GER,43948,,1973-08-27,52.8,Midfielder,Germany,GER
-168509,Carsten Jancker,3,9,93.0,193.0,GER,43948,,1974-08-28,51.8,Striker,Germany,GER
-159529,Lars Ricken,2,10,72.0,178.0,GER,43948,,1976-07-10,49.9,Midfielder,Germany,GER
-182206,Miroslav Klose,3,11,81.0,182.0,GER,43948,,1978-06-09,48.0,Striker,Germany,GER
-166921,Jens Lehmann,0,12,87.0,190.0,GER,43948,,1969-11-10,56.6,Goalkeeper,Germany,GER
-177667,Michael Ballack,2,13,80.0,189.0,GER,43948,,1976-09-26,49.7,Midfielder,Germany,GER
-184402,Gerald Asamoah,3,14,85.0,180.0,GER,43948,,1978-10-03,47.7,Striker,Germany,GER
-184403,Sebastian Kehl,1,15,80.0,186.0,GER,43948,,1980-02-13,46.3,Defender,Germany,GER
-155344,Jens Jeremies,2,16,76.0,177.0,GER,43948,,1974-03-05,52.3,Midfielder,Germany,GER
-155336,Marco Bode,3,17,85.0,189.0,GER,43948,,1969-07-23,56.9,Striker,Germany,GER
-185808,Joerg Boehme,1,18,75.0,178.0,GER,43948,,1974-01-22,52.4,Defender,Germany,GER
-164548,Bernd Schneider,2,19,74.0,176.0,GER,43948,,1973-11-17,52.6,Midfielder,Germany,GER
-155334,Oliver Bierhoff,3,20,90.0,191.0,GER,43948,,1968-05-01,58.1,Striker,Germany,GER
-185434,Christoph Metzelder,1,21,84.0,193.0,GER,43948,,1980-11-05,45.6,Defender,Germany,GER
-182207,Torsten Frings,2,22,80.0,182.0,GER,43948,,1976-11-22,49.6,Midfielder,Germany,GER
-177669,Hans Joerg Butt,0,23,91.0,191.0,GER,43948,,1974-05-28,52.0,Goalkeeper,Germany,GER
-159304,Gianluigi Buffon,0,1,83.0,190.0,ITA,43954,,1978-01-28,48.4,Goalkeeper,Italy,ITA
-91469,Christian Panucci,1,2,72.0,185.0,ITA,43954,,1973-04-12,53.2,Defender,Italy,ITA
-174730,Paolo Maldini,1,3,86.0,186.0,ITA,43954,,1968-06-26,58.0,Defender,Italy,ITA
-177880,Francesco Coco,1,4,78.0,181.0,ITA,43954,,1977-01-08,49.4,Defender,Italy,ITA
-155957,Fabio Cannavaro,1,5,72.0,175.0,ITA,43954,,1973-09-13,52.8,Defender,Italy,ITA
-177884,Cristiano Zanetti,2,6,77.0,180.0,ITA,43954,,1977-04-10,49.2,Midfielder,Italy,ITA
-155963,Alessandro Del Piero,3,7,73.0,173.0,ITA,43954,,1974-11-09,51.6,Striker,Italy,ITA
-177845,Gennaro Gattuso,2,8,77.0,177.0,ITA,43954,,1978-01-09,48.4,Midfielder,Italy,ITA
-155969,Filippo Inzaghi,3,9,74.0,181.0,ITA,43954,,1973-08-09,52.8,Striker,Italy,ITA
-165247,Francesco Totti,3,10,82.0,180.0,ITA,43954,,1976-09-27,49.7,Striker,Italy,ITA
-187163,Cristiano Doni,2,11,78.0,185.0,ITA,43954,,1973-04-01,53.2,Midfielder,Italy,ITA
-177879,Christian Abbiati,0,12,90.0,190.0,ITA,43954,,1977-07-08,48.9,Goalkeeper,Italy,ITA
-155971,Alessandro Nesta,1,13,79.0,187.0,ITA,43954,,1976-03-19,50.2,Defender,Italy,ITA
-170774,Luigi Di Biagio,2,14,72.0,177.0,ITA,43954,,1971-06-03,55.0,Midfielder,Italy,ITA
-169641,Mark Iuliano,1,15,80.0,187.0,ITA,43954,,1973-08-12,52.8,Defender,Italy,ITA
-155964,Angelo Di Livio,2,16,73.0,173.0,ITA,43954,,1966-07-26,59.9,Midfielder,Italy,ITA
-155978,Damiano Tommasi,2,17,70.0,177.0,ITA,43954,,1974-05-17,52.1,Midfielder,Italy,ITA
-177676,Marco Delvecchio,3,18,77.0,186.0,ITA,43954,,1973-04-07,53.2,Striker,Italy,ITA
-177655,Gianluca Zambrotta,2,19,76.0,181.0,ITA,43954,,1977-02-19,49.3,Midfielder,Italy,ITA
-177662,Vincenzo Montella,3,20,71.0,172.0,ITA,43954,,1974-06-18,52.0,Striker,Italy,ITA
-155979,Christian Vieri,3,21,82.0,185.0,ITA,43954,,1973-07-12,52.9,Striker,Italy,ITA
-155977,Francesco Toldo,0,22,90.0,196.0,ITA,43954,,1971-12-02,54.5,Goalkeeper,Italy,ITA
-184451,Marco Materazzi,1,23,92.0,193.0,ITA,43954,,1973-08-19,52.8,Defender,Italy,ITA
-156047,Yoshikatsu Kawaguchi,0,1,77.0,180.0,JPN,43819,,1975-08-15,50.8,Goalkeeper,Japan,JPN
-156042,Yutaka Akita,1,2,78.0,180.0,JPN,43819,,1970-08-06,55.9,Defender,Japan,JPN
-177805,Naoki Matsuda,1,3,78.0,183.0,JPN,43819,,1977-03-14,49.3,Defender,Japan,JPN
-178471,Ryuzo Morioka,1,4,71.0,180.0,JPN,43819,,1975-10-07,50.7,Defender,Japan,JPN
-177771,Junichi Inamoto,2,5,75.0,181.0,JPN,43819,,1979-09-18,46.7,Midfielder,Japan,JPN
-170132,Toshihiro Hattori,1,6,73.0,178.0,JPN,43819,,1973-09-23,52.7,Defender,Japan,JPN
-156055,Hidetoshi Nakata,2,7,72.0,175.0,JPN,43819,,1977-01-22,49.4,Midfielder,Japan,JPN
-156053,Hiroaki Morishima,2,8,62.0,168.0,JPN,43819,,1972-04-30,54.1,Midfielder,Japan,JPN
-156058,Akinori Nishizawa,3,9,71.0,180.0,JPN,43819,,1976-06-18,50.0,Striker,Japan,JPN
-94407,Masashi Nakayama,3,10,72.0,178.0,JPN,43819,,1967-09-23,58.7,Striker,Japan,JPN
-182445,Takayuki Suzuki,3,11,75.0,182.0,JPN,43819,,1976-06-05,50.0,Striker,Japan,JPN
-159481,Seigo Narazaki,0,12,80.0,187.0,JPN,43819,,1976-04-15,50.2,Goalkeeper,Japan,JPN
-177816,Atsushi Yanagisawa,3,13,75.0,177.0,JPN,43819,,1977-05-27,49.0,Striker,Japan,JPN
-187349,Alessandro Santos,2,14,69.0,178.0,JPN,43819,,1977-07-20,48.9,Midfielder,Japan,JPN
-183937,Takashi Fukunishi,2,15,74.0,181.0,JPN,43819,,1976-09-01,49.8,Midfielder,Japan,JPN
-177766,Koji Nakata,1,16,74.0,182.0,JPN,43819,,1979-07-09,46.9,Defender,Japan,JPN
-177760,Tsuneyasu Miyamoto,1,17,72.0,176.0,JPN,43819,,1977-02-07,49.3,Defender,Japan,JPN
-170681,Shinji Ono,2,18,74.0,175.0,JPN,43819,,1979-09-27,46.7,Midfielder,Japan,JPN
-177784,Mitsuo Ogasawara,2,19,72.0,173.0,JPN,43819,,1979-04-05,47.2,Midfielder,Japan,JPN
-177772,Tomokazu Myojin,2,20,70.0,173.0,JPN,43819,,1978-01-24,48.4,Midfielder,Japan,JPN
-177782,Kazuyuki Toda,2,21,68.0,178.0,JPN,43819,,1977-12-30,48.5,Midfielder,Japan,JPN
-178649,Daisuke Ichikawa,2,22,68.0,181.0,JPN,43819,,1980-05-14,46.1,Midfielder,Japan,JPN
-177754,Hitoshi Sogahata,0,23,80.0,187.0,JPN,43819,,1979-08-02,46.9,Goalkeeper,Japan,JPN
-77937,Lee Woonjae,0,1,90.0,182.0,KOR,43822,,1973-04-26,53.1,Goalkeeper,Korea Republic,KOR
-188385,Hyun Young Min,1,2,73.0,179.0,KOR,43822,,1979-12-25,46.5,Defender,Korea Republic,KOR
-156219,Choi Sung Yong,2,3,70.0,173.0,KOR,43822,,1975-12-25,50.5,Midfielder,Korea Republic,KOR
-159323,Choi Jin Cheul,1,4,,,KOR,43822,,1971-03-26,55.2,Defender,Korea Republic,KOR
-188386,Kim Nam Il,2,5,75.0,180.0,KOR,43822,,1977-03-14,49.3,Midfielder,Korea Republic,KOR
-156242,Yoo Sang Chul,2,6,78.0,184.0,KOR,43822,,1971-10-18,54.7,Midfielder,Korea Republic,KOR
-169918,Kim Taeyoung,1,7,73.0,180.0,KOR,43822,,1970-11-08,55.6,Defender,Korea Republic,KOR
-178512,Choi Tae Uk,3,8,65.0,173.0,KOR,43822,,1981-03-13,45.3,Striker,Korea Republic,KOR
-177806,Seol Ki Hyeon,3,9,73.0,184.0,KOR,43822,,1979-01-08,47.4,Striker,Korea Republic,KOR
-177785,Lee Young Pyo,2,10,67.0,177.0,KOR,43822,,1977-04-23,49.1,Midfielder,Korea Republic,KOR
-156220,Choi Yongsoo,3,11,79.0,184.0,KOR,43822,,1973-09-10,52.8,Striker,Korea Republic,KOR
-170329,Kim Byung-Ji,0,12,77.0,184.0,KOR,43822,,1970-04-08,56.2,Goalkeeper,Korea Republic,KOR
-189571,Lee Eul Yong,2,13,69.0,176.0,KOR,43822,,1975-09-08,50.8,Midfielder,Korea Republic,KOR
-178469,Lee Chun Soo,3,14,65.0,175.0,KOR,43822,,1981-07-09,44.9,Striker,Korea Republic,KOR
-156236,Lee Min Sung,1,15,73.0,183.0,KOR,43822,,1973-06-23,53.0,Defender,Korea Republic,KOR
-188387,Cha Du Ri,3,16,79.0,181.0,KOR,43822,,1980-07-25,45.9,Striker,Korea Republic,KOR
-166159,Yoon Jong Hwan,2,17,63.0,173.0,KOR,43822,,1973-02-16,53.3,Midfielder,Korea Republic,KOR
-174626,Hwang Sun Hong,3,18,79.0,183.0,KOR,43822,,1968-07-14,57.9,Striker,Korea Republic,KOR
-156216,Ahn Jung Hwan,2,19,73.0,177.0,KOR,43822,,1976-01-27,50.4,Midfielder,Korea Republic,KOR
-2188,Hong Myungbo,1,20,73.0,181.0,KOR,43822,,1969-02-12,57.3,Defender,Korea Republic,KOR
-177788,Park Ji Sung,2,21,73.0,178.0,KOR,43822,,1981-02-25,45.3,Midfielder,Korea Republic,KOR
-179025,Song Chong Gug,2,22,71.0,175.0,KOR,43822,,1979-02-20,47.3,Midfielder,Korea Republic,KOR
-184048,Choi Eunsung,0,23,82.0,184.0,KOR,43822,,1971-04-05,55.2,Goalkeeper,Korea Republic,KOR
-170808,Oscar Perez,0,1,76.0,172.0,MEX,43911,,1973-02-01,53.4,Goalkeeper,Mexico,MEX
-188376,Francisco Gabriel De Anda,1,2,80.0,188.0,MEX,43911,,1971-06-05,55.0,Defender,Mexico,MEX
-70096,Rafael Garcia,2,3,66.0,175.0,MEX,43911,,1974-08-14,51.8,Midfielder,Mexico,MEX
-178119,Rafael Marquez,2,4,77.0,184.0,MEX,43911,,1979-02-13,47.3,Midfielder,Mexico,MEX
-165626,Manuel Vidrio,1,5,77.0,184.0,MEX,43911,,1972-08-23,53.8,Defender,Mexico,MEX
-70097,Gerardo Torrado,2,6,74.0,174.0,MEX,43911,,1979-04-30,47.1,Midfielder,Mexico,MEX
-185325,Ramon Morales,2,7,62.0,168.0,MEX,43911,,1975-10-10,50.7,Midfielder,Mexico,MEX
-77275,Alberto Garcia Aspe,2,8,72.0,174.0,MEX,43911,,1967-05-11,59.1,Midfielder,Mexico,MEX
-185038,Jared Borgetti,3,9,78.0,182.0,MEX,43911,,1973-08-14,52.8,Striker,Mexico,MEX
-162580,Cuauhtemoc Blanco,3,10,77.0,177.0,MEX,43911,,1973-01-17,53.4,Striker,Mexico,MEX
-170810,Braulio Luna,2,11,76.0,180.0,MEX,43911,,1974-09-08,51.8,Midfielder,Mexico,MEX
-156624,Oswaldo Sanchez,0,12,79.0,184.0,MEX,43911,,1973-09-21,52.7,Goalkeeper,Mexico,MEX
-54129,Sigifredo Mercado,2,13,78.0,183.0,MEX,43911,,1968-12-21,57.5,Midfielder,Mexico,MEX
-156630,German Villa,2,14,74.0,171.0,MEX,43911,,1973-04-02,53.2,Midfielder,Mexico,MEX
-170333,Luis Hernandez,3,15,73.0,172.0,MEX,43911,,1968-12-22,57.5,Striker,Mexico,MEX
-162582,Salvador Carmona,1,16,72.0,176.0,MEX,43911,,1975-08-22,50.8,Defender,Mexico,MEX
-166193,Francisco Palencia,3,17,71.0,175.0,MEX,43911,,1973-04-28,53.1,Striker,Mexico,MEX
-182037,Joahan Rodriguez,2,18,71.0,176.0,MEX,43911,,1975-08-15,50.8,Midfielder,Mexico,MEX
-189031,Gabriel Caballero,2,19,70.0,173.0,MEX,43911,,1971-02-05,55.4,Midfielder,Mexico,MEX
-184986,Melvin Brown,1,20,81.0,174.0,MEX,43911,,1979-01-28,47.4,Defender,Mexico,MEX
-162670,Jesus Arellano,3,21,65.0,171.0,MEX,43911,,1973-05-08,53.1,Striker,Mexico,MEX
-166191,Alberto Rodriguez,1,22,65.0,168.0,MEX,43911,,1974-04-01,52.2,Defender,Mexico,MEX
-47245,Jorge Campos,0,23,72.0,175.0,MEX,43911,,1966-10-15,59.7,Goalkeeper,Mexico,MEX
-93398,Ibrahim Shorunmu,0,1,84.0,186.0,NGA,43876,,1967-10-16,58.7,Goalkeeper,Nigeria,NGA
-178403,Joseph Yobo,2,2,95.0,185.0,NGA,43876,,1980-09-06,45.8,Midfielder,Nigeria,NGA
-156903,Celestine Babayaro,1,3,66.0,172.0,NGA,43876,,1978-08-29,47.8,Defender,Nigeria,NGA
-159416,Nwankwo Kanu,3,4,80.0,197.0,NGA,43876,,1976-08-01,49.9,Striker,Nigeria,NGA
-178827,Isaac Okoronkwo,1,5,74.0,182.0,NGA,43876,,1978-05-01,48.1,Defender,Nigeria,NGA
-156924,Taribo West,1,6,87.0,186.0,NGA,43876,,1974-03-26,52.2,Defender,Nigeria,NGA
-176948,Pius Ikedia,3,7,60.0,166.0,NGA,43876,,1980-07-11,45.9,Striker,Nigeria,NGA
-93446,Mutiu Adepoju,2,8,76.0,180.0,NGA,43876,,1970-12-22,55.5,Midfielder,Nigeria,NGA
-189304,Bartholomew Ogbeche,3,9,78.0,177.0,NGA,43876,,1984-10-01,41.7,Striker,Nigeria,NGA
-77328,Jay Jay Okocha,2,10,70.0,175.0,NGA,43876,,1973-08-14,52.8,Midfielder,Nigeria,NGA
-156911,Garba Lawal,2,11,72.0,183.0,NGA,43876,,1974-05-22,52.1,Midfielder,Nigeria,NGA
-184856,Austine Ejide,0,12,90.0,186.0,NGA,43876,,1984-04-08,42.2,Goalkeeper,Nigeria,NGA
-178372,Rabiu Afolabi,1,13,75.0,183.0,NGA,43876,,1980-04-18,46.2,Defender,Nigeria,NGA
-178742,Ifeanyi Udeze,1,14,70.0,179.0,NGA,43876,,1980-07-21,45.9,Defender,Nigeria,NGA
-183770,Justice Christopher,2,15,80.0,178.0,NGA,43876,,1981-12-24,44.5,Midfielder,Nigeria,NGA
-3996,Efetobore Sodje,1,16,79.0,185.0,NGA,43876,,1972-10-05,53.7,Defender,Nigeria,NGA
-178390,Julius Aghahowa,3,17,77.0,178.0,NGA,43876,,1982-02-12,44.3,Striker,Nigeria,NGA
-3991,Benedict Akwuegbu,3,18,79.0,190.0,NGA,43876,,1974-11-03,51.6,Striker,Nigeria,NGA
-183755,Eric Ejiofor,1,19,79.0,185.0,NGA,43876,,1979-07-21,46.9,Defender,Nigeria,NGA
-178381,James Obiorah,2,20,72.0,179.0,NGA,43876,,1978-08-24,47.8,Midfielder,Nigeria,NGA
-183498,John Utaka,3,21,82.0,179.0,NGA,43876,,1982-01-08,44.4,Striker,Nigeria,NGA
-189300,Vincent Enyeama,0,22,79.0,185.0,NGA,43876,,1982-08-29,43.8,Goalkeeper,Nigeria,NGA
-182489,Femi Opabunmi,3,23,68.0,170.0,NGA,43876,,1985-03-03,41.3,Striker,Nigeria,NGA
-160374,Jose Luis Chilavert,0,1,89.0,194.0,PAR,43928,,1965-07-27,60.9,Goalkeeper,Paraguay,PAR
-162012,Francisco Arce,1,2,77.0,178.0,PAR,43928,,1971-04-02,55.2,Defender,Paraguay,PAR
-170672,Pedro Sarabia,1,3,80.0,181.0,PAR,43928,,1975-07-05,50.9,Defender,Paraguay,PAR
-94915,Carlos Gamarra,1,4,86.0,180.0,PAR,43928,,1971-02-17,55.3,Defender,Paraguay,PAR
-162008,Celso Ayala,1,5,74.0,177.0,PAR,43928,,1970-08-20,55.8,Defender,Paraguay,PAR
-94909,Estanislao Struway,2,6,75.0,176.0,PAR,43928,,1968-06-25,58.0,Midfielder,Paraguay,PAR
-162589,Richart Baez,3,7,83.0,180.0,PAR,43928,,1973-07-31,52.9,Striker,Paraguay,PAR
-162011,Guido Alvarenga,2,8,70.0,170.0,PAR,43928,,1970-08-24,55.8,Midfielder,Paraguay,PAR
-4039,Roque Santa Cruz,3,9,86.0,191.0,PAR,43928,,1981-08-16,44.8,Striker,Paraguay,PAR
-157138,Roberto Acuna,2,10,86.0,176.0,PAR,43928,,1972-03-25,54.2,Midfielder,Paraguay,PAR
-162013,Jorge Campos,3,11,66.0,175.0,PAR,43928,,1970-08-11,55.8,Striker,Paraguay,PAR
-185338,Justo Villar,0,12,83.0,180.0,PAR,43928,,1977-06-30,49.0,Goalkeeper,Paraguay,PAR
-170674,Carlos Paredes,2,13,82.0,179.0,PAR,43928,,1976-07-16,49.9,Midfielder,Paraguay,PAR
-177219,Diego Gavilan,2,14,75.0,176.0,PAR,43928,,1980-03-01,46.3,Midfielder,Paraguay,PAR
-189436,Carlos Bonet,2,15,76.0,176.0,PAR,43928,,1977-10-02,48.7,Midfielder,Paraguay,PAR
-184440,Gustavo Morinigo,2,16,75.0,178.0,PAR,43928,,1977-01-23,49.4,Midfielder,Paraguay,PAR
-157163,Juan Carlos Franco,1,17,79.0,179.0,PAR,43928,,1973-04-17,53.2,Defender,Paraguay,PAR
-189334,Julio César Cáceres,1,18,77.0,181.0,PAR,43928,,1979-10-05,46.7,Defender,Paraguay,PAR
-185337,Daniel Sanabria,1,19,80.0,182.0,PAR,43928,,1977-02-08,49.3,Defender,Paraguay,PAR
-162010,Jose Cardozo,3,20,84.0,183.0,PAR,43928,,1971-03-19,55.2,Striker,Paraguay,PAR
-162763,Denis Caniza,1,21,73.0,174.0,PAR,43928,,1974-08-29,51.8,Defender,Paraguay,PAR
-178244,Ricardo Tavarelli,0,22,79.0,182.0,PAR,43928,,1970-08-02,55.9,Goalkeeper,Paraguay,PAR
-182783,Nelson Cuevas,3,23,63.0,176.0,PAR,43928,,1980-01-10,46.4,Striker,Paraguay,PAR
-178965,Jerzy Dudek,0,1,81.0,187.0,POL,43962,,1973-03-23,53.2,Goalkeeper,Poland,POL
-157285,Tomasz Klos,1,2,78.0,186.0,POL,43962,,1973-03-07,53.3,Defender,Poland,POL
-157311,Jacek Zielinski,1,3,80.0,184.0,POL,43962,,1967-10-10,58.7,Defender,Poland,POL
-178967,Michal Zewlakow,1,4,78.0,183.0,POL,43962,,1976-04-22,50.1,Defender,Poland,POL
-164446,Tomasz Rzasa,2,5,76.0,181.0,POL,43962,,1973-03-11,53.3,Midfielder,Poland,POL
-169660,Tomasz Hajto,1,6,81.0,187.0,POL,43962,,1972-10-16,53.7,Defender,Poland,POL
-95548,Piotr Swierczewski,2,7,79.0,180.0,POL,43962,,1972-04-08,54.2,Midfielder,Poland,POL
-157288,Cezary Kucharski,3,8,75.0,182.0,POL,43962,,1972-02-17,54.3,Striker,Poland,POL
-178976,Pawel Kryszalowicz,3,9,76.0,183.0,POL,43962,,1974-06-23,52.0,Striker,Poland,POL
-170358,Radoslaw Kaluzny,2,10,80.0,191.0,POL,43962,,1974-02-02,52.4,Midfielder,Poland,POL
-178975,Emmanuel Olisadebe,3,11,70.0,180.0,POL,43962,,1978-12-22,47.5,Striker,Poland,POL
-166751,Radoslaw Majdan,0,12,79.0,185.0,POL,43962,,1972-05-10,54.1,Goalkeeper,Poland,POL
-186329,Arkadiusz Glowacki,1,13,78.0,186.0,POL,43962,,1979-03-13,47.3,Defender,Poland,POL
-178968,Marcin Zewlakow,3,14,78.0,183.0,POL,43962,,1976-04-22,50.1,Striker,Poland,POL
-95143,Tomasz Waldoch,1,15,83.0,187.0,POL,43962,,1971-05-10,55.1,Defender,Poland,POL
-186053,Maciej Murawski,2,16,79.0,185.0,POL,43962,,1974-02-20,52.3,Midfielder,Poland,POL
-178977,Arkadiusz Bak,2,17,76.0,176.0,POL,43962,,1974-10-06,51.7,Midfielder,Poland,POL
-178969,Jacek Krzynowek,2,18,73.0,180.0,POL,43962,,1976-05-15,50.1,Midfielder,Poland,POL
-186196,Maciej Zurawski,3,19,74.0,180.0,POL,43962,,1976-09-12,49.8,Striker,Poland,POL
-95557,Jacek Bak,1,20,78.0,187.0,POL,43962,,1973-03-24,53.2,Defender,Poland,POL
-95546,Marek Kozminski,2,21,75.0,178.0,POL,43962,,1971-02-07,55.3,Midfielder,Poland,POL
-95155,Adam Matysek,0,22,90.0,191.0,POL,43962,,1968-07-19,57.9,Goalkeeper,Poland,POL
-189674,Pawel Sibik,2,23,74.0,180.0,POL,43962,,1971-02-15,55.3,Midfielder,Poland,POL
-160197,Vitor Baia,0,1,78.0,184.0,POR,43963,,1969-10-15,56.7,Goalkeeper,Portugal,POR
-160555,Jorge Costa,1,2,86.0,188.0,POR,43963,,1971-10-14,54.7,Defender,Portugal,POR
-163351,Abel Xavier,1,3,81.0,189.0,POR,43963,,1972-11-30,53.5,Defender,Portugal,POR
-187191,Marco Caneira,1,4,75.0,178.0,POR,43963,,1979-02-09,47.3,Defender,Portugal,POR
-177672,Fernando Couto,1,5,84.0,184.0,POR,43963,,1969-08-02,56.9,Defender,Portugal,POR
-177674,Paulo Sousa,2,6,76.0,177.0,POR,43963,,1970-08-30,55.8,Midfielder,Portugal,POR
-160130,Luis Figo,3,7,75.0,180.0,POR,43963,,1972-11-04,53.6,Striker,Portugal,POR
-163936,Joao Pinto,3,8,67.0,171.0,POR,43963,,1971-08-19,54.8,Striker,Portugal,POR
-166375,Pauleta,3,9,79.0,181.0,POR,43963,,1973-04-28,53.1,Striker,Portugal,POR
-161070,Rui Costa,2,10,74.0,180.0,POR,43963,,1972-03-29,54.2,Midfielder,Portugal,POR
-161240,Sergio Conceicao,3,11,82.0,177.0,POR,43963,,1974-11-15,51.6,Striker,Portugal,POR
-189432,Hugo Viana,2,12,77.0,179.0,POR,43963,,1983-01-15,43.4,Midfielder,Portugal,POR
-184465,Jorge Andrade,1,13,73.0,184.0,POR,43963,,1978-04-09,48.2,Defender,Portugal,POR
-157312,Pedro Barbosa,2,14,80.0,182.0,POR,43963,,1970-08-06,55.9,Midfielder,Portugal,POR
-189197,Nelson,0,15,76.0,187.0,POR,43963,,1975-10-20,50.7,Goalkeeper,Portugal,POR
-182194,Ricardo,0,16,80.0,188.0,POR,43963,,1976-02-11,50.3,Goalkeeper,Portugal,POR
-161099,Paulo Bento,2,17,72.0,175.0,POR,43963,,1969-06-20,57.0,Midfielder,Portugal,POR
-184452,Frechaut,1,18,76.0,184.0,POR,43963,,1977-09-24,48.7,Defender,Portugal,POR
-166298,Capucho,3,19,78.0,180.0,POR,43963,,1972-02-21,54.3,Striker,Portugal,POR
-182197,Petit,2,20,68.0,178.0,POR,43963,,1976-09-25,49.7,Midfielder,Portugal,POR
-165260,Nuno Gomes,3,21,76.0,181.0,POR,43963,,1976-07-05,49.9,Striker,Portugal,POR
-159294,Beto,1,22,83.0,185.0,POR,43963,,1976-05-03,50.1,Defender,Portugal,POR
-165745,Rui Jorge,1,23,70.0,173.0,POR,43963,,1973-03-27,53.2,Defender,Portugal,POR
-155823,Shay Given,0,1,84.0,187.0,IRL,43953,,1976-04-20,50.1,Goalkeeper,Republic of Ireland,IRL
-179106,Steve Finnan,1,2,77.0,183.0,IRL,43953,,1976-04-20,50.1,Defender,Republic of Ireland,IRL
-155825,Ian Harte,1,3,78.0,177.0,IRL,43953,,1977-08-31,48.8,Defender,Republic of Ireland,IRL
-155821,Kenny Cunningham,1,4,73.0,183.0,IRL,43953,,1971-06-28,55.0,Defender,Republic of Ireland,IRL
-44658,Steve Staunton,1,5,78.0,183.0,IRL,43953,,1969-01-19,57.4,Defender,Republic of Ireland,IRL
-76886,Roy Keane,2,6,71.0,179.0,IRL,43953,,1971-08-10,54.8,Midfielder,Republic of Ireland,IRL
-118290,Jason Mcateer,2,7,65.0,177.0,IRL,43953,,1971-06-18,55.0,Midfielder,Republic of Ireland,IRL
-179619,Matt Holland,2,8,69.0,175.0,IRL,43953,,1974-04-11,52.2,Midfielder,Republic of Ireland,IRL
-179104,Damien Duff,3,9,60.0,177.0,IRL,43953,,1979-03-02,47.3,Striker,Republic of Ireland,IRL
-179102,Robbie Keane,3,10,73.0,176.0,IRL,43953,,1980-07-08,45.9,Striker,Republic of Ireland,IRL
-159423,Kevin Kilbane,3,11,79.0,185.0,IRL,43953,,1977-02-01,49.4,Striker,Republic of Ireland,IRL
-166674,Mark Kinsella,2,12,69.0,176.0,IRL,43953,,1972-08-12,53.8,Midfielder,Republic of Ireland,IRL
-155820,David Connolly,3,13,68.0,172.0,IRL,43953,,1977-06-06,49.0,Striker,Republic of Ireland,IRL
-155818,Gary Breen,1,14,75.0,190.0,IRL,43953,,1973-12-12,52.5,Defender,Republic of Ireland,IRL
-179101,Richard Dunne,1,15,89.0,187.0,IRL,43953,,1979-09-21,46.7,Defender,Republic of Ireland,IRL
-179105,Dean Kiely,0,16,79.0,184.0,IRL,43953,,1970-10-10,55.7,Goalkeeper,Republic of Ireland,IRL
-44540,Niall Quinn,3,17,100.0,195.0,IRL,43953,,1966-10-06,59.7,Striker,Republic of Ireland,IRL
-84389,Gary Kelly,1,18,69.0,173.0,IRL,43953,,1974-07-09,51.9,Defender,Republic of Ireland,IRL
-185886,Clinton Morrison,3,19,64.0,178.0,IRL,43953,,1979-05-14,47.1,Striker,Republic of Ireland,IRL
-184685,Andy O Brien,1,20,66.0,177.0,IRL,43953,,1979-06-29,47.0,Defender,Republic of Ireland,IRL
-187553,Steven Reid,3,21,75.0,180.0,IRL,43953,,1981-03-10,45.3,Striker,Republic of Ireland,IRL
-159315,Lee Carsley,2,22,74.0,177.0,IRL,43953,,1974-02-28,52.3,Midfielder,Republic of Ireland,IRL
-76899,Alan Kelly Jr.,0,23,78.0,189.0,IRL,43953,,1968-08-11,57.8,Goalkeeper,Republic of Ireland,IRL
-178830,Ruslan Nigmatullin,0,1,79.0,188.0,RUS,43965,,1974-10-07,51.7,Goalkeeper,Russia,RUS
-157477,Yuri Kovtun,1,2,80.0,189.0,RUS,43965,,1970-01-05,56.4,Defender,Russia,RUS
-95645,Yuri Nikiforov,1,3,88.0,188.0,RUS,43965,,1970-09-16,55.7,Defender,Russia,RUS
-178831,Alexei Smertin,2,4,67.0,176.0,RUS,43965,,1975-05-01,51.1,Midfielder,Russia,RUS
-159558,Andrei Solomatin,2,5,80.0,183.0,RUS,43965,,1975-09-09,50.8,Midfielder,Russia,RUS
-189925,Igor Semshov,2,6,60.0,169.0,RUS,43965,,1978-04-06,48.2,Midfielder,Russia,RUS
-81828,Viktor Onopko,1,7,79.0,189.0,RUS,43965,,1969-10-14,56.7,Defender,Russia,RUS
-77516,Valeri Karpin,2,8,76.0,185.0,RUS,43965,,1969-02-02,57.4,Midfielder,Russia,RUS
-178833,Egor Titov,2,9,70.0,182.0,RUS,43965,,1976-05-29,50.0,Midfielder,Russia,RUS
-95404,Aleksandr Mostovoi,2,10,77.0,181.0,RUS,43965,,1968-08-22,57.8,Midfielder,Russia,RUS
-77512,Vladimir Beschastnykh,3,11,83.0,187.0,RUS,43965,,1974-04-01,52.2,Striker,Russia,RUS
-77514,Stanislav Cherchesov,0,12,76.0,183.0,RUS,43965,,1963-09-02,62.8,Goalkeeper,Russia,RUS
-183533,Viacheslav Daev,1,13,80.0,185.0,RUS,43965,,1972-09-06,53.8,Defender,Russia,RUS
-157460,Igor Chugainov,1,14,82.0,187.0,RUS,43965,,1970-04-06,56.2,Defender,Russia,RUS
-157454,Dmitry Alenichev,2,15,70.0,178.0,RUS,43965,,1972-10-20,53.6,Midfielder,Russia,RUS
-186808,Aleksandr Kerzhakov,3,16,67.0,175.0,RUS,43965,,1982-11-27,43.5,Striker,Russia,RUS
-159543,Sergey Semak,2,17,66.0,170.0,RUS,43965,,1976-02-27,50.3,Midfielder,Russia,RUS
-189213,Dmitri Sennikov,1,18,74.0,183.0,RUS,43965,,1976-06-24,50.0,Defender,Russia,RUS
-186804,Ruslan Pimenov,3,19,69.0,179.0,RUS,43965,,1981-11-25,44.6,Striker,Russia,RUS
-185770,Marat Izmailov,2,20,66.0,172.0,RUS,43965,,1982-09-21,43.7,Midfielder,Russia,RUS
-159430,Dmitry Khokhlov,2,21,84.0,189.0,RUS,43965,,1975-12-22,50.5,Midfielder,Russia,RUS
-189214,Dmitri Sychev,3,22,70.0,175.0,RUS,43965,,1983-10-26,42.6,Striker,Russia,RUS
-162884,Alexander Filimonov,0,23,85.0,195.0,RUS,43965,,1973-10-15,52.7,Goalkeeper,Russia,RUS
-92722,Mohammed Al Deayea,0,1,77.0,188.0,KSA,43835,,1972-08-02,53.9,Goalkeeper,Saudi Arabia,KSA
-156251,Mohammed Al Jahani,1,2,80.0,177.0,KSA,43835,,1974-09-28,51.7,Defender,Saudi Arabia,KSA
-189998,Redha Tukar,1,3,81.0,179.0,KSA,43835,,1975-11-29,50.5,Defender,Saudi Arabia,KSA
-170785,Abdullah Zubromawi,1,4,76.0,181.0,KSA,43835,,1973-11-15,52.6,Defender,Saudi Arabia,KSA
-70091,Mohsin Harthi,1,5,79.0,184.0,KSA,43835,,1976-07-17,49.9,Defender,Saudi Arabia,KSA
-186784,Fouzi Al Shehri,1,6,67.0,173.0,KSA,43835,,1980-05-15,46.1,Defender,Saudi Arabia,KSA
-226385,Ibrahim Al Shahrani,2,7,60.0,172.0,KSA,43835,,1974-07-21,51.9,Midfielder,Saudi Arabia,KSA
-70092,Mohammed Noor,2,8,70.0,186.0,KSA,43835,,1978-02-26,48.3,Midfielder,Saudi Arabia,KSA
-77503,Sami Al Jaber,3,9,72.0,176.0,KSA,43835,,1972-12-11,53.5,Striker,Saudi Arabia,KSA
-181865,Mohammad Al Shalhoub,2,10,66.0,163.0,KSA,43835,,1980-12-08,45.5,Midfielder,Saudi Arabia,KSA
-156248,Obeid Al Dosari,3,11,73.0,174.0,KSA,43835,,1975-10-02,50.7,Striker,Saudi Arabia,KSA
-159257,Ahmed Al Dosari,1,12,72.0,175.0,KSA,43835,,1976-10-25,49.6,Defender,Saudi Arabia,KSA
-199035,Hussein Al Sulaimani,1,13,70.0,174.0,KSA,43835,,1977-01-21,49.4,Defender,Saudi Arabia,KSA
-189999,Abdulaziz Khathran,2,14,61.0,169.0,KSA,43835,,1973-07-31,52.9,Midfielder,Saudi Arabia,KSA
-162800,Abdullah Gaman Al Dosari,3,15,83.0,183.0,KSA,43835,,1977-11-10,48.6,Striker,Saudi Arabia,KSA
-156247,Khamis Al Dossari,2,16,66.0,178.0,KSA,43835,,1973-09-08,52.8,Midfielder,Saudi Arabia,KSA
-70087,Abdullah Alwaked Al Shahrani,2,17,63.0,178.0,KSA,43835,,1975-09-29,50.7,Midfielder,Saudi Arabia,KSA
-170787,Nawaf Al Temyat,2,18,70.0,176.0,KSA,43835,,1976-06-28,50.0,Midfielder,Saudi Arabia,KSA
-213483,Omar Al Ghamdi,2,19,68.0,170.0,KSA,43835,,1979-04-11,47.2,Midfielder,Saudi Arabia,KSA
-186427,Al Hasan Al Yami,3,20,59.0,173.0,KSA,43835,,1972-08-21,53.8,Striker,Saudi Arabia,KSA
-190000,Mabrouk Zaid,0,21,62.0,185.0,KSA,43835,,1979-02-11,47.3,Goalkeeper,Saudi Arabia,KSA
-176634,Mohammed Babkr,0,22,75.0,186.0,KSA,43835,,1973-01-15,53.4,Goalkeeper,Saudi Arabia,KSA
-190001,Mansour Althagafi,1,23,65.0,176.0,KSA,43835,,1979-01-14,47.4,Defender,Saudi Arabia,KSA
-182142,Tony Sylva,0,1,77.0,185.0,SEN,43879,,1975-05-17,51.1,Goalkeeper,Senegal,SEN
-177515,Omar Daf,1,2,70.0,177.0,SEN,43879,,1977-02-12,49.3,Defender,Senegal,SEN
-182158,Pape Sarr,2,3,76.0,180.0,SEN,43879,,1977-12-07,48.5,Midfielder,Senegal,SEN
-162544,Papa Malick Diop,1,4,82.0,187.0,SEN,43879,,1974-12-29,51.5,Defender,Senegal,SEN
-182162,Alassane Ndour,1,5,73.0,185.0,SEN,43879,,1981-12-12,44.5,Defender,Senegal,SEN
-177583,Aliou Cisse,1,6,73.0,180.0,SEN,43879,,1976-03-24,50.2,Defender,Senegal,SEN
-4102,Henri Camara,3,7,67.0,176.0,SEN,43879,,1977-05-10,49.1,Striker,Senegal,SEN
-157601,Amara Traore,3,8,85.0,186.0,SEN,43879,,1965-09-25,60.7,Striker,Senegal,SEN
-182163,Souleymane Camara,3,9,72.0,174.0,SEN,43879,,1982-12-22,43.5,Striker,Senegal,SEN
-4108,Khalilou Fadiga,2,10,77.0,183.0,BEL,43879,,1974-12-30,51.5,Midfielder,Senegal,SEN
-4107,El Hadji Diouf,3,11,75.0,180.0,SEN,43879,,1981-01-15,45.4,Striker,Senegal,SEN
-183775,Amdy Faye,2,12,78.0,184.0,SEN,43879,,1977-03-12,49.3,Midfielder,Senegal,SEN
-182156,Lamine Diatta,1,13,76.0,184.0,SEN,43879,,1975-07-02,51.0,Defender,Senegal,SEN
-4112,Moussa Ndiaye,2,14,80.0,180.0,SEN,43879,,1979-02-20,47.3,Midfielder,Senegal,SEN
-182157,Salif Diao,2,15,73.0,184.0,SEN,43879,,1977-02-10,49.3,Midfielder,Senegal,SEN
-4104,Omar Diallo,0,16,84.0,187.0,SEN,43879,,1972-09-28,53.7,Goalkeeper,Senegal,SEN
-178878,Ferdinand Coly,1,17,81.0,179.0,SEN,43879,,1973-09-10,52.8,Defender,Senegal,SEN
-182160,Pape Thiaw,3,18,77.0,183.0,SEN,43879,,1981-02-05,45.4,Striker,Senegal,SEN
-185142,Bouba Diop,2,19,88.0,193.0,SEN,43879,,1978-01-28,48.4,Midfielder,Senegal,SEN
-188245,Sylvain Ndiaye,2,20,76.0,178.0,SEN,43879,,1976-06-25,50.0,Midfielder,Senegal,SEN
-183774,Habib Beye,1,21,79.0,182.0,SEN,43879,,1977-10-19,48.7,Defender,Senegal,SEN
-189753,Kalidou Cissokho,0,22,59.0,171.0,SEN,43879,,1972-12-14,53.5,Goalkeeper,Senegal,SEN
-182159,Makthar Ndiaye,2,23,65.0,175.0,SEN,43879,,1981-12-31,44.5,Midfielder,Senegal,SEN
-159552,Marko Simeunovic,0,1,82.0,190.0,SVN,43968,,1967-12-06,58.5,Goalkeeper,Slovenia,SVN
-182790,Goran Sankovic,1,2,80.0,185.0,SVN,43968,,1979-06-18,47.0,Defender,Slovenia,SVN
-177695,Zeljko Milinovic,1,3,80.0,188.0,SVN,43968,,1969-10-12,56.7,Defender,Slovenia,SVN
-179140,Muamer Vugdalic,1,4,78.0,190.0,SVN,43968,,1977-08-25,48.8,Defender,Slovenia,SVN
-157902,Marinko Galic,1,5,73.0,175.0,SVN,43968,,1970-04-22,56.1,Defender,Slovenia,SVN
-177696,Aleksander Knavs,1,6,86.0,190.0,SVN,43968,,1975-12-05,50.5,Defender,Slovenia,SVN
-157910,Doni Novak,2,7,73.0,172.0,SVN,43968,,1969-09-04,56.8,Midfielder,Slovenia,SVN
-157896,Ales Ceh,2,8,77.0,174.0,SVN,43968,,1968-04-07,58.2,Midfielder,Slovenia,SVN
-159503,Milan Osterc,3,9,83.0,184.0,SVN,43968,,1975-07-04,50.9,Striker,Slovenia,SVN
-157920,Zlatko Zahovic,2,10,76.0,180.0,SVN,43968,,1971-02-01,55.4,Midfielder,Slovenia,SVN
-177697,Miran Pavlin,2,11,78.0,187.0,SVN,43968,,1971-10-08,54.7,Midfielder,Slovenia,SVN
-157898,Mladen Dabanovic,0,12,94.0,196.0,SVN,43968,,1971-09-13,54.8,Goalkeeper,Slovenia,SVN
-157911,Mladen Rudonja,3,13,73.0,175.0,SVN,43968,,1971-07-26,54.9,Striker,Slovenia,SVN
-177822,Sasa Gajser,2,14,75.0,179.0,SVN,43968,,1974-02-11,52.3,Midfielder,Slovenia,SVN
-179141,Rajko Tavcar,2,15,74.0,180.0,SVN,43968,,1974-07-21,51.9,Midfielder,Slovenia,SVN
-186559,Senad Tiganj,3,16,77.0,179.0,SVN,43968,,1975-08-28,50.8,Striker,Slovenia,SVN
-177698,Zoran Pavlovic,2,17,76.0,190.0,SRB,43968,,1976-06-27,50.0,Midfielder,Slovenia,SVN
-177700,Milenko Acimovic,2,18,80.0,186.0,SVN,43968,,1977-02-15,49.3,Midfielder,Slovenia,SVN
-157906,Amir Karic,2,19,82.0,184.0,SVN,43968,,1973-12-31,52.5,Midfielder,Slovenia,SVN
-186557,Nastja Ceh,2,20,75.0,181.0,SVN,43968,,1978-01-26,48.4,Midfielder,Slovenia,SVN
-157897,Sebastijan Cimirotic,3,21,74.0,184.0,SVN,43968,,1974-09-14,51.7,Striker,Slovenia,SVN
-177702,Dejan Nemec,0,22,82.0,184.0,SVN,43968,,1977-03-01,49.3,Goalkeeper,Slovenia,SVN
-177694,Spasoje Bulajic,1,23,82.0,188.0,SVN,43968,,1975-11-24,50.6,Defender,Slovenia,SVN
-163966,Hans Vonk,0,1,83.0,196.0,RSA,43883,,1970-01-30,56.4,Goalkeeper,South Africa,RSA
-4079,Cyril Nzama,1,2,75.0,182.0,RSA,43883,,1974-06-26,52.0,Defender,South Africa,RSA
-177447,Bradley Carnell,1,3,70.0,174.0,RSA,43883,,1977-01-21,49.4,Defender,South Africa,RSA
-177007,Aaron Mokoena,1,4,81.0,183.0,RSA,43883,,1980-11-25,45.5,Defender,South Africa,RSA
-178863,Jacob Lekgetho,1,5,85.0,171.0,RSA,43883,,1974-03-24,52.2,Defender,South Africa,RSA
-182181,Macbeth Sibaya,2,6,77.0,176.0,RSA,43883,,1977-11-25,48.6,Midfielder,South Africa,RSA
-170647,Quinton Fortune,2,7,74.0,182.0,RSA,43883,,1977-05-21,49.1,Midfielder,South Africa,RSA
-4075,Thabo Mngomeni,2,8,67.0,169.0,RSA,43883,,1969-06-24,57.0,Midfielder,South Africa,RSA
-189677,Macdonald Mukansi,2,9,73.0,176.0,RSA,43883,,1975-05-26,51.1,Midfielder,South Africa,RSA
-185022,Bennett Mnguni,2,10,83.0,169.0,RSA,43883,,1974-03-18,52.2,Midfielder,South Africa,RSA
-4080,Jabu Pule,2,11,57.0,168.0,RSA,43883,,1980-07-11,45.9,Midfielder,South Africa,RSA
-181632,Teboho Mokoena,2,12,70.0,179.0,RSA,43883,,1974-07-10,51.9,Midfielder,South Africa,RSA
-170641,Pierre Issa,1,13,85.0,195.0,RSA,43883,,1975-09-11,50.8,Defender,South Africa,RSA
-4078,Siyabonga Nomvethe,3,14,70.0,173.0,RSA,43883,,1977-12-02,48.5,Striker,South Africa,RSA
-181629,Sibusiso Zuma,2,15,68.0,180.0,RSA,43883,,1975-06-23,51.0,Midfielder,South Africa,RSA
-162188,Andre Arendse,0,16,72.0,190.0,RSA,43883,,1967-06-27,59.0,Goalkeeper,South Africa,RSA
-170650,Benni Mccarthy,3,17,89.0,181.0,RSA,43883,,1977-11-12,48.6,Striker,South Africa,RSA
-170646,Delron Buckley,2,18,72.0,175.0,RSA,43883,,1977-12-07,48.5,Midfielder,South Africa,RSA
-93410,Lucas Radebe,1,19,85.0,185.0,RSA,43883,,1969-04-12,57.2,Defender,South Africa,RSA
-187209,Calvin Marlin,0,20,84.0,182.0,RSA,43883,,1976-04-20,50.1,Goalkeeper,South Africa,RSA
-189676,Steven Pienaar,2,21,73.0,173.0,RSA,43883,,1982-03-17,44.2,Midfielder,South Africa,RSA
-189191,Thabang Molefe,1,22,78.0,180.0,RSA,43883,,1979-04-11,47.2,Defender,South Africa,RSA
-157434,George Koumantarakis,3,23,84.0,193.0,RSA,43883,,1974-03-27,52.2,Striker,South Africa,RSA
-176644,Iker Casillas,0,1,84.0,185.0,ESP,43969,,1981-05-20,45.1,Goalkeeper,Spain,ESP
-189199,Curro Torres,1,2,76.0,180.0,ESP,43969,,1976-12-27,49.5,Defender,Spain,ESP
-184438,Juanfran,1,3,73.0,182.0,ESP,43969,,1976-07-15,49.9,Defender,Spain,ESP
-176647,Ivan Helguera,2,4,74.0,184.0,ESP,43969,,1975-03-28,51.2,Midfielder,Spain,ESP
-177914,Carles Puyol,1,5,80.0,178.0,ESP,43969,,1978-04-13,48.2,Defender,Spain,ESP
-174605,Fernando Hierro,1,6,84.0,187.0,ESP,43969,,1968-03-23,58.2,Defender,Spain,ESP
-155148,Raul,3,7,68.0,180.0,ESP,43969,,1977-06-27,49.0,Striker,Spain,ESP
-179536,Ruben Baraja,2,8,77.0,180.0,ESP,43969,,1975-07-11,50.9,Midfielder,Spain,ESP
-170678,Fernando Morientes,3,9,78.0,182.0,ESP,43969,,1976-04-05,50.2,Striker,Spain,ESP
-183400,Diego Tristan,3,10,79.0,186.0,ESP,43969,,1976-01-05,50.4,Striker,Spain,ESP
-161435,De Pedro,2,11,78.0,180.0,ESP,43969,,1973-08-04,52.9,Midfielder,Spain,ESP
-177921,Albert Luque,3,12,75.0,184.0,ESP,43969,,1978-03-11,48.3,Striker,Spain,ESP
-189861,Ricardo,0,13,87.0,187.0,ESP,43969,,1971-12-30,54.5,Goalkeeper,Spain,ESP
-177917,David Albelda,2,14,77.0,181.0,ESP,43969,,1977-09-01,48.8,Midfielder,Spain,ESP
-182683,Enrique Romero,1,15,79.0,183.0,ESP,43969,,1971-06-23,55.0,Defender,Spain,ESP
-168776,Gaizka Mendieta,2,16,69.0,173.0,ESP,43969,,1974-03-27,52.2,Midfielder,Spain,ESP
-183383,Juan Carlos Valeron,2,17,72.0,180.0,ESP,43969,,1975-06-17,51.0,Midfielder,Spain,ESP
-182714,Sergio,2,18,77.0,180.0,ESP,43969,,1976-11-10,49.6,Midfielder,Spain,ESP
-177855,Xavi Hernandez,1,19,72.0,179.0,ESP,43969,,1980-01-25,46.4,Defender,Spain,ESP
-77908,Miguel Angel Nadal,1,20,81.0,187.0,ESP,43969,,1966-07-28,59.9,Defender,Spain,ESP
-77892,Luis Enrique,2,21,,,ESP,43969,,1970-05-08,56.1,Midfielder,Spain,ESP
-186619,Joaquín,2,22,75.0,179.0,ESP,43969,,1981-07-21,44.9,Midfielder,Spain,ESP
-189911,Pedro Contreras,0,23,78.0,180.0,ESP,43969,,1972-01-07,54.4,Goalkeeper,Spain,ESP
-118288,Magnus Hedman,0,1,93.0,193.0,SWE,43970,,1973-03-19,53.2,Goalkeeper,Sweden,SWE
-177690,Olof Mellberg,1,2,82.0,184.0,SWE,43970,,1977-09-03,48.8,Defender,Sweden,SWE
-77984,Patrik Andersson,1,3,81.0,185.0,SWE,43970,,1971-08-18,54.8,Defender,Sweden,SWE
-168741,Johan Mjallby,1,4,85.0,186.0,SWE,43970,,1971-02-09,55.3,Defender,Sweden,SWE
-179515,Michael Svensson,1,5,86.0,189.0,SWE,43970,,1975-11-25,50.6,Defender,Sweden,SWE
-182648,Tobias Linderoth,2,6,73.0,177.0,SWE,43970,,1979-04-21,47.1,Midfielder,Sweden,SWE
-95673,Niclas Alexandersson,2,7,73.0,181.0,SWE,43970,,1971-12-29,54.5,Midfielder,Sweden,SWE
-179023,Anders Svensson,2,8,82.0,177.0,SWE,43970,,1976-07-17,49.9,Midfielder,Sweden,SWE
-169551,Fredrik Ljungberg,2,9,73.0,176.0,SWE,43970,,1977-04-16,49.2,Midfielder,Sweden,SWE
-177703,Marcus Allback,3,10,77.0,180.0,SWE,43970,,1973-07-05,52.9,Striker,Sweden,SWE
-77995,Henrik Larsson,3,11,74.0,177.0,SWE,43970,,1971-09-20,54.7,Striker,Sweden,SWE
-169478,Magnus Kihlstedt,0,12,86.0,190.0,SWE,43970,,1972-02-29,54.3,Goalkeeper,Sweden,SWE
-189572,Tomas Antonelius,1,13,78.0,179.0,SWE,43970,,1973-05-07,53.1,Defender,Sweden,SWE
-186155,Erik Edman,1,14,78.0,179.0,SWE,43970,,1978-11-11,47.6,Defender,Sweden,SWE
-157936,Andreas Jakobsson,1,15,83.0,189.0,SWE,43970,,1972-10-06,53.7,Defender,Sweden,SWE
-185507,Teddy Lucic,1,16,75.0,187.0,SWE,43970,,1973-04-15,53.2,Defender,Sweden,SWE
-177681,Magnus Svensson,2,17,72.0,172.0,SWE,43970,,1969-03-10,57.3,Midfielder,Sweden,SWE
-185506,Mattias Jonson,2,18,76.0,178.0,SWE,43970,,1974-01-16,52.4,Midfielder,Sweden,SWE
-186299,Pontus Farnerud,2,19,74.0,180.0,SWE,43970,,1980-06-04,46.0,Midfielder,Sweden,SWE
-159277,Daniel Andersson,2,20,79.0,178.0,SWE,43970,,1977-08-28,48.8,Midfielder,Sweden,SWE
-186162,Zlatan Ibrahimovic,3,21,90.0,196.0,SWE,43970,,1981-10-03,44.7,Striker,Sweden,SWE
-157925,Andreas Andersson,3,22,80.0,185.0,SWE,43970,,1974-04-10,52.2,Striker,Sweden,SWE
-186287,Andreas Isaksson,0,23,88.0,199.0,SWE,43970,,1981-10-03,44.7,Goalkeeper,Sweden,SWE
-93581,Ali Boumnijel,0,1,80.0,188.0,TUN,43888,,1966-04-13,60.2,Goalkeeper,Tunisia,TUN
-158243,Khaled Badra,1,2,85.0,185.0,TUN,43888,,1973-04-08,53.2,Defender,Tunisia,TUN
-171150,Zoubeir Beya,2,3,72.0,178.0,TUN,43888,,1971-05-15,55.1,Midfielder,Tunisia,TUN
-158273,Mohamed Mkacher,1,4,71.0,180.0,TUN,43888,,1975-05-25,51.1,Defender,Tunisia,TUN
-176953,Zied Jaziri,3,5,71.0,171.0,TUN,43888,,1978-07-12,47.9,Striker,Tunisia,TUN
-170770,Hatem Trabelsi,1,6,74.0,180.0,TUN,43888,,1977-01-25,49.4,Defender,Tunisia,TUN
-4347,Imed Mhadhebi,3,7,69.0,175.0,TUN,43888,,1976-03-22,50.2,Striker,Tunisia,TUN
-159366,Hassan Gabsi,2,8,72.0,171.0,TUN,43888,,1974-02-23,52.3,Midfielder,Tunisia,TUN
-158269,Riadh Jelassi,3,9,72.0,175.0,TUN,43888,,1971-07-07,54.9,Striker,Tunisia,TUN
-158261,Kais Ghodhbane,2,10,78.0,183.0,TUN,43888,,1976-01-07,50.4,Midfielder,Tunisia,TUN
-376247,Adel El Sellimi,3,11,,,TUN,43888,,1972-11-16,53.6,Striker,Tunisia,TUN
-4339,Raouf Bouzaiene,1,12,73.0,174.0,TUN,43888,,1970-08-16,55.8,Defender,Tunisia,TUN
-213370,Riadh Bouazizi,2,13,76.0,186.0,TUN,43888,,1973-04-08,53.2,Midfielder,Tunisia,TUN
-185179,Hamdi Marzouki,1,14,79.0,182.0,TUN,43888,,1977-01-23,49.4,Defender,Tunisia,TUN
-158268,Radhi Jaidi,1,15,89.0,192.0,TUN,43888,,1975-08-30,50.8,Defender,Tunisia,TUN
-188247,Hassen Bejaoui,0,16,85.0,188.0,TUN,43888,,1976-02-14,50.3,Goalkeeper,Tunisia,TUN
-93598,Tarek Thabet,1,17,72.0,176.0,TUN,43888,,1971-08-16,54.8,Defender,Tunisia,TUN
-184259,Slim Benachour,2,18,73.0,170.0,TUN,43888,,1981-09-08,44.8,Midfielder,Tunisia,TUN
-4348,Emir Mkademi,1,19,74.0,178.0,TUN,43888,,1978-08-20,47.8,Defender,Tunisia,TUN
-177507,Ali Zitouni,3,20,78.0,178.0,TUN,43888,,1981-01-11,45.4,Striker,Tunisia,TUN
-213388,Mourad El Melki,2,21,,,TUN,43888,,1975-05-09,51.1,Midfielder,Tunisia,TUN
-188249,Ahmed Jaouachi,0,22,78.0,179.0,TUN,43888,,1975-07-13,50.9,Goalkeeper,Tunisia,TUN
-170737,Clayton,1,23,77.0,180.0,TUN,43888,,1974-03-21,52.2,Defender,Tunisia,TUN
-95586,Rustu Recber,0,1,76.0,186.0,TUR,43972,,1973-05-10,53.1,Goalkeeper,Turkey,TUR
-162055,Emre Asik,1,2,72.0,185.0,TUR,43972,,1973-12-13,52.5,Defender,Turkey,TUR
-167060,Bulent Korkmaz,1,3,79.0,181.0,TUR,43972,,1968-11-24,57.6,Defender,Turkey,TUR
-159357,Fatih Akyel,1,4,77.0,180.0,TUR,43972,,1977-12-26,48.5,Defender,Turkey,TUR
-177731,Alpay Ozalan,1,5,81.0,188.0,TUR,43972,,1973-05-29,53.0,Defender,Turkey,TUR
-158288,Arif Erdem,3,6,72.0,180.0,TUR,43972,,1972-01-02,54.4,Striker,Turkey,TUR
-177735,Okan Buruk,2,7,69.0,169.0,TUR,43972,,1973-10-19,52.7,Midfielder,Turkey,TUR
-95146,Tugay Kerimoglu,2,8,72.0,175.0,TUR,43972,,1970-08-24,55.8,Midfielder,Turkey,TUR
-163107,Hakan Sukur,3,9,81.0,191.0,TUR,43972,,1971-09-01,54.8,Striker,Turkey,TUR
-184392,Yildiray Basturk,2,10,65.0,168.0,TUR,43972,,1978-12-24,47.5,Midfielder,Turkey,TUR
-166347,Hasan Sas,3,11,71.0,176.0,TUR,43972,,1976-08-01,49.9,Striker,Turkey,TUR
-177724,Omer Catkic,0,12,70.0,173.0,TUR,43972,,1974-10-15,51.7,Goalkeeper,Turkey,TUR
-177727,Muzzy Izzet,2,13,76.0,177.0,TUR,43972,,1974-10-31,51.6,Midfielder,Turkey,TUR
-158312,Tayfur Havutcu,2,14,75.0,180.0,TUR,43972,,1970-04-23,56.1,Midfielder,Turkey,TUR
-179519,Nihat Kahveci,3,15,74.0,175.0,TUR,43972,,1979-11-23,46.6,Striker,Turkey,TUR
-182715,Umit Ozat,1,16,89.0,183.0,TUR,43972,,1976-10-30,49.6,Defender,Turkey,TUR
-186677,Ilhan Mansiz,3,17,79.0,184.0,TUR,43972,,1975-08-10,50.8,Striker,Turkey,TUR
-159350,Ergun Penbe,2,18,67.0,178.0,TUR,43972,,1972-05-17,54.1,Midfielder,Turkey,TUR
-160412,Abdullah Ercan,2,19,76.0,182.0,TUR,43972,,1971-12-08,54.5,Midfielder,Turkey,TUR
-166286,Hakan Unsal,1,20,78.0,178.0,TUR,43972,,1973-05-14,53.1,Defender,Turkey,TUR
-179306,Emre Belozoglu,2,21,66.0,171.0,TUR,43972,,1980-09-07,45.8,Midfielder,Turkey,TUR
-177734,Umit Davala,2,22,74.0,186.0,TUR,43972,,1973-07-30,52.9,Midfielder,Turkey,TUR
-189511,Zafer Ozgultekin,0,23,75.0,183.0,TUR,43972,,1975-03-10,51.3,Goalkeeper,Turkey,TUR
-77525,Brad Friedel,0,1,92.0,193.0,USA,43921,,1971-05-18,55.1,Goalkeeper,United States,USA
-158461,Frankie Hejduk,1,2,74.0,174.0,USA,43921,,1974-08-05,51.9,Defender,United States,USA
-178167,Gregg Berhalter,1,3,76.0,186.0,USA,43921,,1973-08-01,52.9,Defender,United States,USA
-188293,Pablo Mastroeni,1,4,78.0,178.0,USA,43921,,1976-08-29,49.8,Defender,United States,USA
-178412,John O Brien,2,5,73.0,178.0,USA,43921,,1977-08-29,48.8,Midfielder,United States,USA
-170842,David Regis,1,6,73.0,180.0,USA,43921,,1968-12-02,57.5,Defender,United States,USA
-178101,Eddie Lewis,2,7,71.0,178.0,USA,43921,,1974-05-17,52.1,Midfielder,United States,USA
-77535,Earnie Stewart,2,8,66.0,175.0,USA,43921,,1969-03-28,57.2,Midfielder,United States,USA
-77532,Joe Max Moore,3,9,68.0,175.0,USA,43921,,1971-02-23,55.3,Striker,United States,USA
-84703,Claudio Reyna,2,10,72.0,178.0,USA,43921,,1973-07-20,52.9,Midfielder,United States,USA
-178091,Clint Mathis,3,11,77.0,178.0,USA,43921,,1976-11-25,49.5,Striker,United States,USA
-158451,Jeff Agoos,1,12,79.0,183.0,USA,43921,,1968-05-02,58.1,Defender,United States,USA
-77526,Cobi Jones,2,13,66.0,170.0,USA,43921,,1970-06-16,56.0,Midfielder,United States,USA
-182797,Steve Cherundolo,1,14,66.0,168.0,USA,43921,,1979-02-19,47.3,Defender,United States,USA
-178418,Josh Wolff,3,15,72.0,175.0,USA,43921,,1977-02-25,49.3,Striker,United States,USA
-178760,Carlos Llamosa,1,16,76.0,180.0,USA,43921,,1969-06-30,57.0,Defender,United States,USA
-175498,Damarcus Beasley,2,17,64.0,170.0,USA,43921,,1982-05-24,44.1,Midfielder,United States,USA
-174656,Kasey Keller,0,18,86.0,188.0,USA,43921,,1969-11-29,56.5,Goalkeeper,United States,USA
-174765,Tony Meola,0,19,93.0,185.0,USA,43921,,1969-02-21,57.3,Goalkeeper,United States,USA
-158471,Brian Mcbride,3,20,77.0,185.0,USA,43921,,1972-06-19,54.0,Striker,United States,USA
-175507,Landon Donovan,2,21,67.0,173.0,USA,43921,,1982-03-04,44.3,Midfielder,United States,USA
-158477,Tony Sanneh,1,22,86.0,188.0,USA,43921,,1971-06-01,55.0,Defender,United States,USA
-158473,Eddie Pope,1,23,80.0,183.0,USA,43921,,1973-12-24,52.5,Defender,United States,USA
-4373,Fabian Carini,0,1,82.0,189.0,URU,43930,,1979-12-26,46.5,Goalkeeper,Uruguay,URU
-95028,Gustavo Mendez,1,2,73.0,176.0,URU,43930,,1971-02-03,55.4,Defender,Uruguay,URU
-4379,Alejandro Lembo,1,3,77.0,178.0,URU,43930,,1978-02-15,48.3,Defender,Uruguay,URU
-158427,Paolo Montero,1,4,74.0,179.0,URU,43930,,1971-09-03,54.8,Defender,Uruguay,URU
-177265,Pablo Garcia,2,5,78.0,186.0,URU,43930,,1977-05-11,49.1,Midfielder,Uruguay,URU
-4388,Dario Rodriguez,1,6,84.0,186.0,URU,43930,,1974-09-17,51.7,Defender,Uruguay,URU
-4378,Gianni Guigou,2,7,72.0,175.0,URU,43930,,1975-02-22,51.3,Midfielder,Uruguay,URU
-180546,Gustavo Varela,2,8,74.0,172.0,URU,43930,,1978-05-14,48.1,Midfielder,Uruguay,URU
-158445,Dario Silva,3,9,73.0,178.0,URU,43930,,1972-11-02,53.6,Striker,Uruguay,URU
-158429,Fabian O Neil,3,10,80.0,185.0,URU,43930,,1973-10-14,52.7,Striker,Uruguay,URU
-170118,Federico Magallanes,3,11,79.0,181.0,URU,43930,,1976-08-22,49.8,Striker,Uruguay,URU
-179286,Gustavo Munua,0,12,85.0,186.0,URU,43930,,1978-01-27,48.4,Goalkeeper,Uruguay,URU
-158398,Sebastian Abreu,3,13,84.0,193.0,URU,43930,,1976-10-17,49.7,Striker,Uruguay,URU
-178249,Gonzalo Sorondo,1,14,88.0,190.0,URU,43930,,1979-10-09,46.7,Defender,Uruguay,URU
-4383,Nicolas Olivera,2,15,66.0,166.0,URU,43930,,1978-05-30,48.0,Midfielder,Uruguay,URU
-158439,Marcelo Romero,2,16,73.0,176.0,URU,43930,,1976-07-04,49.9,Midfielder,Uruguay,URU
-179562,Mario Regueiro,3,17,76.0,178.0,URU,43930,,1978-09-14,47.7,Striker,Uruguay,URU
-185368,Richard Morales,3,18,90.0,197.0,URU,43930,,1975-02-21,51.3,Striker,Uruguay,URU
-179208,Joe Bizera,1,19,82.0,181.0,URU,43930,,1980-05-17,46.1,Defender,Uruguay,URU
-158435,Alvaro Recoba,3,20,77.0,178.0,URU,43930,,1976-03-17,50.2,Striker,Uruguay,URU
-189259,Diego Forlan,3,21,75.0,181.0,URU,43930,,1979-05-19,47.1,Striker,Uruguay,URU
-187248,Gonzalo De Los Santos,2,22,82.0,186.0,URU,43930,,1976-07-19,49.9,Midfielder,Uruguay,URU
-189767,Federico Elduayen,0,23,80.0,181.0,URU,43930,,1977-06-25,49.0,Goalkeeper,Uruguay,URU
+153943,German Burgos,0,1,90.0,188.0,ARG,43922,,1969-04-16,33.1,Goalkeeper,Argentina,ARG
+153933,Roberto Ayala,1,2,75.0,177.0,ARG,43922,,1973-04-14,29.1,Defender,Argentina,ARG
+153977,Juan Sorin,2,3,65.0,173.0,ARG,43922,,1976-05-05,26.1,Midfielder,Argentina,ARG
+3075,Mauricio Pochettino,1,4,80.0,182.0,ARG,43922,,1972-03-02,30.2,Defender,Argentina,ARG
+153931,Matias Almeyda,2,5,72.0,174.0,ARG,43922,,1973-12-21,28.4,Midfielder,Argentina,ARG
+3076,Walter Samuel,1,6,83.0,183.0,ARG,43922,,1978-03-23,24.2,Defender,Argentina,ARG
+170102,Claudio Lopez,3,7,77.0,176.0,ARG,43922,,1974-07-17,27.9,Striker,Argentina,ARG
+153980,Javier Zanetti,2,8,75.0,178.0,ITA,43922,,1973-08-10,28.8,Midfielder,Argentina,ARG
+75952,Gabriel Batistuta,3,9,73.0,185.0,ARG,43922,,1969-02-01,33.3,Striker,Argentina,ARG
+78384,Ariel Ortega,2,10,64.0,170.0,ARG,43922,,1974-03-04,28.2,Midfielder,Argentina,ARG
+153978,Juan Veron,2,11,81.0,183.0,ARG,43922,,1975-03-09,27.2,Midfielder,Argentina,ARG
+153951,Pablo Cavallero,0,12,78.0,188.0,ARG,43922,,1974-04-13,28.1,Goalkeeper,Argentina,ARG
+185988,Diego Placente,1,13,72.0,176.0,ARG,43922,,1977-04-24,25.1,Defender,Argentina,ARG
+76115,Diego Simeone,2,14,70.0,178.0,ARG,43922,,1970-04-28,32.1,Midfielder,Argentina,ARG
+179114,Claudio Husain,2,15,75.0,177.0,ARG,43922,,1974-11-20,27.5,Midfielder,Argentina,ARG
+178142,Pablo Aimar,2,16,62.0,170.0,ARG,43922,,1979-11-03,22.6,Midfielder,Argentina,ARG
+170151,Gustavo Lopez,3,17,73.0,174.0,ARG,43922,,1973-04-13,29.1,Striker,Argentina,ARG
+170129,Cristian Gonzalez,3,18,71.0,175.0,ARG,43922,,1974-08-04,27.8,Striker,Argentina,ARG
+162680,Hernan Crespo,3,19,78.0,184.0,ARG,43922,,1975-07-05,26.9,Striker,Argentina,ARG
+153959,Marcelo Gallardo,2,20,70.0,169.0,ARG,43922,,1976-01-18,26.4,Midfielder,Argentina,ARG
+174454,Claudio Caniggia,3,21,68.0,172.0,ARG,43922,,1967-01-09,35.4,Striker,Argentina,ARG
+78407,Jose Chamot,1,22,78.0,185.0,ARG,43922,,1969-05-17,33.0,Defender,Argentina,ARG
+153940,Roberto Bonano,0,23,83.0,186.0,ARG,43922,,1970-01-24,32.3,Goalkeeper,Argentina,ARG
+177687,Geert De Vlieger,0,1,83.0,186.0,BEL,43935,,1971-10-16,30.6,Goalkeeper,Belgium,BEL
+154172,Eric Deflandre,1,2,83.0,179.0,BEL,43935,,1973-08-02,28.8,Defender,Belgium,BEL
+90592,Glen De Boeck,1,3,78.0,190.0,BEL,43935,,1971-08-22,30.8,Defender,Belgium,BEL
+95624,Eric Van Meir,1,4,89.0,186.0,BEL,43935,,1968-02-28,34.3,Defender,Belgium,BEL
+154196,Nico Van Kerckhoven,1,5,82.0,190.0,BEL,43935,,1970-12-14,31.5,Defender,Belgium,BEL
+182202,Timmy Simons,2,6,78.0,186.0,BEL,43935,,1976-12-11,25.5,Midfielder,Belgium,BEL
+44755,Marc Wilmots,3,7,93.0,184.0,BEL,43935,,1969-02-22,33.3,Striker,Belgium,BEL
+177684,Bart Goor,2,8,77.0,183.0,BEL,43935,,1973-04-09,29.1,Midfielder,Belgium,BEL
+184587,Wesley Sonck,3,9,77.0,174.0,BEL,43935,,1978-08-09,23.8,Striker,Belgium,BEL
+76144,Johan Walem,2,10,70.0,169.0,BEL,43935,,1972-02-01,30.3,Midfielder,Belgium,BEL
+154199,Gert Verheyen,2,11,84.0,189.0,BEL,43935,,1970-09-20,31.7,Midfielder,Belgium,BEL
+184585,Peter Van Der Heyden,1,12,81.0,183.0,BEL,43935,,1976-07-16,25.9,Defender,Belgium,BEL
+165090,Franky Vandendriessche,0,13,77.0,185.0,BEL,43935,,1971-04-07,31.1,Goalkeeper,Belgium,BEL
+182201,Sven Vermant,2,14,81.0,183.0,BEL,43935,,1973-04-04,29.2,Midfielder,Belgium,BEL
+177692,Jacky Peeters,1,15,85.0,184.0,BEL,43935,,1969-12-13,32.5,Defender,Belgium,BEL
+375523,Daniel Van Buyten,1,16,98.0,196.0,BEL,43935,,1978-02-07,24.3,Defender,Belgium,BEL
+182199,Gaetan Englebert,2,17,66.0,178.0,BEL,43935,,1976-06-11,26.0,Midfielder,Belgium,BEL
+177682,Yves Vanderhaeghe,2,18,86.0,180.0,BEL,43935,,1970-01-30,32.3,Midfielder,Belgium,BEL
+189431,Bernd Thijs,2,19,85.0,186.0,BEL,43935,,1978-06-28,23.9,Midfielder,Belgium,BEL
+177685,Branko Strupar,3,20,92.0,190.0,BEL,43935,,1970-02-09,32.3,Striker,Belgium,BEL
+46713,Danny Boffin,2,21,62.0,173.0,BEL,43935,,1965-07-10,36.9,Midfielder,Belgium,BEL
+154182,Mbo Mpenza,3,22,78.0,175.0,BEL,43935,,1976-12-04,25.5,Striker,Belgium,BEL
+168393,Frederic Herpoel,0,23,78.0,183.0,BEL,43935,,1974-08-16,27.8,Goalkeeper,Belgium,BEL
+183588,Marcos,0,1,86.0,193.0,BRA,43924,,1973-08-04,28.8,Goalkeeper,Brazil,BRA
+76824,Cafu,1,2,75.0,176.0,BRA,43924,,1970-06-07,32.0,Defender,Brazil,BRA
+178520,Lucio,1,3,84.0,188.0,BRA,43924,,1978-05-08,24.1,Defender,Brazil,BRA
+178105,Roque Junior,1,4,73.0,186.0,BRA,43924,,1976-08-31,25.7,Defender,Brazil,BRA
+178116,Edmilson,1,5,75.0,186.0,BRA,43924,,1976-07-10,25.9,Defender,Brazil,BRA
+170688,Roberto Carlos,1,6,70.0,168.0,BRA,43924,,1973-04-10,29.1,Defender,Brazil,BRA
+3251,Ricardinho,2,7,73.0,176.0,BRA,43924,,1976-05-23,26.0,Midfielder,Brazil,BRA
+187267,Gilberto Silva,2,8,82.0,185.0,BRA,43924,,1976-10-07,25.6,Midfielder,Brazil,BRA
+92699,Ronaldo,3,9,90.0,183.0,BRA,43924,,1976-09-22,25.7,Striker,Brazil,BRA
+170691,Rivaldo,2,10,75.0,186.0,BRA,43924,,1972-04-19,30.1,Midfielder,Brazil,BRA
+3243,Ronaldinho,2,11,80.0,182.0,BRA,43924,,1980-03-21,22.2,Midfielder,Brazil,BRA
+48549,Dida,0,12,85.0,195.0,ITA,43924,,1973-10-07,28.6,Goalkeeper,Brazil,BRA
+178786,Belletti,1,13,74.0,179.0,BRA,43924,,1976-06-20,25.9,Defender,Brazil,BRA
+188391,Anderson Polga,1,14,86.0,183.0,BRA,43924,,1979-02-09,23.3,Defender,Brazil,BRA
+188394,Kleberson,2,15,66.0,175.0,BRA,43924,,1979-06-19,22.9,Midfielder,Brazil,BRA
+178112,Junior,1,16,70.0,173.0,BRA,43924,,1973-06-20,28.9,Defender,Brazil,BRA
+63876,Denilson,3,17,72.0,177.0,BRA,43924,,1977-08-24,24.8,Striker,Brazil,BRA
+3240,Vampeta,2,18,78.0,182.0,BRA,43924,,1974-03-13,28.2,Midfielder,Brazil,BRA
+179305,Juninho Paulista,2,19,58.0,165.0,BRA,43924,,1973-02-22,29.3,Midfielder,Brazil,BRA
+3246,Edilson,3,20,60.0,168.0,BRA,43924,,1970-09-17,31.7,Striker,Brazil,BRA
+176597,Luizao,3,21,77.0,176.0,BRA,43924,,1975-11-14,26.5,Striker,Brazil,BRA
+178788,Rogerio Ceni,0,22,88.0,188.0,BRA,43924,,1973-01-22,29.4,Goalkeeper,Brazil,BRA
+184312,Kaka,3,23,82.0,186.0,ITA,43924,,1982-04-22,20.1,Striker,Brazil,BRA
+93224,Alioum Boukar,0,1,76.0,180.0,CMR,43849,,1972-01-03,30.4,Goalkeeper,Cameroon,CMR
+178258,Bill Tchato,1,2,76.0,176.0,CMR,43849,,1975-05-14,27.0,Defender,Cameroon,CMR
+154649,Pierre Wome,1,3,78.0,178.0,CMR,43849,,1979-03-26,23.2,Defender,Cameroon,CMR
+170657,Rigobert Song,1,4,77.0,185.0,CMR,43849,,1976-07-01,25.9,Defender,Cameroon,CMR
+130674,Raymond Kalla,1,5,88.0,192.0,CMR,43849,,1975-04-22,27.1,Defender,Cameroon,CMR
+171398,Pierre Njanka,1,6,83.0,181.0,CMR,43849,,1975-03-15,27.2,Defender,Cameroon,CMR
+170656,Joseph Ndo,3,7,80.0,179.0,CMR,43849,,1976-04-28,26.1,Striker,Cameroon,CMR
+176652,Geremi,1,8,78.0,177.0,ENG,43849,,1978-12-20,23.4,Defender,Cameroon,CMR
+170667,Samuel Etoo,3,9,75.0,181.0,CMR,43849,,1981-03-10,21.2,Striker,Cameroon,CMR
+154626,Patrick Mboma,3,10,85.0,185.0,CMR,43849,,1970-11-15,31.5,Striker,Cameroon,CMR
+3367,Pius Ndiefi,3,11,74.0,174.0,CMR,43849,,1975-07-05,26.9,Striker,Cameroon,CMR
+171400,Lauren,2,12,71.0,180.0,CMR,43849,,1977-01-19,25.4,Midfielder,Cameroon,CMR
+159462,Lucien Mettomo,1,13,80.0,183.0,CMR,43849,,1977-04-19,25.1,Defender,Cameroon,CMR
+162811,Joel Epalle,2,14,78.0,169.0,CMR,43849,,1978-02-20,24.3,Midfielder,Cameroon,CMR
+176982,Nicolas Alnoudji,2,15,86.0,185.0,CMR,43849,,1979-12-09,22.5,Midfielder,Cameroon,CMR
+154644,Jacques Songoo,0,16,80.0,182.0,CMR,43849,,1964-03-17,38.2,Goalkeeper,Cameroon,CMR
+111332,Marc-Vivien Foe,2,17,84.0,194.0,CMR,43849,,1975-05-01,27.1,Midfielder,Cameroon,CMR
+159566,Patrick Suffo,3,18,83.0,176.0,CMR,43849,,1978-01-17,24.4,Striker,Cameroon,CMR
+188241,Eric Djemba,3,19,75.0,174.0,CMR,43849,,1981-05-04,21.1,Striker,Cameroon,CMR
+170668,Salomon Olembe,1,20,66.0,171.0,CMR,43849,,1980-12-08,21.5,Defender,Cameroon,CMR
+170664,Joseph-Desire Job,3,21,62.0,180.0,CMR,43849,,1977-12-01,24.5,Striker,Cameroon,CMR
+178598,Carlos Kameni,0,22,79.0,185.0,CMR,43849,,1984-02-18,18.3,Goalkeeper,Cameroon,CMR
+178257,Daniel Kome,2,23,69.0,172.0,CMR,43849,,1980-05-19,22.0,Midfielder,Cameroon,CMR
+181025,An Qi,0,1,82.0,192.0,CHN,43812,,1981-06-21,20.9,Goalkeeper,China PR,CHN
+154590,Zhang Enhua,1,2,80.0,183.0,CHN,43812,,1973-04-28,29.1,Defender,China PR,CHN
+185628,Yang Pu,1,3,73.0,179.0,CHN,43812,,1978-03-30,24.2,Defender,China PR,CHN
+159603,Wu Chengying,1,4,77.0,183.0,CHN,43812,,1975-04-21,27.1,Defender,China PR,CHN
+154568,Fan Zhiyi,1,5,70.0,183.0,CHN,43812,,1970-01-22,32.4,Defender,China PR,CHN
+183443,Shao Jiayi,2,6,78.0,186.0,CHN,43812,,1980-04-10,22.1,Midfielder,China PR,CHN
+154586,Sun Jihai,1,7,79.0,182.0,CHN,43812,,1977-09-30,24.7,Defender,China PR,CHN
+154578,Li Tie,2,8,70.0,183.0,CHN,43812,,1977-05-18,25.0,Midfielder,China PR,CHN
+154580,Ma Mingyu,2,9,74.0,176.0,CHN,43812,,1972-08-10,29.8,Midfielder,China PR,CHN
+93975,Hao Haidong,3,10,70.0,175.0,CHN,43812,,1970-08-25,31.8,Striker,China PR,CHN
+159606,Yu Genwei,2,11,72.0,180.0,CHN,43812,,1976-08-19,25.8,Midfielder,China PR,CHN
+154584,Su Maozhen,3,12,80.0,186.0,CHN,43812,,1972-07-30,29.8,Striker,China PR,CHN
+189373,Gao Yao,2,13,78.0,185.0,CHN,43812,,1977-07-13,24.9,Midfielder,China PR,CHN
+183592,Li Weifeng,1,14,75.0,182.0,CHN,43812,,1978-01-26,24.3,Defender,China PR,CHN
+189374,Zhao Junzhe,2,15,72.0,180.0,CHN,43812,,1979-04-18,23.1,Midfielder,China PR,CHN
+181040,Qu Bo,3,16,80.0,184.0,CHN,43812,,1981-07-15,20.9,Striker,China PR,CHN
+181027,Du Wei,1,17,80.0,187.0,CHN,43812,,1982-02-09,20.3,Defender,China PR,CHN
+183444,Li Xiaopeng,2,18,76.0,182.0,CHN,43812,,1976-11-05,25.6,Midfielder,China PR,CHN
+184069,Qi Hong,2,19,72.0,178.0,CHN,43812,,1976-06-03,26.0,Midfielder,China PR,CHN
+183442,Yang Chen,3,20,82.0,186.0,CHN,43812,,1974-01-17,28.4,Striker,China PR,CHN
+183441,Xu Yunlong,1,21,81.0,181.0,CHN,43812,,1979-02-17,23.3,Defender,China PR,CHN
+154574,Jiang Jin,0,22,87.0,198.0,CHN,43812,,1968-10-17,33.6,Goalkeeper,China PR,CHN
+154582,Ou Chuliang,0,23,72.0,180.0,CHN,43812,,1968-08-26,33.8,Goalkeeper,China PR,CHN
+169703,Erick Lonnis,0,1,76.0,182.0,CRC,43901,,1965-09-09,36.7,Goalkeeper,Costa Rica,CRC
+154762,Jervis Drummond,1,2,66.0,172.0,CRC,43901,,1976-09-08,25.7,Defender,Costa Rica,CRC
+170171,Luis Marin,1,3,76.0,180.0,CRC,43901,,1974-08-10,27.8,Defender,Costa Rica,CRC
+154801,Mauricio Wright,1,4,78.0,191.0,CRC,43901,,1970-12-20,31.4,Defender,Costa Rica,CRC
+181314,Gilberto Martinez,1,5,76.0,174.0,CRC,43901,,1979-10-01,22.7,Defender,Costa Rica,CRC
+170315,Wilmer Lopez,2,6,68.0,173.0,CRC,43901,,1971-08-03,30.8,Midfielder,Costa Rica,CRC
+162260,Rolando Fonseca,3,7,76.0,178.0,CRC,43901,,1974-08-06,27.8,Striker,Costa Rica,CRC
+154793,Mauricio Solis,2,8,78.0,177.0,CRC,43901,,1972-12-13,29.5,Midfielder,Costa Rica,CRC
+154799,Paulo Wanchope,3,9,83.0,182.0,CRC,43901,,1976-07-31,25.8,Striker,Costa Rica,CRC
+178004,Walter Centeno,2,10,69.0,174.0,CRC,43901,,1974-10-06,27.6,Midfielder,Costa Rica,CRC
+170167,Ronald Gomez,3,11,80.0,183.0,CRC,43901,,1975-01-24,27.3,Striker,Costa Rica,CRC
+182590,Winston Parks,3,12,77.0,182.0,CRC,43901,,1981-10-12,20.6,Striker,Costa Rica,CRC
+184243,Daniel Vallejos,2,13,72.0,175.0,CRC,43901,,1981-05-27,21.0,Midfielder,Costa Rica,CRC
+189308,Juan Jose Rodriguez,1,14,76.0,178.0,CRC,43901,,1967-06-23,34.9,Defender,Costa Rica,CRC
+154798,Harold Wallace,1,15,72.0,175.0,CRC,43901,,1975-09-07,26.7,Defender,Costa Rica,CRC
+179659,Steven Bryce,3,16,71.0,170.0,CRC,43901,,1977-08-16,24.8,Striker,Costa Rica,CRC
+174762,Hernan Medford,3,17,77.0,177.0,CRC,43901,,1968-05-23,34.0,Striker,Costa Rica,CRC
+178002,Alvaro Mesen,0,18,80.0,180.0,CRC,43901,,1972-12-24,29.4,Goalkeeper,Costa Rica,CRC
+162669,Rodrigo Cordero,2,19,76.0,173.0,CRC,43901,,1973-12-04,28.5,Midfielder,Costa Rica,CRC
+179658,William Sun Sing,3,20,75.0,184.0,CRC,43901,,1977-05-12,25.1,Striker,Costa Rica,CRC
+178003,Pablo Chinchilla,1,21,80.0,186.0,CRC,43901,,1978-12-21,23.4,Defender,Costa Rica,CRC
+181315,Carlos Castro,1,22,64.0,172.0,CRC,43901,,1979-09-10,22.7,Defender,Costa Rica,CRC
+183560,Lester Morgan,0,23,77.0,182.0,CRC,43901,,1976-05-02,26.1,Goalkeeper,Costa Rica,CRC
+179048,Stipe Pletikosa,0,1,88.0,193.0,CRO,43938,,1979-01-08,23.4,Goalkeeper,Croatia,CRO
+170754,Anthony Seric,1,2,75.0,181.0,CRO,43938,,1979-01-15,23.4,Defender,Croatia,CRO
+188511,Josip Simunic,1,3,89.0,195.0,CRO,43938,,1978-02-18,24.3,Defender,Croatia,CRO
+170753,Stjepan Tomas,1,4,82.0,186.0,CRO,43938,,1976-03-06,26.2,Defender,Croatia,CRO
+164496,Milan Rapaic,2,5,83.0,183.0,CRO,43938,,1973-08-16,28.8,Midfielder,Croatia,CRO
+170829,Boris Zivkovic,1,6,80.0,182.0,CRO,43938,,1975-11-15,26.5,Defender,Croatia,CRO
+179050,Davor Vugrinec,2,7,76.0,179.0,CRO,43938,,1975-03-24,27.2,Midfielder,Croatia,CRO
+174882,Robert Prosinecki,2,8,76.0,182.0,CRO,43938,,1969-01-12,33.4,Midfielder,Croatia,CRO
+155711,Davor Suker,3,9,77.0,183.0,CRO,43938,,1968-01-01,34.4,Striker,Croatia,CRO
+155696,Niko Kovac,2,10,75.0,178.0,CRO,43938,,1971-10-15,30.6,Midfielder,Croatia,CRO
+155689,Alen Boksic,3,11,81.0,187.0,CRO,43938,,1970-01-21,32.4,Striker,Croatia,CRO
+184419,Tomislav Butina,0,12,88.0,191.0,CRO,43938,,1974-03-30,28.2,Goalkeeper,Croatia,CRO
+159172,Mario Stanic,2,13,82.0,187.0,CRO,43938,,1972-04-10,30.1,Midfielder,Croatia,CRO
+155708,Zvonimir Soldo,2,14,85.0,189.0,CRO,43938,,1967-11-02,34.6,Midfielder,Croatia,CRO
+159540,Daniel Saric,1,15,70.0,178.0,CRO,43938,,1972-08-04,29.8,Defender,Croatia,CRO
+179058,Jurica Vranjes,2,16,70.0,184.0,CRO,43938,,1980-01-31,22.3,Midfielder,Croatia,CRO
+174637,Robert Jarni,1,17,77.0,180.0,CRO,43938,,1968-10-26,33.6,Defender,Croatia,CRO
+187258,Ivica Olic,3,18,81.0,183.0,CRO,43938,,1979-09-14,22.7,Striker,Croatia,CRO
+155713,Goran Vlaovic,3,19,75.0,178.0,CRO,43938,,1972-08-07,29.8,Striker,Croatia,CRO
+155707,Dario Simic,1,20,76.0,180.0,CRO,43938,,1975-11-12,26.5,Defender,Croatia,CRO
+179049,Robert Kovac,1,21,78.0,182.0,CRO,43938,,1974-04-06,28.2,Defender,Croatia,CRO
+179051,Bosko Balaban,3,22,78.0,180.0,CRO,43938,,1978-10-15,23.6,Striker,Croatia,CRO
+170752,Vladimir Vasilj,0,23,84.0,188.0,CRO,43938,,1975-07-06,26.9,Goalkeeper,Croatia,CRO
+177825,Thomas Sørensen,0,1,78.0,185.0,DEN,43941,,1976-06-12,26.0,Goalkeeper,Denmark,DEN
+95174,Stig Tofting,2,2,73.0,173.0,DEN,43941,,1969-08-14,32.8,Midfielder,Denmark,DEN
+171140,Rene Henriksen,1,3,73.0,183.0,DEN,43941,,1969-08-27,32.8,Defender,Denmark,DEN
+177716,Martin Laursen,1,4,83.0,190.0,DEN,43941,,1977-07-26,24.8,Defender,Denmark,DEN
+50739,Jan Heintze,1,5,63.0,170.0,DEN,43941,,1963-08-17,38.8,Defender,Denmark,DEN
+154928,Thomas Helveg,1,6,81.0,179.0,DEN,43941,,1971-06-24,30.9,Defender,Denmark,DEN
+177718,Thomas Gravesen,2,7,74.0,178.0,DEN,43941,,1976-03-11,26.2,Midfielder,Denmark,DEN
+169682,Jesper Gronkjaer,3,8,82.0,187.0,DEN,43941,,1977-08-12,24.8,Striker,Denmark,DEN
+154949,Jon Dahl Tomasson,3,9,74.0,182.0,DEN,43941,,1976-08-29,25.8,Striker,Denmark,DEN
+168837,Martin Jorgensen,3,10,76.0,180.0,DEN,43941,,1975-10-06,26.7,Striker,Denmark,DEN
+171139,Ebbe Sand,3,11,78.0,183.0,DEN,43941,,1972-07-19,29.9,Striker,Denmark,DEN
+168270,Niclas Jensen,1,12,78.0,180.0,DEN,43941,,1974-08-17,27.8,Defender,Denmark,DEN
+179611,Steven Lustu,1,13,81.0,185.0,DEN,43941,,1971-04-13,31.1,Defender,Denmark,DEN
+179031,Claus Jensen,2,14,79.0,183.0,DEN,43941,,1977-04-29,25.1,Midfielder,Denmark,DEN
+179036,Jan Michaelsen,2,15,77.0,182.0,DEN,43941,,1970-11-28,31.5,Midfielder,Denmark,DEN
+96043,Peter Kjaer,0,16,88.0,187.0,DEN,43941,,1965-11-05,36.6,Goalkeeper,Denmark,DEN
+186373,Christian Poulsen,2,17,76.0,182.0,DEN,43941,,1980-02-28,22.3,Midfielder,Denmark,DEN
+186368,Peter Lovenkrands,3,18,68.0,181.0,DEN,43941,,1980-01-29,22.3,Striker,Denmark,DEN
+179027,Dennis Rommedahl,3,19,68.0,178.0,DEN,43941,,1978-07-22,23.9,Striker,Denmark,DEN
+186343,Kasper Bogelund,1,20,74.0,180.0,DEN,43941,,1980-10-08,21.6,Defender,Denmark,DEN
+185893,Peter Madsen,3,21,76.0,183.0,DEN,43941,,1978-04-26,24.1,Striker,Denmark,DEN
+179030,Jesper Christiansen,0,22,86.0,192.0,DEN,43941,,1978-04-24,24.1,Goalkeeper,Denmark,DEN
+167495,Brian Steen Nielsen,2,23,80.0,180.0,DEN,43941,,1968-12-28,33.4,Midfielder,Denmark,DEN
+155002,Jose Cevallos,0,1,83.0,182.0,ECU,43927,,1971-04-17,31.1,Goalkeeper,Ecuador,ECU
+3512,Augusto Poroso,1,2,79.0,181.0,ECU,43927,,1974-04-13,28.1,Defender,Ecuador,ECU
+169238,Ivan Hurtado,1,3,77.0,180.0,ECU,43927,,1974-08-16,27.8,Defender,Ecuador,ECU
+155010,Ulises De La Cruz,1,4,74.0,178.0,ECU,43927,,1974-02-08,28.3,Defender,Ecuador,ECU
+155030,Alfonso Obregon,2,5,82.0,180.0,ECU,43927,,1972-05-12,30.1,Midfielder,Ecuador,ECU
+179593,Raul Guerron,1,6,85.0,184.0,ECU,43927,,1976-10-12,25.6,Defender,Ecuador,ECU
+186021,Nicolas Asencio,2,7,76.0,170.0,ECU,43927,,1975-04-26,27.1,Midfielder,Ecuador,ECU
+186020,Luis Gomez,1,8,65.0,172.0,ECU,43927,,1972-04-20,30.1,Defender,Ecuador,ECU
+3508,Ivan Kaviedes,3,9,71.0,182.0,ECU,43927,,1977-10-24,24.6,Striker,Ecuador,ECU
+45074,Alex Aguinaga,2,10,70.0,172.0,ECU,43927,,1968-07-09,33.9,Midfielder,Ecuador,ECU
+155011,Agustin Delgado,3,11,87.0,189.0,ECU,43927,,1974-12-23,27.4,Striker,Ecuador,ECU
+155021,Giovanni Ibarra,0,12,77.0,179.0,ECU,43927,,1969-09-08,32.7,Goalkeeper,Ecuador,ECU
+161899,Angel Fernandez,3,13,68.0,172.0,ECU,43927,,1971-08-02,30.8,Striker,Ecuador,ECU
+162751,Juan Carlos Burbano,2,14,71.0,174.0,ECU,43927,,1969-02-15,33.3,Midfielder,Ecuador,ECU
+3497,Marlon Ayovi,1,15,76.0,174.0,ECU,43927,,1971-09-27,30.7,Defender,Ecuador,ECU
+94983,Clever Chala,2,16,77.0,180.0,ECU,43927,,1971-06-29,30.9,Midfielder,Ecuador,ECU
+178146,Giovanny Espinoza,1,17,85.0,184.0,ECU,43927,,1977-04-12,25.1,Defender,Ecuador,ECU
+187434,Tenorio,3,18,78.0,182.0,ECU,43927,,1979-05-14,23.0,Striker,Ecuador,ECU
+178842,Edison Mendez,2,19,68.0,175.0,ECU,43927,,1979-03-16,23.2,Midfielder,Ecuador,ECU
+177220,Edwin Tenorio,2,20,64.0,172.0,ECU,43927,,1976-06-16,26.0,Midfielder,Ecuador,ECU
+155035,Wellington Sanchez,2,21,73.0,182.0,ECU,43927,,1974-06-19,27.9,Midfielder,Ecuador,ECU
+184549,Daniel Viteri,0,22,87.0,185.0,ECU,43927,,1981-12-12,20.5,Goalkeeper,Ecuador,ECU
+184447,Walter Ayovi,1,23,72.0,173.0,ECU,43927,,1979-08-11,22.8,Defender,Ecuador,ECU
+44621,David Seaman,0,1,93.0,191.0,ENG,43942,,1963-09-19,38.7,Goalkeeper,England,ENG
+185383,Danny Mills,1,2,74.0,180.0,ENG,43942,,1977-05-18,25.0,Defender,England,ENG
+182786,Ashley Cole,1,3,67.0,178.0,ENG,43942,,1980-12-20,21.4,Defender,England,ENG
+187214,Trevor Sinclair,2,4,74.0,177.0,ENG,43942,,1973-03-02,29.2,Midfielder,England,ENG
+170721,Rio Ferdinand,1,5,77.0,188.0,ENG,43942,,1978-11-07,23.6,Defender,England,ENG
+161455,Sol Campbell,1,6,91.0,188.0,ENG,43942,,1974-09-18,27.7,Defender,England,ENG
+161454,David Beckham,2,7,74.0,182.0,ENG,43942,,1975-05-02,27.1,Midfielder,England,ENG
+155117,Paul Scholes,2,8,70.0,170.0,ENG,43942,,1974-11-16,27.5,Midfielder,England,ENG
+161456,Robbie Fowler,3,9,73.0,176.0,ENG,43942,,1975-04-09,27.1,Striker,England,ENG
+170722,Michael Owen,3,10,67.0,172.0,ENG,43942,,1979-12-14,22.5,Striker,England,ENG
+177656,Emile Heskey,3,11,84.0,188.0,ENG,43942,,1978-01-11,24.4,Striker,England,ENG
+179663,Wes Brown,1,12,77.0,185.0,ENG,43942,,1979-10-13,22.6,Defender,England,ENG
+166992,Nigel Martyn,0,13,91.0,187.0,ENG,43942,,1966-08-11,35.8,Goalkeeper,England,ENG
+186443,Wayne Bridge,1,14,68.0,177.0,ENG,43942,,1980-08-05,21.8,Defender,England,ENG
+95997,Martin Keown,1,15,78.0,186.0,ENG,43942,,1966-07-24,35.9,Defender,England,ENG
+155121,Gareth Southgate,1,16,,,ENG,43942,,1970-09-03,31.7,Defender,England,ENG
+95558,Teddy Sheringham,3,17,78.0,183.0,ENG,43942,,1966-04-02,36.2,Striker,England,ENG
+182050,Owen Hargreaves,2,18,73.0,180.0,ENG,43942,,1981-01-20,21.4,Midfielder,England,ENG
+179662,Joe Cole,2,19,70.0,175.0,ENG,43942,,1981-11-08,20.6,Midfielder,England,ENG
+186454,Darius Vassell,3,20,76.0,170.0,ENG,43942,,1980-06-13,22.0,Striker,England,ENG
+159306,Nicky Butt,2,21,69.0,179.0,ENG,43942,,1975-01-21,27.4,Midfielder,England,ENG
+62210,David James,0,22,91.0,196.0,ENG,43942,,1970-08-01,31.8,Goalkeeper,England,ENG
+179547,Kieron Dyer,2,23,60.0,170.0,ENG,43942,,1978-12-29,23.4,Midfielder,England,ENG
+177708,Ulrich Rame,0,1,85.0,187.0,FRA,43946,,1972-09-19,29.7,Goalkeeper,France,FRA
+170703,Vincent Candela,1,2,76.0,180.0,FRA,43946,,1973-10-24,28.6,Defender,France,FRA
+166722,Bixente Lizarazu,1,3,72.0,169.0,FRA,43946,,1969-12-09,32.5,Defender,France,FRA
+170707,Patrick Vieira,2,4,83.0,193.0,FRA,43946,,1976-06-23,25.9,Midfielder,France,FRA
+181319,Philippe Christanval,1,5,73.0,185.0,FRA,43946,,1978-08-31,23.7,Defender,France,FRA
+95664,Youri Djorkaeff,2,6,72.0,179.0,FRA,43946,,1968-03-09,34.2,Midfielder,France,FRA
+181293,Claude Makelele,2,7,70.0,174.0,FRA,43946,,1973-02-18,29.3,Midfielder,France,FRA
+95650,Marcel Desailly,1,8,87.0,184.0,FRA,43946,,1968-09-07,33.7,Defender,France,FRA
+180749,Djibril Cisse,3,9,78.0,182.0,FRA,43946,,1981-08-12,20.8,Striker,France,FRA
+163331,Zinedine Zidane,2,10,78.0,185.0,FRA,43946,,1972-06-23,29.9,Midfielder,France,FRA
+177719,Sylvain Wiltord,3,11,72.0,173.0,FRA,43946,,1974-05-10,28.1,Striker,France,FRA
+170711,Thierry Henry,3,12,83.0,188.0,FRA,43946,,1977-08-17,24.8,Striker,France,FRA
+181333,Mikael Silvestre,1,13,86.0,183.0,FRA,43946,,1977-08-09,24.8,Defender,France,FRA
+170704,Alain Boghossian,2,14,81.0,185.0,FRA,43946,,1970-10-27,31.6,Midfielder,France,FRA
+163666,Lilian Thuram,1,15,78.0,185.0,FRA,43946,,1972-01-01,30.4,Defender,France,FRA
+96075,Fabien Barthez,0,16,76.0,182.0,FRA,43946,,1971-06-28,30.9,Goalkeeper,France,FRA
+95448,Emmanuel Petit,2,17,79.0,185.0,FRA,43946,,1970-09-22,31.7,Midfielder,France,FRA
+170702,Frank Leboeuf,1,18,72.0,183.0,FRA,43946,,1968-01-22,34.4,Defender,France,FRA
+181292,Willy Sagnol,1,19,78.0,180.0,FRA,43946,,1977-03-18,25.2,Defender,France,FRA
+170709,David Trezeguet,3,20,75.0,187.0,FRA,43946,,1977-10-15,24.6,Striker,France,FRA
+160559,Christophe Dugarry,3,21,78.0,188.0,FRA,43946,,1972-03-24,30.2,Striker,France,FRA
+177720,Johan Micoud,2,22,82.0,188.0,FRA,43946,,1973-07-24,28.9,Midfielder,France,FRA
+182640,Gregory Coupet,0,23,80.0,181.0,FRA,43946,,1972-12-31,29.4,Goalkeeper,France,FRA
+78091,Oliver Kahn,0,1,88.0,188.0,GER,43948,,1969-06-15,33.0,Goalkeeper,Germany,GER
+155354,Thomas Linke,1,2,79.0,183.0,GER,43948,,1969-12-26,32.4,Defender,Germany,GER
+177663,Marko Rehmer,1,3,85.0,187.0,GER,43948,,1972-04-29,30.1,Defender,Germany,GER
+179551,Frank Baumann,1,4,79.0,187.0,GER,43948,,1975-10-29,26.6,Defender,Germany,GER
+165009,Carsten Ramelow,2,5,80.0,185.0,GER,43948,,1974-03-20,28.2,Midfielder,Germany,GER
+155370,Christian Ziege,1,6,82.0,186.0,GER,43948,,1972-02-01,30.3,Defender,Germany,GER
+179558,Oliver Neuville,3,7,64.0,171.0,GER,43948,,1973-05-01,29.1,Striker,Germany,GER
+159386,Didi Hamann,2,8,83.0,191.0,GER,43948,,1973-08-27,28.8,Midfielder,Germany,GER
+168509,Carsten Jancker,3,9,93.0,193.0,GER,43948,,1974-08-28,27.8,Striker,Germany,GER
+159529,Lars Ricken,2,10,72.0,178.0,GER,43948,,1976-07-10,25.9,Midfielder,Germany,GER
+182206,Miroslav Klose,3,11,81.0,182.0,GER,43948,,1978-06-09,24.0,Striker,Germany,GER
+166921,Jens Lehmann,0,12,87.0,190.0,GER,43948,,1969-11-10,32.6,Goalkeeper,Germany,GER
+177667,Michael Ballack,2,13,80.0,189.0,GER,43948,,1976-09-26,25.7,Midfielder,Germany,GER
+184402,Gerald Asamoah,3,14,85.0,180.0,GER,43948,,1978-10-03,23.7,Striker,Germany,GER
+184403,Sebastian Kehl,1,15,80.0,186.0,GER,43948,,1980-02-13,22.3,Defender,Germany,GER
+155344,Jens Jeremies,2,16,76.0,177.0,GER,43948,,1974-03-05,28.2,Midfielder,Germany,GER
+155336,Marco Bode,3,17,85.0,189.0,GER,43948,,1969-07-23,32.9,Striker,Germany,GER
+185808,Joerg Boehme,1,18,75.0,178.0,GER,43948,,1974-01-22,28.4,Defender,Germany,GER
+164548,Bernd Schneider,2,19,74.0,176.0,GER,43948,,1973-11-17,28.5,Midfielder,Germany,GER
+155334,Oliver Bierhoff,3,20,90.0,191.0,GER,43948,,1968-05-01,34.1,Striker,Germany,GER
+185434,Christoph Metzelder,1,21,84.0,193.0,GER,43948,,1980-11-05,21.6,Defender,Germany,GER
+182207,Torsten Frings,2,22,80.0,182.0,GER,43948,,1976-11-22,25.5,Midfielder,Germany,GER
+177669,Hans Joerg Butt,0,23,91.0,191.0,GER,43948,,1974-05-28,28.0,Goalkeeper,Germany,GER
+159304,Gianluigi Buffon,0,1,83.0,190.0,ITA,43954,,1978-01-28,24.3,Goalkeeper,Italy,ITA
+91469,Christian Panucci,1,2,72.0,185.0,ITA,43954,,1973-04-12,29.1,Defender,Italy,ITA
+174730,Paolo Maldini,1,3,86.0,186.0,ITA,43954,,1968-06-26,33.9,Defender,Italy,ITA
+177880,Francesco Coco,1,4,78.0,181.0,ITA,43954,,1977-01-08,25.4,Defender,Italy,ITA
+155957,Fabio Cannavaro,1,5,72.0,175.0,ITA,43954,,1973-09-13,28.7,Defender,Italy,ITA
+177884,Cristiano Zanetti,2,6,77.0,180.0,ITA,43954,,1977-04-10,25.1,Midfielder,Italy,ITA
+155963,Alessandro Del Piero,3,7,73.0,173.0,ITA,43954,,1974-11-09,27.6,Striker,Italy,ITA
+177845,Gennaro Gattuso,2,8,77.0,177.0,ITA,43954,,1978-01-09,24.4,Midfielder,Italy,ITA
+155969,Filippo Inzaghi,3,9,74.0,181.0,ITA,43954,,1973-08-09,28.8,Striker,Italy,ITA
+165247,Francesco Totti,3,10,82.0,180.0,ITA,43954,,1976-09-27,25.7,Striker,Italy,ITA
+187163,Cristiano Doni,2,11,78.0,185.0,ITA,43954,,1973-04-01,29.2,Midfielder,Italy,ITA
+177879,Christian Abbiati,0,12,90.0,190.0,ITA,43954,,1977-07-08,24.9,Goalkeeper,Italy,ITA
+155971,Alessandro Nesta,1,13,79.0,187.0,ITA,43954,,1976-03-19,26.2,Defender,Italy,ITA
+170774,Luigi Di Biagio,2,14,72.0,177.0,ITA,43954,,1971-06-03,31.0,Midfielder,Italy,ITA
+169641,Mark Iuliano,1,15,80.0,187.0,ITA,43954,,1973-08-12,28.8,Defender,Italy,ITA
+155964,Angelo Di Livio,2,16,73.0,173.0,ITA,43954,,1966-07-26,35.8,Midfielder,Italy,ITA
+155978,Damiano Tommasi,2,17,70.0,177.0,ITA,43954,,1974-05-17,28.0,Midfielder,Italy,ITA
+177676,Marco Delvecchio,3,18,77.0,186.0,ITA,43954,,1973-04-07,29.1,Striker,Italy,ITA
+177655,Gianluca Zambrotta,2,19,76.0,181.0,ITA,43954,,1977-02-19,25.3,Midfielder,Italy,ITA
+177662,Vincenzo Montella,3,20,71.0,172.0,ITA,43954,,1974-06-18,28.0,Striker,Italy,ITA
+155979,Christian Vieri,3,21,82.0,185.0,ITA,43954,,1973-07-12,28.9,Striker,Italy,ITA
+155977,Francesco Toldo,0,22,90.0,196.0,ITA,43954,,1971-12-02,30.5,Goalkeeper,Italy,ITA
+184451,Marco Materazzi,1,23,92.0,193.0,ITA,43954,,1973-08-19,28.8,Defender,Italy,ITA
+156047,Yoshikatsu Kawaguchi,0,1,77.0,180.0,JPN,43819,,1975-08-15,26.8,Goalkeeper,Japan,JPN
+156042,Yutaka Akita,1,2,78.0,180.0,JPN,43819,,1970-08-06,31.8,Defender,Japan,JPN
+177805,Naoki Matsuda,1,3,78.0,183.0,JPN,43819,,1977-03-14,25.2,Defender,Japan,JPN
+178471,Ryuzo Morioka,1,4,71.0,180.0,JPN,43819,,1975-10-07,26.6,Defender,Japan,JPN
+177771,Junichi Inamoto,2,5,75.0,181.0,JPN,43819,,1979-09-18,22.7,Midfielder,Japan,JPN
+170132,Toshihiro Hattori,1,6,73.0,178.0,JPN,43819,,1973-09-23,28.7,Defender,Japan,JPN
+156055,Hidetoshi Nakata,2,7,72.0,175.0,JPN,43819,,1977-01-22,25.4,Midfielder,Japan,JPN
+156053,Hiroaki Morishima,2,8,62.0,168.0,JPN,43819,,1972-04-30,30.1,Midfielder,Japan,JPN
+156058,Akinori Nishizawa,3,9,71.0,180.0,JPN,43819,,1976-06-18,25.9,Striker,Japan,JPN
+94407,Masashi Nakayama,3,10,72.0,178.0,JPN,43819,,1967-09-23,34.7,Striker,Japan,JPN
+182445,Takayuki Suzuki,3,11,75.0,182.0,JPN,43819,,1976-06-05,26.0,Striker,Japan,JPN
+159481,Seigo Narazaki,0,12,80.0,187.0,JPN,43819,,1976-04-15,26.1,Goalkeeper,Japan,JPN
+177816,Atsushi Yanagisawa,3,13,75.0,177.0,JPN,43819,,1977-05-27,25.0,Striker,Japan,JPN
+187349,Alessandro Santos,2,14,69.0,178.0,JPN,43819,,1977-07-20,24.9,Midfielder,Japan,JPN
+183937,Takashi Fukunishi,2,15,74.0,181.0,JPN,43819,,1976-09-01,25.7,Midfielder,Japan,JPN
+177766,Koji Nakata,1,16,74.0,182.0,JPN,43819,,1979-07-09,22.9,Defender,Japan,JPN
+177760,Tsuneyasu Miyamoto,1,17,72.0,176.0,JPN,43819,,1977-02-07,25.3,Defender,Japan,JPN
+170681,Shinji Ono,2,18,74.0,175.0,JPN,43819,,1979-09-27,22.7,Midfielder,Japan,JPN
+177784,Mitsuo Ogasawara,2,19,72.0,173.0,JPN,43819,,1979-04-05,23.2,Midfielder,Japan,JPN
+177772,Tomokazu Myojin,2,20,70.0,173.0,JPN,43819,,1978-01-24,24.3,Midfielder,Japan,JPN
+177782,Kazuyuki Toda,2,21,68.0,178.0,JPN,43819,,1977-12-30,24.4,Midfielder,Japan,JPN
+178649,Daisuke Ichikawa,2,22,68.0,181.0,JPN,43819,,1980-05-14,22.0,Midfielder,Japan,JPN
+177754,Hitoshi Sogahata,0,23,80.0,187.0,JPN,43819,,1979-08-02,22.8,Goalkeeper,Japan,JPN
+77937,Lee Woonjae,0,1,90.0,182.0,KOR,43822,,1973-04-26,29.1,Goalkeeper,Korea Republic,KOR
+188385,Hyun Young Min,1,2,73.0,179.0,KOR,43822,,1979-12-25,22.4,Defender,Korea Republic,KOR
+156219,Choi Sung Yong,2,3,70.0,173.0,KOR,43822,,1975-12-25,26.4,Midfielder,Korea Republic,KOR
+159323,Choi Jin Cheul,1,4,,,KOR,43822,,1971-03-26,31.2,Defender,Korea Republic,KOR
+188386,Kim Nam Il,2,5,75.0,180.0,KOR,43822,,1977-03-14,25.2,Midfielder,Korea Republic,KOR
+156242,Yoo Sang Chul,2,6,78.0,184.0,KOR,43822,,1971-10-18,30.6,Midfielder,Korea Republic,KOR
+169918,Kim Taeyoung,1,7,73.0,180.0,KOR,43822,,1970-11-08,31.6,Defender,Korea Republic,KOR
+178512,Choi Tae Uk,3,8,65.0,173.0,KOR,43822,,1981-03-13,21.2,Striker,Korea Republic,KOR
+177806,Seol Ki Hyeon,3,9,73.0,184.0,KOR,43822,,1979-01-08,23.4,Striker,Korea Republic,KOR
+177785,Lee Young Pyo,2,10,67.0,177.0,KOR,43822,,1977-04-23,25.1,Midfielder,Korea Republic,KOR
+156220,Choi Yongsoo,3,11,79.0,184.0,KOR,43822,,1973-09-10,28.7,Striker,Korea Republic,KOR
+170329,Kim Byung-Ji,0,12,77.0,184.0,KOR,43822,,1970-04-08,32.1,Goalkeeper,Korea Republic,KOR
+189571,Lee Eul Yong,2,13,69.0,176.0,KOR,43822,,1975-09-08,26.7,Midfielder,Korea Republic,KOR
+178469,Lee Chun Soo,3,14,65.0,175.0,KOR,43822,,1981-07-09,20.9,Striker,Korea Republic,KOR
+156236,Lee Min Sung,1,15,73.0,183.0,KOR,43822,,1973-06-23,28.9,Defender,Korea Republic,KOR
+188387,Cha Du Ri,3,16,79.0,181.0,KOR,43822,,1980-07-25,21.8,Striker,Korea Republic,KOR
+166159,Yoon Jong Hwan,2,17,63.0,173.0,KOR,43822,,1973-02-16,29.3,Midfielder,Korea Republic,KOR
+174626,Hwang Sun Hong,3,18,79.0,183.0,KOR,43822,,1968-07-14,33.9,Striker,Korea Republic,KOR
+156216,Ahn Jung Hwan,2,19,73.0,177.0,KOR,43822,,1976-01-27,26.3,Midfielder,Korea Republic,KOR
+2188,Hong Myungbo,1,20,73.0,181.0,KOR,43822,,1969-02-12,33.3,Defender,Korea Republic,KOR
+177788,Park Ji Sung,2,21,73.0,178.0,KOR,43822,,1981-02-25,21.3,Midfielder,Korea Republic,KOR
+179025,Song Chong Gug,2,22,71.0,175.0,KOR,43822,,1979-02-20,23.3,Midfielder,Korea Republic,KOR
+184048,Choi Eunsung,0,23,82.0,184.0,KOR,43822,,1971-04-05,31.2,Goalkeeper,Korea Republic,KOR
+170808,Oscar Perez,0,1,76.0,172.0,MEX,43911,,1973-02-01,29.3,Goalkeeper,Mexico,MEX
+188376,Francisco Gabriel De Anda,1,2,80.0,188.0,MEX,43911,,1971-06-05,31.0,Defender,Mexico,MEX
+70096,Rafael Garcia,2,3,66.0,175.0,MEX,43911,,1974-08-14,27.8,Midfielder,Mexico,MEX
+178119,Rafael Marquez,2,4,77.0,184.0,MEX,43911,,1979-02-13,23.3,Midfielder,Mexico,MEX
+165626,Manuel Vidrio,1,5,77.0,184.0,MEX,43911,,1972-08-23,29.8,Defender,Mexico,MEX
+70097,Gerardo Torrado,2,6,74.0,174.0,MEX,43911,,1979-04-30,23.1,Midfielder,Mexico,MEX
+185325,Ramon Morales,2,7,62.0,168.0,MEX,43911,,1975-10-10,26.6,Midfielder,Mexico,MEX
+77275,Alberto Garcia Aspe,2,8,72.0,174.0,MEX,43911,,1967-05-11,35.1,Midfielder,Mexico,MEX
+185038,Jared Borgetti,3,9,78.0,182.0,MEX,43911,,1973-08-14,28.8,Striker,Mexico,MEX
+162580,Cuauhtemoc Blanco,3,10,77.0,177.0,MEX,43911,,1973-01-17,29.4,Striker,Mexico,MEX
+170810,Braulio Luna,2,11,76.0,180.0,MEX,43911,,1974-09-08,27.7,Midfielder,Mexico,MEX
+156624,Oswaldo Sanchez,0,12,79.0,184.0,MEX,43911,,1973-09-21,28.7,Goalkeeper,Mexico,MEX
+54129,Sigifredo Mercado,2,13,78.0,183.0,MEX,43911,,1968-12-21,33.4,Midfielder,Mexico,MEX
+156630,German Villa,2,14,74.0,171.0,MEX,43911,,1973-04-02,29.2,Midfielder,Mexico,MEX
+170333,Luis Hernandez,3,15,73.0,172.0,MEX,43911,,1968-12-22,33.4,Striker,Mexico,MEX
+162582,Salvador Carmona,1,16,72.0,176.0,MEX,43911,,1975-08-22,26.8,Defender,Mexico,MEX
+166193,Francisco Palencia,3,17,71.0,175.0,MEX,43911,,1973-04-28,29.1,Striker,Mexico,MEX
+182037,Joahan Rodriguez,2,18,71.0,176.0,MEX,43911,,1975-08-15,26.8,Midfielder,Mexico,MEX
+189031,Gabriel Caballero,2,19,70.0,173.0,MEX,43911,,1971-02-05,31.3,Midfielder,Mexico,MEX
+184986,Melvin Brown,1,20,81.0,174.0,MEX,43911,,1979-01-28,23.3,Defender,Mexico,MEX
+162670,Jesus Arellano,3,21,65.0,171.0,MEX,43911,,1973-05-08,29.1,Striker,Mexico,MEX
+166191,Alberto Rodriguez,1,22,65.0,168.0,MEX,43911,,1974-04-01,28.2,Defender,Mexico,MEX
+47245,Jorge Campos,0,23,72.0,175.0,MEX,43911,,1966-10-15,35.6,Goalkeeper,Mexico,MEX
+93398,Ibrahim Shorunmu,0,1,84.0,186.0,NGA,43876,,1967-10-16,34.6,Goalkeeper,Nigeria,NGA
+178403,Joseph Yobo,2,2,95.0,185.0,NGA,43876,,1980-09-06,21.7,Midfielder,Nigeria,NGA
+156903,Celestine Babayaro,1,3,66.0,172.0,NGA,43876,,1978-08-29,23.8,Defender,Nigeria,NGA
+159416,Nwankwo Kanu,3,4,80.0,197.0,NGA,43876,,1976-08-01,25.8,Striker,Nigeria,NGA
+178827,Isaac Okoronkwo,1,5,74.0,182.0,NGA,43876,,1978-05-01,24.1,Defender,Nigeria,NGA
+156924,Taribo West,1,6,87.0,186.0,NGA,43876,,1974-03-26,28.2,Defender,Nigeria,NGA
+176948,Pius Ikedia,3,7,60.0,166.0,NGA,43876,,1980-07-11,21.9,Striker,Nigeria,NGA
+93446,Mutiu Adepoju,2,8,76.0,180.0,NGA,43876,,1970-12-22,31.4,Midfielder,Nigeria,NGA
+189304,Bartholomew Ogbeche,3,9,78.0,177.0,NGA,43876,,1984-10-01,17.7,Striker,Nigeria,NGA
+77328,Jay Jay Okocha,2,10,70.0,175.0,NGA,43876,,1973-08-14,28.8,Midfielder,Nigeria,NGA
+156911,Garba Lawal,2,11,72.0,183.0,NGA,43876,,1974-05-22,28.0,Midfielder,Nigeria,NGA
+184856,Austine Ejide,0,12,90.0,186.0,NGA,43876,,1984-04-08,18.1,Goalkeeper,Nigeria,NGA
+178372,Rabiu Afolabi,1,13,75.0,183.0,NGA,43876,,1980-04-18,22.1,Defender,Nigeria,NGA
+178742,Ifeanyi Udeze,1,14,70.0,179.0,NGA,43876,,1980-07-21,21.9,Defender,Nigeria,NGA
+183770,Justice Christopher,2,15,80.0,178.0,NGA,43876,,1981-12-24,20.4,Midfielder,Nigeria,NGA
+3996,Efetobore Sodje,1,16,79.0,185.0,NGA,43876,,1972-10-05,29.7,Defender,Nigeria,NGA
+178390,Julius Aghahowa,3,17,77.0,178.0,NGA,43876,,1982-02-12,20.3,Striker,Nigeria,NGA
+3991,Benedict Akwuegbu,3,18,79.0,190.0,NGA,43876,,1974-11-03,27.6,Striker,Nigeria,NGA
+183755,Eric Ejiofor,1,19,79.0,185.0,NGA,43876,,1979-07-21,22.9,Defender,Nigeria,NGA
+178381,James Obiorah,2,20,72.0,179.0,NGA,43876,,1978-08-24,23.8,Midfielder,Nigeria,NGA
+183498,John Utaka,3,21,82.0,179.0,NGA,43876,,1982-01-08,20.4,Striker,Nigeria,NGA
+189300,Vincent Enyeama,0,22,79.0,185.0,NGA,43876,,1982-08-29,19.8,Goalkeeper,Nigeria,NGA
+182489,Femi Opabunmi,3,23,68.0,170.0,NGA,43876,,1985-03-03,17.2,Striker,Nigeria,NGA
+160374,Jose Luis Chilavert,0,1,89.0,194.0,PAR,43928,,1965-07-27,36.8,Goalkeeper,Paraguay,PAR
+162012,Francisco Arce,1,2,77.0,178.0,PAR,43928,,1971-04-02,31.2,Defender,Paraguay,PAR
+170672,Pedro Sarabia,1,3,80.0,181.0,PAR,43928,,1975-07-05,26.9,Defender,Paraguay,PAR
+94915,Carlos Gamarra,1,4,86.0,180.0,PAR,43928,,1971-02-17,31.3,Defender,Paraguay,PAR
+162008,Celso Ayala,1,5,74.0,177.0,PAR,43928,,1970-08-20,31.8,Defender,Paraguay,PAR
+94909,Estanislao Struway,2,6,75.0,176.0,PAR,43928,,1968-06-25,33.9,Midfielder,Paraguay,PAR
+162589,Richart Baez,3,7,83.0,180.0,PAR,43928,,1973-07-31,28.8,Striker,Paraguay,PAR
+162011,Guido Alvarenga,2,8,70.0,170.0,PAR,43928,,1970-08-24,31.8,Midfielder,Paraguay,PAR
+4039,Roque Santa Cruz,3,9,86.0,191.0,PAR,43928,,1981-08-16,20.8,Striker,Paraguay,PAR
+157138,Roberto Acuna,2,10,86.0,176.0,PAR,43928,,1972-03-25,30.2,Midfielder,Paraguay,PAR
+162013,Jorge Campos,3,11,66.0,175.0,PAR,43928,,1970-08-11,31.8,Striker,Paraguay,PAR
+185338,Justo Villar,0,12,83.0,180.0,PAR,43928,,1977-06-30,24.9,Goalkeeper,Paraguay,PAR
+170674,Carlos Paredes,2,13,82.0,179.0,PAR,43928,,1976-07-16,25.9,Midfielder,Paraguay,PAR
+177219,Diego Gavilan,2,14,75.0,176.0,PAR,43928,,1980-03-01,22.2,Midfielder,Paraguay,PAR
+189436,Carlos Bonet,2,15,76.0,176.0,PAR,43928,,1977-10-02,24.7,Midfielder,Paraguay,PAR
+184440,Gustavo Morinigo,2,16,75.0,178.0,PAR,43928,,1977-01-23,25.3,Midfielder,Paraguay,PAR
+157163,Juan Carlos Franco,1,17,79.0,179.0,PAR,43928,,1973-04-17,29.1,Defender,Paraguay,PAR
+189334,Julio César Cáceres,1,18,77.0,181.0,PAR,43928,,1979-10-05,22.7,Defender,Paraguay,PAR
+185337,Daniel Sanabria,1,19,80.0,182.0,PAR,43928,,1977-02-08,25.3,Defender,Paraguay,PAR
+162010,Jose Cardozo,3,20,84.0,183.0,PAR,43928,,1971-03-19,31.2,Striker,Paraguay,PAR
+162763,Denis Caniza,1,21,73.0,174.0,PAR,43928,,1974-08-29,27.8,Defender,Paraguay,PAR
+178244,Ricardo Tavarelli,0,22,79.0,182.0,PAR,43928,,1970-08-02,31.8,Goalkeeper,Paraguay,PAR
+182783,Nelson Cuevas,3,23,63.0,176.0,PAR,43928,,1980-01-10,22.4,Striker,Paraguay,PAR
+178965,Jerzy Dudek,0,1,81.0,187.0,POL,43962,,1973-03-23,29.2,Goalkeeper,Poland,POL
+157285,Tomasz Klos,1,2,78.0,186.0,POL,43962,,1973-03-07,29.2,Defender,Poland,POL
+157311,Jacek Zielinski,1,3,80.0,184.0,POL,43962,,1967-10-10,34.6,Defender,Poland,POL
+178967,Michal Zewlakow,1,4,78.0,183.0,POL,43962,,1976-04-22,26.1,Defender,Poland,POL
+164446,Tomasz Rzasa,2,5,76.0,181.0,POL,43962,,1973-03-11,29.2,Midfielder,Poland,POL
+169660,Tomasz Hajto,1,6,81.0,187.0,POL,43962,,1972-10-16,29.6,Defender,Poland,POL
+95548,Piotr Swierczewski,2,7,79.0,180.0,POL,43962,,1972-04-08,30.1,Midfielder,Poland,POL
+157288,Cezary Kucharski,3,8,75.0,182.0,POL,43962,,1972-02-17,30.3,Striker,Poland,POL
+178976,Pawel Kryszalowicz,3,9,76.0,183.0,POL,43962,,1974-06-23,27.9,Striker,Poland,POL
+170358,Radoslaw Kaluzny,2,10,80.0,191.0,POL,43962,,1974-02-02,28.3,Midfielder,Poland,POL
+178975,Emmanuel Olisadebe,3,11,70.0,180.0,POL,43962,,1978-12-22,23.4,Striker,Poland,POL
+166751,Radoslaw Majdan,0,12,79.0,185.0,POL,43962,,1972-05-10,30.1,Goalkeeper,Poland,POL
+186329,Arkadiusz Glowacki,1,13,78.0,186.0,POL,43962,,1979-03-13,23.2,Defender,Poland,POL
+178968,Marcin Zewlakow,3,14,78.0,183.0,POL,43962,,1976-04-22,26.1,Striker,Poland,POL
+95143,Tomasz Waldoch,1,15,83.0,187.0,POL,43962,,1971-05-10,31.1,Defender,Poland,POL
+186053,Maciej Murawski,2,16,79.0,185.0,POL,43962,,1974-02-20,28.3,Midfielder,Poland,POL
+178977,Arkadiusz Bak,2,17,76.0,176.0,POL,43962,,1974-10-06,27.6,Midfielder,Poland,POL
+178969,Jacek Krzynowek,2,18,73.0,180.0,POL,43962,,1976-05-15,26.0,Midfielder,Poland,POL
+186196,Maciej Zurawski,3,19,74.0,180.0,POL,43962,,1976-09-12,25.7,Striker,Poland,POL
+95557,Jacek Bak,1,20,78.0,187.0,POL,43962,,1973-03-24,29.2,Defender,Poland,POL
+95546,Marek Kozminski,2,21,75.0,178.0,POL,43962,,1971-02-07,31.3,Midfielder,Poland,POL
+95155,Adam Matysek,0,22,90.0,191.0,POL,43962,,1968-07-19,33.9,Goalkeeper,Poland,POL
+189674,Pawel Sibik,2,23,74.0,180.0,POL,43962,,1971-02-15,31.3,Midfielder,Poland,POL
+160197,Vitor Baia,0,1,78.0,184.0,POR,43963,,1969-10-15,32.6,Goalkeeper,Portugal,POR
+160555,Jorge Costa,1,2,86.0,188.0,POR,43963,,1971-10-14,30.6,Defender,Portugal,POR
+163351,Abel Xavier,1,3,81.0,189.0,POR,43963,,1972-11-30,29.5,Defender,Portugal,POR
+187191,Marco Caneira,1,4,75.0,178.0,POR,43963,,1979-02-09,23.3,Defender,Portugal,POR
+177672,Fernando Couto,1,5,84.0,184.0,POR,43963,,1969-08-02,32.8,Defender,Portugal,POR
+177674,Paulo Sousa,2,6,76.0,177.0,POR,43963,,1970-08-30,31.8,Midfielder,Portugal,POR
+160130,Luis Figo,3,7,75.0,180.0,POR,43963,,1972-11-04,29.6,Striker,Portugal,POR
+163936,Joao Pinto,3,8,67.0,171.0,POR,43963,,1971-08-19,30.8,Striker,Portugal,POR
+166375,Pauleta,3,9,79.0,181.0,POR,43963,,1973-04-28,29.1,Striker,Portugal,POR
+161070,Rui Costa,2,10,74.0,180.0,POR,43963,,1972-03-29,30.2,Midfielder,Portugal,POR
+161240,Sergio Conceicao,3,11,82.0,177.0,POR,43963,,1974-11-15,27.5,Striker,Portugal,POR
+189432,Hugo Viana,2,12,77.0,179.0,POR,43963,,1983-01-15,19.4,Midfielder,Portugal,POR
+184465,Jorge Andrade,1,13,73.0,184.0,POR,43963,,1978-04-09,24.1,Defender,Portugal,POR
+157312,Pedro Barbosa,2,14,80.0,182.0,POR,43963,,1970-08-06,31.8,Midfielder,Portugal,POR
+189197,Nelson,0,15,76.0,187.0,POR,43963,,1975-10-20,26.6,Goalkeeper,Portugal,POR
+182194,Ricardo,0,16,80.0,188.0,POR,43963,,1976-02-11,26.3,Goalkeeper,Portugal,POR
+161099,Paulo Bento,2,17,72.0,175.0,POR,43963,,1969-06-20,32.9,Midfielder,Portugal,POR
+184452,Frechaut,1,18,76.0,184.0,POR,43963,,1977-09-24,24.7,Defender,Portugal,POR
+166298,Capucho,3,19,78.0,180.0,POR,43963,,1972-02-21,30.3,Striker,Portugal,POR
+182197,Petit,2,20,68.0,178.0,POR,43963,,1976-09-25,25.7,Midfielder,Portugal,POR
+165260,Nuno Gomes,3,21,76.0,181.0,POR,43963,,1976-07-05,25.9,Striker,Portugal,POR
+159294,Beto,1,22,83.0,185.0,POR,43963,,1976-05-03,26.1,Defender,Portugal,POR
+165745,Rui Jorge,1,23,70.0,173.0,POR,43963,,1973-03-27,29.2,Defender,Portugal,POR
+155823,Shay Given,0,1,84.0,187.0,IRL,43953,,1976-04-20,26.1,Goalkeeper,Republic of Ireland,IRL
+179106,Steve Finnan,1,2,77.0,183.0,IRL,43953,,1976-04-20,26.1,Defender,Republic of Ireland,IRL
+155825,Ian Harte,1,3,78.0,177.0,IRL,43953,,1977-08-31,24.7,Defender,Republic of Ireland,IRL
+155821,Kenny Cunningham,1,4,73.0,183.0,IRL,43953,,1971-06-28,30.9,Defender,Republic of Ireland,IRL
+44658,Steve Staunton,1,5,78.0,183.0,IRL,43953,,1969-01-19,33.4,Defender,Republic of Ireland,IRL
+76886,Roy Keane,2,6,71.0,179.0,IRL,43953,,1971-08-10,30.8,Midfielder,Republic of Ireland,IRL
+118290,Jason Mcateer,2,7,65.0,177.0,IRL,43953,,1971-06-18,31.0,Midfielder,Republic of Ireland,IRL
+179619,Matt Holland,2,8,69.0,175.0,IRL,43953,,1974-04-11,28.1,Midfielder,Republic of Ireland,IRL
+179104,Damien Duff,3,9,60.0,177.0,IRL,43953,,1979-03-02,23.2,Striker,Republic of Ireland,IRL
+179102,Robbie Keane,3,10,73.0,176.0,IRL,43953,,1980-07-08,21.9,Striker,Republic of Ireland,IRL
+159423,Kevin Kilbane,3,11,79.0,185.0,IRL,43953,,1977-02-01,25.3,Striker,Republic of Ireland,IRL
+166674,Mark Kinsella,2,12,69.0,176.0,IRL,43953,,1972-08-12,29.8,Midfielder,Republic of Ireland,IRL
+155820,David Connolly,3,13,68.0,172.0,IRL,43953,,1977-06-06,25.0,Striker,Republic of Ireland,IRL
+155818,Gary Breen,1,14,75.0,190.0,IRL,43953,,1973-12-12,28.5,Defender,Republic of Ireland,IRL
+179101,Richard Dunne,1,15,89.0,187.0,IRL,43953,,1979-09-21,22.7,Defender,Republic of Ireland,IRL
+179105,Dean Kiely,0,16,79.0,184.0,IRL,43953,,1970-10-10,31.6,Goalkeeper,Republic of Ireland,IRL
+44540,Niall Quinn,3,17,100.0,195.0,IRL,43953,,1966-10-06,35.6,Striker,Republic of Ireland,IRL
+84389,Gary Kelly,1,18,69.0,173.0,IRL,43953,,1974-07-09,27.9,Defender,Republic of Ireland,IRL
+185886,Clinton Morrison,3,19,64.0,178.0,IRL,43953,,1979-05-14,23.0,Striker,Republic of Ireland,IRL
+184685,Andy O Brien,1,20,66.0,177.0,IRL,43953,,1979-06-29,22.9,Defender,Republic of Ireland,IRL
+187553,Steven Reid,3,21,75.0,180.0,IRL,43953,,1981-03-10,21.2,Striker,Republic of Ireland,IRL
+159315,Lee Carsley,2,22,74.0,177.0,IRL,43953,,1974-02-28,28.3,Midfielder,Republic of Ireland,IRL
+76899,Alan Kelly Jr.,0,23,78.0,189.0,IRL,43953,,1968-08-11,33.8,Goalkeeper,Republic of Ireland,IRL
+178830,Ruslan Nigmatullin,0,1,79.0,188.0,RUS,43965,,1974-10-07,27.6,Goalkeeper,Russia,RUS
+157477,Yuri Kovtun,1,2,80.0,189.0,RUS,43965,,1970-01-05,32.4,Defender,Russia,RUS
+95645,Yuri Nikiforov,1,3,88.0,188.0,RUS,43965,,1970-09-16,31.7,Defender,Russia,RUS
+178831,Alexei Smertin,2,4,67.0,176.0,RUS,43965,,1975-05-01,27.1,Midfielder,Russia,RUS
+159558,Andrei Solomatin,2,5,80.0,183.0,RUS,43965,,1975-09-09,26.7,Midfielder,Russia,RUS
+189925,Igor Semshov,2,6,60.0,169.0,RUS,43965,,1978-04-06,24.2,Midfielder,Russia,RUS
+81828,Viktor Onopko,1,7,79.0,189.0,RUS,43965,,1969-10-14,32.6,Defender,Russia,RUS
+77516,Valeri Karpin,2,8,76.0,185.0,RUS,43965,,1969-02-02,33.3,Midfielder,Russia,RUS
+178833,Egor Titov,2,9,70.0,182.0,RUS,43965,,1976-05-29,26.0,Midfielder,Russia,RUS
+95404,Aleksandr Mostovoi,2,10,77.0,181.0,RUS,43965,,1968-08-22,33.8,Midfielder,Russia,RUS
+77512,Vladimir Beschastnykh,3,11,83.0,187.0,RUS,43965,,1974-04-01,28.2,Striker,Russia,RUS
+77514,Stanislav Cherchesov,0,12,76.0,183.0,RUS,43965,,1963-09-02,38.7,Goalkeeper,Russia,RUS
+183533,Viacheslav Daev,1,13,80.0,185.0,RUS,43965,,1972-09-06,29.7,Defender,Russia,RUS
+157460,Igor Chugainov,1,14,82.0,187.0,RUS,43965,,1970-04-06,32.2,Defender,Russia,RUS
+157454,Dmitry Alenichev,2,15,70.0,178.0,RUS,43965,,1972-10-20,29.6,Midfielder,Russia,RUS
+186808,Aleksandr Kerzhakov,3,16,67.0,175.0,RUS,43965,,1982-11-27,19.5,Striker,Russia,RUS
+159543,Sergey Semak,2,17,66.0,170.0,RUS,43965,,1976-02-27,26.3,Midfielder,Russia,RUS
+189213,Dmitri Sennikov,1,18,74.0,183.0,RUS,43965,,1976-06-24,25.9,Defender,Russia,RUS
+186804,Ruslan Pimenov,3,19,69.0,179.0,RUS,43965,,1981-11-25,20.5,Striker,Russia,RUS
+185770,Marat Izmailov,2,20,66.0,172.0,RUS,43965,,1982-09-21,19.7,Midfielder,Russia,RUS
+159430,Dmitry Khokhlov,2,21,84.0,189.0,RUS,43965,,1975-12-22,26.4,Midfielder,Russia,RUS
+189214,Dmitri Sychev,3,22,70.0,175.0,RUS,43965,,1983-10-26,18.6,Striker,Russia,RUS
+162884,Alexander Filimonov,0,23,85.0,195.0,RUS,43965,,1973-10-15,28.6,Goalkeeper,Russia,RUS
+92722,Mohammed Al Deayea,0,1,77.0,188.0,KSA,43835,,1972-08-02,29.8,Goalkeeper,Saudi Arabia,KSA
+156251,Mohammed Al Jahani,1,2,80.0,177.0,KSA,43835,,1974-09-28,27.7,Defender,Saudi Arabia,KSA
+189998,Redha Tukar,1,3,81.0,179.0,KSA,43835,,1975-11-29,26.5,Defender,Saudi Arabia,KSA
+170785,Abdullah Zubromawi,1,4,76.0,181.0,KSA,43835,,1973-11-15,28.5,Defender,Saudi Arabia,KSA
+70091,Mohsin Harthi,1,5,79.0,184.0,KSA,43835,,1976-07-17,25.9,Defender,Saudi Arabia,KSA
+186784,Fouzi Al Shehri,1,6,67.0,173.0,KSA,43835,,1980-05-15,22.0,Defender,Saudi Arabia,KSA
+226385,Ibrahim Al Shahrani,2,7,60.0,172.0,KSA,43835,,1974-07-21,27.9,Midfielder,Saudi Arabia,KSA
+70092,Mohammed Noor,2,8,70.0,186.0,KSA,43835,,1978-02-26,24.3,Midfielder,Saudi Arabia,KSA
+77503,Sami Al Jaber,3,9,72.0,176.0,KSA,43835,,1972-12-11,29.5,Striker,Saudi Arabia,KSA
+181865,Mohammad Al Shalhoub,2,10,66.0,163.0,KSA,43835,,1980-12-08,21.5,Midfielder,Saudi Arabia,KSA
+156248,Obeid Al Dosari,3,11,73.0,174.0,KSA,43835,,1975-10-02,26.7,Striker,Saudi Arabia,KSA
+159257,Ahmed Al Dosari,1,12,72.0,175.0,KSA,43835,,1976-10-25,25.6,Defender,Saudi Arabia,KSA
+199035,Hussein Al Sulaimani,1,13,70.0,174.0,KSA,43835,,1977-01-21,25.4,Defender,Saudi Arabia,KSA
+189999,Abdulaziz Khathran,2,14,61.0,169.0,KSA,43835,,1973-07-31,28.8,Midfielder,Saudi Arabia,KSA
+162800,Abdullah Gaman Al Dosari,3,15,83.0,183.0,KSA,43835,,1977-11-10,24.6,Striker,Saudi Arabia,KSA
+156247,Khamis Al Dossari,2,16,66.0,178.0,KSA,43835,,1973-09-08,28.7,Midfielder,Saudi Arabia,KSA
+70087,Abdullah Alwaked Al Shahrani,2,17,63.0,178.0,KSA,43835,,1975-09-29,26.7,Midfielder,Saudi Arabia,KSA
+170787,Nawaf Al Temyat,2,18,70.0,176.0,KSA,43835,,1976-06-28,25.9,Midfielder,Saudi Arabia,KSA
+213483,Omar Al Ghamdi,2,19,68.0,170.0,KSA,43835,,1979-04-11,23.1,Midfielder,Saudi Arabia,KSA
+186427,Al Hasan Al Yami,3,20,59.0,173.0,KSA,43835,,1972-08-21,29.8,Striker,Saudi Arabia,KSA
+190000,Mabrouk Zaid,0,21,62.0,185.0,KSA,43835,,1979-02-11,23.3,Goalkeeper,Saudi Arabia,KSA
+176634,Mohammed Babkr,0,22,75.0,186.0,KSA,43835,,1973-01-15,29.4,Goalkeeper,Saudi Arabia,KSA
+190001,Mansour Althagafi,1,23,65.0,176.0,KSA,43835,,1979-01-14,23.4,Defender,Saudi Arabia,KSA
+182142,Tony Sylva,0,1,77.0,185.0,SEN,43879,,1975-05-17,27.0,Goalkeeper,Senegal,SEN
+177515,Omar Daf,1,2,70.0,177.0,SEN,43879,,1977-02-12,25.3,Defender,Senegal,SEN
+182158,Pape Sarr,2,3,76.0,180.0,SEN,43879,,1977-12-07,24.5,Midfielder,Senegal,SEN
+162544,Papa Malick Diop,1,4,82.0,187.0,SEN,43879,,1974-12-29,27.4,Defender,Senegal,SEN
+182162,Alassane Ndour,1,5,73.0,185.0,SEN,43879,,1981-12-12,20.5,Defender,Senegal,SEN
+177583,Aliou Cisse,1,6,73.0,180.0,SEN,43879,,1976-03-24,26.2,Defender,Senegal,SEN
+4102,Henri Camara,3,7,67.0,176.0,SEN,43879,,1977-05-10,25.1,Striker,Senegal,SEN
+157601,Amara Traore,3,8,85.0,186.0,SEN,43879,,1965-09-25,36.7,Striker,Senegal,SEN
+182163,Souleymane Camara,3,9,72.0,174.0,SEN,43879,,1982-12-22,19.4,Striker,Senegal,SEN
+4108,Khalilou Fadiga,2,10,77.0,183.0,BEL,43879,,1974-12-30,27.4,Midfielder,Senegal,SEN
+4107,El Hadji Diouf,3,11,75.0,180.0,SEN,43879,,1981-01-15,21.4,Striker,Senegal,SEN
+183775,Amdy Faye,2,12,78.0,184.0,SEN,43879,,1977-03-12,25.2,Midfielder,Senegal,SEN
+182156,Lamine Diatta,1,13,76.0,184.0,SEN,43879,,1975-07-02,26.9,Defender,Senegal,SEN
+4112,Moussa Ndiaye,2,14,80.0,180.0,SEN,43879,,1979-02-20,23.3,Midfielder,Senegal,SEN
+182157,Salif Diao,2,15,73.0,184.0,SEN,43879,,1977-02-10,25.3,Midfielder,Senegal,SEN
+4104,Omar Diallo,0,16,84.0,187.0,SEN,43879,,1972-09-28,29.7,Goalkeeper,Senegal,SEN
+178878,Ferdinand Coly,1,17,81.0,179.0,SEN,43879,,1973-09-10,28.7,Defender,Senegal,SEN
+182160,Pape Thiaw,3,18,77.0,183.0,SEN,43879,,1981-02-05,21.3,Striker,Senegal,SEN
+185142,Bouba Diop,2,19,88.0,193.0,SEN,43879,,1978-01-28,24.3,Midfielder,Senegal,SEN
+188245,Sylvain Ndiaye,2,20,76.0,178.0,SEN,43879,,1976-06-25,25.9,Midfielder,Senegal,SEN
+183774,Habib Beye,1,21,79.0,182.0,SEN,43879,,1977-10-19,24.6,Defender,Senegal,SEN
+189753,Kalidou Cissokho,0,22,59.0,171.0,SEN,43879,,1972-12-14,29.5,Goalkeeper,Senegal,SEN
+182159,Makthar Ndiaye,2,23,65.0,175.0,SEN,43879,,1981-12-31,20.4,Midfielder,Senegal,SEN
+159552,Marko Simeunovic,0,1,82.0,190.0,SVN,43968,,1967-12-06,34.5,Goalkeeper,Slovenia,SVN
+182790,Goran Sankovic,1,2,80.0,185.0,SVN,43968,,1979-06-18,23.0,Defender,Slovenia,SVN
+177695,Zeljko Milinovic,1,3,80.0,188.0,SVN,43968,,1969-10-12,32.6,Defender,Slovenia,SVN
+179140,Muamer Vugdalic,1,4,78.0,190.0,SVN,43968,,1977-08-25,24.8,Defender,Slovenia,SVN
+157902,Marinko Galic,1,5,73.0,175.0,SVN,43968,,1970-04-22,32.1,Defender,Slovenia,SVN
+177696,Aleksander Knavs,1,6,86.0,190.0,SVN,43968,,1975-12-05,26.5,Defender,Slovenia,SVN
+157910,Doni Novak,2,7,73.0,172.0,SVN,43968,,1969-09-04,32.7,Midfielder,Slovenia,SVN
+157896,Ales Ceh,2,8,77.0,174.0,SVN,43968,,1968-04-07,34.1,Midfielder,Slovenia,SVN
+159503,Milan Osterc,3,9,83.0,184.0,SVN,43968,,1975-07-04,26.9,Striker,Slovenia,SVN
+157920,Zlatko Zahovic,2,10,76.0,180.0,SVN,43968,,1971-02-01,31.3,Midfielder,Slovenia,SVN
+177697,Miran Pavlin,2,11,78.0,187.0,SVN,43968,,1971-10-08,30.6,Midfielder,Slovenia,SVN
+157898,Mladen Dabanovic,0,12,94.0,196.0,SVN,43968,,1971-09-13,30.7,Goalkeeper,Slovenia,SVN
+157911,Mladen Rudonja,3,13,73.0,175.0,SVN,43968,,1971-07-26,30.8,Striker,Slovenia,SVN
+177822,Sasa Gajser,2,14,75.0,179.0,SVN,43968,,1974-02-11,28.3,Midfielder,Slovenia,SVN
+179141,Rajko Tavcar,2,15,74.0,180.0,SVN,43968,,1974-07-21,27.9,Midfielder,Slovenia,SVN
+186559,Senad Tiganj,3,16,77.0,179.0,SVN,43968,,1975-08-28,26.8,Striker,Slovenia,SVN
+177698,Zoran Pavlovic,2,17,76.0,190.0,SRB,43968,,1976-06-27,25.9,Midfielder,Slovenia,SVN
+177700,Milenko Acimovic,2,18,80.0,186.0,SVN,43968,,1977-02-15,25.3,Midfielder,Slovenia,SVN
+157906,Amir Karic,2,19,82.0,184.0,SVN,43968,,1973-12-31,28.4,Midfielder,Slovenia,SVN
+186557,Nastja Ceh,2,20,75.0,181.0,SVN,43968,,1978-01-26,24.3,Midfielder,Slovenia,SVN
+157897,Sebastijan Cimirotic,3,21,74.0,184.0,SVN,43968,,1974-09-14,27.7,Striker,Slovenia,SVN
+177702,Dejan Nemec,0,22,82.0,184.0,SVN,43968,,1977-03-01,25.2,Goalkeeper,Slovenia,SVN
+177694,Spasoje Bulajic,1,23,82.0,188.0,SVN,43968,,1975-11-24,26.5,Defender,Slovenia,SVN
+163966,Hans Vonk,0,1,83.0,196.0,RSA,43883,,1970-01-30,32.3,Goalkeeper,South Africa,RSA
+4079,Cyril Nzama,1,2,75.0,182.0,RSA,43883,,1974-06-26,27.9,Defender,South Africa,RSA
+177447,Bradley Carnell,1,3,70.0,174.0,RSA,43883,,1977-01-21,25.4,Defender,South Africa,RSA
+177007,Aaron Mokoena,1,4,81.0,183.0,RSA,43883,,1980-11-25,21.5,Defender,South Africa,RSA
+178863,Jacob Lekgetho,1,5,85.0,171.0,RSA,43883,,1974-03-24,28.2,Defender,South Africa,RSA
+182181,Macbeth Sibaya,2,6,77.0,176.0,RSA,43883,,1977-11-25,24.5,Midfielder,South Africa,RSA
+170647,Quinton Fortune,2,7,74.0,182.0,RSA,43883,,1977-05-21,25.0,Midfielder,South Africa,RSA
+4075,Thabo Mngomeni,2,8,67.0,169.0,RSA,43883,,1969-06-24,32.9,Midfielder,South Africa,RSA
+189677,Macdonald Mukansi,2,9,73.0,176.0,RSA,43883,,1975-05-26,27.0,Midfielder,South Africa,RSA
+185022,Bennett Mnguni,2,10,83.0,169.0,RSA,43883,,1974-03-18,28.2,Midfielder,South Africa,RSA
+4080,Jabu Pule,2,11,57.0,168.0,RSA,43883,,1980-07-11,21.9,Midfielder,South Africa,RSA
+181632,Teboho Mokoena,2,12,70.0,179.0,RSA,43883,,1974-07-10,27.9,Midfielder,South Africa,RSA
+170641,Pierre Issa,1,13,85.0,195.0,RSA,43883,,1975-09-11,26.7,Defender,South Africa,RSA
+4078,Siyabonga Nomvethe,3,14,70.0,173.0,RSA,43883,,1977-12-02,24.5,Striker,South Africa,RSA
+181629,Sibusiso Zuma,2,15,68.0,180.0,RSA,43883,,1975-06-23,26.9,Midfielder,South Africa,RSA
+162188,Andre Arendse,0,16,72.0,190.0,RSA,43883,,1967-06-27,34.9,Goalkeeper,South Africa,RSA
+170650,Benni Mccarthy,3,17,89.0,181.0,RSA,43883,,1977-11-12,24.5,Striker,South Africa,RSA
+170646,Delron Buckley,2,18,72.0,175.0,RSA,43883,,1977-12-07,24.5,Midfielder,South Africa,RSA
+93410,Lucas Radebe,1,19,85.0,185.0,RSA,43883,,1969-04-12,33.1,Defender,South Africa,RSA
+187209,Calvin Marlin,0,20,84.0,182.0,RSA,43883,,1976-04-20,26.1,Goalkeeper,South Africa,RSA
+189676,Steven Pienaar,2,21,73.0,173.0,RSA,43883,,1982-03-17,20.2,Midfielder,South Africa,RSA
+189191,Thabang Molefe,1,22,78.0,180.0,RSA,43883,,1979-04-11,23.1,Defender,South Africa,RSA
+157434,George Koumantarakis,3,23,84.0,193.0,RSA,43883,,1974-03-27,28.2,Striker,South Africa,RSA
+176644,Iker Casillas,0,1,84.0,185.0,ESP,43969,,1981-05-20,21.0,Goalkeeper,Spain,ESP
+189199,Curro Torres,1,2,76.0,180.0,ESP,43969,,1976-12-27,25.4,Defender,Spain,ESP
+184438,Juanfran,1,3,73.0,182.0,ESP,43969,,1976-07-15,25.9,Defender,Spain,ESP
+176647,Ivan Helguera,2,4,74.0,184.0,ESP,43969,,1975-03-28,27.2,Midfielder,Spain,ESP
+177914,Carles Puyol,1,5,80.0,178.0,ESP,43969,,1978-04-13,24.1,Defender,Spain,ESP
+174605,Fernando Hierro,1,6,84.0,187.0,ESP,43969,,1968-03-23,34.2,Defender,Spain,ESP
+155148,Raul,3,7,68.0,180.0,ESP,43969,,1977-06-27,24.9,Striker,Spain,ESP
+179536,Ruben Baraja,2,8,77.0,180.0,ESP,43969,,1975-07-11,26.9,Midfielder,Spain,ESP
+170678,Fernando Morientes,3,9,78.0,182.0,ESP,43969,,1976-04-05,26.2,Striker,Spain,ESP
+183400,Diego Tristan,3,10,79.0,186.0,ESP,43969,,1976-01-05,26.4,Striker,Spain,ESP
+161435,De Pedro,2,11,78.0,180.0,ESP,43969,,1973-08-04,28.8,Midfielder,Spain,ESP
+177921,Albert Luque,3,12,75.0,184.0,ESP,43969,,1978-03-11,24.2,Striker,Spain,ESP
+189861,Ricardo,0,13,87.0,187.0,ESP,43969,,1971-12-30,30.4,Goalkeeper,Spain,ESP
+177917,David Albelda,2,14,77.0,181.0,ESP,43969,,1977-09-01,24.7,Midfielder,Spain,ESP
+182683,Enrique Romero,1,15,79.0,183.0,ESP,43969,,1971-06-23,30.9,Defender,Spain,ESP
+168776,Gaizka Mendieta,2,16,69.0,173.0,ESP,43969,,1974-03-27,28.2,Midfielder,Spain,ESP
+183383,Juan Carlos Valeron,2,17,72.0,180.0,ESP,43969,,1975-06-17,27.0,Midfielder,Spain,ESP
+182714,Sergio,2,18,77.0,180.0,ESP,43969,,1976-11-10,25.6,Midfielder,Spain,ESP
+177855,Xavi Hernandez,1,19,72.0,179.0,ESP,43969,,1980-01-25,22.3,Defender,Spain,ESP
+77908,Miguel Angel Nadal,1,20,81.0,187.0,ESP,43969,,1966-07-28,35.8,Defender,Spain,ESP
+77892,Luis Enrique,2,21,,,ESP,43969,,1970-05-08,32.1,Midfielder,Spain,ESP
+186619,Joaquín,2,22,75.0,179.0,ESP,43969,,1981-07-21,20.9,Midfielder,Spain,ESP
+189911,Pedro Contreras,0,23,78.0,180.0,ESP,43969,,1972-01-07,30.4,Goalkeeper,Spain,ESP
+118288,Magnus Hedman,0,1,93.0,193.0,SWE,43970,,1973-03-19,29.2,Goalkeeper,Sweden,SWE
+177690,Olof Mellberg,1,2,82.0,184.0,SWE,43970,,1977-09-03,24.7,Defender,Sweden,SWE
+77984,Patrik Andersson,1,3,81.0,185.0,SWE,43970,,1971-08-18,30.8,Defender,Sweden,SWE
+168741,Johan Mjallby,1,4,85.0,186.0,SWE,43970,,1971-02-09,31.3,Defender,Sweden,SWE
+179515,Michael Svensson,1,5,86.0,189.0,SWE,43970,,1975-11-25,26.5,Defender,Sweden,SWE
+182648,Tobias Linderoth,2,6,73.0,177.0,SWE,43970,,1979-04-21,23.1,Midfielder,Sweden,SWE
+95673,Niclas Alexandersson,2,7,73.0,181.0,SWE,43970,,1971-12-29,30.4,Midfielder,Sweden,SWE
+179023,Anders Svensson,2,8,82.0,177.0,SWE,43970,,1976-07-17,25.9,Midfielder,Sweden,SWE
+169551,Fredrik Ljungberg,2,9,73.0,176.0,SWE,43970,,1977-04-16,25.1,Midfielder,Sweden,SWE
+177703,Marcus Allback,3,10,77.0,180.0,SWE,43970,,1973-07-05,28.9,Striker,Sweden,SWE
+77995,Henrik Larsson,3,11,74.0,177.0,SWE,43970,,1971-09-20,30.7,Striker,Sweden,SWE
+169478,Magnus Kihlstedt,0,12,86.0,190.0,SWE,43970,,1972-02-29,30.3,Goalkeeper,Sweden,SWE
+189572,Tomas Antonelius,1,13,78.0,179.0,SWE,43970,,1973-05-07,29.1,Defender,Sweden,SWE
+186155,Erik Edman,1,14,78.0,179.0,SWE,43970,,1978-11-11,23.6,Defender,Sweden,SWE
+157936,Andreas Jakobsson,1,15,83.0,189.0,SWE,43970,,1972-10-06,29.6,Defender,Sweden,SWE
+185507,Teddy Lucic,1,16,75.0,187.0,SWE,43970,,1973-04-15,29.1,Defender,Sweden,SWE
+177681,Magnus Svensson,2,17,72.0,172.0,SWE,43970,,1969-03-10,33.2,Midfielder,Sweden,SWE
+185506,Mattias Jonson,2,18,76.0,178.0,SWE,43970,,1974-01-16,28.4,Midfielder,Sweden,SWE
+186299,Pontus Farnerud,2,19,74.0,180.0,SWE,43970,,1980-06-04,22.0,Midfielder,Sweden,SWE
+159277,Daniel Andersson,2,20,79.0,178.0,SWE,43970,,1977-08-28,24.8,Midfielder,Sweden,SWE
+186162,Zlatan Ibrahimovic,3,21,90.0,196.0,SWE,43970,,1981-10-03,20.7,Striker,Sweden,SWE
+157925,Andreas Andersson,3,22,80.0,185.0,SWE,43970,,1974-04-10,28.1,Striker,Sweden,SWE
+186287,Andreas Isaksson,0,23,88.0,199.0,SWE,43970,,1981-10-03,20.7,Goalkeeper,Sweden,SWE
+93581,Ali Boumnijel,0,1,80.0,188.0,TUN,43888,,1966-04-13,36.1,Goalkeeper,Tunisia,TUN
+158243,Khaled Badra,1,2,85.0,185.0,TUN,43888,,1973-04-08,29.1,Defender,Tunisia,TUN
+171150,Zoubeir Beya,2,3,72.0,178.0,TUN,43888,,1971-05-15,31.0,Midfielder,Tunisia,TUN
+158273,Mohamed Mkacher,1,4,71.0,180.0,TUN,43888,,1975-05-25,27.0,Defender,Tunisia,TUN
+176953,Zied Jaziri,3,5,71.0,171.0,TUN,43888,,1978-07-12,23.9,Striker,Tunisia,TUN
+170770,Hatem Trabelsi,1,6,74.0,180.0,TUN,43888,,1977-01-25,25.3,Defender,Tunisia,TUN
+4347,Imed Mhadhebi,3,7,69.0,175.0,TUN,43888,,1976-03-22,26.2,Striker,Tunisia,TUN
+159366,Hassan Gabsi,2,8,72.0,171.0,TUN,43888,,1974-02-23,28.3,Midfielder,Tunisia,TUN
+158269,Riadh Jelassi,3,9,72.0,175.0,TUN,43888,,1971-07-07,30.9,Striker,Tunisia,TUN
+158261,Kais Ghodhbane,2,10,78.0,183.0,TUN,43888,,1976-01-07,26.4,Midfielder,Tunisia,TUN
+376247,Adel El Sellimi,3,11,,,TUN,43888,,1972-11-16,29.5,Striker,Tunisia,TUN
+4339,Raouf Bouzaiene,1,12,73.0,174.0,TUN,43888,,1970-08-16,31.8,Defender,Tunisia,TUN
+213370,Riadh Bouazizi,2,13,76.0,186.0,TUN,43888,,1973-04-08,29.1,Midfielder,Tunisia,TUN
+185179,Hamdi Marzouki,1,14,79.0,182.0,TUN,43888,,1977-01-23,25.3,Defender,Tunisia,TUN
+158268,Radhi Jaidi,1,15,89.0,192.0,TUN,43888,,1975-08-30,26.8,Defender,Tunisia,TUN
+188247,Hassen Bejaoui,0,16,85.0,188.0,TUN,43888,,1976-02-14,26.3,Goalkeeper,Tunisia,TUN
+93598,Tarek Thabet,1,17,72.0,176.0,TUN,43888,,1971-08-16,30.8,Defender,Tunisia,TUN
+184259,Slim Benachour,2,18,73.0,170.0,TUN,43888,,1981-09-08,20.7,Midfielder,Tunisia,TUN
+4348,Emir Mkademi,1,19,74.0,178.0,TUN,43888,,1978-08-20,23.8,Defender,Tunisia,TUN
+177507,Ali Zitouni,3,20,78.0,178.0,TUN,43888,,1981-01-11,21.4,Striker,Tunisia,TUN
+213388,Mourad El Melki,2,21,,,TUN,43888,,1975-05-09,27.1,Midfielder,Tunisia,TUN
+188249,Ahmed Jaouachi,0,22,78.0,179.0,TUN,43888,,1975-07-13,26.9,Goalkeeper,Tunisia,TUN
+170737,Clayton,1,23,77.0,180.0,TUN,43888,,1974-03-21,28.2,Defender,Tunisia,TUN
+95586,Rustu Recber,0,1,76.0,186.0,TUR,43972,,1973-05-10,29.1,Goalkeeper,Turkey,TUR
+162055,Emre Asik,1,2,72.0,185.0,TUR,43972,,1973-12-13,28.5,Defender,Turkey,TUR
+167060,Bulent Korkmaz,1,3,79.0,181.0,TUR,43972,,1968-11-24,33.5,Defender,Turkey,TUR
+159357,Fatih Akyel,1,4,77.0,180.0,TUR,43972,,1977-12-26,24.4,Defender,Turkey,TUR
+177731,Alpay Ozalan,1,5,81.0,188.0,TUR,43972,,1973-05-29,29.0,Defender,Turkey,TUR
+158288,Arif Erdem,3,6,72.0,180.0,TUR,43972,,1972-01-02,30.4,Striker,Turkey,TUR
+177735,Okan Buruk,2,7,69.0,169.0,TUR,43972,,1973-10-19,28.6,Midfielder,Turkey,TUR
+95146,Tugay Kerimoglu,2,8,72.0,175.0,TUR,43972,,1970-08-24,31.8,Midfielder,Turkey,TUR
+163107,Hakan Sukur,3,9,81.0,191.0,TUR,43972,,1971-09-01,30.7,Striker,Turkey,TUR
+184392,Yildiray Basturk,2,10,65.0,168.0,TUR,43972,,1978-12-24,23.4,Midfielder,Turkey,TUR
+166347,Hasan Sas,3,11,71.0,176.0,TUR,43972,,1976-08-01,25.8,Striker,Turkey,TUR
+177724,Omer Catkic,0,12,70.0,173.0,TUR,43972,,1974-10-15,27.6,Goalkeeper,Turkey,TUR
+177727,Muzzy Izzet,2,13,76.0,177.0,TUR,43972,,1974-10-31,27.6,Midfielder,Turkey,TUR
+158312,Tayfur Havutcu,2,14,75.0,180.0,TUR,43972,,1970-04-23,32.1,Midfielder,Turkey,TUR
+179519,Nihat Kahveci,3,15,74.0,175.0,TUR,43972,,1979-11-23,22.5,Striker,Turkey,TUR
+182715,Umit Ozat,1,16,89.0,183.0,TUR,43972,,1976-10-30,25.6,Defender,Turkey,TUR
+186677,Ilhan Mansiz,3,17,79.0,184.0,TUR,43972,,1975-08-10,26.8,Striker,Turkey,TUR
+159350,Ergun Penbe,2,18,67.0,178.0,TUR,43972,,1972-05-17,30.0,Midfielder,Turkey,TUR
+160412,Abdullah Ercan,2,19,76.0,182.0,TUR,43972,,1971-12-08,30.5,Midfielder,Turkey,TUR
+166286,Hakan Unsal,1,20,78.0,178.0,TUR,43972,,1973-05-14,29.0,Defender,Turkey,TUR
+179306,Emre Belozoglu,2,21,66.0,171.0,TUR,43972,,1980-09-07,21.7,Midfielder,Turkey,TUR
+177734,Umit Davala,2,22,74.0,186.0,TUR,43972,,1973-07-30,28.8,Midfielder,Turkey,TUR
+189511,Zafer Ozgultekin,0,23,75.0,183.0,TUR,43972,,1975-03-10,27.2,Goalkeeper,Turkey,TUR
+77525,Brad Friedel,0,1,92.0,193.0,USA,43921,,1971-05-18,31.0,Goalkeeper,United States,USA
+158461,Frankie Hejduk,1,2,74.0,174.0,USA,43921,,1974-08-05,27.8,Defender,United States,USA
+178167,Gregg Berhalter,1,3,76.0,186.0,USA,43921,,1973-08-01,28.8,Defender,United States,USA
+188293,Pablo Mastroeni,1,4,78.0,178.0,USA,43921,,1976-08-29,25.8,Defender,United States,USA
+178412,John O Brien,2,5,73.0,178.0,USA,43921,,1977-08-29,24.8,Midfielder,United States,USA
+170842,David Regis,1,6,73.0,180.0,USA,43921,,1968-12-02,33.5,Defender,United States,USA
+178101,Eddie Lewis,2,7,71.0,178.0,USA,43921,,1974-05-17,28.0,Midfielder,United States,USA
+77535,Earnie Stewart,2,8,66.0,175.0,USA,43921,,1969-03-28,33.2,Midfielder,United States,USA
+77532,Joe Max Moore,3,9,68.0,175.0,USA,43921,,1971-02-23,31.3,Striker,United States,USA
+84703,Claudio Reyna,2,10,72.0,178.0,USA,43921,,1973-07-20,28.9,Midfielder,United States,USA
+178091,Clint Mathis,3,11,77.0,178.0,USA,43921,,1976-11-25,25.5,Striker,United States,USA
+158451,Jeff Agoos,1,12,79.0,183.0,USA,43921,,1968-05-02,34.1,Defender,United States,USA
+77526,Cobi Jones,2,13,66.0,170.0,USA,43921,,1970-06-16,32.0,Midfielder,United States,USA
+182797,Steve Cherundolo,1,14,66.0,168.0,USA,43921,,1979-02-19,23.3,Defender,United States,USA
+178418,Josh Wolff,3,15,72.0,175.0,USA,43921,,1977-02-25,25.3,Striker,United States,USA
+178760,Carlos Llamosa,1,16,76.0,180.0,USA,43921,,1969-06-30,32.9,Defender,United States,USA
+175498,Damarcus Beasley,2,17,64.0,170.0,USA,43921,,1982-05-24,20.0,Midfielder,United States,USA
+174656,Kasey Keller,0,18,86.0,188.0,USA,43921,,1969-11-29,32.5,Goalkeeper,United States,USA
+174765,Tony Meola,0,19,93.0,185.0,USA,43921,,1969-02-21,33.3,Goalkeeper,United States,USA
+158471,Brian Mcbride,3,20,77.0,185.0,USA,43921,,1972-06-19,29.9,Striker,United States,USA
+175507,Landon Donovan,2,21,67.0,173.0,USA,43921,,1982-03-04,20.2,Midfielder,United States,USA
+158477,Tony Sanneh,1,22,86.0,188.0,USA,43921,,1971-06-01,31.0,Defender,United States,USA
+158473,Eddie Pope,1,23,80.0,183.0,USA,43921,,1973-12-24,28.4,Defender,United States,USA
+4373,Fabian Carini,0,1,82.0,189.0,URU,43930,,1979-12-26,22.4,Goalkeeper,Uruguay,URU
+95028,Gustavo Mendez,1,2,73.0,176.0,URU,43930,,1971-02-03,31.3,Defender,Uruguay,URU
+4379,Alejandro Lembo,1,3,77.0,178.0,URU,43930,,1978-02-15,24.3,Defender,Uruguay,URU
+158427,Paolo Montero,1,4,74.0,179.0,URU,43930,,1971-09-03,30.7,Defender,Uruguay,URU
+177265,Pablo Garcia,2,5,78.0,186.0,URU,43930,,1977-05-11,25.1,Midfielder,Uruguay,URU
+4388,Dario Rodriguez,1,6,84.0,186.0,URU,43930,,1974-09-17,27.7,Defender,Uruguay,URU
+4378,Gianni Guigou,2,7,72.0,175.0,URU,43930,,1975-02-22,27.3,Midfielder,Uruguay,URU
+180546,Gustavo Varela,2,8,74.0,172.0,URU,43930,,1978-05-14,24.0,Midfielder,Uruguay,URU
+158445,Dario Silva,3,9,73.0,178.0,URU,43930,,1972-11-02,29.6,Striker,Uruguay,URU
+158429,Fabian O Neil,3,10,80.0,185.0,URU,43930,,1973-10-14,28.6,Striker,Uruguay,URU
+170118,Federico Magallanes,3,11,79.0,181.0,URU,43930,,1976-08-22,25.8,Striker,Uruguay,URU
+179286,Gustavo Munua,0,12,85.0,186.0,URU,43930,,1978-01-27,24.3,Goalkeeper,Uruguay,URU
+158398,Sebastian Abreu,3,13,84.0,193.0,URU,43930,,1976-10-17,25.6,Striker,Uruguay,URU
+178249,Gonzalo Sorondo,1,14,88.0,190.0,URU,43930,,1979-10-09,22.6,Defender,Uruguay,URU
+4383,Nicolas Olivera,2,15,66.0,166.0,URU,43930,,1978-05-30,24.0,Midfielder,Uruguay,URU
+158439,Marcelo Romero,2,16,73.0,176.0,URU,43930,,1976-07-04,25.9,Midfielder,Uruguay,URU
+179562,Mario Regueiro,3,17,76.0,178.0,URU,43930,,1978-09-14,23.7,Striker,Uruguay,URU
+185368,Richard Morales,3,18,90.0,197.0,URU,43930,,1975-02-21,27.3,Striker,Uruguay,URU
+179208,Joe Bizera,1,19,82.0,181.0,URU,43930,,1980-05-17,22.0,Defender,Uruguay,URU
+158435,Alvaro Recoba,3,20,77.0,178.0,URU,43930,,1976-03-17,26.2,Striker,Uruguay,URU
+189259,Diego Forlan,3,21,75.0,181.0,URU,43930,,1979-05-19,23.0,Striker,Uruguay,URU
+187248,Gonzalo De Los Santos,2,22,82.0,186.0,URU,43930,,1976-07-19,25.9,Midfielder,Uruguay,URU
+189767,Federico Elduayen,0,23,80.0,181.0,URU,43930,,1977-06-25,24.9,Goalkeeper,Uruguay,URU

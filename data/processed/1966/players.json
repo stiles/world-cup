@@ -10,7 +10,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1937-07-12",
-    "age":88.9,
+    "age":29.0,
     "position_desc":"Goalkeeper",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -26,7 +26,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1938-03-27",
-    "age":88.2,
+    "age":28.3,
     "position_desc":"Goalkeeper",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -42,7 +42,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1944-08-19",
-    "age":81.8,
+    "age":21.9,
     "position_desc":"Goalkeeper",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -58,7 +58,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1942-10-03",
-    "age":83.7,
+    "age":23.8,
     "position_desc":"Defender",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -74,7 +74,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1932-05-27",
-    "age":94.0,
+    "age":34.1,
     "position_desc":"Midfielder",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -90,7 +90,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1939-11-18",
-    "age":86.6,
+    "age":26.6,
     "position_desc":"Defender",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -106,7 +106,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1940-10-04",
-    "age":85.7,
+    "age":25.8,
     "position_desc":"Defender",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -122,7 +122,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1935-04-25",
-    "age":91.1,
+    "age":31.2,
     "position_desc":"Defender",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -138,7 +138,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1934-09-22",
-    "age":91.7,
+    "age":31.8,
     "position_desc":"Midfielder",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -154,7 +154,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1937-05-16",
-    "age":89.1,
+    "age":29.2,
     "position_desc":"Midfielder",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -170,7 +170,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1942-05-23",
-    "age":84.1,
+    "age":24.1,
     "position_desc":"Midfielder",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -186,7 +186,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1941-08-23",
-    "age":84.8,
+    "age":24.9,
     "position_desc":"Midfielder",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -202,7 +202,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1941-06-24",
-    "age":85.0,
+    "age":25.0,
     "position_desc":"Defender",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -218,7 +218,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1942-06-06",
-    "age":84.0,
+    "age":24.1,
     "position_desc":"Striker",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -234,7 +234,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1941-11-11",
-    "age":84.6,
+    "age":24.7,
     "position_desc":"Striker",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -250,7 +250,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1941-08-21",
-    "age":84.8,
+    "age":24.9,
     "position_desc":"Striker",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -266,7 +266,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1942-01-22",
-    "age":84.4,
+    "age":24.5,
     "position_desc":"Midfielder",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -282,7 +282,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1937-02-20",
-    "age":89.3,
+    "age":29.4,
     "position_desc":"Striker",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -298,7 +298,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1938-12-02",
-    "age":87.5,
+    "age":27.6,
     "position_desc":"Striker",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -314,7 +314,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1940-04-30",
-    "age":86.1,
+    "age":26.2,
     "position_desc":"Striker",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -330,7 +330,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1946-10-29",
-    "age":79.6,
+    "age":19.7,
     "position_desc":"Striker",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -346,7 +346,7 @@
     "id_team":"43922",
     "picture_url":null,
     "dob":"1941-08-04",
-    "age":84.9,
+    "age":24.9,
     "position_desc":"Striker",
     "team_name":"Argentina",
     "team_abbr":"ARG"
@@ -362,7 +362,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1930-08-22",
-    "age":95.8,
+    "age":35.9,
     "position_desc":"Goalkeeper",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -378,7 +378,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1929-02-27",
-    "age":97.3,
+    "age":37.4,
     "position_desc":"Defender",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -394,7 +394,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1944-03-13",
-    "age":82.3,
+    "age":22.3,
     "position_desc":"Defender",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -410,7 +410,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1930-06-07",
-    "age":96.0,
+    "age":36.1,
     "position_desc":"Defender",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -426,7 +426,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1939-08-09",
-    "age":86.8,
+    "age":26.9,
     "position_desc":"Defender",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -442,7 +442,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1938-01-22",
-    "age":88.4,
+    "age":28.5,
     "position_desc":"Defender",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -458,7 +458,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1935-09-20",
-    "age":90.7,
+    "age":30.8,
     "position_desc":"Defender",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -474,7 +474,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1943-01-05",
-    "age":83.4,
+    "age":23.5,
     "position_desc":"Defender",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -490,7 +490,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1942-01-23",
-    "age":84.4,
+    "age":24.5,
     "position_desc":"Defender",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -506,7 +506,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1940-10-23",
-    "age":85.6,
+    "age":25.7,
     "position_desc":"Striker",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -522,7 +522,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1941-01-11",
-    "age":85.4,
+    "age":25.5,
     "position_desc":"Midfielder",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -538,7 +538,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1937-04-26",
-    "age":89.1,
+    "age":29.2,
     "position_desc":"Goalkeeper",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -554,7 +554,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1943-03-28",
-    "age":83.2,
+    "age":23.3,
     "position_desc":"Midfielder",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -570,7 +570,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1942-01-18",
-    "age":84.4,
+    "age":24.5,
     "position_desc":"Midfielder",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -586,7 +586,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1932-08-08",
-    "age":93.8,
+    "age":33.9,
     "position_desc":"Midfielder",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -602,7 +602,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1933-10-28",
-    "age":92.6,
+    "age":32.7,
     "position_desc":"Striker",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -618,7 +618,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1944-12-25",
-    "age":81.5,
+    "age":21.5,
     "position_desc":"Striker",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -634,7 +634,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1945-03-31",
-    "age":81.2,
+    "age":21.3,
     "position_desc":"Striker",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -650,7 +650,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1940-01-02",
-    "age":86.4,
+    "age":26.5,
     "position_desc":"Striker",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -666,7 +666,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1947-01-25",
-    "age":79.4,
+    "age":19.5,
     "position_desc":"Midfielder",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -682,7 +682,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1942-03-21",
-    "age":84.2,
+    "age":24.3,
     "position_desc":"Striker",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -698,7 +698,7 @@
     "id_team":"43924",
     "picture_url":null,
     "dob":"1949-08-06",
-    "age":76.9,
+    "age":16.9,
     "position_desc":"Striker",
     "team_name":"Brazil",
     "team_abbr":"BRA"
@@ -714,7 +714,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1931-12-21",
-    "age":94.5,
+    "age":34.6,
     "position_desc":"Goalkeeper",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -730,7 +730,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1941-09-04",
-    "age":84.8,
+    "age":24.8,
     "position_desc":"Defender",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -746,7 +746,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1939-12-14",
-    "age":86.5,
+    "age":26.6,
     "position_desc":"Defender",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -762,7 +762,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1941-10-07",
-    "age":84.7,
+    "age":24.8,
     "position_desc":"Defender",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -778,7 +778,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1945-07-12",
-    "age":80.9,
+    "age":21.0,
     "position_desc":"Defender",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -794,7 +794,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1942-11-12",
-    "age":83.6,
+    "age":23.7,
     "position_desc":"Striker",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -810,7 +810,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1941-06-02",
-    "age":85.0,
+    "age":25.1,
     "position_desc":"Midfielder",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -826,7 +826,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1938-08-27",
-    "age":87.8,
+    "age":27.9,
     "position_desc":"Midfielder",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -842,7 +842,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1943-05-04",
-    "age":83.1,
+    "age":23.2,
     "position_desc":"Striker",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -858,7 +858,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1944-10-10",
-    "age":81.7,
+    "age":21.7,
     "position_desc":"Striker",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -874,7 +874,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1930-11-01",
-    "age":95.6,
+    "age":35.7,
     "position_desc":"Striker",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -890,7 +890,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1935-01-06",
-    "age":91.4,
+    "age":31.5,
     "position_desc":"Defender",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -906,7 +906,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1941-08-12",
-    "age":84.8,
+    "age":24.9,
     "position_desc":"Striker",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -922,7 +922,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1938-12-09",
-    "age":87.5,
+    "age":27.6,
     "position_desc":"Striker",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -938,7 +938,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1936-09-10",
-    "age":89.8,
+    "age":29.8,
     "position_desc":"Defender",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -954,7 +954,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1938-03-05",
-    "age":88.3,
+    "age":28.4,
     "position_desc":"Striker",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -970,7 +970,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1934-07-03",
-    "age":91.9,
+    "age":32.0,
     "position_desc":"Striker",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -986,7 +986,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1939-09-05",
-    "age":86.8,
+    "age":26.8,
     "position_desc":"Midfielder",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -1002,7 +1002,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1941-10-17",
-    "age":84.7,
+    "age":24.7,
     "position_desc":"Defender",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -1018,7 +1018,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1943-10-05",
-    "age":82.7,
+    "age":22.8,
     "position_desc":"Midfielder",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -1034,7 +1034,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1946-04-26",
-    "age":80.1,
+    "age":20.2,
     "position_desc":"Goalkeeper",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -1050,7 +1050,7 @@
     "id_team":"43936",
     "picture_url":null,
     "dob":"1937-12-16",
-    "age":88.5,
+    "age":28.6,
     "position_desc":"Goalkeeper",
     "team_name":"Bulgaria",
     "team_abbr":"BUL"
@@ -1066,7 +1066,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1942-01-23",
-    "age":84.4,
+    "age":24.5,
     "position_desc":"Striker",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1082,7 +1082,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1941-12-31",
-    "age":84.5,
+    "age":24.5,
     "position_desc":"Defender",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1098,7 +1098,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1937-02-14",
-    "age":89.3,
+    "age":29.4,
     "position_desc":"Striker",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1114,7 +1114,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1939-12-08",
-    "age":86.5,
+    "age":26.6,
     "position_desc":"Midfielder",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1130,7 +1130,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1938-10-09",
-    "age":87.7,
+    "age":27.8,
     "position_desc":"Defender",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1146,7 +1146,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1939-06-22",
-    "age":87.0,
+    "age":27.1,
     "position_desc":"Defender",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1162,7 +1162,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1946-10-25",
-    "age":79.6,
+    "age":19.7,
     "position_desc":"Defender",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1178,7 +1178,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1940-11-22",
-    "age":85.6,
+    "age":25.6,
     "position_desc":"Midfielder",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1194,7 +1194,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1936-11-26",
-    "age":89.5,
+    "age":29.6,
     "position_desc":"Goalkeeper",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1210,7 +1210,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1944-07-30",
-    "age":81.9,
+    "age":21.9,
     "position_desc":"Midfielder",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1226,7 +1226,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1942-06-01",
-    "age":84.0,
+    "age":24.1,
     "position_desc":"Striker",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1242,7 +1242,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1942-12-06",
-    "age":83.5,
+    "age":23.6,
     "position_desc":"Midfielder",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1258,7 +1258,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1941-02-20",
-    "age":85.3,
+    "age":25.4,
     "position_desc":"Goalkeeper",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1274,7 +1274,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1943-09-23",
-    "age":82.7,
+    "age":22.8,
     "position_desc":"Midfielder",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1290,7 +1290,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1931-08-14",
-    "age":94.8,
+    "age":34.9,
     "position_desc":"Striker",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1306,7 +1306,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1943-05-07",
-    "age":83.1,
+    "age":23.2,
     "position_desc":"Striker",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1322,7 +1322,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1936-04-25",
-    "age":90.1,
+    "age":30.2,
     "position_desc":"Midfielder",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1338,7 +1338,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1938-06-07",
-    "age":88.0,
+    "age":28.1,
     "position_desc":"Striker",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1354,7 +1354,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1943-03-19",
-    "age":83.2,
+    "age":23.3,
     "position_desc":"Striker",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1370,7 +1370,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1938-11-25",
-    "age":87.6,
+    "age":27.6,
     "position_desc":"Defender",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1386,7 +1386,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1939-04-09",
-    "age":87.2,
+    "age":27.3,
     "position_desc":"Defender",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1402,7 +1402,7 @@
     "id_team":"43925",
     "picture_url":null,
     "dob":"1943-03-26",
-    "age":83.2,
+    "age":23.3,
     "position_desc":"Striker",
     "team_name":"Chile",
     "team_abbr":"CHI"
@@ -1418,7 +1418,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1937-12-30",
-    "age":88.5,
+    "age":28.5,
     "position_desc":"Goalkeeper",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1434,7 +1434,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1939-10-22",
-    "age":86.6,
+    "age":26.7,
     "position_desc":"Defender",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1450,7 +1450,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1934-12-17",
-    "age":91.5,
+    "age":31.6,
     "position_desc":"Defender",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1466,7 +1466,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1942-05-18",
-    "age":84.1,
+    "age":24.1,
     "position_desc":"Midfielder",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1482,7 +1482,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1935-05-08",
-    "age":91.1,
+    "age":31.2,
     "position_desc":"Defender",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1498,7 +1498,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1941-04-12",
-    "age":85.2,
+    "age":25.2,
     "position_desc":"Defender",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1514,7 +1514,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1945-05-12",
-    "age":81.1,
+    "age":21.2,
     "position_desc":"Midfielder",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1530,7 +1530,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1940-02-20",
-    "age":86.3,
+    "age":26.4,
     "position_desc":"Striker",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1546,7 +1546,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1937-10-11",
-    "age":88.7,
+    "age":28.7,
     "position_desc":"Striker",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1562,7 +1562,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1941-12-08",
-    "age":84.5,
+    "age":24.6,
     "position_desc":"Striker",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1578,7 +1578,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1938-07-18",
-    "age":87.9,
+    "age":28.0,
     "position_desc":"Striker",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1594,7 +1594,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1935-07-22",
-    "age":90.9,
+    "age":31.0,
     "position_desc":"Goalkeeper",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1610,7 +1610,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1941-09-27",
-    "age":84.7,
+    "age":24.8,
     "position_desc":"Goalkeeper",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1626,7 +1626,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1935-09-21",
-    "age":90.7,
+    "age":30.8,
     "position_desc":"Defender",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1642,7 +1642,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1938-08-29",
-    "age":87.8,
+    "age":27.9,
     "position_desc":"Defender",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1658,7 +1658,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1943-11-08",
-    "age":82.6,
+    "age":22.7,
     "position_desc":"Midfielder",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1674,7 +1674,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1934-07-28",
-    "age":91.9,
+    "age":32.0,
     "position_desc":"Midfielder",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1690,7 +1690,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1943-10-29",
-    "age":82.6,
+    "age":22.7,
     "position_desc":"Defender",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1706,7 +1706,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1939-03-23",
-    "age":87.2,
+    "age":27.3,
     "position_desc":"Striker",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1722,7 +1722,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1942-04-10",
-    "age":84.2,
+    "age":24.3,
     "position_desc":"Midfielder",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1738,7 +1738,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1938-07-20",
-    "age":87.9,
+    "age":28.0,
     "position_desc":"Striker",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1754,7 +1754,7 @@
     "id_team":"43942",
     "picture_url":null,
     "dob":"1936-09-23",
-    "age":89.7,
+    "age":29.8,
     "position_desc":"Striker",
     "team_name":"England",
     "team_abbr":"ENG"
@@ -1770,7 +1770,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1940-06-17",
-    "age":86.0,
+    "age":26.1,
     "position_desc":"Goalkeeper",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -1786,7 +1786,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1938-07-02",
-    "age":88.0,
+    "age":28.0,
     "position_desc":"Midfielder",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -1802,7 +1802,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1942-10-19",
-    "age":83.7,
+    "age":23.7,
     "position_desc":"Striker",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -1818,7 +1818,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1939-01-04",
-    "age":87.4,
+    "age":27.5,
     "position_desc":"Midfielder",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -1834,7 +1834,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1942-06-19",
-    "age":84.0,
+    "age":24.1,
     "position_desc":"Defender",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -1850,7 +1850,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1940-05-21",
-    "age":86.1,
+    "age":26.1,
     "position_desc":"Defender",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -1866,7 +1866,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1938-02-20",
-    "age":88.3,
+    "age":28.4,
     "position_desc":"Defender",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -1882,7 +1882,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1940-12-29",
-    "age":85.5,
+    "age":25.5,
     "position_desc":"Striker",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -1898,7 +1898,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1944-07-25",
-    "age":81.9,
+    "age":22.0,
     "position_desc":"Striker",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -1914,7 +1914,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1934-07-23",
-    "age":91.9,
+    "age":32.0,
     "position_desc":"Striker",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -1930,7 +1930,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1941-03-06",
-    "age":85.3,
+    "age":25.3,
     "position_desc":"Defender",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -1946,7 +1946,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1939-10-27",
-    "age":86.6,
+    "age":26.7,
     "position_desc":"Defender",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -1962,7 +1962,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1942-05-17",
-    "age":84.1,
+    "age":24.2,
     "position_desc":"Striker",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -1978,7 +1978,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1939-03-18",
-    "age":87.2,
+    "age":27.3,
     "position_desc":"Striker",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -1994,7 +1994,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1945-08-17",
-    "age":80.8,
+    "age":20.9,
     "position_desc":"Midfielder",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -2010,7 +2010,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1939-03-30",
-    "age":87.2,
+    "age":27.3,
     "position_desc":"Midfielder",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -2026,7 +2026,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1934-09-03",
-    "age":91.8,
+    "age":31.9,
     "position_desc":"Midfielder",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -2042,7 +2042,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1940-05-27",
-    "age":86.0,
+    "age":26.1,
     "position_desc":"Midfielder",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -2058,7 +2058,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1935-10-05",
-    "age":90.7,
+    "age":30.8,
     "position_desc":"Striker",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -2074,7 +2074,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1941-03-20",
-    "age":85.2,
+    "age":25.3,
     "position_desc":"Striker",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -2090,7 +2090,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1942-08-13",
-    "age":83.8,
+    "age":23.9,
     "position_desc":"Goalkeeper",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -2106,7 +2106,7 @@
     "id_team":"43946",
     "picture_url":null,
     "dob":"1941-12-07",
-    "age":84.5,
+    "age":24.6,
     "position_desc":"Goalkeeper",
     "team_name":"France",
     "team_abbr":"FRA"
@@ -2122,7 +2122,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1935-07-12",
-    "age":90.9,
+    "age":31.0,
     "position_desc":"Goalkeeper",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2138,7 +2138,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1943-09-10",
-    "age":82.8,
+    "age":22.8,
     "position_desc":"Defender",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2154,7 +2154,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1939-03-31",
-    "age":87.2,
+    "age":27.3,
     "position_desc":"Defender",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2170,7 +2170,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1945-09-11",
-    "age":80.8,
+    "age":20.8,
     "position_desc":"Midfielder",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2186,7 +2186,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1938-10-04",
-    "age":87.7,
+    "age":27.8,
     "position_desc":"Defender",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2202,7 +2202,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1944-06-26",
-    "age":82.0,
+    "age":22.0,
     "position_desc":"Defender",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2218,7 +2218,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1937-03-26",
-    "age":89.2,
+    "age":29.3,
     "position_desc":"Midfielder",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2234,7 +2234,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1939-07-21",
-    "age":86.9,
+    "age":27.0,
     "position_desc":"Midfielder",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2250,7 +2250,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1936-11-05",
-    "age":89.6,
+    "age":29.7,
     "position_desc":"Striker",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2266,7 +2266,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1942-08-07",
-    "age":83.9,
+    "age":23.9,
     "position_desc":"Striker",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2282,7 +2282,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1941-11-29",
-    "age":84.5,
+    "age":24.6,
     "position_desc":"Striker",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2298,7 +2298,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1943-09-29",
-    "age":82.7,
+    "age":22.8,
     "position_desc":"Midfielder",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2314,7 +2314,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1937-09-28",
-    "age":88.7,
+    "age":28.8,
     "position_desc":"Striker",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2330,7 +2330,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1939-01-21",
-    "age":87.4,
+    "age":27.5,
     "position_desc":"Defender",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2346,7 +2346,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1943-03-14",
-    "age":83.3,
+    "age":23.3,
     "position_desc":"Defender",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2362,7 +2362,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1939-08-19",
-    "age":86.8,
+    "age":26.9,
     "position_desc":"Midfielder",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2378,7 +2378,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1940-01-25",
-    "age":86.4,
+    "age":26.5,
     "position_desc":"Defender",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2394,7 +2394,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1942-02-27",
-    "age":84.3,
+    "age":24.4,
     "position_desc":"Defender",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2410,7 +2410,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1940-01-23",
-    "age":86.4,
+    "age":26.5,
     "position_desc":"Striker",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2426,7 +2426,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1944-07-07",
-    "age":81.9,
+    "age":22.0,
     "position_desc":"Striker",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2442,7 +2442,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1939-11-04",
-    "age":86.6,
+    "age":26.7,
     "position_desc":"Goalkeeper",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2458,7 +2458,7 @@
     "id_team":"44023",
     "picture_url":null,
     "dob":"1944-02-28",
-    "age":82.3,
+    "age":22.4,
     "position_desc":"Goalkeeper",
     "team_name":"Germany FR",
     "team_abbr":"FRG"
@@ -2474,7 +2474,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1939-06-13",
-    "age":87.0,
+    "age":27.1,
     "position_desc":"Goalkeeper",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2490,7 +2490,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1942-06-07",
-    "age":84.0,
+    "age":24.1,
     "position_desc":"Defender",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2506,7 +2506,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1932-11-20",
-    "age":93.6,
+    "age":33.6,
     "position_desc":"Defender",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2522,7 +2522,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1940-12-21",
-    "age":85.5,
+    "age":25.6,
     "position_desc":"Defender",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2538,7 +2538,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1941-07-16",
-    "age":84.9,
+    "age":25.0,
     "position_desc":"Defender",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2554,7 +2554,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1932-12-13",
-    "age":93.5,
+    "age":33.6,
     "position_desc":"Midfielder",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2570,7 +2570,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1944-12-17",
-    "age":81.5,
+    "age":21.6,
     "position_desc":"Striker",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2586,7 +2586,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1945-01-01",
-    "age":81.4,
+    "age":21.5,
     "position_desc":"Midfielder",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2602,7 +2602,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1941-09-15",
-    "age":84.7,
+    "age":24.8,
     "position_desc":"Striker",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2618,7 +2618,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1942-03-27",
-    "age":84.2,
+    "age":24.3,
     "position_desc":"Striker",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2634,7 +2634,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1938-10-09",
-    "age":87.7,
+    "age":27.8,
     "position_desc":"Striker",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2650,7 +2650,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1933-09-20",
-    "age":92.7,
+    "age":32.8,
     "position_desc":"Striker",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2666,7 +2666,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1937-03-25",
-    "age":89.2,
+    "age":29.3,
     "position_desc":"Midfielder",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2682,7 +2682,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1939-04-14",
-    "age":87.2,
+    "age":27.2,
     "position_desc":"Midfielder",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2698,7 +2698,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1939-12-02",
-    "age":86.5,
+    "age":26.6,
     "position_desc":"Striker",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2714,7 +2714,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1935-03-21",
-    "age":91.2,
+    "age":31.3,
     "position_desc":"Striker",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2730,7 +2730,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1939-07-17",
-    "age":86.9,
+    "age":27.0,
     "position_desc":"Defender",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2746,7 +2746,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1941-03-06",
-    "age":85.3,
+    "age":25.3,
     "position_desc":"Defender",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2762,7 +2762,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1944-08-03",
-    "age":81.9,
+    "age":21.9,
     "position_desc":"Striker",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2778,7 +2778,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1944-06-16",
-    "age":82.0,
+    "age":22.1,
     "position_desc":"Striker",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2794,7 +2794,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1938-06-29",
-    "age":88.0,
+    "age":28.0,
     "position_desc":"Goalkeeper",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2810,7 +2810,7 @@
     "id_team":"43950",
     "picture_url":null,
     "dob":"1944-03-16",
-    "age":82.2,
+    "age":22.3,
     "position_desc":"Goalkeeper",
     "team_name":"Hungary",
     "team_abbr":"HUN"
@@ -2826,7 +2826,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1939-11-02",
-    "age":86.6,
+    "age":26.7,
     "position_desc":"Goalkeeper",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -2842,7 +2842,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1938-04-18",
-    "age":88.2,
+    "age":28.2,
     "position_desc":"Goalkeeper",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -2858,7 +2858,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1936-06-23",
-    "age":90.0,
+    "age":30.0,
     "position_desc":"Striker",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -2874,7 +2874,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1940-10-24",
-    "age":85.6,
+    "age":25.7,
     "position_desc":"Midfielder",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -2890,7 +2890,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1939-04-25",
-    "age":87.1,
+    "age":27.2,
     "position_desc":"Defender",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -2906,7 +2906,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1942-07-18",
-    "age":83.9,
+    "age":24.0,
     "position_desc":"Defender",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -2922,7 +2922,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1938-01-21",
-    "age":88.4,
+    "age":28.5,
     "position_desc":"Midfielder",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -2938,7 +2938,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1938-03-07",
-    "age":88.3,
+    "age":28.3,
     "position_desc":"Defender",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -2954,7 +2954,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1937-03-27",
-    "age":89.2,
+    "age":29.3,
     "position_desc":"Defender",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -2970,7 +2970,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1943-01-01",
-    "age":83.4,
+    "age":23.5,
     "position_desc":"Midfielder",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -2986,7 +2986,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1944-01-31",
-    "age":82.4,
+    "age":22.4,
     "position_desc":"Defender",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -3002,7 +3002,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1939-09-25",
-    "age":86.7,
+    "age":26.8,
     "position_desc":"Midfielder",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -3018,7 +3018,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1942-08-10",
-    "age":83.8,
+    "age":23.9,
     "position_desc":"Midfielder",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -3034,7 +3034,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1942-11-08",
-    "age":83.6,
+    "age":23.7,
     "position_desc":"Midfielder",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -3050,7 +3050,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1943-02-24",
-    "age":83.3,
+    "age":23.4,
     "position_desc":"Striker",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -3066,7 +3066,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1937-06-01",
-    "age":89.0,
+    "age":29.1,
     "position_desc":"Striker",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -3082,7 +3082,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1939-10-27",
-    "age":86.6,
+    "age":26.7,
     "position_desc":"Striker",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -3098,7 +3098,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1939-09-14",
-    "age":86.7,
+    "age":26.8,
     "position_desc":"Goalkeeper",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -3114,7 +3114,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1943-08-18",
-    "age":82.8,
+    "age":22.9,
     "position_desc":"Midfielder",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -3130,7 +3130,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1943-05-30",
-    "age":83.0,
+    "age":23.1,
     "position_desc":"Midfielder",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -3146,7 +3146,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1943-08-18",
-    "age":82.8,
+    "age":22.9,
     "position_desc":"Defender",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -3162,7 +3162,7 @@
     "id_team":"43954",
     "picture_url":null,
     "dob":"1939-11-29",
-    "age":86.5,
+    "age":26.6,
     "position_desc":"Defender",
     "team_name":"Italy",
     "team_abbr":"ITA"
@@ -3178,7 +3178,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1947-01-02",
-    "age":79.4,
+    "age":19.5,
     "position_desc":"Goalkeeper",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3194,7 +3194,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1944-01-06",
-    "age":82.4,
+    "age":22.5,
     "position_desc":"Defender",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3210,7 +3210,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1942-03-30",
-    "age":84.2,
+    "age":24.3,
     "position_desc":"Defender",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3226,7 +3226,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1943-11-07",
-    "age":82.6,
+    "age":22.7,
     "position_desc":"Defender",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3242,7 +3242,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1943-07-16",
-    "age":82.9,
+    "age":23.0,
     "position_desc":"Defender",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3258,7 +3258,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1946-02-03",
-    "age":80.4,
+    "age":20.4,
     "position_desc":"Midfielder",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3274,7 +3274,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1942-03-17",
-    "age":84.2,
+    "age":24.3,
     "position_desc":"Midfielder",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3290,7 +3290,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1941-01-11",
-    "age":85.4,
+    "age":25.5,
     "position_desc":"Striker",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3306,7 +3306,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1940-07-07",
-    "age":85.9,
+    "age":26.0,
     "position_desc":"Goalkeeper",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3322,7 +3322,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1942-04-25",
-    "age":84.1,
+    "age":24.2,
     "position_desc":"Midfielder",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3338,7 +3338,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1945-09-02",
-    "age":80.8,
+    "age":20.9,
     "position_desc":"Midfielder",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3354,7 +3354,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1945-09-02",
-    "age":80.8,
+    "age":20.9,
     "position_desc":"Striker",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3370,7 +3370,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1941-08-06",
-    "age":84.9,
+    "age":24.9,
     "position_desc":"Midfielder",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3386,7 +3386,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1942-04-20",
-    "age":84.2,
+    "age":24.2,
     "position_desc":"Midfielder",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3402,7 +3402,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1944-08-19",
-    "age":81.8,
+    "age":21.9,
     "position_desc":"Striker",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3418,7 +3418,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1945-07-04",
-    "age":80.9,
+    "age":21.0,
     "position_desc":"Defender",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3434,7 +3434,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1939-07-04",
-    "age":86.9,
+    "age":27.0,
     "position_desc":"Striker",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3450,7 +3450,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1943-12-26",
-    "age":82.5,
+    "age":22.5,
     "position_desc":"Striker",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3466,7 +3466,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1944-01-29",
-    "age":82.4,
+    "age":22.4,
     "position_desc":"Striker",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3482,7 +3482,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1940-11-05",
-    "age":85.6,
+    "age":25.7,
     "position_desc":"Striker",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3498,7 +3498,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1946-10-29",
-    "age":79.6,
+    "age":19.7,
     "position_desc":"Striker",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3514,7 +3514,7 @@
     "id_team":"43821",
     "picture_url":null,
     "dob":"1945-07-07",
-    "age":80.9,
+    "age":21.0,
     "position_desc":"Striker",
     "team_name":"Korea DPR",
     "team_abbr":"PRK"
@@ -3530,7 +3530,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1929-06-07",
-    "age":97.0,
+    "age":37.1,
     "position_desc":"Goalkeeper",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3546,7 +3546,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1937-03-14",
-    "age":89.3,
+    "age":29.3,
     "position_desc":"Defender",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3562,7 +3562,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1941-11-22",
-    "age":84.6,
+    "age":24.6,
     "position_desc":"Defender",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3578,7 +3578,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1937-11-30",
-    "age":88.5,
+    "age":28.6,
     "position_desc":"Defender",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3594,7 +3594,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1938-07-31",
-    "age":87.9,
+    "age":27.9,
     "position_desc":"Defender",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3610,7 +3610,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1940-03-14",
-    "age":86.3,
+    "age":26.3,
     "position_desc":"Midfielder",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3626,7 +3626,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1941-02-16",
-    "age":85.3,
+    "age":25.4,
     "position_desc":"Striker",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3642,7 +3642,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1942-07-10",
-    "age":83.9,
+    "age":24.0,
     "position_desc":"Striker",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3658,7 +3658,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1940-10-26",
-    "age":85.6,
+    "age":25.7,
     "position_desc":"Midfielder",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3674,7 +3674,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1942-04-19",
-    "age":84.2,
+    "age":24.2,
     "position_desc":"Striker",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3690,7 +3690,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1941-02-03",
-    "age":85.4,
+    "age":25.4,
     "position_desc":"Striker",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3706,7 +3706,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1943-12-13",
-    "age":82.5,
+    "age":22.6,
     "position_desc":"Goalkeeper",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3722,7 +3722,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1942-09-14",
-    "age":83.7,
+    "age":23.8,
     "position_desc":"Defender",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3738,7 +3738,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1942-02-06",
-    "age":84.4,
+    "age":24.4,
     "position_desc":"Defender",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3754,7 +3754,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1942-06-25",
-    "age":84.0,
+    "age":24.0,
     "position_desc":"Midfielder",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3770,7 +3770,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1943-12-22",
-    "age":82.5,
+    "age":22.6,
     "position_desc":"Midfielder",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3786,7 +3786,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1944-04-04",
-    "age":82.2,
+    "age":22.3,
     "position_desc":"Midfielder",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3802,7 +3802,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1941-11-03",
-    "age":84.6,
+    "age":24.7,
     "position_desc":"Striker",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3818,7 +3818,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1936-09-20",
-    "age":89.7,
+    "age":29.8,
     "position_desc":"Striker",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3834,7 +3834,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1945-12-30",
-    "age":80.5,
+    "age":20.5,
     "position_desc":"Striker",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3850,7 +3850,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1943-05-25",
-    "age":83.1,
+    "age":23.1,
     "position_desc":"Striker",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3866,7 +3866,7 @@
     "id_team":"43911",
     "picture_url":null,
     "dob":"1941-11-22",
-    "age":84.6,
+    "age":24.6,
     "position_desc":"Goalkeeper",
     "team_name":"Mexico",
     "team_abbr":"MEX"
@@ -3882,7 +3882,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1933-03-06",
-    "age":93.3,
+    "age":33.3,
     "position_desc":"Goalkeeper",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -3898,7 +3898,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1937-04-18",
-    "age":89.2,
+    "age":29.2,
     "position_desc":"Goalkeeper",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -3914,7 +3914,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1931-09-15",
-    "age":94.7,
+    "age":34.8,
     "position_desc":"Goalkeeper",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -3930,7 +3930,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1935-09-24",
-    "age":90.7,
+    "age":30.8,
     "position_desc":"Defender",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -3946,7 +3946,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1932-12-23",
-    "age":93.5,
+    "age":33.5,
     "position_desc":"Defender",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -3962,7 +3962,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1942-01-08",
-    "age":84.4,
+    "age":24.5,
     "position_desc":"Midfielder",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -3978,7 +3978,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1937-07-06",
-    "age":88.9,
+    "age":29.0,
     "position_desc":"Striker",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -3994,7 +3994,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1942-04-08",
-    "age":84.2,
+    "age":24.3,
     "position_desc":"Striker",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -4010,7 +4010,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1939-03-19",
-    "age":87.2,
+    "age":27.3,
     "position_desc":"Defender",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -4026,7 +4026,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1935-08-06",
-    "age":90.9,
+    "age":30.9,
     "position_desc":"Midfielder",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -4042,7 +4042,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1943-12-14",
-    "age":82.5,
+    "age":22.6,
     "position_desc":"Striker",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -4058,7 +4058,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1937-04-13",
-    "age":89.2,
+    "age":29.2,
     "position_desc":"Striker",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -4074,7 +4074,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1942-01-25",
-    "age":84.4,
+    "age":24.5,
     "position_desc":"Striker",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -4090,7 +4090,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1940-08-12",
-    "age":85.8,
+    "age":25.9,
     "position_desc":"Defender",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -4106,7 +4106,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1943-05-20",
-    "age":83.1,
+    "age":23.1,
     "position_desc":"Striker",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -4122,7 +4122,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1942-01-10",
-    "age":84.4,
+    "age":24.5,
     "position_desc":"Midfielder",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -4138,7 +4138,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1935-03-06",
-    "age":91.3,
+    "age":31.3,
     "position_desc":"Defender",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -4154,7 +4154,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1938-09-08",
-    "age":87.8,
+    "age":27.8,
     "position_desc":"Striker",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -4170,7 +4170,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1939-11-07",
-    "age":86.6,
+    "age":26.7,
     "position_desc":"Midfielder",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -4186,7 +4186,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1941-02-17",
-    "age":85.3,
+    "age":25.4,
     "position_desc":"Defender",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -4202,7 +4202,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1941-09-22",
-    "age":84.7,
+    "age":24.8,
     "position_desc":"Defender",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -4218,7 +4218,7 @@
     "id_team":"43963",
     "picture_url":null,
     "dob":"1939-07-21",
-    "age":86.9,
+    "age":27.0,
     "position_desc":"Defender",
     "team_name":"Portugal",
     "team_abbr":"POR"
@@ -4234,7 +4234,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1929-10-22",
-    "age":96.6,
+    "age":36.7,
     "position_desc":"Goalkeeper",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4250,7 +4250,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1940-03-29",
-    "age":86.2,
+    "age":26.3,
     "position_desc":"Striker",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4266,7 +4266,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1936-01-17",
-    "age":90.4,
+    "age":30.5,
     "position_desc":"Defender",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4282,7 +4282,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1940-02-18",
-    "age":86.3,
+    "age":26.4,
     "position_desc":"Defender",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4298,7 +4298,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1939-12-22",
-    "age":86.5,
+    "age":26.6,
     "position_desc":"Defender",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4314,7 +4314,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1941-06-20",
-    "age":85.0,
+    "age":25.1,
     "position_desc":"Defender",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4330,7 +4330,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1943-01-05",
-    "age":83.4,
+    "age":23.5,
     "position_desc":"Midfielder",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4346,7 +4346,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1940-02-29",
-    "age":86.3,
+    "age":26.4,
     "position_desc":"Midfielder",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4362,7 +4362,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1940-05-04",
-    "age":86.1,
+    "age":26.2,
     "position_desc":"Defender",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4378,7 +4378,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1941-05-13",
-    "age":85.1,
+    "age":25.2,
     "position_desc":"Defender",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4394,7 +4394,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1939-01-04",
-    "age":87.4,
+    "age":27.5,
     "position_desc":"Striker",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4410,7 +4410,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1939-07-17",
-    "age":86.9,
+    "age":27.0,
     "position_desc":"Midfielder",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4426,7 +4426,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1939-02-06",
-    "age":87.4,
+    "age":27.4,
     "position_desc":"Defender",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4442,7 +4442,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1944-09-15",
-    "age":81.7,
+    "age":21.8,
     "position_desc":"Midfielder",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4458,7 +4458,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1937-06-27",
-    "age":89.0,
+    "age":29.0,
     "position_desc":"Striker",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4474,7 +4474,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1936-05-30",
-    "age":90.0,
+    "age":30.1,
     "position_desc":"Striker",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4490,7 +4490,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1944-10-04",
-    "age":81.7,
+    "age":21.8,
     "position_desc":"Striker",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4506,7 +4506,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1946-02-23",
-    "age":80.3,
+    "age":20.4,
     "position_desc":"Striker",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4522,7 +4522,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1942-06-02",
-    "age":84.0,
+    "age":24.1,
     "position_desc":"Striker",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4538,7 +4538,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1942-06-20",
-    "age":84.0,
+    "age":24.1,
     "position_desc":"Striker",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4554,7 +4554,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1940-07-19",
-    "age":85.9,
+    "age":26.0,
     "position_desc":"Goalkeeper",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4570,7 +4570,7 @@
     "id_team":"44026",
     "picture_url":null,
     "dob":"1938-04-28",
-    "age":88.1,
+    "age":28.2,
     "position_desc":"Goalkeeper",
     "team_name":"Soviet Union",
     "team_abbr":"URS"
@@ -4586,7 +4586,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1943-03-01",
-    "age":83.3,
+    "age":23.4,
     "position_desc":"Goalkeeper",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4602,7 +4602,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1938-03-26",
-    "age":88.2,
+    "age":28.3,
     "position_desc":"Defender",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4618,7 +4618,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1940-11-18",
-    "age":85.6,
+    "age":25.6,
     "position_desc":"Defender",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4634,7 +4634,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1935-04-06",
-    "age":91.2,
+    "age":31.3,
     "position_desc":"Midfielder",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4650,7 +4650,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1939-07-31",
-    "age":86.9,
+    "age":26.9,
     "position_desc":"Midfielder",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4666,7 +4666,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1942-01-02",
-    "age":84.4,
+    "age":24.5,
     "position_desc":"Midfielder",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4682,7 +4682,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1941-05-17",
-    "age":85.1,
+    "age":25.1,
     "position_desc":"Striker",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4698,7 +4698,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1940-10-16",
-    "age":85.7,
+    "age":25.7,
     "position_desc":"Striker",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4714,7 +4714,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1940-04-29",
-    "age":86.1,
+    "age":26.2,
     "position_desc":"Striker",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4730,7 +4730,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1935-05-02",
-    "age":91.1,
+    "age":31.2,
     "position_desc":"Midfielder",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4746,7 +4746,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1933-10-21",
-    "age":92.6,
+    "age":32.7,
     "position_desc":"Striker",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4762,7 +4762,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1937-03-13",
-    "age":89.3,
+    "age":29.3,
     "position_desc":"Goalkeeper",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4778,7 +4778,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1946-01-21",
-    "age":80.4,
+    "age":20.5,
     "position_desc":"Goalkeeper",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4794,7 +4794,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1936-08-21",
-    "age":89.8,
+    "age":29.9,
     "position_desc":"Defender",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4810,7 +4810,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1938-11-25",
-    "age":87.6,
+    "age":27.6,
     "position_desc":"Defender",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4826,7 +4826,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1936-06-22",
-    "age":90.0,
+    "age":30.1,
     "position_desc":"Defender",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4842,7 +4842,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1944-03-04",
-    "age":82.3,
+    "age":22.4,
     "position_desc":"Midfielder",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4858,7 +4858,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1945-03-11",
-    "age":81.3,
+    "age":21.3,
     "position_desc":"Midfielder",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4874,7 +4874,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1941-04-15",
-    "age":85.2,
+    "age":25.2,
     "position_desc":"Striker",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4890,7 +4890,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1936-01-29",
-    "age":90.4,
+    "age":30.4,
     "position_desc":"Striker",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4906,7 +4906,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1939-09-26",
-    "age":86.7,
+    "age":26.8,
     "position_desc":"Defender",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4922,7 +4922,7 @@
     "id_team":"43969",
     "picture_url":null,
     "dob":"1938-11-29",
-    "age":87.5,
+    "age":27.6,
     "position_desc":"Striker",
     "team_name":"Spain",
     "team_abbr":"ESP"
@@ -4938,7 +4938,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1934-08-13",
-    "age":91.8,
+    "age":31.9,
     "position_desc":"Goalkeeper",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -4954,7 +4954,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1942-06-10",
-    "age":84.0,
+    "age":24.1,
     "position_desc":"Defender",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -4970,7 +4970,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1934-09-16",
-    "age":91.7,
+    "age":31.8,
     "position_desc":"Defender",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -4986,7 +4986,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1936-11-18",
-    "age":89.6,
+    "age":29.6,
     "position_desc":"Midfielder",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -5002,7 +5002,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1933-10-25",
-    "age":92.6,
+    "age":32.7,
     "position_desc":"Defender",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -5018,7 +5018,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1938-12-01",
-    "age":87.5,
+    "age":27.6,
     "position_desc":"Midfielder",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -5034,7 +5034,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1937-12-24",
-    "age":88.5,
+    "age":28.5,
     "position_desc":"Defender",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -5050,7 +5050,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1941-09-24",
-    "age":84.7,
+    "age":24.8,
     "position_desc":"Striker",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -5066,7 +5066,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1933-06-22",
-    "age":93.0,
+    "age":33.1,
     "position_desc":"Defender",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -5082,7 +5082,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1939-12-13",
-    "age":86.5,
+    "age":26.6,
     "position_desc":"Striker",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -5098,7 +5098,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1943-10-12",
-    "age":82.7,
+    "age":22.7,
     "position_desc":"Midfielder",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -5114,7 +5114,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1936-12-24",
-    "age":89.5,
+    "age":29.5,
     "position_desc":"Goalkeeper",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -5130,7 +5130,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1946-01-08",
-    "age":80.4,
+    "age":20.5,
     "position_desc":"Striker",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -5146,7 +5146,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1934-09-02",
-    "age":91.8,
+    "age":31.9,
     "position_desc":"Defender",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -5162,7 +5162,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1942-12-17",
-    "age":83.5,
+    "age":23.6,
     "position_desc":"Midfielder",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -5178,7 +5178,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1943-08-05",
-    "age":82.9,
+    "age":22.9,
     "position_desc":"Striker",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -5194,7 +5194,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1940-10-11",
-    "age":85.7,
+    "age":25.7,
     "position_desc":"Striker",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -5210,7 +5210,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1935-04-12",
-    "age":91.2,
+    "age":31.2,
     "position_desc":"Defender",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -5226,7 +5226,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1940-10-29",
-    "age":85.6,
+    "age":25.7,
     "position_desc":"Defender",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -5242,7 +5242,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1936-05-25",
-    "age":90.1,
+    "age":30.1,
     "position_desc":"Defender",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -5258,7 +5258,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1944-09-21",
-    "age":81.7,
+    "age":21.8,
     "position_desc":"Striker",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -5274,7 +5274,7 @@
     "id_team":"43971",
     "picture_url":null,
     "dob":"1945-08-04",
-    "age":80.9,
+    "age":20.9,
     "position_desc":"Goalkeeper",
     "team_name":"Switzerland",
     "team_abbr":"SUI"
@@ -5290,7 +5290,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1945-02-14",
-    "age":81.3,
+    "age":21.4,
     "position_desc":"Goalkeeper",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5306,7 +5306,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1935-02-04",
-    "age":91.4,
+    "age":31.4,
     "position_desc":"Defender",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5322,7 +5322,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1938-11-04",
-    "age":87.6,
+    "age":27.7,
     "position_desc":"Defender",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5338,7 +5338,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1945-07-14",
-    "age":80.9,
+    "age":21.0,
     "position_desc":"Defender",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5354,7 +5354,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1936-04-27",
-    "age":90.1,
+    "age":30.2,
     "position_desc":"Defender",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5370,7 +5370,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1938-11-08",
-    "age":87.6,
+    "age":27.7,
     "position_desc":"Midfielder",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5386,7 +5386,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1941-03-29",
-    "age":85.2,
+    "age":25.3,
     "position_desc":"Midfielder",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5402,7 +5402,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1944-08-25",
-    "age":81.8,
+    "age":21.9,
     "position_desc":"Striker",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5418,7 +5418,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1933-12-27",
-    "age":92.5,
+    "age":32.5,
     "position_desc":"Striker",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5434,7 +5434,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1942-12-03",
-    "age":83.5,
+    "age":23.6,
     "position_desc":"Striker",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5450,7 +5450,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1936-06-07",
-    "age":90.0,
+    "age":30.1,
     "position_desc":"Striker",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5466,7 +5466,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1935-06-14",
-    "age":91.0,
+    "age":31.1,
     "position_desc":"Goalkeeper",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5482,7 +5482,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1942-01-12",
-    "age":84.4,
+    "age":24.5,
     "position_desc":"Defender",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5498,7 +5498,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1939-02-10",
-    "age":87.3,
+    "age":27.4,
     "position_desc":"Midfielder",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5514,7 +5514,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1940-06-07",
-    "age":86.0,
+    "age":26.1,
     "position_desc":"Defender",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5530,7 +5530,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1940-08-09",
-    "age":85.8,
+    "age":25.9,
     "position_desc":"Midfielder",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5546,7 +5546,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1939-11-27",
-    "age":86.5,
+    "age":26.6,
     "position_desc":"Striker",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5562,7 +5562,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1946-05-11",
-    "age":80.1,
+    "age":20.2,
     "position_desc":"Striker",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5578,7 +5578,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1940-02-01",
-    "age":86.4,
+    "age":26.4,
     "position_desc":"Midfielder",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5594,7 +5594,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1939-10-09",
-    "age":86.7,
+    "age":26.8,
     "position_desc":"Defender",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5610,7 +5610,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1944-10-06",
-    "age":81.7,
+    "age":21.8,
     "position_desc":"Midfielder",
     "team_name":"Uruguay",
     "team_abbr":"URU"
@@ -5626,7 +5626,7 @@
     "id_team":"43930",
     "picture_url":null,
     "dob":"1931-03-07",
-    "age":95.3,
+    "age":35.3,
     "position_desc":"Goalkeeper",
     "team_name":"Uruguay",
     "team_abbr":"URU"

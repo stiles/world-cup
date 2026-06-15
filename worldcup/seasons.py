@@ -33,13 +33,23 @@ def season_table(refresh: bool = False) -> list[dict]:
 
     rows = []
     for s in raw:
-        start = (s.get("StartDate") or "")[:4]
+        start = s.get("StartDate") or ""
+        year = start[:4]
         rows.append({
-            "year": int(start) if start.isdigit() else None,
+            "year": int(year) if year.isdigit() else None,
             "id_season": s.get("IdSeason"),
             "name": _description(s.get("Name")),
+            "start_date": start[:10] or None,
         })
     return sorted((r for r in rows if r["year"]), key=lambda r: r["year"])
+
+
+def season_start(id_season: str) -> str | None:
+    """Tournament start date (YYYY-MM-DD) for a given idSeason, if known."""
+    for r in season_table():
+        if str(r["id_season"]) == str(id_season):
+            return r["start_date"]
+    return None
 
 
 if __name__ == "__main__":
