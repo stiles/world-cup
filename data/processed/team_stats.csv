@@ -582,87 +582,147 @@ id_team,team_name,stat,value
 1895293,Curaçao,assists,0.0
 1895293,Curaçao,attempt_at_goal,8.0
 1895293,Curaçao,attempt_at_goal_against,26.0
-1895293,Curaçao,attempt_at_goal_against_on_target,0.0
+1895293,Curaçao,attempt_at_goal_against_on_target,12.0
 1895293,Curaçao,attempt_at_goal_blocked,0.0
-1895293,Curaçao,attempt_at_goal_from_ball_progression,3.0
+1895293,Curaçao,attempt_at_goal_from_ball_progression,1.0
 1895293,Curaçao,attempt_at_goal_from_corner,0.0
 1895293,Curaçao,attempt_at_goal_from_cross,0.0
 1895293,Curaçao,attempt_at_goal_from_freekick,1.0
 1895293,Curaçao,attempt_at_goal_from_free_kicks,0.0
-1895293,Curaçao,attempt_at_goal_from_other,2.0
-1895293,Curaçao,attempt_at_goal_from_pass,2.0
+1895293,Curaçao,attempt_at_goal_from_other,3.0
+1895293,Curaçao,attempt_at_goal_from_pass,3.0
 1895293,Curaçao,attempt_at_goal_from_penalty,0.0
 1895293,Curaçao,attempt_at_goal_from_rebound,0.0
 1895293,Curaçao,attempt_at_goal_inside_the_penalty_area,4.0
 1895293,Curaçao,attempt_at_goal_inside_the_penalty_area_on_target,1.0
-1895293,Curaçao,attempt_at_goal_off_target,6.0
+1895293,Curaçao,attempt_at_goal_off_target,5.0
 1895293,Curaçao,attempt_at_goal_on_target,2.0
 1895293,Curaçao,attempt_at_goal_outside_the_penalty_area,4.0
 1895293,Curaçao,attempt_at_goal_outside_the_penalty_area_on_target,1.0
-1895293,Curaçao,avg_speed,5.72
-1895293,Curaçao,ball_recovery_time,17.89
+1895293,Curaçao,attempted_ball_progressions,34.0
+1895293,Curaçao,attempted_switches_of_play,4.0
+1895293,Curaçao,avg_speed,5.621520042419434
+1895293,Curaçao,ball_recovery_time,18.09122657775879
 1895293,Curaçao,clean_sheets,0.0
+1895293,Curaçao,completed_ball_progressions,17.0
+1895293,Curaçao,completed_switches_of_play,4.0
 1895293,Curaçao,corners,1.0
-1895293,Curaçao,crosses,6.0
+1895293,Curaçao,crosses,5.0
 1895293,Curaçao,crosses_completed,2.0
+1895293,Curaçao,defensive_pressures_applied,339.0
+1895293,Curaçao,direct_defensive_pressures_applied,48.0
 1895293,Curaçao,direct_free_kicks,18.0
 1895293,Curaçao,direct_red_cards,0.0
-1895293,Curaçao,distance_high_speed_running,11623.65
-1895293,Curaçao,distance_high_speed_sprinting,1974.44
-1895293,Curaçao,distance_jogging,41359.93
-1895293,Curaçao,distance_low_speed_sprinting,4908.78
-1895293,Curaçao,distance_walking,1044.79
-1895293,Curaçao,final_third_pitch_control,15.0
-1895293,Curaçao,forced_turnovers,23.0
+1895293,Curaçao,distance_high_speed_running,11701.4404296875
+1895293,Curaçao,distance_high_speed_sprinting,2025.2000732421875
+1895293,Curaçao,distance_jogging,40603.28125
+1895293,Curaçao,distance_low_speed_sprinting,4984.81005859375
+1895293,Curaçao,distance_walking,44171.640625
+1895293,Curaçao,distributions_completed_under_pressure,183.0
+1895293,Curaçao,distributions_under_pressure,251.0
+1895293,Curaçao,final_third_entries_reception_central_channel,4.0
+1895293,Curaçao,final_third_entries_reception_inside_left_channel,1.0
+1895293,Curaçao,final_third_entries_reception_inside_right_channel,6.0
+1895293,Curaçao,final_third_entries_reception_left_channel,16.0
+1895293,Curaçao,final_third_entries_reception_right_channel,13.0
+1895293,Curaçao,final_third_pitch_control,24.0
+1895293,Curaçao,forced_turnovers,43.0
 1895293,Curaçao,fouls_against,11.0
 1895293,Curaçao,fouls_for,18.0
 1895293,Curaçao,free_kicks,18.0
 1895293,Curaçao,gksaves,1.0
 1895293,Curaçao,gksaves_on_target,0.0
-1895293,Curaçao,goal_kicks,13.0
+1895293,Curaçao,goalkeeper_defensive_actions_inside_penalty_area,36.0
+1895293,Curaçao,goalkeeper_defensive_actions_outside_penalty_area,31.0
+1895293,Curaçao,goalkeeper_save_percentage,0.3636363744735718
+1895293,Curaçao,goalkeeper_saves,4.0
+1895293,Curaçao,goalkeeper_saves_on_target,4.0
+1895293,Curaçao,goal_kicks,11.0
 1895293,Curaçao,goals,1.0
 1895293,Curaçao,goals_conceded,7.0
+1895293,Curaçao,goals_conceded_from_attempt_at_goal_against,7.0
 1895293,Curaçao,goals_from_direct_free_kicks,0.0
 1895293,Curaçao,goals_inside_the_penalty_area,1.0
 1895293,Curaçao,goals_outside_the_penalty_area,0.0
 1895293,Curaçao,headed_attempt_at_goal,1.0
 1895293,Curaçao,indirect_free_kicks,0.0
 1895293,Curaçao,indirect_red_cards,0.0
+1895293,Curaçao,linebreaks_attempted,147.0
+1895293,Curaçao,linebreaks_attempted_all_lines,7.0
+1895293,Curaçao,linebreaks_attempted_attacking_and_midfield_line,20.0
+1895293,Curaçao,linebreaks_attempted_attacking_line,57.0
+1895293,Curaçao,linebreaks_attempted_attacking_line_completed,36.0
+1895293,Curaçao,linebreaks_attempted_attacking_line_completed_only,25.0
+1895293,Curaçao,linebreaks_attempted_attacking_line_only,30.0
+1895293,Curaçao,linebreaks_attempted_completed,84.0
+1895293,Curaçao,linebreaks_attempted_defensive_line,15.0
+1895293,Curaçao,linebreaks_attempted_defensive_line_completed,6.0
+1895293,Curaçao,linebreaks_attempted_defensive_line_completed_only,4.0
+1895293,Curaçao,linebreaks_attempted_defensive_line_only,7.0
+1895293,Curaçao,linebreaks_attempted_midfield_and_defensive_line,1.0
+1895293,Curaçao,linebreaks_attempted_midfield_line,75.0
+1895293,Curaçao,linebreaks_attempted_midfield_line_completed,42.0
+1895293,Curaçao,linebreaks_attempted_midfield_line_completed_only,31.0
+1895293,Curaçao,linebreaks_attempted_midfield_line_only,47.0
+1895293,Curaçao,linebreaks_attempted_under_pressure,93.0
+1895293,Curaçao,linebreaks_completed_all_lines,2.0
+1895293,Curaçao,linebreaks_completed_attacking_and_midfield_line,9.0
+1895293,Curaçao,linebreaks_completed_midfield_and_defensive_line,0.0
+1895293,Curaçao,linebreaks_completed_under_pressure,64.0
 1895293,Curaçao,matches_played,1.0
+1895293,Curaçao,number_of_involvements,0.0
+1895293,Curaçao,number_of_possession_sequences,0.0
+1895293,Curaçao,number_of_shot_ending_sequences,0.0
+1895293,Curaçao,offers_to_receive_in_behind,83.0
+1895293,Curaçao,offers_to_receive_in_between,103.0
+1895293,Curaçao,offers_to_receive_in_front,55.0
+1895293,Curaçao,offers_to_receive_inside,141.0
+1895293,Curaçao,offers_to_receive_outside,100.0
+1895293,Curaçao,offers_to_receive_total,241.0
 1895293,Curaçao,offsides,1.0
 1895293,Curaçao,own_goals,0.0
-1895293,Curaçao,passes,358.0
-1895293,Curaçao,passes_completed,290.0
+1895293,Curaçao,passes,362.0
+1895293,Curaçao,passes_completed,291.0
 1895293,Curaçao,penalties,0.0
 1895293,Curaçao,penalties_scored,0.0
-1895293,Curaçao,phase_aggregate_attacking_transition,15.92
-1895293,Curaçao,phase_aggregate_build_up_opposed,19.03
-1895293,Curaçao,phase_aggregate_build_up_unopposed,24.74
-1895293,Curaçao,phase_aggregate_counterattack,0.12
-1895293,Curaçao,phase_aggregate_counter_press,10.68
-1895293,Curaçao,phase_aggregate_defensive_transition,11.48
-1895293,Curaçao,phase_aggregate_final_third,9.47
-1895293,Curaçao,phase_aggregate_high_block,1.46
-1895293,Curaçao,phase_aggregate_high_press,1.73
-1895293,Curaçao,phase_aggregate_long_ball,5.99
-1895293,Curaçao,phase_aggregate_low_block,36.84
-1895293,Curaçao,phase_aggregate_low_press,0.41
-1895293,Curaçao,phase_aggregate_mid_block,23.62
-1895293,Curaçao,phase_aggregate_mid_press,1.99
-1895293,Curaçao,phase_aggregate_progression,23.26
-1895293,Curaçao,phase_aggregate_recovery,1.6
-1895293,Curaçao,phase_aggregate_set_pieces,1.74
-1895293,Curaçao,pitch_control,35.0
-1895293,Curaçao,possession,0.36
+1895293,Curaçao,phase_aggregate_attacking_transition,20.467135310173035
+1895293,Curaçao,phase_aggregate_build_up_opposed,14.827069640159607
+1895293,Curaçao,phase_aggregate_build_up_unopposed,24.807606637477875
+1895293,Curaçao,phase_aggregate_counterattack,1.3894295319914818
+1895293,Curaçao,phase_aggregate_counter_press,11.43815666437149
+1895293,Curaçao,phase_aggregate_defensive_transition,12.561054527759552
+1895293,Curaçao,phase_aggregate_final_third,8.537206053733826
+1895293,Curaçao,phase_aggregate_high_block,1.0775075294077396
+1895293,Curaçao,phase_aggregate_high_press,1.984311081469059
+1895293,Curaçao,phase_aggregate_long_ball,5.469381809234619
+1895293,Curaçao,phase_aggregate_low_block,37.29044497013092
+1895293,Curaçao,phase_aggregate_low_press,0.6926834117621183
+1895293,Curaçao,phase_aggregate_mid_block,24.616903066635132
+1895293,Curaçao,phase_aggregate_mid_press,2.4431398138403893
+1895293,Curaçao,phase_aggregate_progression,19.028297066688538
+1895293,Curaçao,phase_aggregate_recovery,1.2689328752458096
+1895293,Curaçao,phase_aggregate_set_pieces,6.071268022060394
+1895293,Curaçao,pitch_control,44.0
+1895293,Curaçao,possession,0.35321691632270813
+1895293,Curaçao,received_offers_to_receive,79.0
+1895293,Curaçao,receptions_between_midfield_and_defensive_line,77.0
+1895293,Curaçao,receptions_in_behind,6.0
+1895293,Curaçao,receptions_under_direct_pressure,15.0
+1895293,Curaçao,receptions_under_indirect_pressure,180.0
+1895293,Curaçao,receptions_under_no_pressure,178.0
+1895293,Curaçao,receptions_under_pressure,195.0
 1895293,Curaçao,red_cards,0.0
+1895293,Curaçao,speed_runs,990.0
+1895293,Curaçao,sprints,400.0
 1895293,Curaçao,substitutions_in,3.0
 1895293,Curaçao,substitutions_out,3.0
-1895293,Curaçao,threat,30.0
-1895293,Curaçao,throw_ins,10.0
-1895293,Curaçao,top_speed,33.23
-1895293,Curaçao,total_distance,104680.26
-1895293,Curaçao,xg,0.31
-1895293,Curaçao,xg,0.31
+1895293,Curaçao,take_ons_completed,13.0
+1895293,Curaçao,threat,29.0
+1895293,Curaçao,throw_ins,9.0
+1895293,Curaçao,time_played,100.35128333333333
+1895293,Curaçao,top_speed,33.3381462097168
+1895293,Curaçao,total_distance,103486.3671875
+1895293,Curaçao,xg,0.4041719138622284
 1895293,Curaçao,yellow_cards,0.0
 43995,Czechia,assists,1.0
 43995,Czechia,attempt_at_goal,7.0
@@ -809,90 +869,440 @@ id_team,team_name,stat,value
 43995,Czechia,total_distance,117628.40625
 43995,Czechia,xg,0.6367324590682983
 43995,Czechia,yellow_cards,0.0
+43854,Côte d'Ivoire,assists,1.0
+43854,Côte d'Ivoire,attempt_at_goal,15.0
+43854,Côte d'Ivoire,attempt_at_goal_against,12.0
+43854,Côte d'Ivoire,attempt_at_goal_against_on_target,1.0
+43854,Côte d'Ivoire,attempt_at_goal_blocked,1.0
+43854,Côte d'Ivoire,attempt_at_goal_from_ball_progression,1.0
+43854,Côte d'Ivoire,attempt_at_goal_from_corner,1.0
+43854,Côte d'Ivoire,attempt_at_goal_from_cross,2.0
+43854,Côte d'Ivoire,attempt_at_goal_from_freekick,0.0
+43854,Côte d'Ivoire,attempt_at_goal_from_free_kicks,0.0
+43854,Côte d'Ivoire,attempt_at_goal_from_other,2.0
+43854,Côte d'Ivoire,attempt_at_goal_from_pass,9.0
+43854,Côte d'Ivoire,attempt_at_goal_from_penalty,0.0
+43854,Côte d'Ivoire,attempt_at_goal_from_rebound,0.0
+43854,Côte d'Ivoire,attempt_at_goal_inside_the_penalty_area,8.0
+43854,Côte d'Ivoire,attempt_at_goal_inside_the_penalty_area_on_target,2.0
+43854,Côte d'Ivoire,attempt_at_goal_off_target,8.0
+43854,Côte d'Ivoire,attempt_at_goal_on_target,4.0
+43854,Côte d'Ivoire,attempt_at_goal_outside_the_penalty_area,7.0
+43854,Côte d'Ivoire,attempt_at_goal_outside_the_penalty_area_on_target,2.0
+43854,Côte d'Ivoire,attempted_ball_progressions,39.0
+43854,Côte d'Ivoire,attempted_switches_of_play,1.0
+43854,Côte d'Ivoire,avg_speed,5.834937572479248
+43854,Côte d'Ivoire,ball_recovery_time,17.2657527923584
+43854,Côte d'Ivoire,clean_sheets,1.0
+43854,Côte d'Ivoire,completed_ball_progressions,30.0
+43854,Côte d'Ivoire,completed_switches_of_play,1.0
+43854,Côte d'Ivoire,corners,3.0
+43854,Côte d'Ivoire,crosses,15.0
+43854,Côte d'Ivoire,crosses_completed,3.0
+43854,Côte d'Ivoire,defensive_pressures_applied,288.0
+43854,Côte d'Ivoire,direct_defensive_pressures_applied,31.0
+43854,Côte d'Ivoire,direct_free_kicks,13.0
+43854,Côte d'Ivoire,direct_red_cards,0.0
+43854,Côte d'Ivoire,distance_high_speed_running,14251.560546875
+43854,Côte d'Ivoire,distance_high_speed_sprinting,2254.219970703125
+43854,Côte d'Ivoire,distance_jogging,44079.71875
+43854,Côte d'Ivoire,distance_low_speed_sprinting,5795.490234375
+43854,Côte d'Ivoire,distance_walking,43211.2890625
+43854,Côte d'Ivoire,distributions_completed_under_pressure,237.0
+43854,Côte d'Ivoire,distributions_under_pressure,323.0
+43854,Côte d'Ivoire,final_third_entries_reception_central_channel,6.0
+43854,Côte d'Ivoire,final_third_entries_reception_inside_left_channel,7.0
+43854,Côte d'Ivoire,final_third_entries_reception_inside_right_channel,2.0
+43854,Côte d'Ivoire,final_third_entries_reception_left_channel,11.0
+43854,Côte d'Ivoire,final_third_entries_reception_right_channel,25.0
+43854,Côte d'Ivoire,final_third_pitch_control,50.0
+43854,Côte d'Ivoire,forced_turnovers,44.0
+43854,Côte d'Ivoire,fouls_against,10.0
+43854,Côte d'Ivoire,fouls_for,13.0
+43854,Côte d'Ivoire,free_kicks,13.0
+43854,Côte d'Ivoire,gksaves,0.0
+43854,Côte d'Ivoire,gksaves_on_target,0.0
+43854,Côte d'Ivoire,goalkeeper_defensive_actions_inside_penalty_area,22.0
+43854,Côte d'Ivoire,goalkeeper_defensive_actions_outside_penalty_area,18.0
+43854,Côte d'Ivoire,goalkeeper_save_percentage,0.0
+43854,Côte d'Ivoire,goalkeeper_saves,1.0
+43854,Côte d'Ivoire,goalkeeper_saves_on_target,0.0
+43854,Côte d'Ivoire,goal_kicks,10.0
+43854,Côte d'Ivoire,goals,1.0
+43854,Côte d'Ivoire,goals_conceded,0.0
+43854,Côte d'Ivoire,goals_conceded_from_attempt_at_goal_against,0.0
+43854,Côte d'Ivoire,goals_from_direct_free_kicks,0.0
+43854,Côte d'Ivoire,goals_inside_the_penalty_area,1.0
+43854,Côte d'Ivoire,goals_outside_the_penalty_area,0.0
+43854,Côte d'Ivoire,headed_attempt_at_goal,0.0
+43854,Côte d'Ivoire,indirect_free_kicks,0.0
+43854,Côte d'Ivoire,indirect_red_cards,0.0
+43854,Côte d'Ivoire,linebreaks_attempted,177.0
+43854,Côte d'Ivoire,linebreaks_attempted_all_lines,5.0
+43854,Côte d'Ivoire,linebreaks_attempted_attacking_and_midfield_line,24.0
+43854,Côte d'Ivoire,linebreaks_attempted_attacking_line,89.0
+43854,Côte d'Ivoire,linebreaks_attempted_attacking_line_completed,70.0
+43854,Côte d'Ivoire,linebreaks_attempted_attacking_line_completed_only,54.0
+43854,Côte d'Ivoire,linebreaks_attempted_attacking_line_only,60.0
+43854,Côte d'Ivoire,linebreaks_attempted_completed,132.0
+43854,Côte d'Ivoire,linebreaks_attempted_defensive_line,18.0
+43854,Côte d'Ivoire,linebreaks_attempted_defensive_line_completed,11.0
+43854,Côte d'Ivoire,linebreaks_attempted_defensive_line_completed_only,6.0
+43854,Côte d'Ivoire,linebreaks_attempted_defensive_line_only,12.0
+43854,Côte d'Ivoire,linebreaks_attempted_midfield_and_defensive_line,1.0
+43854,Côte d'Ivoire,linebreaks_attempted_midfield_line,70.0
+43854,Côte d'Ivoire,linebreaks_attempted_midfield_line_completed,51.0
+43854,Côte d'Ivoire,linebreaks_attempted_midfield_line_completed_only,34.0
+43854,Côte d'Ivoire,linebreaks_attempted_midfield_line_only,40.0
+43854,Côte d'Ivoire,linebreaks_attempted_under_pressure,99.0
+43854,Côte d'Ivoire,linebreaks_completed_all_lines,4.0
+43854,Côte d'Ivoire,linebreaks_completed_attacking_and_midfield_line,12.0
+43854,Côte d'Ivoire,linebreaks_completed_midfield_and_defensive_line,1.0
+43854,Côte d'Ivoire,linebreaks_completed_under_pressure,68.0
+43854,Côte d'Ivoire,matches_played,1.0
+43854,Côte d'Ivoire,number_of_involvements,0.0
+43854,Côte d'Ivoire,number_of_possession_sequences,0.0
+43854,Côte d'Ivoire,number_of_shot_ending_sequences,0.0
+43854,Côte d'Ivoire,offers_to_receive_in_behind,87.0
+43854,Côte d'Ivoire,offers_to_receive_in_between,174.0
+43854,Côte d'Ivoire,offers_to_receive_in_front,72.0
+43854,Côte d'Ivoire,offers_to_receive_inside,179.0
+43854,Côte d'Ivoire,offers_to_receive_outside,154.0
+43854,Côte d'Ivoire,offers_to_receive_total,333.0
+43854,Côte d'Ivoire,offsides,0.0
+43854,Côte d'Ivoire,own_goals,0.0
+43854,Côte d'Ivoire,passes,471.0
+43854,Côte d'Ivoire,passes_completed,413.0
+43854,Côte d'Ivoire,penalties,0.0
+43854,Côte d'Ivoire,penalties_scored,0.0
+43854,Côte d'Ivoire,phase_aggregate_attacking_transition,16.374598443508148
+43854,Côte d'Ivoire,phase_aggregate_build_up_opposed,13.820299506187439
+43854,Côte d'Ivoire,phase_aggregate_build_up_unopposed,27.330154180526733
+43854,Côte d'Ivoire,phase_aggregate_counterattack,1.0715826414525509
+43854,Côte d'Ivoire,phase_aggregate_counter_press,9.373535215854645
+43854,Côte d'Ivoire,phase_aggregate_defensive_transition,13.668228685855865
+43854,Côte d'Ivoire,phase_aggregate_final_third,21.64141535758972
+43854,Côte d'Ivoire,phase_aggregate_high_block,10.834221541881561
+43854,Côte d'Ivoire,phase_aggregate_high_press,5.257830768823624
+43854,Côte d'Ivoire,phase_aggregate_long_ball,2.8695402666926384
+43854,Côte d'Ivoire,phase_aggregate_low_block,11.958235502243042
+43854,Côte d'Ivoire,phase_aggregate_low_press,0.3910078667104244
+43854,Côte d'Ivoire,phase_aggregate_mid_block,27.215000987052917
+43854,Côte d'Ivoire,phase_aggregate_mid_press,5.152354389429092
+43854,Côte d'Ivoire,phase_aggregate_progression,17.894472181797028
+43854,Côte d'Ivoire,phase_aggregate_recovery,3.582996129989624
+43854,Côte d'Ivoire,phase_aggregate_set_pieces,4.732224345207214
+43854,Côte d'Ivoire,pitch_control,48.0
+43854,Côte d'Ivoire,possession,0.4193752110004425
+43854,Côte d'Ivoire,received_offers_to_receive,128.0
+43854,Côte d'Ivoire,receptions_between_midfield_and_defensive_line,102.0
+43854,Côte d'Ivoire,receptions_in_behind,8.0
+43854,Côte d'Ivoire,receptions_under_direct_pressure,39.0
+43854,Côte d'Ivoire,receptions_under_indirect_pressure,204.0
+43854,Côte d'Ivoire,receptions_under_no_pressure,265.0
+43854,Côte d'Ivoire,receptions_under_pressure,243.0
+43854,Côte d'Ivoire,red_cards,0.0
+43854,Côte d'Ivoire,speed_runs,1223.0
+43854,Côte d'Ivoire,sprints,457.0
+43854,Côte d'Ivoire,substitutions_in,5.0
+43854,Côte d'Ivoire,substitutions_out,5.0
+43854,Côte d'Ivoire,take_ons_completed,17.0
+43854,Côte d'Ivoire,threat,51.0
+43854,Côte d'Ivoire,throw_ins,14.0
+43854,Côte d'Ivoire,time_played,102.76085
+43854,Côte d'Ivoire,top_speed,34.576812744140625
+43854,Côte d'Ivoire,total_distance,109592.28125
+43854,Côte d'Ivoire,xg,1.8823951482772827
+43854,Côte d'Ivoire,yellow_cards,3.0
+43927,Ecuador,assists,0.0
+43927,Ecuador,attempt_at_goal,12.0
+43927,Ecuador,attempt_at_goal_against,15.0
+43927,Ecuador,attempt_at_goal_against_on_target,4.0
+43927,Ecuador,attempt_at_goal_blocked,2.0
+43927,Ecuador,attempt_at_goal_from_ball_progression,0.0
+43927,Ecuador,attempt_at_goal_from_corner,2.0
+43927,Ecuador,attempt_at_goal_from_cross,0.0
+43927,Ecuador,attempt_at_goal_from_freekick,0.0
+43927,Ecuador,attempt_at_goal_from_free_kicks,0.0
+43927,Ecuador,attempt_at_goal_from_other,3.0
+43927,Ecuador,attempt_at_goal_from_pass,6.0
+43927,Ecuador,attempt_at_goal_from_penalty,0.0
+43927,Ecuador,attempt_at_goal_from_rebound,0.0
+43927,Ecuador,attempt_at_goal_inside_the_penalty_area,5.0
+43927,Ecuador,attempt_at_goal_inside_the_penalty_area_on_target,0.0
+43927,Ecuador,attempt_at_goal_off_target,10.0
+43927,Ecuador,attempt_at_goal_on_target,1.0
+43927,Ecuador,attempt_at_goal_outside_the_penalty_area,7.0
+43927,Ecuador,attempt_at_goal_outside_the_penalty_area_on_target,1.0
+43927,Ecuador,attempted_ball_progressions,16.0
+43927,Ecuador,attempted_switches_of_play,2.0
+43927,Ecuador,avg_speed,5.768011093139648
+43927,Ecuador,ball_recovery_time,15.65079116821289
+43927,Ecuador,clean_sheets,0.0
+43927,Ecuador,completed_ball_progressions,9.0
+43927,Ecuador,completed_switches_of_play,2.0
+43927,Ecuador,corners,5.0
+43927,Ecuador,crosses,14.0
+43927,Ecuador,crosses_completed,3.0
+43927,Ecuador,defensive_pressures_applied,280.0
+43927,Ecuador,direct_defensive_pressures_applied,61.0
+43927,Ecuador,direct_free_kicks,10.0
+43927,Ecuador,direct_red_cards,0.0
+43927,Ecuador,distance_high_speed_running,13977.689453125
+43927,Ecuador,distance_high_speed_sprinting,2135.35009765625
+43927,Ecuador,distance_jogging,43084.05078125
+43927,Ecuador,distance_low_speed_sprinting,5707.2197265625
+43927,Ecuador,distance_walking,43515.69921875
+43927,Ecuador,distributions_completed_under_pressure,203.0
+43927,Ecuador,distributions_under_pressure,276.0
+43927,Ecuador,final_third_entries_reception_central_channel,8.0
+43927,Ecuador,final_third_entries_reception_inside_left_channel,4.0
+43927,Ecuador,final_third_entries_reception_inside_right_channel,4.0
+43927,Ecuador,final_third_entries_reception_left_channel,16.0
+43927,Ecuador,final_third_entries_reception_right_channel,17.0
+43927,Ecuador,final_third_pitch_control,46.0
+43927,Ecuador,forced_turnovers,49.0
+43927,Ecuador,fouls_against,13.0
+43927,Ecuador,fouls_for,9.0
+43927,Ecuador,free_kicks,10.0
+43927,Ecuador,gksaves,3.0
+43927,Ecuador,gksaves_on_target,0.0
+43927,Ecuador,goalkeeper_defensive_actions_inside_penalty_area,23.0
+43927,Ecuador,goalkeeper_defensive_actions_outside_penalty_area,21.0
+43927,Ecuador,goalkeeper_save_percentage,0.75
+43927,Ecuador,goalkeeper_saves,3.0
+43927,Ecuador,goalkeeper_saves_on_target,3.0
+43927,Ecuador,goal_kicks,11.0
+43927,Ecuador,goals,0.0
+43927,Ecuador,goals_conceded,1.0
+43927,Ecuador,goals_conceded_from_attempt_at_goal_against,1.0
+43927,Ecuador,goals_from_direct_free_kicks,0.0
+43927,Ecuador,goals_inside_the_penalty_area,0.0
+43927,Ecuador,goals_outside_the_penalty_area,0.0
+43927,Ecuador,headed_attempt_at_goal,2.0
+43927,Ecuador,indirect_free_kicks,0.0
+43927,Ecuador,indirect_red_cards,0.0
+43927,Ecuador,linebreaks_attempted,191.0
+43927,Ecuador,linebreaks_attempted_all_lines,9.0
+43927,Ecuador,linebreaks_attempted_attacking_and_midfield_line,27.0
+43927,Ecuador,linebreaks_attempted_attacking_line,83.0
+43927,Ecuador,linebreaks_attempted_attacking_line_completed,57.0
+43927,Ecuador,linebreaks_attempted_attacking_line_completed_only,42.0
+43927,Ecuador,linebreaks_attempted_attacking_line_only,47.0
+43927,Ecuador,linebreaks_attempted_completed,124.0
+43927,Ecuador,linebreaks_attempted_defensive_line,20.0
+43927,Ecuador,linebreaks_attempted_defensive_line_completed,8.0
+43927,Ecuador,linebreaks_attempted_defensive_line_completed_only,4.0
+43927,Ecuador,linebreaks_attempted_defensive_line_only,11.0
+43927,Ecuador,linebreaks_attempted_midfield_and_defensive_line,0.0
+43927,Ecuador,linebreaks_attempted_midfield_line,88.0
+43927,Ecuador,linebreaks_attempted_midfield_line_completed,59.0
+43927,Ecuador,linebreaks_attempted_midfield_line_completed_only,44.0
+43927,Ecuador,linebreaks_attempted_midfield_line_only,52.0
+43927,Ecuador,linebreaks_attempted_under_pressure,94.0
+43927,Ecuador,linebreaks_completed_all_lines,4.0
+43927,Ecuador,linebreaks_completed_attacking_and_midfield_line,11.0
+43927,Ecuador,linebreaks_completed_midfield_and_defensive_line,0.0
+43927,Ecuador,linebreaks_completed_under_pressure,57.0
+43927,Ecuador,matches_played,1.0
+43927,Ecuador,number_of_involvements,0.0
+43927,Ecuador,number_of_possession_sequences,0.0
+43927,Ecuador,number_of_shot_ending_sequences,0.0
+43927,Ecuador,offers_to_receive_in_behind,77.0
+43927,Ecuador,offers_to_receive_in_between,149.0
+43927,Ecuador,offers_to_receive_in_front,113.0
+43927,Ecuador,offers_to_receive_inside,174.0
+43927,Ecuador,offers_to_receive_outside,165.0
+43927,Ecuador,offers_to_receive_total,339.0
+43927,Ecuador,offsides,0.0
+43927,Ecuador,own_goals,0.0
+43927,Ecuador,passes,513.0
+43927,Ecuador,passes_completed,438.0
+43927,Ecuador,penalties,0.0
+43927,Ecuador,penalties_scored,0.0
+43927,Ecuador,phase_aggregate_attacking_transition,13.668228685855865
+43927,Ecuador,phase_aggregate_build_up_opposed,11.926273256540298
+43927,Ecuador,phase_aggregate_build_up_unopposed,38.16322088241577
+43927,Ecuador,phase_aggregate_counterattack,0.4996803589165211
+43927,Ecuador,phase_aggregate_counter_press,12.254878133535385
+43927,Ecuador,phase_aggregate_defensive_transition,16.374598443508148
+43927,Ecuador,phase_aggregate_final_third,10.63179224729538
+43927,Ecuador,phase_aggregate_high_block,3.836841508746147
+43927,Ecuador,phase_aggregate_high_press,5.570072308182716
+43927,Ecuador,phase_aggregate_long_ball,4.579160362482071
+43927,Ecuador,phase_aggregate_low_block,23.734237253665924
+43927,Ecuador,phase_aggregate_low_press,0.8234645240008831
+43927,Ecuador,phase_aggregate_mid_block,19.05834972858429
+43927,Ecuador,phase_aggregate_mid_press,4.388215020298958
+43927,Ecuador,phase_aggregate_progression,20.452801883220673
+43927,Ecuador,phase_aggregate_recovery,4.484106227755547
+43927,Ecuador,phase_aggregate_set_pieces,4.091199487447739
+43927,Ecuador,pitch_control,51.0
+43927,Ecuador,possession,0.4987327456474304
+43927,Ecuador,received_offers_to_receive,147.0
+43927,Ecuador,receptions_between_midfield_and_defensive_line,113.0
+43927,Ecuador,receptions_in_behind,7.0
+43927,Ecuador,receptions_under_direct_pressure,21.0
+43927,Ecuador,receptions_under_indirect_pressure,142.0
+43927,Ecuador,receptions_under_no_pressure,360.0
+43927,Ecuador,receptions_under_pressure,163.0
+43927,Ecuador,red_cards,0.0
+43927,Ecuador,speed_runs,1205.0
+43927,Ecuador,sprints,451.0
+43927,Ecuador,substitutions_in,4.0
+43927,Ecuador,substitutions_out,4.0
+43927,Ecuador,take_ons_completed,5.0
+43927,Ecuador,threat,49.0
+43927,Ecuador,throw_ins,14.0
+43927,Ecuador,time_played,102.76085
+43927,Ecuador,top_speed,35.51527404785156
+43927,Ecuador,total_distance,108420.0078125
+43927,Ecuador,xg,1.3596324920654297
+43927,Ecuador,yellow_cards,1.0
 43948,Germany,assists,6.0
 43948,Germany,attempt_at_goal,26.0
 43948,Germany,attempt_at_goal_against,8.0
-43948,Germany,attempt_at_goal_against_on_target,0.0
+43948,Germany,attempt_at_goal_against_on_target,2.0
 43948,Germany,attempt_at_goal_blocked,7.0
-43948,Germany,attempt_at_goal_from_ball_progression,6.0
-43948,Germany,attempt_at_goal_from_corner,2.0
-43948,Germany,attempt_at_goal_from_cross,2.0
+43948,Germany,attempt_at_goal_from_ball_progression,3.0
+43948,Germany,attempt_at_goal_from_corner,1.0
+43948,Germany,attempt_at_goal_from_cross,1.0
 43948,Germany,attempt_at_goal_from_freekick,2.0
 43948,Germany,attempt_at_goal_from_free_kicks,0.0
 43948,Germany,attempt_at_goal_from_other,2.0
-43948,Germany,attempt_at_goal_from_pass,12.0
+43948,Germany,attempt_at_goal_from_pass,16.0
 43948,Germany,attempt_at_goal_from_penalty,1.0
 43948,Germany,attempt_at_goal_from_rebound,0.0
-43948,Germany,attempt_at_goal_inside_the_penalty_area,21.0
+43948,Germany,attempt_at_goal_inside_the_penalty_area,22.0
 43948,Germany,attempt_at_goal_inside_the_penalty_area_on_target,12.0
 43948,Germany,attempt_at_goal_off_target,7.0
 43948,Germany,attempt_at_goal_on_target,12.0
-43948,Germany,attempt_at_goal_outside_the_penalty_area,5.0
+43948,Germany,attempt_at_goal_outside_the_penalty_area,4.0
 43948,Germany,attempt_at_goal_outside_the_penalty_area_on_target,0.0
-43948,Germany,avg_speed,6.44
-43948,Germany,ball_recovery_time,13.38
+43948,Germany,attempted_ball_progressions,32.0
+43948,Germany,attempted_switches_of_play,3.0
+43948,Germany,avg_speed,6.320835590362549
+43948,Germany,ball_recovery_time,11.423928260803223
 43948,Germany,clean_sheets,0.0
+43948,Germany,completed_ball_progressions,23.0
+43948,Germany,completed_switches_of_play,3.0
 43948,Germany,corners,8.0
-43948,Germany,crosses,17.0
-43948,Germany,crosses_completed,8.0
+43948,Germany,crosses,20.0
+43948,Germany,crosses_completed,7.0
+43948,Germany,defensive_pressures_applied,227.0
+43948,Germany,direct_defensive_pressures_applied,55.0
 43948,Germany,direct_free_kicks,10.0
 43948,Germany,direct_red_cards,0.0
-43948,Germany,distance_high_speed_running,16249.83
-43948,Germany,distance_high_speed_sprinting,2407.88
-43948,Germany,distance_jogging,50368.24
-43948,Germany,distance_low_speed_sprinting,6263.86
-43948,Germany,distance_walking,807.02
-43948,Germany,final_third_pitch_control,44.0
-43948,Germany,forced_turnovers,18.0
+43948,Germany,distance_high_speed_running,16171.01953125
+43948,Germany,distance_high_speed_sprinting,2425.949951171875
+43948,Germany,distance_jogging,48943.58984375
+43948,Germany,distance_low_speed_sprinting,6327.64013671875
+43948,Germany,distance_walking,42347.890625
+43948,Germany,distributions_completed_under_pressure,287.0
+43948,Germany,distributions_under_pressure,377.0
+43948,Germany,final_third_entries_reception_central_channel,23.0
+43948,Germany,final_third_entries_reception_inside_left_channel,9.0
+43948,Germany,final_third_entries_reception_inside_right_channel,3.0
+43948,Germany,final_third_entries_reception_left_channel,20.0
+43948,Germany,final_third_entries_reception_right_channel,26.0
+43948,Germany,final_third_pitch_control,72.0
+43948,Germany,forced_turnovers,46.0
 43948,Germany,fouls_against,18.0
 43948,Germany,fouls_for,10.0
 43948,Germany,free_kicks,11.0
 43948,Germany,gksaves,0.0
 43948,Germany,gksaves_on_target,0.0
+43948,Germany,goalkeeper_defensive_actions_inside_penalty_area,10.0
+43948,Germany,goalkeeper_defensive_actions_outside_penalty_area,9.0
+43948,Germany,goalkeeper_save_percentage,0.5
+43948,Germany,goalkeeper_saves,1.0
+43948,Germany,goalkeeper_saves_on_target,1.0
 43948,Germany,goal_kicks,7.0
 43948,Germany,goals,7.0
 43948,Germany,goals_conceded,1.0
+43948,Germany,goals_conceded_from_attempt_at_goal_against,1.0
 43948,Germany,goals_from_direct_free_kicks,0.0
 43948,Germany,goals_inside_the_penalty_area,7.0
 43948,Germany,goals_outside_the_penalty_area,0.0
-43948,Germany,headed_attempt_at_goal,2.0
+43948,Germany,headed_attempt_at_goal,3.0
 43948,Germany,indirect_free_kicks,1.0
 43948,Germany,indirect_red_cards,0.0
+43948,Germany,linebreaks_attempted,190.0
+43948,Germany,linebreaks_attempted_all_lines,12.0
+43948,Germany,linebreaks_attempted_attacking_and_midfield_line,6.0
+43948,Germany,linebreaks_attempted_attacking_line,64.0
+43948,Germany,linebreaks_attempted_attacking_line_completed,51.0
+43948,Germany,linebreaks_attempted_attacking_line_completed_only,41.0
+43948,Germany,linebreaks_attempted_attacking_line_only,46.0
+43948,Germany,linebreaks_attempted_completed,144.0
+43948,Germany,linebreaks_attempted_defensive_line,28.0
+43948,Germany,linebreaks_attempted_defensive_line_completed,18.0
+43948,Germany,linebreaks_attempted_defensive_line_completed_only,9.0
+43948,Germany,linebreaks_attempted_defensive_line_only,14.0
+43948,Germany,linebreaks_attempted_midfield_and_defensive_line,2.0
+43948,Germany,linebreaks_attempted_midfield_line,98.0
+43948,Germany,linebreaks_attempted_midfield_line_completed,75.0
+43948,Germany,linebreaks_attempted_midfield_line_completed_only,63.0
+43948,Germany,linebreaks_attempted_midfield_line_only,78.0
+43948,Germany,linebreaks_attempted_under_pressure,96.0
+43948,Germany,linebreaks_completed_all_lines,7.0
+43948,Germany,linebreaks_completed_attacking_and_midfield_line,3.0
+43948,Germany,linebreaks_completed_midfield_and_defensive_line,2.0
+43948,Germany,linebreaks_completed_under_pressure,72.0
 43948,Germany,matches_played,1.0
+43948,Germany,number_of_involvements,0.0
+43948,Germany,number_of_possession_sequences,0.0
+43948,Germany,number_of_shot_ending_sequences,0.0
+43948,Germany,offers_to_receive_in_behind,124.0
+43948,Germany,offers_to_receive_in_between,181.0
+43948,Germany,offers_to_receive_in_front,140.0
+43948,Germany,offers_to_receive_inside,243.0
+43948,Germany,offers_to_receive_outside,202.0
+43948,Germany,offers_to_receive_total,445.0
 43948,Germany,offsides,0.0
 43948,Germany,own_goals,0.0
-43948,Germany,passes,631.0
-43948,Germany,passes_completed,563.0
+43948,Germany,passes,641.0
+43948,Germany,passes_completed,569.0
 43948,Germany,penalties,1.0
 43948,Germany,penalties_scored,1.0
-43948,Germany,phase_aggregate_attacking_transition,11.48
-43948,Germany,phase_aggregate_build_up_opposed,19.23
-43948,Germany,phase_aggregate_build_up_unopposed,35.12
-43948,Germany,phase_aggregate_counterattack,0.0
-43948,Germany,phase_aggregate_counter_press,11.35
-43948,Germany,phase_aggregate_defensive_transition,15.92
-43948,Germany,phase_aggregate_final_third,23.32
-43948,Germany,phase_aggregate_high_block,8.38
-43948,Germany,phase_aggregate_high_press,10.04
-43948,Germany,phase_aggregate_long_ball,0.72
-43948,Germany,phase_aggregate_low_block,12.55
-43948,Germany,phase_aggregate_low_press,0.37
-43948,Germany,phase_aggregate_mid_block,13.17
-43948,Germany,phase_aggregate_mid_press,7.14
-43948,Germany,phase_aggregate_progression,19.65
-43948,Germany,phase_aggregate_recovery,8.32
-43948,Germany,phase_aggregate_set_pieces,2.1
+43948,Germany,phase_aggregate_attacking_transition,12.561054527759552
+43948,Germany,phase_aggregate_build_up_opposed,17.03685373067856
+43948,Germany,phase_aggregate_build_up_unopposed,34.607529640197754
+43948,Germany,phase_aggregate_counterattack,0.26444324757903814
+43948,Germany,phase_aggregate_counter_press,15.292708575725555
+43948,Germany,phase_aggregate_defensive_transition,20.221589505672455
+43948,Germany,phase_aggregate_final_third,23.242390155792236
+43948,Germany,phase_aggregate_high_block,7.604432106018066
+43948,Germany,phase_aggregate_high_press,8.555173128843307
+43948,Germany,phase_aggregate_long_ball,0.758794229477644
+43948,Germany,phase_aggregate_low_block,12.780356407165527
+43948,Germany,phase_aggregate_low_press,0.3623296972364187
+43948,Germany,phase_aggregate_mid_block,11.402904987335205
+43948,Germany,phase_aggregate_mid_press,5.735888704657555
+43948,Germany,phase_aggregate_progression,19.06162053346634
+43948,Germany,phase_aggregate_recovery,8.002694696187973
+43948,Germany,phase_aggregate_set_pieces,7.2731755673885345
 43948,Germany,pitch_control,56.0
-43948,Germany,possession,0.54
+43948,Germany,possession,0.5779556035995483
+43948,Germany,received_offers_to_receive,153.0
+43948,Germany,receptions_between_midfield_and_defensive_line,152.0
+43948,Germany,receptions_in_behind,17.0
+43948,Germany,receptions_under_direct_pressure,32.0
+43948,Germany,receptions_under_indirect_pressure,221.0
+43948,Germany,receptions_under_no_pressure,423.0
+43948,Germany,receptions_under_pressure,253.0
 43948,Germany,red_cards,0.0
+43948,Germany,speed_runs,1378.0
+43948,Germany,sprints,490.0
 43948,Germany,substitutions_in,5.0
 43948,Germany,substitutions_out,5.0
-43948,Germany,threat,70.0
+43948,Germany,take_ons_completed,16.0
+43948,Germany,threat,71.0
 43948,Germany,throw_ins,17.0
-43948,Germany,top_speed,33.66
-43948,Germany,total_distance,118637.11
-43948,Germany,xg,3.75
-43948,Germany,xg,3.75
+43948,Germany,time_played,100.35128333333333
+43948,Germany,top_speed,33.81826400756836
+43948,Germany,total_distance,116216.09375
+43948,Germany,xg,4.165320873260498
 43948,Germany,yellow_cards,0.0
 43908,Haiti,assists,0.0
 43908,Haiti,attempt_at_goal,15.0
@@ -1039,90 +1449,150 @@ id_team,team_name,stat,value
 43908,Haiti,total_distance,113738.0625
 43908,Haiti,xg,0.7022180557250977
 43908,Haiti,yellow_cards,1.0
-43819,Japan,assists,0.0
-43819,Japan,attempt_at_goal,1.0
-43819,Japan,attempt_at_goal_against,1.0
-43819,Japan,attempt_at_goal_against_on_target,0.0
+43819,Japan,assists,2.0
+43819,Japan,attempt_at_goal,9.0
+43819,Japan,attempt_at_goal_against,10.0
+43819,Japan,attempt_at_goal_against_on_target,6.0
 43819,Japan,attempt_at_goal_blocked,0.0
 43819,Japan,attempt_at_goal_from_ball_progression,0.0
-43819,Japan,attempt_at_goal_from_corner,0.0
-43819,Japan,attempt_at_goal_from_cross,1.0
+43819,Japan,attempt_at_goal_from_corner,2.0
+43819,Japan,attempt_at_goal_from_cross,3.0
 43819,Japan,attempt_at_goal_from_freekick,0.0
 43819,Japan,attempt_at_goal_from_free_kicks,0.0
-43819,Japan,attempt_at_goal_from_other,0.0
-43819,Japan,attempt_at_goal_from_pass,1.0
+43819,Japan,attempt_at_goal_from_other,1.0
+43819,Japan,attempt_at_goal_from_pass,3.0
 43819,Japan,attempt_at_goal_from_penalty,0.0
 43819,Japan,attempt_at_goal_from_rebound,0.0
-43819,Japan,attempt_at_goal_inside_the_penalty_area,0.0
-43819,Japan,attempt_at_goal_inside_the_penalty_area_on_target,0.0
-43819,Japan,attempt_at_goal_off_target,1.0
-43819,Japan,attempt_at_goal_on_target,0.0
-43819,Japan,attempt_at_goal_outside_the_penalty_area,1.0
-43819,Japan,attempt_at_goal_outside_the_penalty_area_on_target,0.0
-43819,Japan,avg_speed,6.62
-43819,Japan,ball_recovery_time,29.03
-43819,Japan,clean_sheets,1.0
-43819,Japan,corners,1.0
-43819,Japan,crosses,8.0
-43819,Japan,crosses_completed,2.0
-43819,Japan,direct_free_kicks,2.0
+43819,Japan,attempt_at_goal_inside_the_penalty_area,5.0
+43819,Japan,attempt_at_goal_inside_the_penalty_area_on_target,1.0
+43819,Japan,attempt_at_goal_off_target,5.0
+43819,Japan,attempt_at_goal_on_target,2.0
+43819,Japan,attempt_at_goal_outside_the_penalty_area,4.0
+43819,Japan,attempt_at_goal_outside_the_penalty_area_on_target,1.0
+43819,Japan,attempted_ball_progressions,21.0
+43819,Japan,attempted_switches_of_play,2.0
+43819,Japan,avg_speed,6.05285120010376
+43819,Japan,ball_recovery_time,22.256025314331055
+43819,Japan,clean_sheets,0.0
+43819,Japan,completed_ball_progressions,13.0
+43819,Japan,completed_switches_of_play,2.0
+43819,Japan,corners,4.0
+43819,Japan,crosses,24.0
+43819,Japan,crosses_completed,7.0
+43819,Japan,defensive_pressures_applied,316.0
+43819,Japan,direct_defensive_pressures_applied,46.0
+43819,Japan,direct_free_kicks,7.0
 43819,Japan,direct_red_cards,0.0
-43819,Japan,distance_high_speed_running,4962.82
-43819,Japan,distance_high_speed_sprinting,546.3
-43819,Japan,distance_jogging,15763.84
-43819,Japan,distance_low_speed_sprinting,1700.81
-43819,Japan,distance_walking,241.6
-43819,Japan,final_third_pitch_control,22.0
-43819,Japan,forced_turnovers,6.0
-43819,Japan,fouls_against,1.0
-43819,Japan,fouls_for,2.0
-43819,Japan,free_kicks,2.0
+43819,Japan,distance_high_speed_running,13825.6396484375
+43819,Japan,distance_high_speed_sprinting,1718.4100341796875
+43819,Japan,distance_jogging,46027.1015625
+43819,Japan,distance_low_speed_sprinting,5075.080078125
+43819,Japan,distance_walking,42753.171875
+43819,Japan,distributions_completed_under_pressure,119.0
+43819,Japan,distributions_under_pressure,180.0
+43819,Japan,final_third_entries_reception_central_channel,4.0
+43819,Japan,final_third_entries_reception_inside_left_channel,6.0
+43819,Japan,final_third_entries_reception_inside_right_channel,7.0
+43819,Japan,final_third_entries_reception_left_channel,16.0
+43819,Japan,final_third_entries_reception_right_channel,16.0
+43819,Japan,final_third_pitch_control,37.0
+43819,Japan,forced_turnovers,28.0
+43819,Japan,fouls_against,7.0
+43819,Japan,fouls_for,7.0
+43819,Japan,free_kicks,8.0
 43819,Japan,gksaves,0.0
 43819,Japan,gksaves_on_target,0.0
-43819,Japan,goal_kicks,4.0
-43819,Japan,goals,0.0
-43819,Japan,goals_conceded,0.0
+43819,Japan,goalkeeper_defensive_actions_inside_penalty_area,12.0
+43819,Japan,goalkeeper_defensive_actions_outside_penalty_area,12.0
+43819,Japan,goalkeeper_save_percentage,0.6666666865348816
+43819,Japan,goalkeeper_saves,6.0
+43819,Japan,goalkeeper_saves_on_target,4.0
+43819,Japan,goal_kicks,7.0
+43819,Japan,goals,2.0
+43819,Japan,goals_conceded,2.0
+43819,Japan,goals_conceded_from_attempt_at_goal_against,2.0
 43819,Japan,goals_from_direct_free_kicks,0.0
-43819,Japan,goals_inside_the_penalty_area,0.0
-43819,Japan,goals_outside_the_penalty_area,0.0
-43819,Japan,headed_attempt_at_goal,0.0
-43819,Japan,indirect_free_kicks,0.0
+43819,Japan,goals_inside_the_penalty_area,1.0
+43819,Japan,goals_outside_the_penalty_area,1.0
+43819,Japan,headed_attempt_at_goal,2.0
+43819,Japan,indirect_free_kicks,1.0
 43819,Japan,indirect_red_cards,0.0
+43819,Japan,linebreaks_attempted,138.0
+43819,Japan,linebreaks_attempted_all_lines,10.0
+43819,Japan,linebreaks_attempted_attacking_and_midfield_line,7.0
+43819,Japan,linebreaks_attempted_attacking_line,30.0
+43819,Japan,linebreaks_attempted_attacking_line_completed,18.0
+43819,Japan,linebreaks_attempted_attacking_line_completed_only,9.0
+43819,Japan,linebreaks_attempted_attacking_line_only,13.0
+43819,Japan,linebreaks_attempted_completed,88.0
+43819,Japan,linebreaks_attempted_defensive_line,20.0
+43819,Japan,linebreaks_attempted_defensive_line_completed,13.0
+43819,Japan,linebreaks_attempted_defensive_line_completed_only,6.0
+43819,Japan,linebreaks_attempted_defensive_line_only,8.0
+43819,Japan,linebreaks_attempted_midfield_and_defensive_line,2.0
+43819,Japan,linebreaks_attempted_midfield_line,88.0
+43819,Japan,linebreaks_attempted_midfield_line_completed,57.0
+43819,Japan,linebreaks_attempted_midfield_line_completed_only,47.0
+43819,Japan,linebreaks_attempted_midfield_line_only,69.0
+43819,Japan,linebreaks_attempted_under_pressure,68.0
+43819,Japan,linebreaks_completed_all_lines,6.0
+43819,Japan,linebreaks_completed_attacking_and_midfield_line,3.0
+43819,Japan,linebreaks_completed_midfield_and_defensive_line,1.0
+43819,Japan,linebreaks_completed_under_pressure,45.0
 43819,Japan,matches_played,1.0
+43819,Japan,number_of_involvements,0.0
+43819,Japan,number_of_possession_sequences,0.0
+43819,Japan,number_of_shot_ending_sequences,0.0
+43819,Japan,offers_to_receive_in_behind,101.0
+43819,Japan,offers_to_receive_in_between,121.0
+43819,Japan,offers_to_receive_in_front,120.0
+43819,Japan,offers_to_receive_inside,203.0
+43819,Japan,offers_to_receive_outside,139.0
+43819,Japan,offers_to_receive_total,342.0
 43819,Japan,offsides,0.0
 43819,Japan,own_goals,0.0
-43819,Japan,passes,118.0
-43819,Japan,passes_completed,102.0
+43819,Japan,passes,356.0
+43819,Japan,passes_completed,302.0
 43819,Japan,penalties,0.0
 43819,Japan,penalties_scored,0.0
-43819,Japan,phase_aggregate_attacking_transition,11.95
-43819,Japan,phase_aggregate_build_up_opposed,10.49
-43819,Japan,phase_aggregate_build_up_unopposed,38.94
-43819,Japan,phase_aggregate_counterattack,0.0
-43819,Japan,phase_aggregate_counter_press,4.0
-43819,Japan,phase_aggregate_defensive_transition,5.0
-43819,Japan,phase_aggregate_final_third,25.0
-43819,Japan,phase_aggregate_high_block,0.08
-43819,Japan,phase_aggregate_high_press,2.03
-43819,Japan,phase_aggregate_long_ball,1.96
-43819,Japan,phase_aggregate_low_block,49.3
-43819,Japan,phase_aggregate_low_press,0.0
-43819,Japan,phase_aggregate_mid_block,23.44
-43819,Japan,phase_aggregate_mid_press,3.73
-43819,Japan,phase_aggregate_progression,20.44
-43819,Japan,phase_aggregate_recovery,6.15
-43819,Japan,phase_aggregate_set_pieces,3.68
-43819,Japan,pitch_control,38.0
-43819,Japan,possession,0.37
+43819,Japan,phase_aggregate_attacking_transition,11.970113962888718
+43819,Japan,phase_aggregate_build_up_opposed,8.505561202764511
+43819,Japan,phase_aggregate_build_up_unopposed,43.76654326915741
+43819,Japan,phase_aggregate_counterattack,1.1865799315273762
+43819,Japan,phase_aggregate_counter_press,6.013762578368187
+43819,Japan,phase_aggregate_defensive_transition,7.607186585664749
+43819,Japan,phase_aggregate_final_third,20.11709362268448
+43819,Japan,phase_aggregate_high_block,1.378257293254137
+43819,Japan,phase_aggregate_high_press,1.6301114112138748
+43819,Japan,phase_aggregate_long_ball,3.484111651778221
+43819,Japan,phase_aggregate_low_block,50.199300050735474
+43819,Japan,phase_aggregate_low_press,0.48189423978328705
+43819,Japan,phase_aggregate_mid_block,18.25050562620163
+43819,Japan,phase_aggregate_mid_press,2.74957362562418
+43819,Japan,phase_aggregate_progression,17.158466577529907
+43819,Japan,phase_aggregate_recovery,4.015785455703735
+43819,Japan,phase_aggregate_set_pieces,5.752956494688988
+43819,Japan,pitch_control,41.0
+43819,Japan,possession,0.3744947612285614
+43819,Japan,received_offers_to_receive,105.0
+43819,Japan,receptions_between_midfield_and_defensive_line,79.0
+43819,Japan,receptions_in_behind,11.0
+43819,Japan,receptions_under_direct_pressure,11.0
+43819,Japan,receptions_under_indirect_pressure,106.0
+43819,Japan,receptions_under_no_pressure,255.0
+43819,Japan,receptions_under_pressure,117.0
 43819,Japan,red_cards,0.0
-43819,Japan,substitutions_in,0.0
-43819,Japan,substitutions_out,0.0
+43819,Japan,speed_runs,1150.0
+43819,Japan,sprints,398.0
+43819,Japan,substitutions_in,5.0
+43819,Japan,substitutions_out,5.0
+43819,Japan,take_ons_completed,4.0
 43819,Japan,threat,43.0
-43819,Japan,throw_ins,4.0
-43819,Japan,top_speed,32.54
-43819,Japan,total_distance,36344.93
-43819,Japan,xg,0.02
-43819,Japan,xg,0.02
+43819,Japan,throw_ins,19.0
+43819,Japan,time_played,99.07321666666667
+43819,Japan,top_speed,33.54746627807617
+43819,Japan,total_distance,109399.3984375
+43819,Japan,xg,0.3389749526977539
 43819,Japan,yellow_cards,0.0
 43822,Korea Republic,assists,2.0
 43822,Korea Republic,attempt_at_goal,15.0
@@ -1559,91 +2029,151 @@ id_team,team_name,stat,value
 43872,Morocco,total_distance,114900.359375
 43872,Morocco,xg,1.330631971359253
 43872,Morocco,yellow_cards,0.0
-43960,Netherlands,assists,0.0
-43960,Netherlands,attempt_at_goal,1.0
-43960,Netherlands,attempt_at_goal_against,1.0
-43960,Netherlands,attempt_at_goal_against_on_target,0.0
+43960,Netherlands,assists,2.0
+43960,Netherlands,attempt_at_goal,10.0
+43960,Netherlands,attempt_at_goal_against,9.0
+43960,Netherlands,attempt_at_goal_against_on_target,2.0
 43960,Netherlands,attempt_at_goal_blocked,0.0
-43960,Netherlands,attempt_at_goal_from_ball_progression,0.0
-43960,Netherlands,attempt_at_goal_from_corner,0.0
-43960,Netherlands,attempt_at_goal_from_cross,1.0
+43960,Netherlands,attempt_at_goal_from_ball_progression,1.0
+43960,Netherlands,attempt_at_goal_from_corner,2.0
+43960,Netherlands,attempt_at_goal_from_cross,3.0
 43960,Netherlands,attempt_at_goal_from_freekick,0.0
 43960,Netherlands,attempt_at_goal_from_free_kicks,0.0
 43960,Netherlands,attempt_at_goal_from_other,0.0
-43960,Netherlands,attempt_at_goal_from_pass,1.0
+43960,Netherlands,attempt_at_goal_from_pass,3.0
 43960,Netherlands,attempt_at_goal_from_penalty,0.0
 43960,Netherlands,attempt_at_goal_from_rebound,0.0
-43960,Netherlands,attempt_at_goal_inside_the_penalty_area,1.0
-43960,Netherlands,attempt_at_goal_inside_the_penalty_area_on_target,1.0
-43960,Netherlands,attempt_at_goal_off_target,0.0
-43960,Netherlands,attempt_at_goal_on_target,1.0
+43960,Netherlands,attempt_at_goal_inside_the_penalty_area,10.0
+43960,Netherlands,attempt_at_goal_inside_the_penalty_area_on_target,6.0
+43960,Netherlands,attempt_at_goal_off_target,4.0
+43960,Netherlands,attempt_at_goal_on_target,6.0
 43960,Netherlands,attempt_at_goal_outside_the_penalty_area,0.0
 43960,Netherlands,attempt_at_goal_outside_the_penalty_area_on_target,0.0
-43960,Netherlands,avg_speed,6.01
-43960,Netherlands,ball_recovery_time,18.71
-43960,Netherlands,clean_sheets,1.0
-43960,Netherlands,corners,1.0
-43960,Netherlands,crosses,3.0
-43960,Netherlands,crosses_completed,0.0
-43960,Netherlands,direct_free_kicks,1.0
+43960,Netherlands,attempted_ball_progressions,23.0
+43960,Netherlands,attempted_switches_of_play,1.0
+43960,Netherlands,avg_speed,5.6793718338012695
+43960,Netherlands,ball_recovery_time,14.245381355285645
+43960,Netherlands,clean_sheets,0.0
+43960,Netherlands,completed_ball_progressions,12.0
+43960,Netherlands,completed_switches_of_play,0.0
+43960,Netherlands,corners,5.0
+43960,Netherlands,crosses,23.0
+43960,Netherlands,crosses_completed,8.0
+43960,Netherlands,defensive_pressures_applied,194.0
+43960,Netherlands,direct_defensive_pressures_applied,30.0
+43960,Netherlands,direct_free_kicks,7.0
 43960,Netherlands,direct_red_cards,0.0
-43960,Netherlands,distance_high_speed_running,3940.55
-43960,Netherlands,distance_high_speed_sprinting,316.83
-43960,Netherlands,distance_jogging,13568.72
-43960,Netherlands,distance_low_speed_sprinting,1468.98
-43960,Netherlands,distance_walking,13399.2
-43960,Netherlands,final_third_pitch_control,40.0
-43960,Netherlands,forced_turnovers,4.0
-43960,Netherlands,fouls_against,2.0
-43960,Netherlands,fouls_for,1.0
-43960,Netherlands,free_kicks,1.0
+43960,Netherlands,distance_high_speed_running,12240.80078125
+43960,Netherlands,distance_high_speed_sprinting,1451.22998046875
+43960,Netherlands,distance_jogging,40676.640625
+43960,Netherlands,distance_low_speed_sprinting,4594.39990234375
+43960,Netherlands,distance_walking,43980.21875
+43960,Netherlands,distributions_completed_under_pressure,198.0
+43960,Netherlands,distributions_under_pressure,262.0
+43960,Netherlands,final_third_entries_reception_central_channel,10.0
+43960,Netherlands,final_third_entries_reception_inside_left_channel,8.0
+43960,Netherlands,final_third_entries_reception_inside_right_channel,9.0
+43960,Netherlands,final_third_entries_reception_left_channel,18.0
+43960,Netherlands,final_third_entries_reception_right_channel,18.0
+43960,Netherlands,final_third_pitch_control,60.0
+43960,Netherlands,forced_turnovers,33.0
+43960,Netherlands,fouls_against,7.0
+43960,Netherlands,fouls_for,6.0
+43960,Netherlands,free_kicks,7.0
 43960,Netherlands,gksaves,0.0
 43960,Netherlands,gksaves_on_target,0.0
-43960,Netherlands,goal_kicks,4.0
-43960,Netherlands,goals,0.0
-43960,Netherlands,goals_conceded,0.0
+43960,Netherlands,goalkeeper_defensive_actions_inside_penalty_area,12.0
+43960,Netherlands,goalkeeper_defensive_actions_outside_penalty_area,11.0
+43960,Netherlands,goalkeeper_save_percentage,0.5
+43960,Netherlands,goalkeeper_saves,1.0
+43960,Netherlands,goalkeeper_saves_on_target,1.0
+43960,Netherlands,goal_kicks,9.0
+43960,Netherlands,goals,2.0
+43960,Netherlands,goals_conceded,2.0
+43960,Netherlands,goals_conceded_from_attempt_at_goal_against,1.0
 43960,Netherlands,goals_from_direct_free_kicks,0.0
-43960,Netherlands,goals_inside_the_penalty_area,0.0
+43960,Netherlands,goals_inside_the_penalty_area,2.0
 43960,Netherlands,goals_outside_the_penalty_area,0.0
-43960,Netherlands,headed_attempt_at_goal,0.0
+43960,Netherlands,headed_attempt_at_goal,5.0
 43960,Netherlands,indirect_free_kicks,0.0
 43960,Netherlands,indirect_red_cards,0.0
+43960,Netherlands,linebreaks_attempted,153.0
+43960,Netherlands,linebreaks_attempted_all_lines,7.0
+43960,Netherlands,linebreaks_attempted_attacking_and_midfield_line,14.0
+43960,Netherlands,linebreaks_attempted_attacking_line,38.0
+43960,Netherlands,linebreaks_attempted_attacking_line_completed,25.0
+43960,Netherlands,linebreaks_attempted_attacking_line_completed_only,11.0
+43960,Netherlands,linebreaks_attempted_attacking_line_only,17.0
+43960,Netherlands,linebreaks_attempted_completed,109.0
+43960,Netherlands,linebreaks_attempted_defensive_line,20.0
+43960,Netherlands,linebreaks_attempted_defensive_line_completed,13.0
+43960,Netherlands,linebreaks_attempted_defensive_line_completed_only,6.0
+43960,Netherlands,linebreaks_attempted_defensive_line_only,11.0
+43960,Netherlands,linebreaks_attempted_midfield_and_defensive_line,2.0
+43960,Netherlands,linebreaks_attempted_midfield_line,95.0
+43960,Netherlands,linebreaks_attempted_midfield_line_completed,71.0
+43960,Netherlands,linebreaks_attempted_midfield_line_completed_only,55.0
+43960,Netherlands,linebreaks_attempted_midfield_line_only,72.0
+43960,Netherlands,linebreaks_attempted_under_pressure,83.0
+43960,Netherlands,linebreaks_completed_all_lines,5.0
+43960,Netherlands,linebreaks_completed_attacking_and_midfield_line,9.0
+43960,Netherlands,linebreaks_completed_midfield_and_defensive_line,2.0
+43960,Netherlands,linebreaks_completed_under_pressure,62.0
 43960,Netherlands,matches_played,1.0
-43960,Netherlands,offsides,0.0
+43960,Netherlands,number_of_involvements,0.0
+43960,Netherlands,number_of_possession_sequences,0.0
+43960,Netherlands,number_of_shot_ending_sequences,0.0
+43960,Netherlands,offers_to_receive_in_behind,85.0
+43960,Netherlands,offers_to_receive_in_between,91.0
+43960,Netherlands,offers_to_receive_in_front,122.0
+43960,Netherlands,offers_to_receive_inside,180.0
+43960,Netherlands,offers_to_receive_outside,118.0
+43960,Netherlands,offers_to_receive_total,298.0
+43960,Netherlands,offsides,1.0
 43960,Netherlands,own_goals,0.0
-43960,Netherlands,passes,209.0
-43960,Netherlands,passes_completed,185.0
+43960,Netherlands,passes,529.0
+43960,Netherlands,passes_completed,473.0
 43960,Netherlands,penalties,0.0
 43960,Netherlands,penalties_scored,0.0
-43960,Netherlands,phase_aggregate_attacking_transition,5.0
-43960,Netherlands,phase_aggregate_build_up_opposed,20.08
-43960,Netherlands,phase_aggregate_build_up_unopposed,50.22
-43960,Netherlands,phase_aggregate_counterattack,0.0
-43960,Netherlands,phase_aggregate_counter_press,6.16
-43960,Netherlands,phase_aggregate_defensive_transition,11.97
-43960,Netherlands,phase_aggregate_final_third,15.48
-43960,Netherlands,phase_aggregate_high_block,2.69
-43960,Netherlands,phase_aggregate_high_press,0.6
-43960,Netherlands,phase_aggregate_long_ball,3.76
-43960,Netherlands,phase_aggregate_low_block,38.34
-43960,Netherlands,phase_aggregate_low_press,0.0
-43960,Netherlands,phase_aggregate_mid_block,26.68
-43960,Netherlands,phase_aggregate_mid_press,2.3
-43960,Netherlands,phase_aggregate_progression,15.86
-43960,Netherlands,phase_aggregate_recovery,6.95
-43960,Netherlands,phase_aggregate_set_pieces,3.86
-43960,Netherlands,pitch_control,55.0
-43960,Netherlands,possession,0.54
+43960,Netherlands,phase_aggregate_attacking_transition,7.607186585664749
+43960,Netherlands,phase_aggregate_build_up_opposed,18.83552074432373
+43960,Netherlands,phase_aggregate_build_up_unopposed,46.00701928138733
+43960,Netherlands,phase_aggregate_counterattack,1.3514853082597256
+43960,Netherlands,phase_aggregate_counter_press,7.455894351005554
+43960,Netherlands,phase_aggregate_defensive_transition,11.970113962888718
+43960,Netherlands,phase_aggregate_final_third,23.503747582435608
+43960,Netherlands,phase_aggregate_high_block,1.7459675669670105
+43960,Netherlands,phase_aggregate_high_press,1.9832836464047432
+43960,Netherlands,phase_aggregate_long_ball,3.218577802181244
+43960,Netherlands,phase_aggregate_low_block,32.83827304840088
+43960,Netherlands,phase_aggregate_low_press,0.4185628145933151
+43960,Netherlands,phase_aggregate_mid_block,24.623489379882812
+43960,Netherlands,phase_aggregate_mid_press,2.450091950595379
+43960,Netherlands,phase_aggregate_progression,13.85495513677597
+43960,Netherlands,phase_aggregate_recovery,4.665475711226463
+43960,Netherlands,phase_aggregate_set_pieces,5.9304725378751755
+43960,Netherlands,pitch_control,59.0
+43960,Netherlands,possession,0.5486080646514893
+43960,Netherlands,received_offers_to_receive,119.0
+43960,Netherlands,receptions_between_midfield_and_defensive_line,95.0
+43960,Netherlands,receptions_in_behind,11.0
+43960,Netherlands,receptions_under_direct_pressure,19.0
+43960,Netherlands,receptions_under_indirect_pressure,134.0
+43960,Netherlands,receptions_under_no_pressure,384.0
+43960,Netherlands,receptions_under_pressure,153.0
 43960,Netherlands,red_cards,0.0
-43960,Netherlands,substitutions_in,0.0
-43960,Netherlands,substitutions_out,0.0
+43960,Netherlands,speed_runs,1040.0
+43960,Netherlands,sprints,342.0
+43960,Netherlands,substitutions_in,5.0
+43960,Netherlands,substitutions_out,5.0
+43960,Netherlands,take_ons_completed,9.0
 43960,Netherlands,threat,57.0
-43960,Netherlands,throw_ins,7.0
-43960,Netherlands,top_speed,29.56
-43960,Netherlands,total_distance,33016.84
-43960,Netherlands,xg,0.07
-43960,Netherlands,xg,0.07
-43960,Netherlands,yellow_cards,0.0
+43960,Netherlands,throw_ins,21.0
+43960,Netherlands,time_played,99.07321666666667
+43960,Netherlands,top_speed,35.61319351196289
+43960,Netherlands,total_distance,102943.2890625
+43960,Netherlands,xg,0.6293714642524719
+43960,Netherlands,yellow_cards,3.0
 43928,Paraguay,assists,1.0
 43928,Paraguay,attempt_at_goal,9.0
 43928,Paraguay,attempt_at_goal_against,16.0
@@ -2224,6 +2754,91 @@ id_team,team_name,stat,value
 43883,South Africa,total_distance,97060.1796875
 43883,South Africa,xg,0.10333644598722458
 43883,South Africa,yellow_cards,2.0
+43970,Sweden,assists,2.0
+43970,Sweden,attempt_at_goal,9.0
+43970,Sweden,attempt_at_goal_against,5.0
+43970,Sweden,attempt_at_goal_against_on_target,0.0
+43970,Sweden,attempt_at_goal_blocked,2.0
+43970,Sweden,attempt_at_goal_from_ball_progression,4.0
+43970,Sweden,attempt_at_goal_from_corner,1.0
+43970,Sweden,attempt_at_goal_from_cross,0.0
+43970,Sweden,attempt_at_goal_from_freekick,0.0
+43970,Sweden,attempt_at_goal_from_free_kicks,0.0
+43970,Sweden,attempt_at_goal_from_other,2.0
+43970,Sweden,attempt_at_goal_from_pass,2.0
+43970,Sweden,attempt_at_goal_from_penalty,0.0
+43970,Sweden,attempt_at_goal_from_rebound,0.0
+43970,Sweden,attempt_at_goal_inside_the_penalty_area,6.0
+43970,Sweden,attempt_at_goal_inside_the_penalty_area_on_target,2.0
+43970,Sweden,attempt_at_goal_off_target,3.0
+43970,Sweden,attempt_at_goal_on_target,4.0
+43970,Sweden,attempt_at_goal_outside_the_penalty_area,3.0
+43970,Sweden,attempt_at_goal_outside_the_penalty_area_on_target,2.0
+43970,Sweden,avg_speed,6.26
+43970,Sweden,ball_recovery_time,12.28
+43970,Sweden,clean_sheets,0.0
+43970,Sweden,corners,2.0
+43970,Sweden,crosses,8.0
+43970,Sweden,crosses_completed,2.0
+43970,Sweden,direct_free_kicks,5.0
+43970,Sweden,direct_red_cards,0.0
+43970,Sweden,distance_high_speed_running,10187.38
+43970,Sweden,distance_high_speed_sprinting,1714.65
+43970,Sweden,distance_jogging,36054.79
+43970,Sweden,distance_low_speed_sprinting,3454.66
+43970,Sweden,distance_walking,712.82
+43970,Sweden,final_third_pitch_control,25.0
+43970,Sweden,forced_turnovers,23.0
+43970,Sweden,fouls_against,7.0
+43970,Sweden,fouls_for,5.0
+43970,Sweden,free_kicks,8.0
+43970,Sweden,gksaves,0.0
+43970,Sweden,gksaves_on_target,0.0
+43970,Sweden,goal_kicks,6.0
+43970,Sweden,goals,3.0
+43970,Sweden,goals_conceded,1.0
+43970,Sweden,goals_from_direct_free_kicks,0.0
+43970,Sweden,goals_inside_the_penalty_area,1.0
+43970,Sweden,goals_outside_the_penalty_area,2.0
+43970,Sweden,headed_attempt_at_goal,1.0
+43970,Sweden,indirect_free_kicks,3.0
+43970,Sweden,indirect_red_cards,0.0
+43970,Sweden,matches_played,1.0
+43970,Sweden,offsides,3.0
+43970,Sweden,own_goals,0.0
+43970,Sweden,passes,287.0
+43970,Sweden,passes_completed,228.0
+43970,Sweden,penalties,0.0
+43970,Sweden,penalties_scored,0.0
+43970,Sweden,phase_aggregate_attacking_transition,10.86
+43970,Sweden,phase_aggregate_build_up_opposed,12.6
+43970,Sweden,phase_aggregate_build_up_unopposed,37.75
+43970,Sweden,phase_aggregate_counterattack,1.01
+43970,Sweden,phase_aggregate_counter_press,9.75
+43970,Sweden,phase_aggregate_defensive_transition,12.3
+43970,Sweden,phase_aggregate_final_third,16.73
+43970,Sweden,phase_aggregate_high_block,4.11
+43970,Sweden,phase_aggregate_high_press,2.53
+43970,Sweden,phase_aggregate_long_ball,4.24
+43970,Sweden,phase_aggregate_low_block,23.38
+43970,Sweden,phase_aggregate_low_press,0.21
+43970,Sweden,phase_aggregate_mid_block,18.79
+43970,Sweden,phase_aggregate_mid_press,2.07
+43970,Sweden,phase_aggregate_progression,18.58
+43970,Sweden,phase_aggregate_recovery,3.83
+43970,Sweden,phase_aggregate_set_pieces,2.27
+43970,Sweden,pitch_control,45.0
+43970,Sweden,possession,0.4
+43970,Sweden,red_cards,0.0
+43970,Sweden,substitutions_in,2.0
+43970,Sweden,substitutions_out,2.0
+43970,Sweden,threat,48.0
+43970,Sweden,throw_ins,12.0
+43970,Sweden,top_speed,32.58
+43970,Sweden,total_distance,85131.53
+43970,Sweden,xg,0.99
+43970,Sweden,xg,0.99
+43970,Sweden,yellow_cards,0.0
 43971,Switzerland,assists,0.0
 43971,Switzerland,attempt_at_goal,26.0
 43971,Switzerland,attempt_at_goal_against,6.0
@@ -2369,6 +2984,91 @@ id_team,team_name,stat,value
 43971,Switzerland,total_distance,109407.8359375
 43971,Switzerland,xg,3.141817092895508
 43971,Switzerland,yellow_cards,1.0
+43888,Tunisia,assists,1.0
+43888,Tunisia,attempt_at_goal,5.0
+43888,Tunisia,attempt_at_goal_against,9.0
+43888,Tunisia,attempt_at_goal_against_on_target,0.0
+43888,Tunisia,attempt_at_goal_blocked,1.0
+43888,Tunisia,attempt_at_goal_from_ball_progression,2.0
+43888,Tunisia,attempt_at_goal_from_corner,0.0
+43888,Tunisia,attempt_at_goal_from_cross,1.0
+43888,Tunisia,attempt_at_goal_from_freekick,1.0
+43888,Tunisia,attempt_at_goal_from_free_kicks,1.0
+43888,Tunisia,attempt_at_goal_from_other,1.0
+43888,Tunisia,attempt_at_goal_from_pass,1.0
+43888,Tunisia,attempt_at_goal_from_penalty,0.0
+43888,Tunisia,attempt_at_goal_from_rebound,0.0
+43888,Tunisia,attempt_at_goal_inside_the_penalty_area,2.0
+43888,Tunisia,attempt_at_goal_inside_the_penalty_area_on_target,1.0
+43888,Tunisia,attempt_at_goal_off_target,3.0
+43888,Tunisia,attempt_at_goal_on_target,1.0
+43888,Tunisia,attempt_at_goal_outside_the_penalty_area,3.0
+43888,Tunisia,attempt_at_goal_outside_the_penalty_area_on_target,0.0
+43888,Tunisia,avg_speed,6.3
+43888,Tunisia,ball_recovery_time,15.1
+43888,Tunisia,clean_sheets,0.0
+43888,Tunisia,corners,2.0
+43888,Tunisia,crosses,12.0
+43888,Tunisia,crosses_completed,2.0
+43888,Tunisia,direct_free_kicks,7.0
+43888,Tunisia,direct_red_cards,0.0
+43888,Tunisia,distance_high_speed_running,10547.4
+43888,Tunisia,distance_high_speed_sprinting,1642.51
+43888,Tunisia,distance_jogging,36672.31
+43888,Tunisia,distance_low_speed_sprinting,4550.26
+43888,Tunisia,distance_walking,31781.66
+43888,Tunisia,final_third_pitch_control,33.0
+43888,Tunisia,forced_turnovers,21.0
+43888,Tunisia,fouls_against,5.0
+43888,Tunisia,fouls_for,6.0
+43888,Tunisia,free_kicks,10.0
+43888,Tunisia,gksaves,0.0
+43888,Tunisia,gksaves_on_target,0.0
+43888,Tunisia,goal_kicks,7.0
+43888,Tunisia,goals,1.0
+43888,Tunisia,goals_conceded,3.0
+43888,Tunisia,goals_from_direct_free_kicks,0.0
+43888,Tunisia,goals_inside_the_penalty_area,1.0
+43888,Tunisia,goals_outside_the_penalty_area,0.0
+43888,Tunisia,headed_attempt_at_goal,1.0
+43888,Tunisia,indirect_free_kicks,3.0
+43888,Tunisia,indirect_red_cards,0.0
+43888,Tunisia,matches_played,1.0
+43888,Tunisia,offsides,3.0
+43888,Tunisia,own_goals,0.0
+43888,Tunisia,passes,306.0
+43888,Tunisia,passes_completed,240.0
+43888,Tunisia,penalties,0.0
+43888,Tunisia,penalties_scored,0.0
+43888,Tunisia,phase_aggregate_attacking_transition,12.3
+43888,Tunisia,phase_aggregate_build_up_opposed,12.38
+43888,Tunisia,phase_aggregate_build_up_unopposed,39.94
+43888,Tunisia,phase_aggregate_counterattack,0.18
+43888,Tunisia,phase_aggregate_counter_press,6.3
+43888,Tunisia,phase_aggregate_defensive_transition,10.87
+43888,Tunisia,phase_aggregate_final_third,15.51
+43888,Tunisia,phase_aggregate_high_block,4.93
+43888,Tunisia,phase_aggregate_high_press,3.52
+43888,Tunisia,phase_aggregate_long_ball,4.22
+43888,Tunisia,phase_aggregate_low_block,27.74
+43888,Tunisia,phase_aggregate_low_press,0.29
+43888,Tunisia,phase_aggregate_mid_block,23.48
+43888,Tunisia,phase_aggregate_mid_press,2.72
+43888,Tunisia,phase_aggregate_progression,19.19
+43888,Tunisia,phase_aggregate_recovery,8.43
+43888,Tunisia,phase_aggregate_set_pieces,4.3
+43888,Tunisia,pitch_control,47.0
+43888,Tunisia,possession,0.52
+43888,Tunisia,red_cards,0.0
+43888,Tunisia,substitutions_in,0.0
+43888,Tunisia,substitutions_out,0.0
+43888,Tunisia,threat,52.0
+43888,Tunisia,throw_ins,14.0
+43888,Tunisia,top_speed,33.95
+43888,Tunisia,total_distance,85930.92
+43888,Tunisia,xg,0.22
+43888,Tunisia,xg,0.22
+43888,Tunisia,yellow_cards,1.0
 43972,Türkiye,assists,0.0
 43972,Türkiye,attempt_at_goal,30.0
 43972,Türkiye,attempt_at_goal_against,9.0

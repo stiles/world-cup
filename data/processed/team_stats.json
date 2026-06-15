@@ -3501,7 +3501,7 @@
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"attempt_at_goal_against_on_target",
-    "value":0.0
+    "value":12.0
   },
   {
     "id_team":"1895293",
@@ -3513,7 +3513,7 @@
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"attempt_at_goal_from_ball_progression",
-    "value":3.0
+    "value":1.0
   },
   {
     "id_team":"1895293",
@@ -3543,13 +3543,13 @@
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"attempt_at_goal_from_other",
-    "value":2.0
+    "value":3.0
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"attempt_at_goal_from_pass",
-    "value":2.0
+    "value":3.0
   },
   {
     "id_team":"1895293",
@@ -3579,7 +3579,7 @@
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"attempt_at_goal_off_target",
-    "value":6.0
+    "value":5.0
   },
   {
     "id_team":"1895293",
@@ -3602,20 +3602,44 @@
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
+    "stat":"attempted_ball_progressions",
+    "value":34.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"attempted_switches_of_play",
+    "value":4.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
     "stat":"avg_speed",
-    "value":5.72
+    "value":5.6215200424
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"ball_recovery_time",
-    "value":17.89
+    "value":18.0912265778
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"clean_sheets",
     "value":0.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"completed_ball_progressions",
+    "value":17.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"completed_switches_of_play",
+    "value":4.0
   },
   {
     "id_team":"1895293",
@@ -3627,13 +3651,25 @@
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"crosses",
-    "value":6.0
+    "value":5.0
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"crosses_completed",
     "value":2.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"defensive_pressures_applied",
+    "value":339.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"direct_defensive_pressures_applied",
+    "value":48.0
   },
   {
     "id_team":"1895293",
@@ -3651,43 +3687,85 @@
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"distance_high_speed_running",
-    "value":11623.65
+    "value":11701.4404296875
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"distance_high_speed_sprinting",
-    "value":1974.44
+    "value":2025.2000732422
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"distance_jogging",
-    "value":41359.93
+    "value":40603.28125
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"distance_low_speed_sprinting",
-    "value":4908.78
+    "value":4984.8100585938
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"distance_walking",
-    "value":1044.79
+    "value":44171.640625
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"distributions_completed_under_pressure",
+    "value":183.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"distributions_under_pressure",
+    "value":251.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"final_third_entries_reception_central_channel",
+    "value":4.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"final_third_entries_reception_inside_left_channel",
+    "value":1.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"final_third_entries_reception_inside_right_channel",
+    "value":6.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"final_third_entries_reception_left_channel",
+    "value":16.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"final_third_entries_reception_right_channel",
+    "value":13.0
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"final_third_pitch_control",
-    "value":15.0
+    "value":24.0
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"forced_turnovers",
-    "value":23.0
+    "value":43.0
   },
   {
     "id_team":"1895293",
@@ -3722,8 +3800,38 @@
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
+    "stat":"goalkeeper_defensive_actions_inside_penalty_area",
+    "value":36.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"goalkeeper_defensive_actions_outside_penalty_area",
+    "value":31.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"goalkeeper_save_percentage",
+    "value":0.3636363745
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"goalkeeper_saves",
+    "value":4.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"goalkeeper_saves_on_target",
+    "value":4.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
     "stat":"goal_kicks",
-    "value":13.0
+    "value":11.0
   },
   {
     "id_team":"1895293",
@@ -3735,6 +3843,12 @@
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"goals_conceded",
+    "value":7.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"goals_conceded_from_attempt_at_goal_against",
     "value":7.0
   },
   {
@@ -3776,8 +3890,194 @@
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
+    "stat":"linebreaks_attempted",
+    "value":147.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_attempted_all_lines",
+    "value":7.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_attempted_attacking_and_midfield_line",
+    "value":20.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_attempted_attacking_line",
+    "value":57.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_attempted_attacking_line_completed",
+    "value":36.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_attempted_attacking_line_completed_only",
+    "value":25.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_attempted_attacking_line_only",
+    "value":30.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_attempted_completed",
+    "value":84.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_attempted_defensive_line",
+    "value":15.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_attempted_defensive_line_completed",
+    "value":6.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_attempted_defensive_line_completed_only",
+    "value":4.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_attempted_defensive_line_only",
+    "value":7.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_attempted_midfield_and_defensive_line",
+    "value":1.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_attempted_midfield_line",
+    "value":75.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_attempted_midfield_line_completed",
+    "value":42.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_attempted_midfield_line_completed_only",
+    "value":31.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_attempted_midfield_line_only",
+    "value":47.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_attempted_under_pressure",
+    "value":93.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_completed_all_lines",
+    "value":2.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_completed_attacking_and_midfield_line",
+    "value":9.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_completed_midfield_and_defensive_line",
+    "value":0.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"linebreaks_completed_under_pressure",
+    "value":64.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
     "stat":"matches_played",
     "value":1.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"number_of_involvements",
+    "value":0.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"number_of_possession_sequences",
+    "value":0.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"number_of_shot_ending_sequences",
+    "value":0.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"offers_to_receive_in_behind",
+    "value":83.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"offers_to_receive_in_between",
+    "value":103.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"offers_to_receive_in_front",
+    "value":55.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"offers_to_receive_inside",
+    "value":141.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"offers_to_receive_outside",
+    "value":100.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"offers_to_receive_total",
+    "value":241.0
   },
   {
     "id_team":"1895293",
@@ -3795,13 +4095,13 @@
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"passes",
-    "value":358.0
+    "value":362.0
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"passes_completed",
-    "value":290.0
+    "value":291.0
   },
   {
     "id_team":"1895293",
@@ -3819,121 +4119,175 @@
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"phase_aggregate_attacking_transition",
-    "value":15.92
+    "value":20.4671353102
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"phase_aggregate_build_up_opposed",
-    "value":19.03
+    "value":14.8270696402
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"phase_aggregate_build_up_unopposed",
-    "value":24.74
+    "value":24.8076066375
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"phase_aggregate_counterattack",
-    "value":0.12
+    "value":1.389429532
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"phase_aggregate_counter_press",
-    "value":10.68
+    "value":11.4381566644
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"phase_aggregate_defensive_transition",
-    "value":11.48
+    "value":12.5610545278
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"phase_aggregate_final_third",
-    "value":9.47
+    "value":8.5372060537
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"phase_aggregate_high_block",
-    "value":1.46
+    "value":1.0775075294
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"phase_aggregate_high_press",
-    "value":1.73
+    "value":1.9843110815
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"phase_aggregate_long_ball",
-    "value":5.99
+    "value":5.4693818092
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"phase_aggregate_low_block",
-    "value":36.84
+    "value":37.2904449701
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"phase_aggregate_low_press",
-    "value":0.41
+    "value":0.6926834118
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"phase_aggregate_mid_block",
-    "value":23.62
+    "value":24.6169030666
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"phase_aggregate_mid_press",
-    "value":1.99
+    "value":2.4431398138
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"phase_aggregate_progression",
-    "value":23.26
+    "value":19.0282970667
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"phase_aggregate_recovery",
-    "value":1.6
+    "value":1.2689328752
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"phase_aggregate_set_pieces",
-    "value":1.74
+    "value":6.0712680221
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"pitch_control",
-    "value":35.0
+    "value":44.0
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"possession",
-    "value":0.36
+    "value":0.3532169163
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"received_offers_to_receive",
+    "value":79.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"receptions_between_midfield_and_defensive_line",
+    "value":77.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"receptions_in_behind",
+    "value":6.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"receptions_under_direct_pressure",
+    "value":15.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"receptions_under_indirect_pressure",
+    "value":180.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"receptions_under_no_pressure",
+    "value":178.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"receptions_under_pressure",
+    "value":195.0
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"red_cards",
     "value":0.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"speed_runs",
+    "value":990.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"sprints",
+    "value":400.0
   },
   {
     "id_team":"1895293",
@@ -3950,38 +4304,44 @@
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
+    "stat":"take_ons_completed",
+    "value":13.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
     "stat":"threat",
-    "value":30.0
+    "value":29.0
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"throw_ins",
-    "value":10.0
+    "value":9.0
+  },
+  {
+    "id_team":"1895293",
+    "team_name":"Curaçao",
+    "stat":"time_played",
+    "value":100.3512833333
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"top_speed",
-    "value":33.23
+    "value":33.3381462097
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"total_distance",
-    "value":104680.26
+    "value":103486.3671875
   },
   {
     "id_team":"1895293",
     "team_name":"Curaçao",
     "stat":"xg",
-    "value":0.31
-  },
-  {
-    "id_team":"1895293",
-    "team_name":"Curaçao",
-    "stat":"xg",
-    "value":0.31
+    "value":0.4041719139
   },
   {
     "id_team":"1895293",
@@ -4860,6 +5220,1746 @@
     "value":0.0
   },
   {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"assists",
+    "value":1.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempt_at_goal",
+    "value":15.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempt_at_goal_against",
+    "value":12.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempt_at_goal_against_on_target",
+    "value":1.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempt_at_goal_blocked",
+    "value":1.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempt_at_goal_from_ball_progression",
+    "value":1.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempt_at_goal_from_corner",
+    "value":1.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempt_at_goal_from_cross",
+    "value":2.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempt_at_goal_from_freekick",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempt_at_goal_from_free_kicks",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempt_at_goal_from_other",
+    "value":2.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempt_at_goal_from_pass",
+    "value":9.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempt_at_goal_from_penalty",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempt_at_goal_from_rebound",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempt_at_goal_inside_the_penalty_area",
+    "value":8.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempt_at_goal_inside_the_penalty_area_on_target",
+    "value":2.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempt_at_goal_off_target",
+    "value":8.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempt_at_goal_on_target",
+    "value":4.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempt_at_goal_outside_the_penalty_area",
+    "value":7.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempt_at_goal_outside_the_penalty_area_on_target",
+    "value":2.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempted_ball_progressions",
+    "value":39.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"attempted_switches_of_play",
+    "value":1.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"avg_speed",
+    "value":5.8349375725
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"ball_recovery_time",
+    "value":17.2657527924
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"clean_sheets",
+    "value":1.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"completed_ball_progressions",
+    "value":30.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"completed_switches_of_play",
+    "value":1.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"corners",
+    "value":3.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"crosses",
+    "value":15.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"crosses_completed",
+    "value":3.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"defensive_pressures_applied",
+    "value":288.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"direct_defensive_pressures_applied",
+    "value":31.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"direct_free_kicks",
+    "value":13.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"direct_red_cards",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"distance_high_speed_running",
+    "value":14251.560546875
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"distance_high_speed_sprinting",
+    "value":2254.2199707031
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"distance_jogging",
+    "value":44079.71875
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"distance_low_speed_sprinting",
+    "value":5795.490234375
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"distance_walking",
+    "value":43211.2890625
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"distributions_completed_under_pressure",
+    "value":237.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"distributions_under_pressure",
+    "value":323.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"final_third_entries_reception_central_channel",
+    "value":6.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"final_third_entries_reception_inside_left_channel",
+    "value":7.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"final_third_entries_reception_inside_right_channel",
+    "value":2.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"final_third_entries_reception_left_channel",
+    "value":11.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"final_third_entries_reception_right_channel",
+    "value":25.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"final_third_pitch_control",
+    "value":50.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"forced_turnovers",
+    "value":44.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"fouls_against",
+    "value":10.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"fouls_for",
+    "value":13.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"free_kicks",
+    "value":13.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"gksaves",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"gksaves_on_target",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"goalkeeper_defensive_actions_inside_penalty_area",
+    "value":22.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"goalkeeper_defensive_actions_outside_penalty_area",
+    "value":18.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"goalkeeper_save_percentage",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"goalkeeper_saves",
+    "value":1.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"goalkeeper_saves_on_target",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"goal_kicks",
+    "value":10.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"goals",
+    "value":1.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"goals_conceded",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"goals_conceded_from_attempt_at_goal_against",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"goals_from_direct_free_kicks",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"goals_inside_the_penalty_area",
+    "value":1.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"goals_outside_the_penalty_area",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"headed_attempt_at_goal",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"indirect_free_kicks",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"indirect_red_cards",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_attempted",
+    "value":177.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_attempted_all_lines",
+    "value":5.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_attempted_attacking_and_midfield_line",
+    "value":24.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_attempted_attacking_line",
+    "value":89.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_attempted_attacking_line_completed",
+    "value":70.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_attempted_attacking_line_completed_only",
+    "value":54.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_attempted_attacking_line_only",
+    "value":60.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_attempted_completed",
+    "value":132.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_attempted_defensive_line",
+    "value":18.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_attempted_defensive_line_completed",
+    "value":11.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_attempted_defensive_line_completed_only",
+    "value":6.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_attempted_defensive_line_only",
+    "value":12.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_attempted_midfield_and_defensive_line",
+    "value":1.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_attempted_midfield_line",
+    "value":70.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_attempted_midfield_line_completed",
+    "value":51.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_attempted_midfield_line_completed_only",
+    "value":34.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_attempted_midfield_line_only",
+    "value":40.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_attempted_under_pressure",
+    "value":99.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_completed_all_lines",
+    "value":4.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_completed_attacking_and_midfield_line",
+    "value":12.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_completed_midfield_and_defensive_line",
+    "value":1.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"linebreaks_completed_under_pressure",
+    "value":68.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"matches_played",
+    "value":1.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"number_of_involvements",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"number_of_possession_sequences",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"number_of_shot_ending_sequences",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"offers_to_receive_in_behind",
+    "value":87.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"offers_to_receive_in_between",
+    "value":174.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"offers_to_receive_in_front",
+    "value":72.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"offers_to_receive_inside",
+    "value":179.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"offers_to_receive_outside",
+    "value":154.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"offers_to_receive_total",
+    "value":333.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"offsides",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"own_goals",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"passes",
+    "value":471.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"passes_completed",
+    "value":413.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"penalties",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"penalties_scored",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"phase_aggregate_attacking_transition",
+    "value":16.3745984435
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"phase_aggregate_build_up_opposed",
+    "value":13.8202995062
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"phase_aggregate_build_up_unopposed",
+    "value":27.3301541805
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"phase_aggregate_counterattack",
+    "value":1.0715826415
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"phase_aggregate_counter_press",
+    "value":9.3735352159
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"phase_aggregate_defensive_transition",
+    "value":13.6682286859
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"phase_aggregate_final_third",
+    "value":21.6414153576
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"phase_aggregate_high_block",
+    "value":10.8342215419
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"phase_aggregate_high_press",
+    "value":5.2578307688
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"phase_aggregate_long_ball",
+    "value":2.8695402667
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"phase_aggregate_low_block",
+    "value":11.9582355022
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"phase_aggregate_low_press",
+    "value":0.3910078667
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"phase_aggregate_mid_block",
+    "value":27.2150009871
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"phase_aggregate_mid_press",
+    "value":5.1523543894
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"phase_aggregate_progression",
+    "value":17.8944721818
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"phase_aggregate_recovery",
+    "value":3.58299613
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"phase_aggregate_set_pieces",
+    "value":4.7322243452
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"pitch_control",
+    "value":48.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"possession",
+    "value":0.419375211
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"received_offers_to_receive",
+    "value":128.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"receptions_between_midfield_and_defensive_line",
+    "value":102.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"receptions_in_behind",
+    "value":8.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"receptions_under_direct_pressure",
+    "value":39.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"receptions_under_indirect_pressure",
+    "value":204.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"receptions_under_no_pressure",
+    "value":265.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"receptions_under_pressure",
+    "value":243.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"red_cards",
+    "value":0.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"speed_runs",
+    "value":1223.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"sprints",
+    "value":457.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"substitutions_in",
+    "value":5.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"substitutions_out",
+    "value":5.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"take_ons_completed",
+    "value":17.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"threat",
+    "value":51.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"throw_ins",
+    "value":14.0
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"time_played",
+    "value":102.76085
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"top_speed",
+    "value":34.5768127441
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"total_distance",
+    "value":109592.28125
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"xg",
+    "value":1.8823951483
+  },
+  {
+    "id_team":"43854",
+    "team_name":"Côte d'Ivoire",
+    "stat":"yellow_cards",
+    "value":3.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"assists",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempt_at_goal",
+    "value":12.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempt_at_goal_against",
+    "value":15.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempt_at_goal_against_on_target",
+    "value":4.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempt_at_goal_blocked",
+    "value":2.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempt_at_goal_from_ball_progression",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempt_at_goal_from_corner",
+    "value":2.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempt_at_goal_from_cross",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempt_at_goal_from_freekick",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempt_at_goal_from_free_kicks",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempt_at_goal_from_other",
+    "value":3.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempt_at_goal_from_pass",
+    "value":6.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempt_at_goal_from_penalty",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempt_at_goal_from_rebound",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempt_at_goal_inside_the_penalty_area",
+    "value":5.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempt_at_goal_inside_the_penalty_area_on_target",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempt_at_goal_off_target",
+    "value":10.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempt_at_goal_on_target",
+    "value":1.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempt_at_goal_outside_the_penalty_area",
+    "value":7.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempt_at_goal_outside_the_penalty_area_on_target",
+    "value":1.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempted_ball_progressions",
+    "value":16.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"attempted_switches_of_play",
+    "value":2.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"avg_speed",
+    "value":5.7680110931
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"ball_recovery_time",
+    "value":15.6507911682
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"clean_sheets",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"completed_ball_progressions",
+    "value":9.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"completed_switches_of_play",
+    "value":2.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"corners",
+    "value":5.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"crosses",
+    "value":14.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"crosses_completed",
+    "value":3.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"defensive_pressures_applied",
+    "value":280.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"direct_defensive_pressures_applied",
+    "value":61.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"direct_free_kicks",
+    "value":10.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"direct_red_cards",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"distance_high_speed_running",
+    "value":13977.689453125
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"distance_high_speed_sprinting",
+    "value":2135.3500976562
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"distance_jogging",
+    "value":43084.05078125
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"distance_low_speed_sprinting",
+    "value":5707.2197265625
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"distance_walking",
+    "value":43515.69921875
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"distributions_completed_under_pressure",
+    "value":203.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"distributions_under_pressure",
+    "value":276.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"final_third_entries_reception_central_channel",
+    "value":8.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"final_third_entries_reception_inside_left_channel",
+    "value":4.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"final_third_entries_reception_inside_right_channel",
+    "value":4.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"final_third_entries_reception_left_channel",
+    "value":16.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"final_third_entries_reception_right_channel",
+    "value":17.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"final_third_pitch_control",
+    "value":46.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"forced_turnovers",
+    "value":49.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"fouls_against",
+    "value":13.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"fouls_for",
+    "value":9.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"free_kicks",
+    "value":10.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"gksaves",
+    "value":3.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"gksaves_on_target",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"goalkeeper_defensive_actions_inside_penalty_area",
+    "value":23.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"goalkeeper_defensive_actions_outside_penalty_area",
+    "value":21.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"goalkeeper_save_percentage",
+    "value":0.75
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"goalkeeper_saves",
+    "value":3.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"goalkeeper_saves_on_target",
+    "value":3.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"goal_kicks",
+    "value":11.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"goals",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"goals_conceded",
+    "value":1.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"goals_conceded_from_attempt_at_goal_against",
+    "value":1.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"goals_from_direct_free_kicks",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"goals_inside_the_penalty_area",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"goals_outside_the_penalty_area",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"headed_attempt_at_goal",
+    "value":2.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"indirect_free_kicks",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"indirect_red_cards",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_attempted",
+    "value":191.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_attempted_all_lines",
+    "value":9.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_attempted_attacking_and_midfield_line",
+    "value":27.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_attempted_attacking_line",
+    "value":83.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_attempted_attacking_line_completed",
+    "value":57.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_attempted_attacking_line_completed_only",
+    "value":42.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_attempted_attacking_line_only",
+    "value":47.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_attempted_completed",
+    "value":124.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_attempted_defensive_line",
+    "value":20.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_attempted_defensive_line_completed",
+    "value":8.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_attempted_defensive_line_completed_only",
+    "value":4.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_attempted_defensive_line_only",
+    "value":11.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_attempted_midfield_and_defensive_line",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_attempted_midfield_line",
+    "value":88.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_attempted_midfield_line_completed",
+    "value":59.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_attempted_midfield_line_completed_only",
+    "value":44.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_attempted_midfield_line_only",
+    "value":52.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_attempted_under_pressure",
+    "value":94.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_completed_all_lines",
+    "value":4.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_completed_attacking_and_midfield_line",
+    "value":11.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_completed_midfield_and_defensive_line",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"linebreaks_completed_under_pressure",
+    "value":57.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"matches_played",
+    "value":1.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"number_of_involvements",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"number_of_possession_sequences",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"number_of_shot_ending_sequences",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"offers_to_receive_in_behind",
+    "value":77.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"offers_to_receive_in_between",
+    "value":149.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"offers_to_receive_in_front",
+    "value":113.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"offers_to_receive_inside",
+    "value":174.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"offers_to_receive_outside",
+    "value":165.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"offers_to_receive_total",
+    "value":339.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"offsides",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"own_goals",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"passes",
+    "value":513.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"passes_completed",
+    "value":438.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"penalties",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"penalties_scored",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"phase_aggregate_attacking_transition",
+    "value":13.6682286859
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"phase_aggregate_build_up_opposed",
+    "value":11.9262732565
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"phase_aggregate_build_up_unopposed",
+    "value":38.1632208824
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"phase_aggregate_counterattack",
+    "value":0.4996803589
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"phase_aggregate_counter_press",
+    "value":12.2548781335
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"phase_aggregate_defensive_transition",
+    "value":16.3745984435
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"phase_aggregate_final_third",
+    "value":10.6317922473
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"phase_aggregate_high_block",
+    "value":3.8368415087
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"phase_aggregate_high_press",
+    "value":5.5700723082
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"phase_aggregate_long_ball",
+    "value":4.5791603625
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"phase_aggregate_low_block",
+    "value":23.7342372537
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"phase_aggregate_low_press",
+    "value":0.823464524
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"phase_aggregate_mid_block",
+    "value":19.0583497286
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"phase_aggregate_mid_press",
+    "value":4.3882150203
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"phase_aggregate_progression",
+    "value":20.4528018832
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"phase_aggregate_recovery",
+    "value":4.4841062278
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"phase_aggregate_set_pieces",
+    "value":4.0911994874
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"pitch_control",
+    "value":51.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"possession",
+    "value":0.4987327456
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"received_offers_to_receive",
+    "value":147.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"receptions_between_midfield_and_defensive_line",
+    "value":113.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"receptions_in_behind",
+    "value":7.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"receptions_under_direct_pressure",
+    "value":21.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"receptions_under_indirect_pressure",
+    "value":142.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"receptions_under_no_pressure",
+    "value":360.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"receptions_under_pressure",
+    "value":163.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"red_cards",
+    "value":0.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"speed_runs",
+    "value":1205.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"sprints",
+    "value":451.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"substitutions_in",
+    "value":4.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"substitutions_out",
+    "value":4.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"take_ons_completed",
+    "value":5.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"threat",
+    "value":49.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"throw_ins",
+    "value":14.0
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"time_played",
+    "value":102.76085
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"top_speed",
+    "value":35.5152740479
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"total_distance",
+    "value":108420.0078125
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"xg",
+    "value":1.3596324921
+  },
+  {
+    "id_team":"43927",
+    "team_name":"Ecuador",
+    "stat":"yellow_cards",
+    "value":1.0
+  },
+  {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"assists",
@@ -4881,7 +6981,7 @@
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"attempt_at_goal_against_on_target",
-    "value":0.0
+    "value":2.0
   },
   {
     "id_team":"43948",
@@ -4893,19 +6993,19 @@
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"attempt_at_goal_from_ball_progression",
-    "value":6.0
+    "value":3.0
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"attempt_at_goal_from_corner",
-    "value":2.0
+    "value":1.0
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"attempt_at_goal_from_cross",
-    "value":2.0
+    "value":1.0
   },
   {
     "id_team":"43948",
@@ -4929,7 +7029,7 @@
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"attempt_at_goal_from_pass",
-    "value":12.0
+    "value":16.0
   },
   {
     "id_team":"43948",
@@ -4947,7 +7047,7 @@
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"attempt_at_goal_inside_the_penalty_area",
-    "value":21.0
+    "value":22.0
   },
   {
     "id_team":"43948",
@@ -4971,7 +7071,7 @@
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"attempt_at_goal_outside_the_penalty_area",
-    "value":5.0
+    "value":4.0
   },
   {
     "id_team":"43948",
@@ -4982,20 +7082,44 @@
   {
     "id_team":"43948",
     "team_name":"Germany",
+    "stat":"attempted_ball_progressions",
+    "value":32.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"attempted_switches_of_play",
+    "value":3.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
     "stat":"avg_speed",
-    "value":6.44
+    "value":6.3208355904
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"ball_recovery_time",
-    "value":13.38
+    "value":11.4239282608
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"clean_sheets",
     "value":0.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"completed_ball_progressions",
+    "value":23.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"completed_switches_of_play",
+    "value":3.0
   },
   {
     "id_team":"43948",
@@ -5007,13 +7131,25 @@
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"crosses",
-    "value":17.0
+    "value":20.0
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"crosses_completed",
-    "value":8.0
+    "value":7.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"defensive_pressures_applied",
+    "value":227.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"direct_defensive_pressures_applied",
+    "value":55.0
   },
   {
     "id_team":"43948",
@@ -5031,43 +7167,85 @@
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"distance_high_speed_running",
-    "value":16249.83
+    "value":16171.01953125
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"distance_high_speed_sprinting",
-    "value":2407.88
+    "value":2425.9499511719
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"distance_jogging",
-    "value":50368.24
+    "value":48943.58984375
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"distance_low_speed_sprinting",
-    "value":6263.86
+    "value":6327.6401367188
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"distance_walking",
-    "value":807.02
+    "value":42347.890625
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"distributions_completed_under_pressure",
+    "value":287.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"distributions_under_pressure",
+    "value":377.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"final_third_entries_reception_central_channel",
+    "value":23.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"final_third_entries_reception_inside_left_channel",
+    "value":9.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"final_third_entries_reception_inside_right_channel",
+    "value":3.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"final_third_entries_reception_left_channel",
+    "value":20.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"final_third_entries_reception_right_channel",
+    "value":26.0
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"final_third_pitch_control",
-    "value":44.0
+    "value":72.0
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"forced_turnovers",
-    "value":18.0
+    "value":46.0
   },
   {
     "id_team":"43948",
@@ -5102,6 +7280,36 @@
   {
     "id_team":"43948",
     "team_name":"Germany",
+    "stat":"goalkeeper_defensive_actions_inside_penalty_area",
+    "value":10.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"goalkeeper_defensive_actions_outside_penalty_area",
+    "value":9.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"goalkeeper_save_percentage",
+    "value":0.5
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"goalkeeper_saves",
+    "value":1.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"goalkeeper_saves_on_target",
+    "value":1.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
     "stat":"goal_kicks",
     "value":7.0
   },
@@ -5115,6 +7323,12 @@
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"goals_conceded",
+    "value":1.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"goals_conceded_from_attempt_at_goal_against",
     "value":1.0
   },
   {
@@ -5139,7 +7353,7 @@
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"headed_attempt_at_goal",
-    "value":2.0
+    "value":3.0
   },
   {
     "id_team":"43948",
@@ -5156,8 +7370,194 @@
   {
     "id_team":"43948",
     "team_name":"Germany",
+    "stat":"linebreaks_attempted",
+    "value":190.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_attempted_all_lines",
+    "value":12.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_attempted_attacking_and_midfield_line",
+    "value":6.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_attempted_attacking_line",
+    "value":64.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_attempted_attacking_line_completed",
+    "value":51.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_attempted_attacking_line_completed_only",
+    "value":41.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_attempted_attacking_line_only",
+    "value":46.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_attempted_completed",
+    "value":144.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_attempted_defensive_line",
+    "value":28.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_attempted_defensive_line_completed",
+    "value":18.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_attempted_defensive_line_completed_only",
+    "value":9.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_attempted_defensive_line_only",
+    "value":14.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_attempted_midfield_and_defensive_line",
+    "value":2.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_attempted_midfield_line",
+    "value":98.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_attempted_midfield_line_completed",
+    "value":75.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_attempted_midfield_line_completed_only",
+    "value":63.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_attempted_midfield_line_only",
+    "value":78.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_attempted_under_pressure",
+    "value":96.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_completed_all_lines",
+    "value":7.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_completed_attacking_and_midfield_line",
+    "value":3.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_completed_midfield_and_defensive_line",
+    "value":2.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"linebreaks_completed_under_pressure",
+    "value":72.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
     "stat":"matches_played",
     "value":1.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"number_of_involvements",
+    "value":0.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"number_of_possession_sequences",
+    "value":0.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"number_of_shot_ending_sequences",
+    "value":0.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"offers_to_receive_in_behind",
+    "value":124.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"offers_to_receive_in_between",
+    "value":181.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"offers_to_receive_in_front",
+    "value":140.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"offers_to_receive_inside",
+    "value":243.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"offers_to_receive_outside",
+    "value":202.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"offers_to_receive_total",
+    "value":445.0
   },
   {
     "id_team":"43948",
@@ -5175,13 +7575,13 @@
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"passes",
-    "value":631.0
+    "value":641.0
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"passes_completed",
-    "value":563.0
+    "value":569.0
   },
   {
     "id_team":"43948",
@@ -5199,103 +7599,103 @@
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"phase_aggregate_attacking_transition",
-    "value":11.48
+    "value":12.5610545278
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"phase_aggregate_build_up_opposed",
-    "value":19.23
+    "value":17.0368537307
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"phase_aggregate_build_up_unopposed",
-    "value":35.12
+    "value":34.6075296402
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"phase_aggregate_counterattack",
-    "value":0.0
+    "value":0.2644432476
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"phase_aggregate_counter_press",
-    "value":11.35
+    "value":15.2927085757
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"phase_aggregate_defensive_transition",
-    "value":15.92
+    "value":20.2215895057
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"phase_aggregate_final_third",
-    "value":23.32
+    "value":23.2423901558
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"phase_aggregate_high_block",
-    "value":8.38
+    "value":7.604432106
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"phase_aggregate_high_press",
-    "value":10.04
+    "value":8.5551731288
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"phase_aggregate_long_ball",
-    "value":0.72
+    "value":0.7587942295
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"phase_aggregate_low_block",
-    "value":12.55
+    "value":12.7803564072
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"phase_aggregate_low_press",
-    "value":0.37
+    "value":0.3623296972
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"phase_aggregate_mid_block",
-    "value":13.17
+    "value":11.4029049873
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"phase_aggregate_mid_press",
-    "value":7.14
+    "value":5.7358887047
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"phase_aggregate_progression",
-    "value":19.65
+    "value":19.0616205335
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"phase_aggregate_recovery",
-    "value":8.32
+    "value":8.0026946962
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"phase_aggregate_set_pieces",
-    "value":2.1
+    "value":7.2731755674
   },
   {
     "id_team":"43948",
@@ -5307,13 +7707,67 @@
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"possession",
-    "value":0.54
+    "value":0.5779556036
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"received_offers_to_receive",
+    "value":153.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"receptions_between_midfield_and_defensive_line",
+    "value":152.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"receptions_in_behind",
+    "value":17.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"receptions_under_direct_pressure",
+    "value":32.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"receptions_under_indirect_pressure",
+    "value":221.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"receptions_under_no_pressure",
+    "value":423.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"receptions_under_pressure",
+    "value":253.0
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"red_cards",
     "value":0.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"speed_runs",
+    "value":1378.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
+    "stat":"sprints",
+    "value":490.0
   },
   {
     "id_team":"43948",
@@ -5330,8 +7784,14 @@
   {
     "id_team":"43948",
     "team_name":"Germany",
+    "stat":"take_ons_completed",
+    "value":16.0
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
     "stat":"threat",
-    "value":70.0
+    "value":71.0
   },
   {
     "id_team":"43948",
@@ -5342,26 +7802,26 @@
   {
     "id_team":"43948",
     "team_name":"Germany",
+    "stat":"time_played",
+    "value":100.3512833333
+  },
+  {
+    "id_team":"43948",
+    "team_name":"Germany",
     "stat":"top_speed",
-    "value":33.66
+    "value":33.8182640076
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"total_distance",
-    "value":118637.11
+    "value":116216.09375
   },
   {
     "id_team":"43948",
     "team_name":"Germany",
     "stat":"xg",
-    "value":3.75
-  },
-  {
-    "id_team":"43948",
-    "team_name":"Germany",
-    "stat":"xg",
-    "value":3.75
+    "value":4.1653208733
   },
   {
     "id_team":"43948",
@@ -6243,25 +8703,25 @@
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"assists",
-    "value":0.0
+    "value":2.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"attempt_at_goal",
-    "value":1.0
+    "value":9.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"attempt_at_goal_against",
-    "value":1.0
+    "value":10.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"attempt_at_goal_against_on_target",
-    "value":0.0
+    "value":6.0
   },
   {
     "id_team":"43819",
@@ -6279,13 +8739,13 @@
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"attempt_at_goal_from_corner",
-    "value":0.0
+    "value":2.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"attempt_at_goal_from_cross",
-    "value":1.0
+    "value":3.0
   },
   {
     "id_team":"43819",
@@ -6303,13 +8763,13 @@
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"attempt_at_goal_from_other",
-    "value":0.0
+    "value":1.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"attempt_at_goal_from_pass",
-    "value":1.0
+    "value":3.0
   },
   {
     "id_team":"43819",
@@ -6327,79 +8787,115 @@
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"attempt_at_goal_inside_the_penalty_area",
-    "value":0.0
+    "value":5.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"attempt_at_goal_inside_the_penalty_area_on_target",
-    "value":0.0
+    "value":1.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"attempt_at_goal_off_target",
-    "value":1.0
+    "value":5.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"attempt_at_goal_on_target",
-    "value":0.0
+    "value":2.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"attempt_at_goal_outside_the_penalty_area",
-    "value":1.0
+    "value":4.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"attempt_at_goal_outside_the_penalty_area_on_target",
-    "value":0.0
+    "value":1.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"attempted_ball_progressions",
+    "value":21.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"attempted_switches_of_play",
+    "value":2.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"avg_speed",
-    "value":6.62
+    "value":6.0528512001
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"ball_recovery_time",
-    "value":29.03
+    "value":22.2560253143
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"clean_sheets",
-    "value":1.0
+    "value":0.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"completed_ball_progressions",
+    "value":13.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"completed_switches_of_play",
+    "value":2.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"corners",
-    "value":1.0
+    "value":4.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"crosses",
-    "value":8.0
+    "value":24.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"crosses_completed",
-    "value":2.0
+    "value":7.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"defensive_pressures_applied",
+    "value":316.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"direct_defensive_pressures_applied",
+    "value":46.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"direct_free_kicks",
-    "value":2.0
+    "value":7.0
   },
   {
     "id_team":"43819",
@@ -6411,61 +8907,103 @@
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"distance_high_speed_running",
-    "value":4962.82
+    "value":13825.6396484375
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"distance_high_speed_sprinting",
-    "value":546.3
+    "value":1718.4100341797
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"distance_jogging",
-    "value":15763.84
+    "value":46027.1015625
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"distance_low_speed_sprinting",
-    "value":1700.81
+    "value":5075.080078125
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"distance_walking",
-    "value":241.6
+    "value":42753.171875
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
-    "stat":"final_third_pitch_control",
-    "value":22.0
+    "stat":"distributions_completed_under_pressure",
+    "value":119.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
-    "stat":"forced_turnovers",
+    "stat":"distributions_under_pressure",
+    "value":180.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"final_third_entries_reception_central_channel",
+    "value":4.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"final_third_entries_reception_inside_left_channel",
     "value":6.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
+    "stat":"final_third_entries_reception_inside_right_channel",
+    "value":7.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"final_third_entries_reception_left_channel",
+    "value":16.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"final_third_entries_reception_right_channel",
+    "value":16.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"final_third_pitch_control",
+    "value":37.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"forced_turnovers",
+    "value":28.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
     "stat":"fouls_against",
-    "value":1.0
+    "value":7.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"fouls_for",
-    "value":2.0
+    "value":7.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"free_kicks",
-    "value":2.0
+    "value":8.0
   },
   {
     "id_team":"43819",
@@ -6482,20 +9020,56 @@
   {
     "id_team":"43819",
     "team_name":"Japan",
-    "stat":"goal_kicks",
+    "stat":"goalkeeper_defensive_actions_inside_penalty_area",
+    "value":12.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"goalkeeper_defensive_actions_outside_penalty_area",
+    "value":12.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"goalkeeper_save_percentage",
+    "value":0.6666666865
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"goalkeeper_saves",
+    "value":6.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"goalkeeper_saves_on_target",
     "value":4.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
+    "stat":"goal_kicks",
+    "value":7.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
     "stat":"goals",
-    "value":0.0
+    "value":2.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"goals_conceded",
-    "value":0.0
+    "value":2.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"goals_conceded_from_attempt_at_goal_against",
+    "value":2.0
   },
   {
     "id_team":"43819",
@@ -6507,25 +9081,25 @@
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"goals_inside_the_penalty_area",
-    "value":0.0
+    "value":1.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"goals_outside_the_penalty_area",
-    "value":0.0
+    "value":1.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"headed_attempt_at_goal",
-    "value":0.0
+    "value":2.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"indirect_free_kicks",
-    "value":0.0
+    "value":1.0
   },
   {
     "id_team":"43819",
@@ -6536,8 +9110,194 @@
   {
     "id_team":"43819",
     "team_name":"Japan",
+    "stat":"linebreaks_attempted",
+    "value":138.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_attempted_all_lines",
+    "value":10.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_attempted_attacking_and_midfield_line",
+    "value":7.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_attempted_attacking_line",
+    "value":30.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_attempted_attacking_line_completed",
+    "value":18.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_attempted_attacking_line_completed_only",
+    "value":9.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_attempted_attacking_line_only",
+    "value":13.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_attempted_completed",
+    "value":88.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_attempted_defensive_line",
+    "value":20.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_attempted_defensive_line_completed",
+    "value":13.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_attempted_defensive_line_completed_only",
+    "value":6.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_attempted_defensive_line_only",
+    "value":8.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_attempted_midfield_and_defensive_line",
+    "value":2.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_attempted_midfield_line",
+    "value":88.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_attempted_midfield_line_completed",
+    "value":57.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_attempted_midfield_line_completed_only",
+    "value":47.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_attempted_midfield_line_only",
+    "value":69.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_attempted_under_pressure",
+    "value":68.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_completed_all_lines",
+    "value":6.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_completed_attacking_and_midfield_line",
+    "value":3.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_completed_midfield_and_defensive_line",
+    "value":1.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"linebreaks_completed_under_pressure",
+    "value":45.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
     "stat":"matches_played",
     "value":1.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"number_of_involvements",
+    "value":0.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"number_of_possession_sequences",
+    "value":0.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"number_of_shot_ending_sequences",
+    "value":0.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"offers_to_receive_in_behind",
+    "value":101.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"offers_to_receive_in_between",
+    "value":121.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"offers_to_receive_in_front",
+    "value":120.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"offers_to_receive_inside",
+    "value":203.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"offers_to_receive_outside",
+    "value":139.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"offers_to_receive_total",
+    "value":342.0
   },
   {
     "id_team":"43819",
@@ -6555,13 +9315,13 @@
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"passes",
-    "value":118.0
+    "value":356.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"passes_completed",
-    "value":102.0
+    "value":302.0
   },
   {
     "id_team":"43819",
@@ -6579,115 +9339,157 @@
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"phase_aggregate_attacking_transition",
-    "value":11.95
+    "value":11.9701139629
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"phase_aggregate_build_up_opposed",
-    "value":10.49
+    "value":8.5055612028
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"phase_aggregate_build_up_unopposed",
-    "value":38.94
+    "value":43.7665432692
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"phase_aggregate_counterattack",
-    "value":0.0
+    "value":1.1865799315
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"phase_aggregate_counter_press",
-    "value":4.0
+    "value":6.0137625784
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"phase_aggregate_defensive_transition",
-    "value":5.0
+    "value":7.6071865857
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"phase_aggregate_final_third",
-    "value":25.0
+    "value":20.1170936227
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"phase_aggregate_high_block",
-    "value":0.08
+    "value":1.3782572933
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"phase_aggregate_high_press",
-    "value":2.03
+    "value":1.6301114112
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"phase_aggregate_long_ball",
-    "value":1.96
+    "value":3.4841116518
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"phase_aggregate_low_block",
-    "value":49.3
+    "value":50.1993000507
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"phase_aggregate_low_press",
-    "value":0.0
+    "value":0.4818942398
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"phase_aggregate_mid_block",
-    "value":23.44
+    "value":18.2505056262
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"phase_aggregate_mid_press",
-    "value":3.73
+    "value":2.7495736256
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"phase_aggregate_progression",
-    "value":20.44
+    "value":17.1584665775
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"phase_aggregate_recovery",
-    "value":6.15
+    "value":4.0157854557
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"phase_aggregate_set_pieces",
-    "value":3.68
+    "value":5.7529564947
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"pitch_control",
-    "value":38.0
+    "value":41.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"possession",
-    "value":0.37
+    "value":0.3744947612
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"received_offers_to_receive",
+    "value":105.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"receptions_between_midfield_and_defensive_line",
+    "value":79.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"receptions_in_behind",
+    "value":11.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"receptions_under_direct_pressure",
+    "value":11.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"receptions_under_indirect_pressure",
+    "value":106.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"receptions_under_no_pressure",
+    "value":255.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"receptions_under_pressure",
+    "value":117.0
   },
   {
     "id_team":"43819",
@@ -6698,14 +9500,32 @@
   {
     "id_team":"43819",
     "team_name":"Japan",
+    "stat":"speed_runs",
+    "value":1150.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"sprints",
+    "value":398.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
     "stat":"substitutions_in",
-    "value":0.0
+    "value":5.0
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"substitutions_out",
-    "value":0.0
+    "value":5.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"take_ons_completed",
+    "value":4.0
   },
   {
     "id_team":"43819",
@@ -6717,31 +9537,31 @@
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"throw_ins",
-    "value":4.0
+    "value":19.0
+  },
+  {
+    "id_team":"43819",
+    "team_name":"Japan",
+    "stat":"time_played",
+    "value":99.0732166667
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"top_speed",
-    "value":32.54
+    "value":33.5474662781
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"total_distance",
-    "value":36344.93
+    "value":109399.3984375
   },
   {
     "id_team":"43819",
     "team_name":"Japan",
     "stat":"xg",
-    "value":0.02
-  },
-  {
-    "id_team":"43819",
-    "team_name":"Japan",
-    "stat":"xg",
-    "value":0.02
+    "value":0.3389749527
   },
   {
     "id_team":"43819",
@@ -9363,25 +12183,25 @@
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"assists",
-    "value":0.0
+    "value":2.0
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"attempt_at_goal",
-    "value":1.0
+    "value":10.0
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"attempt_at_goal_against",
-    "value":1.0
+    "value":9.0
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"attempt_at_goal_against_on_target",
-    "value":0.0
+    "value":2.0
   },
   {
     "id_team":"43960",
@@ -9393,19 +12213,19 @@
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"attempt_at_goal_from_ball_progression",
-    "value":0.0
+    "value":1.0
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"attempt_at_goal_from_corner",
-    "value":0.0
+    "value":2.0
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"attempt_at_goal_from_cross",
-    "value":1.0
+    "value":3.0
   },
   {
     "id_team":"43960",
@@ -9429,7 +12249,7 @@
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"attempt_at_goal_from_pass",
-    "value":1.0
+    "value":3.0
   },
   {
     "id_team":"43960",
@@ -9447,25 +12267,25 @@
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"attempt_at_goal_inside_the_penalty_area",
-    "value":1.0
+    "value":10.0
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"attempt_at_goal_inside_the_penalty_area_on_target",
-    "value":1.0
+    "value":6.0
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"attempt_at_goal_off_target",
-    "value":0.0
+    "value":4.0
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"attempt_at_goal_on_target",
-    "value":1.0
+    "value":6.0
   },
   {
     "id_team":"43960",
@@ -9482,44 +12302,80 @@
   {
     "id_team":"43960",
     "team_name":"Netherlands",
+    "stat":"attempted_ball_progressions",
+    "value":23.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"attempted_switches_of_play",
+    "value":1.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
     "stat":"avg_speed",
-    "value":6.01
+    "value":5.6793718338
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"ball_recovery_time",
-    "value":18.71
+    "value":14.2453813553
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"clean_sheets",
-    "value":1.0
-  },
-  {
-    "id_team":"43960",
-    "team_name":"Netherlands",
-    "stat":"corners",
-    "value":1.0
-  },
-  {
-    "id_team":"43960",
-    "team_name":"Netherlands",
-    "stat":"crosses",
-    "value":3.0
-  },
-  {
-    "id_team":"43960",
-    "team_name":"Netherlands",
-    "stat":"crosses_completed",
     "value":0.0
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
+    "stat":"completed_ball_progressions",
+    "value":12.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"completed_switches_of_play",
+    "value":0.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"corners",
+    "value":5.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"crosses",
+    "value":23.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"crosses_completed",
+    "value":8.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"defensive_pressures_applied",
+    "value":194.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"direct_defensive_pressures_applied",
+    "value":30.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
     "stat":"direct_free_kicks",
-    "value":1.0
+    "value":7.0
   },
   {
     "id_team":"43960",
@@ -9531,61 +12387,103 @@
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"distance_high_speed_running",
-    "value":3940.55
+    "value":12240.80078125
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"distance_high_speed_sprinting",
-    "value":316.83
+    "value":1451.2299804688
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"distance_jogging",
-    "value":13568.72
+    "value":40676.640625
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"distance_low_speed_sprinting",
-    "value":1468.98
+    "value":4594.3999023438
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"distance_walking",
-    "value":13399.2
+    "value":43980.21875
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"distributions_completed_under_pressure",
+    "value":198.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"distributions_under_pressure",
+    "value":262.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"final_third_entries_reception_central_channel",
+    "value":10.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"final_third_entries_reception_inside_left_channel",
+    "value":8.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"final_third_entries_reception_inside_right_channel",
+    "value":9.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"final_third_entries_reception_left_channel",
+    "value":18.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"final_third_entries_reception_right_channel",
+    "value":18.0
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"final_third_pitch_control",
-    "value":40.0
+    "value":60.0
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"forced_turnovers",
-    "value":4.0
+    "value":33.0
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"fouls_against",
-    "value":2.0
+    "value":7.0
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"fouls_for",
-    "value":1.0
+    "value":6.0
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"free_kicks",
-    "value":1.0
+    "value":7.0
   },
   {
     "id_team":"43960",
@@ -9602,20 +12500,56 @@
   {
     "id_team":"43960",
     "team_name":"Netherlands",
+    "stat":"goalkeeper_defensive_actions_inside_penalty_area",
+    "value":12.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"goalkeeper_defensive_actions_outside_penalty_area",
+    "value":11.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"goalkeeper_save_percentage",
+    "value":0.5
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"goalkeeper_saves",
+    "value":1.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"goalkeeper_saves_on_target",
+    "value":1.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
     "stat":"goal_kicks",
-    "value":4.0
+    "value":9.0
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"goals",
-    "value":0.0
+    "value":2.0
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"goals_conceded",
-    "value":0.0
+    "value":2.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"goals_conceded_from_attempt_at_goal_against",
+    "value":1.0
   },
   {
     "id_team":"43960",
@@ -9627,7 +12561,7 @@
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"goals_inside_the_penalty_area",
-    "value":0.0
+    "value":2.0
   },
   {
     "id_team":"43960",
@@ -9639,7 +12573,7 @@
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"headed_attempt_at_goal",
-    "value":0.0
+    "value":5.0
   },
   {
     "id_team":"43960",
@@ -9656,14 +12590,200 @@
   {
     "id_team":"43960",
     "team_name":"Netherlands",
+    "stat":"linebreaks_attempted",
+    "value":153.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_attempted_all_lines",
+    "value":7.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_attempted_attacking_and_midfield_line",
+    "value":14.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_attempted_attacking_line",
+    "value":38.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_attempted_attacking_line_completed",
+    "value":25.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_attempted_attacking_line_completed_only",
+    "value":11.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_attempted_attacking_line_only",
+    "value":17.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_attempted_completed",
+    "value":109.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_attempted_defensive_line",
+    "value":20.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_attempted_defensive_line_completed",
+    "value":13.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_attempted_defensive_line_completed_only",
+    "value":6.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_attempted_defensive_line_only",
+    "value":11.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_attempted_midfield_and_defensive_line",
+    "value":2.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_attempted_midfield_line",
+    "value":95.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_attempted_midfield_line_completed",
+    "value":71.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_attempted_midfield_line_completed_only",
+    "value":55.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_attempted_midfield_line_only",
+    "value":72.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_attempted_under_pressure",
+    "value":83.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_completed_all_lines",
+    "value":5.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_completed_attacking_and_midfield_line",
+    "value":9.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_completed_midfield_and_defensive_line",
+    "value":2.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"linebreaks_completed_under_pressure",
+    "value":62.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
     "stat":"matches_played",
     "value":1.0
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
-    "stat":"offsides",
+    "stat":"number_of_involvements",
     "value":0.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"number_of_possession_sequences",
+    "value":0.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"number_of_shot_ending_sequences",
+    "value":0.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"offers_to_receive_in_behind",
+    "value":85.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"offers_to_receive_in_between",
+    "value":91.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"offers_to_receive_in_front",
+    "value":122.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"offers_to_receive_inside",
+    "value":180.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"offers_to_receive_outside",
+    "value":118.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"offers_to_receive_total",
+    "value":298.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"offsides",
+    "value":1.0
   },
   {
     "id_team":"43960",
@@ -9675,13 +12795,13 @@
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"passes",
-    "value":209.0
+    "value":529.0
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"passes_completed",
-    "value":185.0
+    "value":473.0
   },
   {
     "id_team":"43960",
@@ -9699,115 +12819,157 @@
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"phase_aggregate_attacking_transition",
-    "value":5.0
+    "value":7.6071865857
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"phase_aggregate_build_up_opposed",
-    "value":20.08
+    "value":18.8355207443
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"phase_aggregate_build_up_unopposed",
-    "value":50.22
+    "value":46.0070192814
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"phase_aggregate_counterattack",
-    "value":0.0
+    "value":1.3514853083
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"phase_aggregate_counter_press",
-    "value":6.16
+    "value":7.455894351
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"phase_aggregate_defensive_transition",
-    "value":11.97
+    "value":11.9701139629
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"phase_aggregate_final_third",
-    "value":15.48
+    "value":23.5037475824
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"phase_aggregate_high_block",
-    "value":2.69
+    "value":1.745967567
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"phase_aggregate_high_press",
-    "value":0.6
+    "value":1.9832836464
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"phase_aggregate_long_ball",
-    "value":3.76
+    "value":3.2185778022
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"phase_aggregate_low_block",
-    "value":38.34
+    "value":32.8382730484
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"phase_aggregate_low_press",
-    "value":0.0
+    "value":0.4185628146
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"phase_aggregate_mid_block",
-    "value":26.68
+    "value":24.6234893799
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"phase_aggregate_mid_press",
-    "value":2.3
+    "value":2.4500919506
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"phase_aggregate_progression",
-    "value":15.86
+    "value":13.8549551368
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"phase_aggregate_recovery",
-    "value":6.95
+    "value":4.6654757112
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"phase_aggregate_set_pieces",
-    "value":3.86
+    "value":5.9304725379
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"pitch_control",
-    "value":55.0
+    "value":59.0
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"possession",
-    "value":0.54
+    "value":0.5486080647
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"received_offers_to_receive",
+    "value":119.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"receptions_between_midfield_and_defensive_line",
+    "value":95.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"receptions_in_behind",
+    "value":11.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"receptions_under_direct_pressure",
+    "value":19.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"receptions_under_indirect_pressure",
+    "value":134.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"receptions_under_no_pressure",
+    "value":384.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"receptions_under_pressure",
+    "value":153.0
   },
   {
     "id_team":"43960",
@@ -9818,14 +12980,32 @@
   {
     "id_team":"43960",
     "team_name":"Netherlands",
+    "stat":"speed_runs",
+    "value":1040.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"sprints",
+    "value":342.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
     "stat":"substitutions_in",
-    "value":0.0
+    "value":5.0
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"substitutions_out",
-    "value":0.0
+    "value":5.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"take_ons_completed",
+    "value":9.0
   },
   {
     "id_team":"43960",
@@ -9837,37 +13017,37 @@
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"throw_ins",
-    "value":7.0
+    "value":21.0
+  },
+  {
+    "id_team":"43960",
+    "team_name":"Netherlands",
+    "stat":"time_played",
+    "value":99.0732166667
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"top_speed",
-    "value":29.56
+    "value":35.613193512
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"total_distance",
-    "value":33016.84
+    "value":102943.2890625
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"xg",
-    "value":0.07
-  },
-  {
-    "id_team":"43960",
-    "team_name":"Netherlands",
-    "stat":"xg",
-    "value":0.07
+    "value":0.6293714643
   },
   {
     "id_team":"43960",
     "team_name":"Netherlands",
     "stat":"yellow_cards",
-    "value":0.0
+    "value":3.0
   },
   {
     "id_team":"43928",
@@ -13350,6 +16530,516 @@
     "value":2.0
   },
   {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"assists",
+    "value":2.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"attempt_at_goal",
+    "value":9.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"attempt_at_goal_against",
+    "value":5.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"attempt_at_goal_against_on_target",
+    "value":0.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"attempt_at_goal_blocked",
+    "value":2.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"attempt_at_goal_from_ball_progression",
+    "value":4.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"attempt_at_goal_from_corner",
+    "value":1.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"attempt_at_goal_from_cross",
+    "value":0.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"attempt_at_goal_from_freekick",
+    "value":0.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"attempt_at_goal_from_free_kicks",
+    "value":0.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"attempt_at_goal_from_other",
+    "value":2.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"attempt_at_goal_from_pass",
+    "value":2.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"attempt_at_goal_from_penalty",
+    "value":0.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"attempt_at_goal_from_rebound",
+    "value":0.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"attempt_at_goal_inside_the_penalty_area",
+    "value":6.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"attempt_at_goal_inside_the_penalty_area_on_target",
+    "value":2.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"attempt_at_goal_off_target",
+    "value":3.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"attempt_at_goal_on_target",
+    "value":4.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"attempt_at_goal_outside_the_penalty_area",
+    "value":3.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"attempt_at_goal_outside_the_penalty_area_on_target",
+    "value":2.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"avg_speed",
+    "value":6.26
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"ball_recovery_time",
+    "value":12.28
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"clean_sheets",
+    "value":0.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"corners",
+    "value":2.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"crosses",
+    "value":8.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"crosses_completed",
+    "value":2.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"direct_free_kicks",
+    "value":5.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"direct_red_cards",
+    "value":0.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"distance_high_speed_running",
+    "value":10187.38
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"distance_high_speed_sprinting",
+    "value":1714.65
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"distance_jogging",
+    "value":36054.79
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"distance_low_speed_sprinting",
+    "value":3454.66
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"distance_walking",
+    "value":712.82
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"final_third_pitch_control",
+    "value":25.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"forced_turnovers",
+    "value":23.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"fouls_against",
+    "value":7.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"fouls_for",
+    "value":5.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"free_kicks",
+    "value":8.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"gksaves",
+    "value":0.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"gksaves_on_target",
+    "value":0.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"goal_kicks",
+    "value":6.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"goals",
+    "value":3.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"goals_conceded",
+    "value":1.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"goals_from_direct_free_kicks",
+    "value":0.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"goals_inside_the_penalty_area",
+    "value":1.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"goals_outside_the_penalty_area",
+    "value":2.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"headed_attempt_at_goal",
+    "value":1.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"indirect_free_kicks",
+    "value":3.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"indirect_red_cards",
+    "value":0.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"matches_played",
+    "value":1.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"offsides",
+    "value":3.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"own_goals",
+    "value":0.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"passes",
+    "value":287.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"passes_completed",
+    "value":228.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"penalties",
+    "value":0.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"penalties_scored",
+    "value":0.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"phase_aggregate_attacking_transition",
+    "value":10.86
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"phase_aggregate_build_up_opposed",
+    "value":12.6
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"phase_aggregate_build_up_unopposed",
+    "value":37.75
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"phase_aggregate_counterattack",
+    "value":1.01
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"phase_aggregate_counter_press",
+    "value":9.75
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"phase_aggregate_defensive_transition",
+    "value":12.3
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"phase_aggregate_final_third",
+    "value":16.73
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"phase_aggregate_high_block",
+    "value":4.11
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"phase_aggregate_high_press",
+    "value":2.53
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"phase_aggregate_long_ball",
+    "value":4.24
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"phase_aggregate_low_block",
+    "value":23.38
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"phase_aggregate_low_press",
+    "value":0.21
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"phase_aggregate_mid_block",
+    "value":18.79
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"phase_aggregate_mid_press",
+    "value":2.07
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"phase_aggregate_progression",
+    "value":18.58
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"phase_aggregate_recovery",
+    "value":3.83
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"phase_aggregate_set_pieces",
+    "value":2.27
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"pitch_control",
+    "value":45.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"possession",
+    "value":0.4
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"red_cards",
+    "value":0.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"substitutions_in",
+    "value":2.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"substitutions_out",
+    "value":2.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"threat",
+    "value":48.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"throw_ins",
+    "value":12.0
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"top_speed",
+    "value":32.58
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"total_distance",
+    "value":85131.53
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"xg",
+    "value":0.99
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"xg",
+    "value":0.99
+  },
+  {
+    "id_team":"43970",
+    "team_name":"Sweden",
+    "stat":"yellow_cards",
+    "value":0.0
+  },
+  {
     "id_team":"43971",
     "team_name":"Switzerland",
     "stat":"assists",
@@ -14216,6 +17906,516 @@
   {
     "id_team":"43971",
     "team_name":"Switzerland",
+    "stat":"yellow_cards",
+    "value":1.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"assists",
+    "value":1.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"attempt_at_goal",
+    "value":5.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"attempt_at_goal_against",
+    "value":9.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"attempt_at_goal_against_on_target",
+    "value":0.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"attempt_at_goal_blocked",
+    "value":1.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"attempt_at_goal_from_ball_progression",
+    "value":2.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"attempt_at_goal_from_corner",
+    "value":0.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"attempt_at_goal_from_cross",
+    "value":1.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"attempt_at_goal_from_freekick",
+    "value":1.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"attempt_at_goal_from_free_kicks",
+    "value":1.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"attempt_at_goal_from_other",
+    "value":1.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"attempt_at_goal_from_pass",
+    "value":1.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"attempt_at_goal_from_penalty",
+    "value":0.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"attempt_at_goal_from_rebound",
+    "value":0.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"attempt_at_goal_inside_the_penalty_area",
+    "value":2.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"attempt_at_goal_inside_the_penalty_area_on_target",
+    "value":1.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"attempt_at_goal_off_target",
+    "value":3.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"attempt_at_goal_on_target",
+    "value":1.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"attempt_at_goal_outside_the_penalty_area",
+    "value":3.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"attempt_at_goal_outside_the_penalty_area_on_target",
+    "value":0.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"avg_speed",
+    "value":6.3
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"ball_recovery_time",
+    "value":15.1
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"clean_sheets",
+    "value":0.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"corners",
+    "value":2.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"crosses",
+    "value":12.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"crosses_completed",
+    "value":2.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"direct_free_kicks",
+    "value":7.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"direct_red_cards",
+    "value":0.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"distance_high_speed_running",
+    "value":10547.4
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"distance_high_speed_sprinting",
+    "value":1642.51
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"distance_jogging",
+    "value":36672.31
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"distance_low_speed_sprinting",
+    "value":4550.26
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"distance_walking",
+    "value":31781.66
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"final_third_pitch_control",
+    "value":33.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"forced_turnovers",
+    "value":21.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"fouls_against",
+    "value":5.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"fouls_for",
+    "value":6.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"free_kicks",
+    "value":10.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"gksaves",
+    "value":0.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"gksaves_on_target",
+    "value":0.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"goal_kicks",
+    "value":7.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"goals",
+    "value":1.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"goals_conceded",
+    "value":3.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"goals_from_direct_free_kicks",
+    "value":0.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"goals_inside_the_penalty_area",
+    "value":1.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"goals_outside_the_penalty_area",
+    "value":0.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"headed_attempt_at_goal",
+    "value":1.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"indirect_free_kicks",
+    "value":3.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"indirect_red_cards",
+    "value":0.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"matches_played",
+    "value":1.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"offsides",
+    "value":3.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"own_goals",
+    "value":0.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"passes",
+    "value":306.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"passes_completed",
+    "value":240.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"penalties",
+    "value":0.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"penalties_scored",
+    "value":0.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"phase_aggregate_attacking_transition",
+    "value":12.3
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"phase_aggregate_build_up_opposed",
+    "value":12.38
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"phase_aggregate_build_up_unopposed",
+    "value":39.94
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"phase_aggregate_counterattack",
+    "value":0.18
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"phase_aggregate_counter_press",
+    "value":6.3
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"phase_aggregate_defensive_transition",
+    "value":10.87
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"phase_aggregate_final_third",
+    "value":15.51
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"phase_aggregate_high_block",
+    "value":4.93
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"phase_aggregate_high_press",
+    "value":3.52
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"phase_aggregate_long_ball",
+    "value":4.22
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"phase_aggregate_low_block",
+    "value":27.74
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"phase_aggregate_low_press",
+    "value":0.29
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"phase_aggregate_mid_block",
+    "value":23.48
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"phase_aggregate_mid_press",
+    "value":2.72
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"phase_aggregate_progression",
+    "value":19.19
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"phase_aggregate_recovery",
+    "value":8.43
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"phase_aggregate_set_pieces",
+    "value":4.3
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"pitch_control",
+    "value":47.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"possession",
+    "value":0.52
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"red_cards",
+    "value":0.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"substitutions_in",
+    "value":0.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"substitutions_out",
+    "value":0.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"threat",
+    "value":52.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"throw_ins",
+    "value":14.0
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"top_speed",
+    "value":33.95
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"total_distance",
+    "value":85930.92
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"xg",
+    "value":0.22
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
+    "stat":"xg",
+    "value":0.22
+  },
+  {
+    "id_team":"43888",
+    "team_name":"Tunisia",
     "stat":"yellow_cards",
     "value":1.0
   },
